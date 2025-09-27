@@ -1,17 +1,17 @@
 The United Nations Human Rights Council reviews member states human rights records on a cycle. Every 5 years there is a Universal Period Review covering all areas of human rights. The following is a submission to the Human Rights Council for New Zealand’s latest review that covers men’s human rights issues.
 
-# Executive summary
+## Executive summary
 
 1. New Zealand has committed to full equality between women and men. However, there are several areas where men are disadvantaged and men’s human rights are not being protected.
 2. Fundamental human rights violations exist for men in New Zealand. Men lack de jure equality before the law. Men also face de facto inequalities compared to women. Men are disadvantaged by substantive differences in the justice system, education, health, support for victims of violence, and in family issues.
 3. Exacerbating these problems are systemic issues preventing New Zealand from addressing these human rights issues. Formal mechanisms to ensure gender equality overwhelmingly concentrate on women’s inequalities. This is underpinned by societal attitudes that see gender equality as a women’s issue.
 4. **Recommendation: New Zealand must take gender equality more seriously by having a formal mechanism to ensure both women’s and men’s inequalities are addressed.**
 
-# The right to equality before the law
+## The right to equality before the law
 
 5. New Zealand has accepted previous recommendations to ensure equality before the law[^1], however, New Zealand has at least three laws which explicitly discriminate against men and boys. That violates the basic human rights of equality under the law and freedom from discrimination. “Ensuring formal equality requires eliminating all instances of de jure discrimination. While much progress has been made to eliminate discriminatory laws, many persist and reforming them should be a matter of the utmost priority for States to comply with their human rights obligations.”[^2]
 
-## Male assaults female
+### Male assaults female
 
 6. A specific crime of ‘male assaults female’ was introduced in Section 194 of the 1961 Crimes Act. ‘Male assaults female’ is equivalent to common assault however ‘male assaults female’ longer maximum sentence (2 years instead of 1 year) and does not fall under the ‘bail of as right’ provisions granted to persons charged with common assault.
 7. In 2009 the Law Commission reviewed part eight of the Crimes Act[^3] and recommended repealing the ‘male-assaults-female’ offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, male-assaults-female is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
@@ -21,18 +21,18 @@ The United Nations Human Rights Council reviews member states human rights recor
 
 
 
-## Circumcision
+### Circumcision
 
 11. In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^7] This should apply to all children including boys. **Recommendation: All non-medical genital surgery should be made illegal.**
 
-## Infanticide
+### Infanticide
 
 12. Mothers that murder their children when they are experiencing significant mental health conditions can be charged with the less severe ‘infanticide’. Infanticide has a maximum 3 year prison sentence where murder has a maximum sentence of life imprisonment. Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where if he was a woman he would have been charged with infanticide. [^8] **Recommendation: Infanticide should be repealed and a broader gender-neutral diminished responsibility legal defence should be investigated.**
 
 
-# Fair treatment in the justice system
+## Fair treatment in the justice system
 
-## Unequal Treatment
+### Unequal Treatment
 
 13. New Zealand has accepted recommendations to remedy structural discrimination in the justice system[^9] however men face unequal treatment in the justice system. Men are over-represented in prison compared to women. In September 2017, 7.6% of prisoners are female and 92.4% are male.
 14. Women who enter the justice system are filtered out at every natural attrition point more than men. Men are more likely to be prosecuted rather than given an alternative like being warned or discharged without conviction. Men are more likely to be sent to prison once convicted. Men receive longer sentences on average and are less likely to be released on parole.[^10]
@@ -43,50 +43,50 @@ The United Nations Human Rights Council reviews member states human rights recor
 
 
 
-## Sentencing Guidelines for sexual offences
+### Sentencing Guidelines for sexual offences
 
 19. New Zealand’s rape and sexual assault law and subsequent sentencing guidelines treat women who have non-consensual sex with men more leniently than men who have non-consensual with women. Sentencing guidelines released by the Court of Appeal make a clear distinction between rape by penetration and other forms of sexual assault.[^14] This creates a significant difference between men and women. For example, a man having sex with a women without her consent, with no aggravating factors, is recommended a 6-8 years sentence, in the reverse situation the women is recommended a 2-5 year sentence. **Recommendation: The Court of Appeal should be directed consider substantive gender differences that may arise from its recommendations.**
 
-## Inhuman or degrading treatment in prisons
+### Inhuman or degrading treatment in prisons
 
 20. More than 90% of prisoners are men. Human rights violations in prisons disproportionally affect men. These issues include inhumane and degrading treatment,[^15] violence and sexual assault of prisoners, adequate recognition of fathers’ rights in prison, and the rights of transgender prisoners.
 
 
 
-## Gay men
+### Gay men
 
 21. Further progress has been made regarding historic criminal convictions of gay men. Men found guilty of homosexual offences can have their convictions expunged under a bill that has been passed by parliament.
 
-# Right to education
+## Right to education
 
 22. New Zealand has accepted recommendations to reduce inequities in the education system[^16] however boys and men are behind at all levels of education. Historically, boys had an advantage in education; however girls started performing better than boys as early as 1985.[^17]
 
-## Primary school
+### Primary school
 
 23. In years 1-8 fewer boys than girls are meeting national standards. In 2016 the percentage of boys meeting or exceeding national standards is slightly lower than for girls in maths (75.0% vs 75.9%), but there is a bigger difference for reading (73.6% vs 82.1%) and a bigger difference still for writing (63.4% vs 79.4%). The same trend is seen in Ngā Whanaketanga Rumaki Māori (Māori education).[^18]
 
 
 
-## Secondary school
+### Secondary school
 
 24. Secondary school students work towards the National Certificate of Educational Achievement (NCEA). NCEA has three levels of certificate, depending on the difficulty of the standards. Overall achievement rates for students are increasing but boys lag behind girls at all NCEA levels. Fewer boys attain NCEA in the expected year of schooling (e.g. level 1 in year 11) and fewer boys attain each NCEA level before they leave school. The largest gap is for NCEA level 3. In 2016 60.3% girls achieved level 3 while only 47.7% of boys did. A 12.6 percentage point difference.
 
-### Dropping out, suspensions and expulsions
+#### Dropping out, suspensions and expulsions
 
 25. Secondary Schools have four levels of consequences for bad behaviour. Stand-downs (least severe), suspensions, exclusion and expulsion (most severe). In 2016, boys received 3 times as many stand downs and suspensions, 3.3 times as many exclusions and 3.6 times as many expulsions, compared to girls. Fewer boys than girls stay in school until 17 (81.0% vs 86.3%). [^19]
 
-## Tertiary education
+### Tertiary education
 
 26. In 2015 8.5% of men and 11.0% of women were enrolled in tertiary education. Fewer men are completing their tertiary education, compared to women. At tertiary level only 4 out 10 people who gain tertiary certificates, diplomas, or bachelor degrees and above are men. Overall participation in tertiary education has grown but so has the gap between men and women. A large disparity exists between the number of men (2.8%) and women (4.2%) studying a bachelor’s degree. The result of the increased participation and completion of tertiary education by women has led to women with bachelor’s degrees outnumbering men since 2006.[^20]
 27. **Recommendation: The government should have a plan to address the substantive gender differences in the education system by the next review.**
 
 
 
-# Right to safety, freedom from violence
+## Right to safety, freedom from violence
 
 28. New Zealand has accepted several recommendations to reduce violence.[^21] Equal numbers of men and women (approximately 10%) reported being a victim of violent crime. Men reported less victimisation than women from family and partners and more from non-family members and strangers.[^22] The rate of death from assault for men is 1.6 times that of women.[^23]
 
-## Male victims of family violence
+### Male victims of family violence
 
 29. Family Violence Death Review Committee Fourth Annual Report found that 27% of Intimate Partner Violence deaths and 81% of Intrafamilial Violence[^24] were men.
 30. New Zealand does not have a comprehensive system to address family violence.[^25] Professionals working in the area of family violence report inadequate care of male victims. “_Male victims and relevant services is at its core a human rights issue. We are discriminating as a society deciding that men are not offered relevant services wholly because of their gender._” One Police officer remarked “_I’m also seeing and I agree … that males are becoming expendable and it’s as if we don’t matter anymore._”[^26]
@@ -94,35 +94,35 @@ The United Nations Human Rights Council reviews member states human rights recor
 
 
 
-# Right to health
+## Right to health
 
 32. New Zealand has accepted recommendations to reduce health inequalities[^27] however men have worse health outcomes than women. Much of the work done to reduce health inequities as focused on occupational classes or ethnic groups, however, inequities for men, have not been addressed as directly as with other groups. While men do tend to exhibit unhealthier behaviours and take up riskier occupations, these are factors that should be addressed as they are with other health inequities.[^28] The WHO identifies “Three distinguishing features, when combined, turn mere variations or differences in health into a social inequity in health. They are systematic, socially produced (and therefore modifiable) and unfair.”[^29] A study on men’s health in 2007 found “Our current ‘gendered’ health strategy in New Zealand _is not inclusive of men_.”[^30]
 
-## Mortality
+### Mortality
 
 33. Traditionally men have higher mortality than women. Men have higher mortality rates for chronic lower respiratory diseases, diabetes mellitus, ischaemic heart disease, other forms of heart disease and motor vehicle accidents.[^31] Men also have worse amenable mortality. Amenable mortality is defined as premature deaths (deaths under age 75) from causes (diseases or injuries) for which effective health care interventions exist and are accessible to New Zealanders in need.[^32] Males are twice as likely to die from amenable causes as non-amenable causes compared to females.[^33]
 
 
 
-## Alcohol and drug use
+### Alcohol and drug use
 
 34. There are a number of issues to highlight for men around alcohol. Hazardous drinking is more than 2 times higher among men. Men were more likely to drink more frequently and get intoxicated more frequently. They are more likely to experience harm from their drinking and more likely to drive or work after drinking.[^34]
 35. The number of men and women who smoke daily is similar. 15.2% of men and 12.6% of women report daily smoking. However, 9.9% of men and 5.2% of women are heavy smokers. There is a bigger differential among Māori, with 13.2% of men and 4.3% of women smoking heavily.[^35]
 36. Men use other drugs at a higher rate than women. 15.7% of men and 7.7% of women used cannabis in the past 12 months. For Māori it was 30.1% of men and 21.4% of women. Amphetamine use was reported by 1.2% of men and 0.4% of women. For Māori 2.6% of men and 1.7% of women.
 
-## Mental health
+### Mental health
 
-### Suicide
+#### Suicide
 
 37. The rate for men is 3 times higher than it is for women. For the 2016/2017 period was 19.36 per 100,000, for women 6.12 per 100,000. [^36] Historically the gender ratio for men has varied from around 2 times to 4 times that of women.[^37] Māori Suicide rates are higher than non-Māori. Māori men die at higher rates than Māori women. Māori young people have very high rates of suicide. Young Māori men have rates around 1 in 2000 (50 per 100,000).[^38]Of the mental health service users who died by suicide in 2014, 32% were female and 68% were male.[^39] This may indicate that mental health services are not addressing men’s needs adequately.
 
 
 
-### Boys mental health
+#### Boys mental health
 
 38. Boys (aged 2-14) have higher rates of mental health problems than girls. Boys have anxiety disorders at 1.61 times (3.7% vs 2.3%) the rate of girls ADD or ADHD at 2.25 times (3.3% vs 1.5%) girls and autism spectrum disorder 4.78 times (3.6% vs 0.8%). There is no significant difference in rates of depression between boys and girls with 0.4% of boys and 0.5% of girls having been diagnosed.[^40]
 
-## Other health issues
+### Other health issues
 
 39. Men are more likely to suffer a serious injury from assault, self-harm, motor vehicle accidents, and in the workplace. Women are more likely to suffer a serious injury from falling due to elderly women being more vulnerable to falls.[^41]
 40. Gay, bisexual, and other men who have sex with men make up the majority of new cases of HIV.[^42]
@@ -131,11 +131,11 @@ The United Nations Human Rights Council reviews member states human rights recor
 
 
 
-# Family issues, paternity uncertainty and fraud, reproductive rights
+## Family issues, paternity uncertainty and fraud, reproductive rights
 
 43. New Zealand accepts recommendations to support families.[^43] Men and fathers are an important part of families.
 
-## Reproductive rights
+### Reproductive rights
 
 44. There is little formal recognition of men’s reproductive rights in New Zealand. Reproductive rights for men are complicated by the fact that men do not bear children but these rights should not be excluded from human rights discussion due to their complexity. Men have the right to “decide freely and responsibly the number, spacing and timing of their children and to have the information and means to do so, and the right to attain the highest standard of sexual and reproductive health. It also includes their right to make decisions concerning reproduction free of discrimination, coercion and violence, as expressed in human rights documents”[^44] These rights need to be balanced with the equal rights of women.
 45. Some of the issues for men are:
@@ -151,7 +151,7 @@ The United Nations Human Rights Council reviews member states human rights recor
 
 46. **Recommendation: Government should investigate men’s reproductive rights and work to reduce inequalities for men.**
 
-## Support for fathers
+### Support for fathers
 
 47. Limited research on New Zealand fathers shows that fathers need more support. Stepfathers, single fathers, separated fathers and young fathers, including teenage fathers, have higher needs for support. Research from Father & Child Trust has found “a significant portion of solo fathers have very high social needs.”[^45] Unfortunately, an issue for “vulnerable fathers is that they tend to be invisible to policymakers and service providers.”[^46]
 48. Most fathers did not talk with anyone about how to be a father. A smaller proportion talked to a friend or their partner. The majority of fathers would like to spend more time with their children[^47] but few fathers are taking parental leave.[^48]
@@ -159,26 +159,26 @@ The United Nations Human Rights Council reviews member states human rights recor
 
 
 
-## Family court
+### Family court
 
 50. There are significant problems with the New Zealand family court system. This can be tragically seen by self-immolation of Zdenek Hanzlik outside parliament on 21st September 2017. He later died from his injuries. He was protesting issues with the family court. [^49]
 51. The family court has been accused of gender bias against both men and women.[^50] Both men’s groups and women’s groups are asking for a Royal Commission of Inquiry into the NZ Family Courts. The current government will be reviewing the Family Court.
 52. **Recommendation: Family court reviews must take a gender equal approach and consult with fathers about their unique issues.**
 
-# Equal protection of men’s and women’s human rights:
+## Equal protection of men’s and women’s human rights:
 
-## Introduction
+### Introduction
 
 53. New Zealand has accepted recommendations to better incorporate the provisions of the ICCPR and ICESCR treaties. These treaties obligate signatories to ensure men’s and women’s rights are equality protected. New Zealand also has accepted recommendations to promote equality and non-discrimination.[^51] However, in New Zealand there are few formal mechanisms to protect men’s human rights, and societal attitudes make this worse. This is a systemic problem.
 54. Systemic discrimination is a “network of rules and practices”[^52] that on the basis of arbitrary characteristics disadvantages some groups and advantages others. Systemic discrimination is not necessarily intentional, and “includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. ‘how we do things around here.’ Put simply, it can be discrimination by habit, rather than intent.”[^53]
 
 
 
-## Gender equality seen as a women’s issue.
+### Gender equality seen as a women’s issue.
 
 55. There is a widespread belief gender equality is typically a women’s issue. The European Institute for Gender Equality describes the trend. _“…although definitions attempt to be gender neutral, there is a general tendency to conflate gender equality with women alone_.”[^54] Here in New Zealand Dr Jackie Blue, from the Human Rights Commission, describes gender equality as an issue affecting women, rather than both genders. _“Gender equality is about accepting that at birth, half of us are intrinsically discriminated and treated differently based on sex._”[^55] This belief prevents men’s human rights from being equally protected.
 
-## Government gender analysis focuses on women
+### Government gender analysis focuses on women
 
 56. The government has adopted an approach to ensure new policies address gender issues. Government departments preparing a Cabinet paper are responsible for ensuring appropriate consultation is done before submitting the paper.[^56] Papers submitted to cabinet must be accompanied by a gender implications statement.[^57]
 57. However, there are problems with the system at present. Firstly, gender analysis is seen as primarily addressing women’s needs far more so than men’s. The Ministry for Women’s 1996 report ‘The Full Picture – Guidelines for Gender Analysis’ states that gender analysis “_aims to achieve positive change for women_”.[^58] More recently, a report from the Families Commission states gender analysis “_highlights the practical needs and the strategic interests of women in the context of societal gender inequality_” and “_Another key dimension of gender analysis is its focus on both the practical, short-term and the strategic, long-term interests of disadvantaged women_”.[^59]
@@ -186,12 +186,12 @@ The United Nations Human Rights Council reviews member states human rights recor
 
 
 
-## Gender equality seen as a zero sum game
+### Gender equality seen as a zero sum game
 
 59. A common attitude is that gender equality is a zero-sum game. That is the belief that you can’t help both men and women at the same time. For example, Paula Bennett, in her role as Minister for Women equates having a Ministry for Men with having no Ministry for Women. “_In just about every speech I have given … I get someone from the audience ask me if there is a Ministry for Men. My answer is simple. When we have closed the gender pay gap and women aren’t predominantly the victims of domestic and sexual violence I will look to close down the Ministry for Women._”[^61]
 60. In other words, helping men is the equivalent of not helping women. This zero-sum attitude inhibits progress towards genuine gender equality. A less divisive attitude would be that both men and women can receive help in a win-win situation.
 
-## Standards for other demographics not used for men
+### Standards for other demographics not used for men
 
 61. Men’s human rights are treated differently to other group’s human rights. For example, the human rights committee “have also adopted the same principle of substantive equality when guaranteeing non-discrimination and equal enjoyment by men and women of civil and political, as well as economic, social and cultural rights.” [^62] However, there are considerable substantive differences where men are disadvantaged that are not being addressed in our human rights framework. As mentioned in this document, men face substantive disadvantages in the justice system, education system and other areas. Other groups have their substantive disadvantages recognised by the government and human rights framework while substantive disadvantages for in the same areas that men are not recognised.
 62. Another example is different weights and emphasis is given the male statistics: “_A 14 percent difference in pay, in favour of men, is seen as a ‘wide’ gap by the [Human Rights Commission], but the same 14 percent gap in tertiary participation, in favour of women, is seen by the [Human Rights Commission] as a ‘slight’ gap. This suggests that the perceptions of the observer rather than the actual data are often important. These examples suggest there should be an aim for more objective analysis rather than subjective type of response to differences._”[^63]
@@ -199,19 +199,19 @@ The United Nations Human Rights Council reviews member states human rights recor
 
 
 
-## Human rights issue for men not being reported
+### Human rights issue for men not being reported
 
 64. Official reports from New Zealand to the various human rights have not been fully or accurately reporting on men’s human rights. For example, New Zealand has not reported the amount of male victims of partner violence even though the source of the information contained these figures.
 65. In late 2015 and early 2016 the New Zealand Human Rights Commission met with men’s groups to discuss reporting men’s human rights issues to the UN. Chief Commissioner David agreed that men’s human rights are as important as women’s human rights and plans were considered to include men’s issues into the Human Rights Commission reporting.[^65] Subsequent reports from the Human Rights Commission to the UN have had virtually no reporting on men’s human rights issues and have not included many of the issue raised in this document. Reports to the new government to inform them of human rights issues in New Zealand were similarly lacking inclusion of men’s human rights issues.
 
-## Lack of data and research
+### Lack of data and research
 
 66. Men’s issues lack adequate research.[^66] A number of areas have been identified: Fathers and fathering, male victims of family violence and sexual violence, and mental health. Additionally, research commissioned by the government has notably excluded men’s experiences.
 67. **Recommendation: Government departments should address the gaps in research for men and research commissioned by the government should include both men’s and women’s experiences.**
 
 
 
-## Portrayal of men, negative stereotypes
+### Portrayal of men, negative stereotypes
 
 68. CEDAW obligates states to eliminate harmful stereotypes for men and women. However there are several negative stereotypes that persist for men.
 
@@ -230,11 +230,11 @@ The United Nations Human Rights Council reviews member states human rights recor
 
 
 
-# Rights of indigenous people (Māori)
+## Rights of indigenous people (Māori)
 
 70. “Racial discrimination does not always affect women and men equally or in the same way.”[^70] Māori men and boys face a double penalty in areas like health and education. Efforts to address Māori issues need to consider the needs of Māori men and Māori women both. Maori men are slightly less engaged with Māori culture and Te Reo (Māori language)[^71] so cultural approaches to improving Māori well-being might not reach men as well as women. **Recommendation: Efforts to address issues affecting Māori should consider gender issues for Māori men and Māori women as well.**
 
-# Annex 1: Supporting organisations
+## Annex 1: Supporting organisations
 
 **Canterbury Men’s Centre:** The Canterbury Men’s Centre provides a range of social services like counselling and life coaching. The centres aim is Happy Healthy Canterbury Men.
 
