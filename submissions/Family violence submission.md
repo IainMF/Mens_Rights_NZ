@@ -1,4 +1,4 @@
-Submission to the Joint Venture on Family and Sexual Violence
+# Submission to the Joint Venture on Family and Sexual Violence
 
 > “We must do things differently – we must transform the system”
 
@@ -14,7 +14,7 @@ Previous governments failed to give men that care. Male victims were excluded fr
 
 For example, our response to family violence is built on the 2003 NZ Violence Against Women (VAW) Study which excludes men by design:
 
-> The prevalence statistics arising from the NZ VAW Study provided foundational information that has supported the work of the violence sector for the ensuing 17 years. The prevalence statistics continue to be widely used by government agencies, non-governmental organisations and the media, and have catalysed responses such as the establishment of the Family Violence: It’s Not OK Campaign. Fanslow 2021[^2] 
+> The prevalence statistics arising from the NZ VAW Study provided foundational information that has supported the work of the violence sector for the ensuing 17 years. The prevalence statistics continue to be widely used by government agencies, non-governmental organisations and the media, and have catalysed responses such as the establishment of the Family Violence: It’s Not OK Campaign.[^2] 
 
 This has been a serious epistemological and moral problem.
 
@@ -44,32 +44,35 @@ So in the context of male victims:
 
 - The system must be compassionate and responsive to male victims.
 
-Previous systems have not done those things
+Previous systems have not done those things.
 
 ## System causing harm and secondary abuse
 
 > The current family violence system can result in a range of unintentionally harmful responses to victims
+> 
 > *FVDRC 5th report - think differently about family violence*
 
 The failure of previous governments to fully involve and consider the needs of male victims has harmed male victims. Abusers have been enabled to continue abuse of male victims and the system itself contributes to secondary abuse.
 
 Secondary abuse occurs when victims are treated badly by ‘support’ services.
 
-> Participants also reported secondary abusive experiences, with police and other support services responding with ridicule, doubt, indifference, and victim arrest. 
+> Participants also reported secondary abusive experiences, with police and other support services responding with ridicule, doubt, indifference, and victim arrest.
+>  
 > *Male Victims of Female-Perpetrated Intimate Partner Violence, Help-Seeking, and Reporting Behaviors: A Qualitative Study*
 
 The result of secondary abuse is higher risk of mental health issues.
 
 > if victims are subjected to secondary victimisation, for example victim blaming, ridicule and dismissal, and not given the support they require, male victims are at increased risk of anxiety, depression and PTSD
+> 
 >*Male Victims of Intimate Partner Violence: A Challenge to the Gendered Paradigm - Deborah Powney and Nicola Graham-Kevan*[^5] 
 
 ### Child abuse
 
 Additionally, exposure to family violence is a form of child abuse. Failing to identify and support male victims neglects the abuse of children who are in those homes.
 
-> For children, the exposure to family violence, even when the child is not a direct target, is itself an extremely serious form of abuse.
+> **For children, the exposure to family violence, even when the child is not a direct target, is itself an extremely serious form of abuse.**
 
-> It is well known that exposure to IPV is a form of child abuse and that there is a high rate of co-occurrence between IPV and the physical abuse of children.
+> **It is well known that exposure to IPV is a form of child abuse** and that there is a high rate of co-occurrence between IPV and the physical abuse of children.
 
 > FVDRC 4th report
 
@@ -87,37 +90,32 @@ If male victims are to have confidence in the family and sexual system broad cha
 
 Unfortunately, there is little research on the male victims experiences of the family and sexual violence system in New Zealand. However, what evidence we have shows that men are treated poorly.
 
-> The three male family violence victims were unanimous in feeling misunderstood and discriminated against by police, reporting that police officers refused to listen to their side of the story.[^6] 
-
-> — Victims’ Voices: The Justice Needs and Experiences of New Zealand Serious Crime Victims.
+> The three male family violence victims **were unanimous in feeling misunderstood and discriminated against by police**, reporting that police officers refused to listen to their side of the story.[^6] 
 
 > ...a woman expressed concern about the lack of support for her male partner who had been assaulted by her son. To quote her:
 
-> “my partner feels absolutely unsupported, completely unsupported. He’s changed … He’s become angry, irritable, depressed. … He’s giving up.”[^7] 
+> “**my partner feels absolutely unsupported**, completely unsupported. He’s changed … He’s become angry, irritable, depressed. … He’s giving up.”[^7] 
 
-> — 12 Week Review of Cases Referred to The Family Violence Integrated Safety Response (ISR) Pilot
 
 > A male victim felt that it was difficult to access the counselling support they wanted and highlighted... a service gap.
 
 > There’s definitely a link missing between ACC and the Ministry of Justice in terms of therapeutic services provided. In terms of making it accessible and also perhaps I felt like it was, the whole way through in terms of the rehabilitative services offered were often catered towards women.[^8] 
 
-> — Improving the justice response to victims of sexual violence : victims' experiences
 
 > “It’s deeply saddening that the definition of rape is restricted only to penetrative sex, this ignores the rights of those victims not of being penetrated but forced to penetrate.” (Māori/ Pākehā, man, takatāpui, heterosexual)[^9] 
 
-> — “In Our Own Words” – Student experiences of sexual violence prior to and during tertiary education. –Thursday’s in Black
 
 ### Expert opinion
 
 Many experts recognise the issues for male victims:-
 
-> In particular, service providers indicated that the following groups of survivors might experience the most difficulty in having their needs met: … men;
+> In particular, service providers indicated that the following groups of survivors might experience the most difficulty in having their needs met: … **men**;
 
-> ... collect data on under-researched groups, such as …men.
+> ... collect data on under-researched groups, such as …**men**.
 
 > Restoring soul: Effective interventions for adult victim/survivors of sexual violence - October 2009 by the Ministry of Women‟s Affairs
 
-> \[Men\] are significantly less likely to report violence against them \[and\] are significantly less likely, when they do report it, to have it taken seriously
+> \[Men\] are significantly less likely to report violence against them \[and\] **are significantly less likely**, when they do report it, **to have it taken seriously**
 
 > Restorative Justice - Practice Standards For Family Violence Cases March 2018 Ministry of Justice
 
@@ -145,63 +143,47 @@ Canterbury Men’s Centre released the Mind the Gap[^10] report in 2016 with the
 
 ### Overseas research
 
-More detailed analysis comes form overseas research.
+More detailed analysis comes from overseas research.
 
-> Men’s violence against intimate female partners is considered more serious than women’s violence against intimate male partners. As a result, many men fear that seeking help would label them as aggressor, especially if they defend themselves. This double standard view in society has resulted in many male victims not seeking the assistance of law enforcement as well.
+> Men’s violence against intimate female partners is considered more serious than women’s violence against intimate male partners. **As a result, many men fear that seeking help would label them as aggressor, especially if they defend themselves. This double standard view in society has resulted in many male victims not seeking the assistance of law enforcement as well**.[^11] 
 
-> Male Victims of Intimate Partner Violence in the United States: An Examination of the Review of Literature through the Critical Theoretical Perspective[^11] 
+> Analyses suggested that the help-seeking process of male PV victims is complex and heterogeneous and **can often lead to further negative consequences due to various structural, cultural, social, and organizational factors**. The findings also highlight the potential societal issues that male victims perceived as contributing to male victimization and lack of available resources for them. The results are discussed in terms of its implications for agencies, service providers, and general societal attitudes that are relevant to raising awareness about this phenomenon[^12] 
 
-> Analyses suggested that the help-seeking process of male PV victims is complex and heterogeneous and can often lead to further negative consequences due to various structural, cultural, social, and organizational factors. The findings also highlight the potential societal issues that male victims perceived as contributing to male victimization and lack of available resources for them. The results are discussed in terms of its implications for agencies, service providers, and general societal attitudes that are relevant to raising awareness about this phenomenon[^12] 
+> **Empirical evidence from this mixed-method study suggests that male victims face many interpersonal and societal obstacles**. Feeling uncomfortable when requesting assistance, men in IPA situations are affected by a masking factor that causes them to hide their situation and contributes to a misconception factor that causes people to treat men as the sole perpetrator. Although men are eligible, services may not be perceived as being available or helpful. **The study yields important implications for social work practice, and the findings result in several recommendations for increased awareness about IPA, advocacy for gender-inclusive services, revision of laws and policies, increased research, and emphasis on funded and anonymous services.**[^13] 
 
-> Machado, A., Hines, D., & Douglas, E. M. (2020). Male victims of female-perpetrated partner violence: A qualitative analysis of men’s experiences, the impact of violence, and perceptions of their worth. Psychology of Men & Masculinities, 21(4), 612–621. [https://doi.org/10.1037/men0000285](https://doi.org/10.1037/men0000285)
-
-> Empirical evidence from this mixed-method study suggests that male victims face many interpersonal and societal obstacles. Feeling uncomfortable when requesting assistance, men in IPA situations are affected by a masking factor that causes them to hide their situation and contributes to a misconception factor that causes people to treat men as the sole perpetrator. Although men are eligible, services may not be perceived as being available or helpful. The study yields important implications for social work practice, and the findings result in several recommendations for increased awareness about IPA, advocacy for gender-inclusive services, revision of laws and policies, increased research, and emphasis on funded and anonymous services.[^13] 
-
-> Most participants who avoided seeking help did so due to their own lack of recognition of abuse and ability to assess their risk of harm, attempts to keep the family intact, masculine stereotypes, and excuses for their partner’s abuse. Some men who expressed an interest in seeking help were discouraged from it due to fear for their personal safety, a potential revictimization in the legal system, and the lack of support services available to men. This research suggests that the individuals who are abused in relationships, service providers, and the public at large could benefit from professional training about gender inclusive approaches to intimate partner abuse.[^14] 
+> Most participants who avoided seeking help did so due to their own lack of recognition of abuse and ability to assess their risk of harm, attempts to keep the family intact, masculine stereotypes, and excuses for their partner’s abuse. Some men who expressed an interest in seeking help were discouraged from it due to **fear for their personal safety, a potential revictimization in the legal system, and the lack of support services available to men**. This research suggests that the individuals who are abused in relationships, service providers, and the public at large could benefit from professional training about gender inclusive approaches to intimate partner abuse.[^14] 
 
 One particular issue is men often don’t recognise the abuse
 
-> Across several studies, men viewed women’s acts of aggression directed towards them as not violent, and women who admit to committing acts of aggression did not report using violence.
-
-> Men’s Experience of Psychological Abuse: Conceptualization and Measurement Issues[^15] 
+> Across several studies, men viewed women’s acts of aggression directed towards them as not violent, and women who admit to committing acts of aggression did not report using violence.[^15] 
 
 ## Exclusion of male victims in research
 
-Male victims voices and experiences must be captured by good research if the system is to work for them. Unfortunately, men have been excluded from much research. For example, men have been excluded from specialised population surveys.
+Male victim's voices and experiences must be captured by good research if the system is to work for them. Unfortunately, men have been excluded from much research. For example, men have been excluded from specialised population surveys.
 
-> Specialised population-based surveys of violence against women have been identified as the gold-standard for obtaining the necessary data to guide national level responses to this critical problem … By design, these surveys also do not gather information on men’s experience of violence.
+> **Specialised population-based surveys of violence against women have been identified as the gold-standard** for obtaining the necessary data to guide national level responses to this critical problem … **By design, these surveys also do not gather information on men’s experience of violence**.[^2]
 
-> Methods for the 2019 New Zealand family violence study- a study on the association between violence exposure, health and well-being [https://www.tandfonline.com/doi/full/10.1080/1177083X.2020.1862252](https://www.tandfonline.com/doi/full/10.1080/1177083X.2020.1862252)
-
-> The report does not “deal with men’s and boy’s experiences as victim/survivors of sexual violence, and women as perpetrators. …there are gaps in knowledge about these issues…
+> The report does not “deal with men’s and boy’s experiences as victim/survivors of sexual violence, and women as perpetrators. …**there are gaps in knowledge about these issues**…
 
 > Lightning Does Strike Twice: preventing sexual revictimisation – Ministry of Women’s Affairs September 2012
 
-> One reason that male victims of severe IPV by women have been ignored in the typology is that they have rarely, if ever, been systematically studied
+> One reason that male victims of severe IPV by women have been ignored in the typology **is that they have rarely, if ever, been systematically studied**[^16] 
 
-> Characteristics of Callers to the Domestic Abuse Helpline for Men[^16] 
-
-> The scholarly neglect of this topic has limited our overall understanding of violence in intimate relationships,
-
-> Male Victims of Intimate Partner Violence in the United States: An Examination of the Review of Literature through the Critical Theoretical Perspective[^17] 
+> **The scholarly neglect of this topic has limited our overall understanding of violence in intimate relationships**[^17] 
 
 Instead of including male victims the research into family and sexual violence has focused on female victimisation. The result is methodology that works for capturing the scope of female victimisation but not for the scope of male victimisation.
 
-> Societal perceptions of IPV as a predominantly female issue have led to the development of research perspectives, frameworks, measures, and methodologies unable to capture the full scope of male victimization. Research has also been hampered by a reluctance from men to identify as victims, and many do not relate to commonly used terminology of IPV, such as domestic violence.
+> **Societal perceptions of IPV as a predominantly female issue have led to the development of research perspectives, frameworks, measures, and methodologies unable to capture the full scope of male victimization**. Research has also been hampered by a reluctance from men to identify as victims, and many do not relate to commonly used terminology of IPV, such as domestic violence.
 
 > Violence, Help-Seeking, and Reporting Behaviors: A Qualitative Study
 
 Overall, we do not have a good understanding of the experiences of male victims.
 
-> A review of the literature on men’s experience of IPV, particularly psychological abuse, suggests that there is not yet a thorough and well grounded conceptual understanding of this phenomenon.
-
-> Men’s Experience of Psychological Abuse: Conceptualization and Measurement Issues[^18] 
+> A review of the literature on men’s experience of IPV, particularly psychological abuse, **suggests that there is not yet a thorough and well grounded conceptual understanding of this phenomenon**.[^18] 
 
 There is blind spot in our understanding because we have a narrow range of evidence.
 
-> "Social pressure can cause evidence to pile up on one side of a debate or issue, while evidence on the other side is systematically screened out. A person who looks at the evidence as it is presented, then, will form a warped view of the matter, even if she rationally evaluates the evidence at hand. I will suggest that whenever there exists social pressure to conceal evidence on one side of a topic, we should suspect that a (possibly dangerous) blind spot is lurking somewhere, due to this mechanism. The catch, and it is a big catch, is that the blind spot will not be recognizable by people who simply look at the evidence as it is presented. They will be unaware that their view of the world is distorted.”
-
-> Why It's OK to Speak Your Mind - Hrishikesh Joshi[^19] 
+> "Social pressure can cause evidence to pile up on one side of a debate or issue, while evidence on the other side is systematically screened out. A person who looks at the evidence as it is presented, then, will form a warped view of the matter, even if she rationally evaluates the evidence at hand. I will suggest that whenever there exists social pressure to conceal evidence on one side of a topic, we should suspect that a (possibly dangerous) blind spot is lurking somewhere, due to this mechanism. The catch, and it is a big catch, is that the blind spot will not be recognizable by people who simply look at the evidence as it is presented. They will be unaware that their view of the world is distorted.”[^19] 
 
 ### Notable examples of male victims being excluded in research and academia
 
@@ -209,7 +191,7 @@ Two notable examples of excluding men’s experiences are from influential acade
 
 Even Stark literally wrote the book on Coercive Control. He asks readers to ignore the experiences of male victims and just believe him.
 
-> “At this point, I ask readers to take two things on faith: That the pattern of intimidation, isolation, and control ... is unique to men’s abuse of women and that it is critical to explaining why women become entrapped in abusive relationships in ways that men do not ...”[^20] 
+> “At this point, **I ask readers to take two things on faith**: That the pattern of intimidation, isolation, and control ... is unique to men’s abuse of women and that it is critical to explaining why women become entrapped in abusive relationships in ways that men do not ...”[^20] 
 
 Mary Koss is a pioneering, highly influential sexual violence researcher. Her research has been cited over 45,000 times.
 
@@ -221,11 +203,9 @@ Koss has stated that male victims of female perpetrators are not ‘rape’ vict
 
 In a radio interview she describes a women ‘raping’ a man as only ‘unwanted contact’.[^23] 
 
-> Theresa Phung: "So I am actually speaking to someone right now. his story is that he was drugged, he was unconscious and when he awoke a woman was on top of him with his penis inserted inside her vagina, and for him that was traumatizing."
+> **Theresa Phung**: "So I am actually speaking to someone right now. his story is that he was drugged, he was unconscious and when he awoke a woman was on top of him with his penis inserted inside her vagina, and for him that was traumatizing." …
 
-> …
-
-> Dr. Koss: "What would I call it? I would call it 'unwanted contact'."
+> **Dr. Koss**: "What would I call it? I would call it 'unwanted contact'."
 
 ## Models excluding men’s experiences or minimising them.
 
@@ -259,9 +239,7 @@ The Duluth model is used by the New Zealand Police.
 
 The proponents of the model describe it as based on “feminist political ideology”[^24] which lead to a focus on power and control. Later one of the founders admits this was confirmation bias and did not truly represent what the women were telling them.
 
-> "By determining that the need or desire for power was the motivating force behind battering, we created a conceptual framework that, in fact, did not fit the lived experience of many of the men and women we were working with. The DAIP staff \[...\] remained undaunted by the difference in our theory and the actual experiences of those we were working with \[...\] It was the cases themselves that created the chink in each of our theoretical suits of armor. Speaking for myself, I found that many of the men I interviewed did not seem to articulate a desire for power over their partner. Although I relentlessly took every opportunity to point out to men in the groups that they were so motivated and merely in denial, the fact that few men ever articulated such a desire went unnoticed by me and many of my coworkers. Eventually, we realized that we were finding what we had already predetermined to find.”
-
-> —Ellen Pence - Coordinating Community Responses to Domestic Violence: Lessons from Duluth and Beyond.[^25] 
+> "By determining that the need or desire for power was the motivating force behind battering, we created a conceptual framework that, in fact, did not fit the lived experience of many of the men and women we were working with. The DAIP staff \[...\] remained undaunted by the difference in our theory and the actual experiences of those we were working with \[...\] It was the cases themselves that created the chink in each of our theoretical suits of armor. Speaking for myself, I found that many of the men I interviewed did not seem to articulate a desire for power over their partner. Although I relentlessly took every opportunity to point out to men in the groups that they were so motivated and merely in denial, the fact that few men ever articulated such a desire went unnoticed by me and many of my coworkers. **Eventually, we realized that we were finding what we had already predetermined to find.**”[^25] 
 
 ## Exclusion of male victims in expertise/consultations
 
@@ -275,19 +253,17 @@ The Ministry for Women provides policy advice to the government with the goal of
 
 The Ministry provides gendered advice to other government agencies (including the Ministry of Justice and the Police) to support its goal of ending violence against women and girls. It is included in the development of the family and sexual violence strategy and believes it can take a leadership role.
 
-> We are the government’s expert on violence against women, providing advice to government on how best to reduce violence. An effective government response to violence reduction, however, is not the sole responsibility of one agency. We work together with various agencies to make sure policies take into account the issue of violence against women and its impacts.
-
-— https://women.govt.nz/safety[^26] 
+> We are the government’s expert on violence against women, providing advice to government on how best to reduce violence. An effective government response to violence reduction, however, is not the sole responsibility of one agency. We work together with various agencies to make sure policies take into account the issue of violence against women and its impacts.[^26] 
 
 Although the Ministry recognises the needs of male victims, its mandate is limited to women and girls. It does not have the mandate to speak for men and boys, or develop expertise and experience in the issues for male victims.
 
 The governments advice regarding family and sexual violence is biased by the Ministry for Women’s limited mandate.
 
-> A strong gender analysis is a critical component of the Government’s response to family violence and sexual violence. The Minister for Women will help to ensure this gender analysis through the Social Wellbeing Committee’s oversight of this response, as one of its priorities. The Ministry for Women also has an important advisory role to the joint venture of the Social Wellbeing Board to support the Board’s delivery of this priority work programme. [^27] 
+> A strong gender analysis is a critical component of the Government’s response to family violence and sexual violence. **The Minister for Women will help to ensure this gender analysis** through the Social Wellbeing Committee’s oversight of this response, as one of its priorities. The Ministry for Women also has an important advisory role to the joint venture of the Social Wellbeing Board to support the Board’s delivery of this priority work programme. [^27] 
 
 One of the MfW’s intended outcomes for it’s work is to:
 
-> Ensure women and girls perspectives are included in family and sexual violence prevention policy; address intersectionality issues for women and girls that makes them more vulnerable to family and sexual violence.[^28] 
+> **Ensure women and girls perspectives are included in family and sexual violence prevention policy**; address intersectionality issues for women and girls that makes them more vulnerable to family and sexual violence.[^28] 
 
 The Ministry for Women’s advice must be complemented by advice from experts on male victims.
 
@@ -295,35 +271,31 @@ The Ministry for Women’s advice must be complemented by advice from experts on
 
 The It’s Not Okay campaign is a public awareness campaign about family violence which excluded male victims through tit’s development and implementation.
 
-> The Campaign was designed to reframe family violence as a serious social issue, build a shared understanding of what constitutes family violence, and promote a belief that it is possible to do something about it
+> The Campaign was designed to reframe family violence as a serious social issue, build a shared understanding of what constitutes family violence, and promote a belief that it is possible to do something about it[^29] 
 
-> — An innovative approach to changing social attitudes around family violence in New Zealand: key ideas, insights and lessons learnt[^29] 
-
-During the planning stages, they did not consider men as victims. They consulted organisations with expertise regarding women as victims (the National Collective of Independent Women’s Refuges) and men as perpetrators (the National Network of Stopping Violence Services).[^30] 
+During the planning stages, they did not consider men as victims. They consulted organisations with expertise regarding women as victims (the National Collective of Independent Women’s Refuges) and men as **perpetrators **(the National Network of Stopping Violence Services).[^30] 
 
 Prior to the research being undertaken, it was thought that the Campaign might start by addressing male violence towards intimate partners.
 
-The research was “Thirty-seven in-depth face-to-face interviews were conducted with male perpetrators”[^31] who were already involved in stopping violence programs. This biased research supported the development of the campaign.
+The research was “Thirty-seven in-depth face-to-face interviews were conducted with **male perpetrators**”[^31] who were already involved in stopping violence programs. This biased research supported the development of the campaign.
 
 Two sets of television advertisements have been developed. The first set featured local celebrities and ordinary New Zealanders, men and women, voicing short messages about what’s not okay.
 
-The second phase of the Campaign focused on perpetrators’ stories, took a gendered approach to family violence. The advertisements featured four men, not actors, telling their personal stories.
+The second phase of the Campaign focused on perpetrators’ stories, **took a gendered approach to family violence**. The advertisements featured four men, not actors, telling their personal stories.
 
 The campaign was concerned that showing female perpetrators might
 
-“undermine policies designed to prevent and reduce male partner violence against women”.[^32] The campaign did not consider how this would affect male victims and possibly lead to secondary abuse. For example,
+“*undermine policies designed to prevent and reduce male partner violence against women*”.[^32] The campaign did not consider how this would affect male victims and possibly lead to secondary abuse. For example,
 
-> \[It\] may lead the majority to assume that only severe violence to women is ‘domestic violence’, and anything less is ‘normal’ in relationships, especially aggression by women towards men.
-
-> The Gendered Perspective of Domestic (Intimate Partner) Violence: A Review of the Evidence[^33] 
+> \[It\] may lead the majority to assume that only severe violence to women is ‘domestic violence’, and anything less is ‘normal’ in relationships, especially aggression by women towards men.[^33] 
 
 Later the campaign did research into the effectiveness of their strategy, including a survey about New Zealander’s attitude to family violence. The research neglected to ask respondents about their attitude to female violence or male victimisation. Instead restricting the questions to:
 
-- Attitudes, values and beliefs related to gender-roles and men’s violence towards women
+- Attitudes, values and beliefs related to gender-roles and **men’s violence towards women**
 
-- Attitudes to defences/excuses for male violence to women
+- Attitudes to defences/excuses for **male violence to women**
 
-The results show that nearly all New Zealanders reject male to female violence. 93% of respondents agree that “a man should never raise a hand against a woman”. However, we don’t know how many New Zealanders reject partner violence committed by women. Although the survey hints that most people don’t see female violence as serious. 92% agree that a women hitting a man first is no excuse for a man to hit a women. Presumably these people did not consider the need for a man to defend himself and relied on negative stereotypes about men and women.
+The results show that nearly all New Zealanders reject male to female violence. 93% of respondents agree that “a man should never raise a hand against a woman”. However, we don’t know how many New Zealanders reject partner violence committed by women. Although the survey hints that most people don’t see female violence as serious. 92% agree that a women hitting a man first is no excuse for a man to hit a woman. Presumably these people did not consider the need for a man to defend himself and relied on negative stereotypes about men and women.
 
 This is speculation because the research was not done when the opportunity was there.
 
@@ -333,13 +305,8 @@ The consequences of excluding male victims from development and implementation o
 
 Other consequences might be that male victims receive less sympathy, support and services.
 
-> The second practical implication of this study relates to the types of IPV services available. The findings suggest that male victims may perceive that they will not receive as much sympathy as female victims. Research has determined that men who seek services usually do not receive the help they need
-
-> ...
-
-> Public health officials have successfully called attention to the prevalence of men’s violence against women, but have been unsuccessful in addressing situations of female perpetration or male victimization.
-
-> News Stories of Intimate Partner Violence: An Experimental Examination of Participant Sex, Perpetrator Sex, and Violence Severity on Seriousness, Sympathy, and Punishment Preferences[^34] 
+> The second practical implication of this study relates to the types of IPV services available. **The findings suggest that male victims may perceive that they will not receive as much sympathy as female victims. Research has determined that men who seek services usually do not receive the help they need** ...
+> Public health officials have successfully called attention to the prevalence of men’s violence against women, **but have been unsuccessful in addressing situations of female perpetration or male victimization**.[^34] 
 
 ## White ribbon
 
@@ -377,9 +344,7 @@ This means that:
 
 Research has shown that some men would be receptive to support from primary health care.
 
-> The primary healthcare setting was regarded as a suitable and safe place to talk about violence by some, suggesting an overlap with the theme of confidentiality.
-
-> — Help-seeking by male victims of domestic violence and abuse (DVA): a systematic review and qualitative evidence synthesis[^38] 
+> The primary healthcare setting was regarded as a suitable and safe place to talk about violence by some, suggesting an overlap with the theme of confidentiality.[^38] 
 
 ## Government websites
 
@@ -416,8 +381,6 @@ Other issues arise from this legal definition.
 - Media reporting of male rape victims cannot call it rape. This makes it seem less severe.
 
 > “I have not been penetrated without consent (I’m a straight male), but \[I\] have been made to penetrate someone else without my consent. What is that classified as? Because it’s sex without consent but it doesn’t fit under the definition of rape.” (Pākehā, man, heterosexual, 21)[^39] 
-
-> — “In Our Own Words” – Student experiences of sexual violence prior to and during tertiary education. –Thursday’s in Black
 
 ### Male assaults female
 
@@ -465,21 +428,17 @@ Agazue found bystanders are more sympathetic of female victims of physical assau
 
 > What about the Male Victims? Exploring the Impact of Gender Stereotyping on Implicit Attitudes and Behavioural Intentions Associated with Intimate Partner Violence
 
-> Other empirical studies have confirmed that society has little sympathy for the male victims of intimate partner violence (Barber, 2008; Du Plat-Jones, 2006; Henning & Feder, 2004).
-
-> Male Victims of Intimate Partner Violence in the United States: An Examination of the Review of Literature through the Critical Theoretical Perspective[^48] 
+> Other empirical studies have confirmed that society has little sympathy for the male victims of intimate partner violence (Barber, 2008; Du Plat-Jones, 2006; Henning & Feder, 2004).[^48] 
 
 ### Science bias
 
 People are biased in their evaluations of science. This is exacerbates the issue of inadequate research on male victims.
 
-participants were more likely to believe the science when its conclusions aligned with prior understanding of their self, effects that were mediated through positive emotional reactions.
-
-Evaluations of science are robustly biased by identity concerns[^49] 
+> participants were more likely to believe the science when its conclusions aligned with prior understanding of their self, effects that were mediated through positive emotional reactions.[^49] 
 
 Von Hipple[^50] investigated bias among social scientists and provides this insight:
 
-As one of our respondents wrote, “I found it curious how contradictory I was in responding! For instance, when science ostensibly reveals that the majority group has certain advantages, I say it’s ‘bad,’ but when the minority group has certain advantages, I say it’s ‘good!’”
+> As one of our respondents wrote, “I found it curious how contradictory I was in responding! For instance, when science ostensibly reveals that the majority group has certain advantages, I say it’s ‘bad,’ but when the minority group has certain advantages, I say it’s ‘good!’”
 
 Likewise, Stewart-Williams[^51] found after viewing “a fictional popular-science article describing either a male-favouring or a female-favouring sex difference (i.e., men/women draw better; women/men lie more). Both sexes reacted less positively to the male-favouring differences, judging the findings to be less important, less credible, and more offensive, harmful, and upsetting.”
 
@@ -503,9 +462,9 @@ Likewise, Stewart-Williams[^51] found after viewing “a fictional popular-scien
 
 	b. recognition of the unique experiences and challenges of male victims, including previous inadequacy of the system.
 
-3. Address laws that minimises male victims experiences.
+3. Address laws that minimise male victims experiences.
 
-	a. amened the crimes act so rape is non-consensual sex, not penile penetration
+	a. amend the crimes act so rape is non-consensual sex, not penile penetration
 
 	b. repeal ‘male assaults female’
 
@@ -523,9 +482,7 @@ Likewise, Stewart-Williams[^51] found after viewing “a fictional popular-scien
 
 10. Remove Duluth model, models based on the Duluth model from government policy and practice.
 
-# Nga Mihi
 
-Iain Fergusson
 
  
 
@@ -628,5 +585,6 @@ Iain Fergusson
 [^49]:https://journals.sagepub.com/doi/abs/10.1177/1368430221996818?journalCode=gpia
 
 [^50]:von Hippel, William & Buss, David. (2017). Do Ideologically Driven Scientific Agendas Impede the Understanding and Acceptance of Evolutionary Principles in Social Psychology?. 10.4324/9781315112619-2.
+
 
 [^51]:https://www.researchgate.net/publication/334751470\_Reactions\_to\_Male-Favouring\_vs\_Female-Favouring\_Sex\_Differences\_A\_Preregistered\_Experiment\_and\_Southeast\_Asian\_Replication
