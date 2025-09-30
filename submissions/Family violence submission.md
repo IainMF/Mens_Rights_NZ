@@ -29,19 +29,19 @@ The Glenn Inquiry identified three important aspects for an effective family and
 
 For a system to work and be effective, the people using it and working in it must be able to:
 
-- have trust that they will be respected and people will do the right things
-- have faith that their needs will be recognised and met, and
-- believe the people working in it are both compassionate and responsive.[^4] 
+* have trust that they will be respected and people will do the right things
+* have faith that their needs will be recognised and met, and
+* believe the people working in it are both compassionate and responsive.[^4] 
 
 — *The People’s Blueprint | Transforming the way we deal with child abuse and domestic violence in New Zealand*
 
 So in the context of male victims:
 
-- The system must show respect for male victims
+* The system must show respect for male victims
 
-- The system must show male victims that their needs are recognised and will be met
+* The system must show male victims that their needs are recognised and will be met
 
-- The system must be compassionate and responsive to male victims.
+* The system must be compassionate and responsive to male victims.
 
 Previous systems have not done those things.
 
@@ -290,9 +290,9 @@ The campaign was concerned that showing female perpetrators might
 
 Later the campaign did research into the effectiveness of their strategy, including a survey about New Zealander’s attitude to family violence. The research neglected to ask respondents about their attitude to female violence or male victimisation. Instead restricting the questions to:
 
-- Attitudes, values and beliefs related to gender-roles and **men’s violence towards women**
+* Attitudes, values and beliefs related to gender-roles and **men’s violence towards women**
 
-- Attitudes to defences/excuses for **male violence to women**
+* Attitudes to defences/excuses for **male violence to women**
 
 The results show that nearly all New Zealanders reject male to female violence. 93% of respondents agree that “a man should never raise a hand against a woman”. However, we don’t know how many New Zealanders reject partner violence committed by women. Although the survey hints that most people don’t see female violence as serious. 92% agree that a women hitting a man first is no excuse for a man to hit a woman. Presumably these people did not consider the need for a man to defend himself and relied on negative stereotypes about men and women.
 
@@ -313,13 +313,13 @@ MPs, police, and other public servants regularly wear a white ribbon. As a symbo
 
 The White Ribbon Campaign Trust Deed describes the purpose of the trust is solely about changing men’s attitudes to violence against women.
 
-- Change men's attitudes and behaviours, predominantly through men talking to men about violence against women;
+* Change men's attitudes and behaviours, predominantly through men talking to men about violence against women;
 
-- Encourage wearing a white ribbon as a personal pledge to never commit, condone or remain silent about violence towards women;
+* Encourage wearing a white ribbon as a personal pledge to never commit, condone or remain silent about violence towards women;
 
-- Encourage and support men to take leadership in national and community driven efforts to end violence against women;
+* Encourage and support men to take leadership in national and community driven efforts to end violence against women;
 
-- Undertake local campaigns and activities to create social change to end all forms of violence towards women;
+* Undertake local campaigns and activities to create social change to end all forms of violence towards women;
 
 — White Ribbon Campaign Trust Deed[^35] 
 
@@ -331,15 +331,15 @@ The Ministry of Health recommends that all females over 16 are asked about famil
 
 This means that:
 
-- Male victims, who are less likely to admit being a victim, will be missed
+* Male victims, who are less likely to admit being a victim, will be missed
 
-- Statistics generated from the health system don’t accurately represent the incidents of family violence
+* Statistics generated from the health system don’t accurately represent the incidents of family violence
 
-- The opportunity to educate men on what constitutes family violence is missed
+* The opportunity to educate men on what constitutes family violence is missed
 
 - Men don’t visit the doctor as much as women, so opportunity for providing support to male victims is already lower
 
-- Doctors get a false impression of the rates of family violence between men and women. This could lead to overlooking the signs of family violence in men.
+* Doctors get a false impression of the rates of family violence between men and women. This could lead to overlooking the signs of family violence in men.
 
 Research has shown that some men would be receptive to support from primary health care.
 
@@ -373,11 +373,11 @@ Although the crimes of rape and unlawful sexual connection have the same maximum
 
 Other issues arise from this legal definition.
 
-- Victims cannot technically call their experience rape.
+* Victims cannot technically call their experience rape.
 
-- Statistics for rape exclude male victims
+* Statistics for rape exclude male victims
 
-- Media reporting of male rape victims cannot call it rape. This makes it seem less severe.
+* Media reporting of male rape victims cannot call it rape. This makes it seem less severe.
 
 > “I have not been penetrated without consent (I’m a straight male), but \[I\] have been made to penetrate someone else without my consent. What is that classified as? Because it’s sex without consent but it doesn’t fit under the definition of rape.” (Pākehā, man, heterosexual, 21)[^39] 
 
@@ -407,13 +407,13 @@ This is why it is important to have diversity in the development of a family vio
 
 Reynolds[^42] found
 
-- people tend to be more concerned about female suffering,
+* people tend to be more concerned about female suffering,
 
-- people think male suffering is more deserved or fair,
+* people think male suffering is more deserved or fair,
 
-- people are more motivated to punish men (see also, Jeffries[^43] ).
+* people are more motivated to punish men (see also, Jeffries[^43] ).
 
-- These biases extend to group-level harm.
+* These biases extend to group-level harm.
 
 Follingstad found that “psychologists... rated the husband's behavior as more likely to be psychologically abusive and more severe in nature than the wife's use of the same actions.”[^44] 
 
@@ -586,6 +586,7 @@ Likewise, Stewart-Williams[^51] found after viewing “a fictional popular-scien
 [^50]:von Hippel, William & Buss, David. (2017). Do Ideologically Driven Scientific Agendas Impede the Understanding and Acceptance of Evolutionary Principles in Social Psychology?. 10.4324/9781315112619-2.
 
 [^51]:https://www.researchgate.net/publication/334751470\_Reactions\_to\_Male-Favouring\_vs\_Female-Favouring\_Sex\_Differences\_A\_Preregistered\_Experiment\_and\_Southeast\_Asian\_Replication
+
 
 
 
