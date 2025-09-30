@@ -30,9 +30,7 @@ The Glenn Inquiry identified three important aspects for an effective family and
 For a system to work and be effective, the people using it and working in it must be able to:
 
 - have trust that they will be respected and people will do the right things
-
 - have faith that their needs will be recognised and met, and
-
 - believe the people working in it are both compassionate and responsive.[^4] 
 
 — *The People’s Blueprint | Transforming the way we deal with child abuse and domestic violence in New Zealand*
@@ -587,7 +585,7 @@ Likewise, Stewart-Williams[^51] found after viewing “a fictional popular-scien
 
 [^50]:von Hippel, William & Buss, David. (2017). Do Ideologically Driven Scientific Agendas Impede the Understanding and Acceptance of Evolutionary Principles in Social Psychology?. 10.4324/9781315112619-2.
 
-
 [^51]:https://www.researchgate.net/publication/334751470\_Reactions\_to\_Male-Favouring\_vs\_Female-Favouring\_Sex\_Differences\_A\_Preregistered\_Experiment\_and\_Southeast\_Asian\_Replication
+
 
 
