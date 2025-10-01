@@ -1,3 +1,8 @@
+---
+title: Discrimiantion in assualts laws
+description: New Zealand's crime of 'male assaults female' discrimination against men with a gender specific crime that gives them harsher penalties.
+---
+
 # Male Assaults Female
 Section 194 of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however,  male-assaults-female has a longer maximum sentence (2 years instead of 1 year) and does not fall under the more lenient 'bail of as right' provisions granted to persons charged with common assault.
     
