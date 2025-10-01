@@ -1,6 +1,6 @@
 ---
 title: Discrimination in Pae Ora (Healthy Futures) Act 2022
-discription: The New Zealand Pae Ora (Healthy Futures) Act 2022 discriminates against men by omitting a men's health strategy.
+description: "The New Zealand Pae Ora (Healthy Futures) Act 2022 discriminates against men by omitting a men's health strategy."
 ---
 
 # Healthy Futures Act
