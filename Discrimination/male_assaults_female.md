@@ -1,6 +1,6 @@
 ---
 title: Discrimiantion in assualts laws
-description: New Zealand's crime of 'male assaults female' discrimination against men with a gender specific crime that gives them harsher penalties.
+description: New Zealand's crime of 'male assaults female' discriminates against men with a gender specific crime that gives them harsher penalties.
 ---
 
 # Male Assaults Female
