@@ -1,3 +1,8 @@
+---
+title: My submission for New Zealand's Universal Periodic Review.
+description: "My submission about men's rights to the United Nation's Universal Periodic Review of human rights in 2019."
+---
+
 The United Nations Human Rights Council reviews member states human rights records on a cycle. Every 5 years there is a Universal Period Review covering all areas of human rights. The following is a submission to the Human Rights Council for New Zealand’s latest review that covers men’s human rights issues.
 
 ## Executive summary
