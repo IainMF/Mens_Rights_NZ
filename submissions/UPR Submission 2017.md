@@ -1,5 +1,5 @@
 ---
-title: My submission for New Zealand's Universal Periodic Review.
+title: Universal Periodic Review 2019.
 description: "My submission about men's rights to the United Nation's Universal Periodic Review of human rights in 2019."
 ---
 
