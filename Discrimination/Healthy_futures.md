@@ -1,3 +1,8 @@
+---
+title: Discrimination in Pae Ora (Healthy Futures) Act 2022
+discription: The New Zealand Pae Ora (Healthy Futures) Act 2022 discriminates against men by omitting a men's health strategy.
+---
+
 # Healthy Futures Act
 One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^1] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
 
