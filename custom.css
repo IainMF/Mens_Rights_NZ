@@ -1,0 +1,8 @@
+/* Import fonts from Google Fonts */
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+</style>
+/* Apply the sans-serif font to the body text */
+article :not(h1, h2, h3, h4, h5, h6) {
+  font-family: "Atkinson Hyperlegible Next", sans-serif !important;
+}
