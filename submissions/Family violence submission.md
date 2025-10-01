@@ -1,4 +1,10 @@
-Submission to the Joint Venture on Family and Sexual Violence
+---
+title: Submission to the Joint Venture on Family and Sexual Violence
+description: "My Submisisn to the New Zealand Goverment's consultion on Family and Sexual Violence."
+---
+
+
+
 
 > “We must do things differently – we must transform the system”
 
@@ -586,6 +592,7 @@ Likewise, Stewart-Williams[^51] found after viewing “a fictional popular-scien
 [^50]:von Hippel, William & Buss, David. (2017). Do Ideologically Driven Scientific Agendas Impede the Understanding and Acceptance of Evolutionary Principles in Social Psychology?. 10.4324/9781315112619-2.
 
 [^51]:https://www.researchgate.net/publication/334751470\_Reactions\_to\_Male-Favouring\_vs\_Female-Favouring\_Sex\_Differences\_A\_Preregistered\_Experiment\_and\_Southeast\_Asian\_Replication
+
 
 
 
