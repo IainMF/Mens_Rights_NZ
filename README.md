@@ -10,7 +10,10 @@ Men's unique human rights issues are ones that affect men *because they are men*
 
 There are also human rights issues that predominately affect men, for example, men are approximately 75% of suicide deaths, over 90% of prisoners, and have higher rates of preventable and treatable mortality.
 
-[[Discrimination/discrimination|More about Discrimination]]
+## Unique human rights issues
+* [[Discrimination/discrimination|Discrimination]]
+
+## Issues that predominatley affect men and boys
 
 
 
