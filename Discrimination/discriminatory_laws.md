@@ -40,5 +40,27 @@ One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve e
  Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."^[https://www.1news.co.nz/2024/06/08/drink-less-booze-and-check-your-testes-why-do-nz-men-get-minimal-health-support/]
 ## Protection from Genital Mutilation
 In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”^[ Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)] This should apply to all children including boys.
+## Rape and Sexual Assault
+Section 128 of the Crimes Act 1961 defines *rape* as: 
+
+> Person A rapes person B if person A has sexual connection with person B, effected by the penetration of person B’s genitalia by person A’s penis,—
+> (a) without person B’s consent to the connection; and
+> (b) without believing on reasonable grounds that person B consents to the connection. 
+
+
+Section 128 continues to define *unlawful sexual connection*:
+> Person A has unlawful sexual connection with person B if person A has sexual connection with person B—
+> (a) without person B’s consent to the connection; and
+> (b) without believing on reasonable grounds that person B consents to the connection.
+
+This gendered definition means that, expect in rare circumstances, only men can be charged with rape. Sentencing for guidelines for rape and unlawful sexual connection differently. See *Sentencing guidelines for sexual offences*.
+
+The gendered definition creates several problems. Firstly, male victims who were forced to penetrate are denied equal levels of justice compared to female rape victims.
+
+Secondly, the gendered definition of rape confuses statistics on rape and sexual assault. Nearly all rapists are men and most rape victims are women, but this would be true regardless of the prevalence due to the gendered definition of rape. 
+
+Thirdly, journalists reporting on female perpetrated sexual assaults cannot call them rapes. 
+
+Fourthly, rapists are stigmatised for their crimes. The stigma is not so great for sexual assault, which means male and female perpetrators do not experience the same stigma.
 
 
