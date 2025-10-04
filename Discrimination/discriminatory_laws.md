@@ -27,5 +27,18 @@ Both Amy Adams,^[ Reform Of Family Violence Law – Paper Three: Prosecuting fam
 
 Despite the shortcomings of male-assaults-female being addressed in the proposed bill and the ineffectiveness of using the law for symbolic purposes Amy Adams recommended not repealing male assaults female because of the symbolism. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."^[ Reform Of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2JFzt6K](https://bit.ly/2JFzt6K)]
 
+## Infanticide
+Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3 year prison sentence where murder has a maximum sentence of life imprisonment. Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where a woman he would have been charged with infanticide.^[ Westway, Thomas --- "Guilty But Substantially Mentally Impaired" [2011] NZLawStuJl 2; (2011) 2 New Zealand Law Students' Journal 470 - [http://archive.li/TtqTm](http://archive.li/TtqTm)]
+
+## Adoption
+The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.^[ Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*. 2013]
+The law states: 
+> "An adoption order shall not be made in respect of a child who is a female in favour of a sole applicant who is a male unless the court is satisfied that the applicant is the father of the child or that there are special circumstances which justify the making of an adoption order."
+## Healthy Futures Act
+One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".^[Pae Ora (Healthy Futures) Act 2022 Section 3(b)] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
+
+ Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."^[https://www.1news.co.nz/2024/06/08/drink-less-booze-and-check-your-testes-why-do-nz-men-get-minimal-health-support/]
+## Protection from Genital Mutilation
+In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”^[ Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)] This should apply to all children including boys.
 
 
