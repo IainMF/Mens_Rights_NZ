@@ -37,10 +37,10 @@ Section 178 of the Crimes Act 1961 allows mothers who murder their children when
 
 There is some support to replace infanticide with a gender neutral law.
 
-> Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^13]
+> Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^7]
 
 ## Adoption
-The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^7]
+The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^8]
 The law states:
 
 > "An adoption order shall not be made in respect of a child who is a female in favour of a sole applicant who is a male unless the court is satisfied that the applicant is the father of the child or that there are special circumstances which justify the making of an adoption order."
@@ -50,15 +50,15 @@ One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve e
 
  Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^9}
 ## Protection from Genital Mutilation
-In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^10] This should apply to all children including boys.
+In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^9] This should apply to all children including boys.
 
 Hammond and Carmack argue that non-therapeutic infant circumcision violates a child’s rights to religious freedom, bodily autonomy and protection from harm.
 
-> Findings highlight important health and human rights implications resulting from infringements on the bodily integrity and future autonomy rights of boys… [^11]
+> Findings highlight important health and human rights implications resulting from infringements on the bodily integrity and future autonomy rights of boys… [^10]
 
 Martin Robbins argues that men should be able to choose whether they are circumcised or not
 
-> Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^12]
+> Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^11]
 
 ## Rape and Sexual Assault
 Section 128 of the Crimes Act 1961 defines *rape* as: 
@@ -105,16 +105,17 @@ Fourthly, rapists are stigmatised for their crimes. The stigma is not so great f
 
 [^6]: Westway, Thomas - "Guilty But Substantially Mentally Impaired" [2011] NZLawStuJl 2; (2011) 2 New Zealand Law Students' Journal 470 - [http://archive.li/TtqTm](http://archive.li/TtqTm)]
 
-[^7]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*. 2013
+[^7]:  [*When mothers kill, but don’t go to jail*](https://archive.ph/xZHWj) – Katie Kenny, Stuff.co.nz, November 24 2015↩
 
-[^8]: Pae Ora (Healthy Futures) Act 2022 Section 3(b)
+[^8]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*. 2013
 
-[^9]: https://www.1news.co.nz/2024/06/08/drink-less-booze-and-check-your-testes-why-do-nz-men-get-minimal-health-support/
+[^9]: Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)
 
-[^10]: Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)
+[^10]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
 
-[^11]: Tim Hammond & Adrienne Carmack (2017): *Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*, The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
+[^11]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
 
-[^12]: Robbins, Martin. *“Infant Male Circumcision Is Genital Mutilation.”* The Guardian, December 6, 2011↩
+[^12]: Pae Ora (Healthy Futures) Act 2022 Section 3(b)
 
-[^13]:  *When mothers kill, but don’t go to jail* – Katie Kenny, Stuff.co.nz, November 24 2015↩
+[^13]: Casinader, Jehan . ['Men have it so easy' - why do NZ guys get minimal health support?](https://archive.ph/0wizg)  1 News, June 8, 2024
+
