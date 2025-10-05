@@ -12,7 +12,7 @@ Section 19 of the New Zealand Bill of Rights 1990 act affirms men's right to be 
 > 
 > (2) Measures taken in good faith for the purpose of assisting or advancing persons or groups of persons disadvantaged because of discrimination that is unlawful by virtue of Part 2 of the Human Rights Act 1993 do not constitute discrimination.
 
-The *International Covenant on Civil and Political Rights (ICCPR)* and the *International Covenant on Economic, Social and Cultural Rights* prohibit discrimination in the application of each convention. Article 26 of the ICCPR also requires the government to make discrimination illegal and to protect men from discrimination.
+The [*International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) (ICCPR)* and the *International Covenant on Economic, Social and Cultural Rights* prohibit discrimination in the application of each convention. Article 26 of the ICCPR also requires the government to make discrimination illegal and to protect men from discrimination.
 > All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
 
 Discrimination means:
