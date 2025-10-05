@@ -32,4 +32,4 @@ Two, intent is not required for something to be discrimination. If an act, or om
 
 Three, discrimination includes impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
 
-[^1]: ICCPR General Comment 18 - para. 7
+[^1]: [ICCPR General Comment 18](https://www.refworld.org/sites/default/files/legacy-pdf/en/1989-11/453883fa8.pdf) - para. 7
