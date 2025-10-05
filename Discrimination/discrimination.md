@@ -31,3 +31,5 @@ One, discrimination can be an *act* or an *omission*.  For example, discriminati
 Two, intent is not required for something to be discrimination. If an act, or omission, *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
 
 Three, discrimination includes impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
+
+[^1]: ICCPR General Comment 18 - para. 7
