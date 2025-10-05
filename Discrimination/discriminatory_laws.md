@@ -46,19 +46,19 @@ The law states:
 > "An adoption order shall not be made in respect of a child who is a female in favour of a sole applicant who is a male unless the court is satisfied that the applicant is the father of the child or that there are special circumstances which justify the making of an adoption order."
 
 ## Healthy Futures Act
-One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^8} However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
+One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^9] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
 
- Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^9}
+ Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^10]
 ## Protection from Genital Mutilation
-In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^9] This should apply to all children including boys.
+In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^11] This should apply to all children including boys.
 
 Hammond and Carmack argue that non-therapeutic infant circumcision violates a child’s rights to religious freedom, bodily autonomy and protection from harm.
 
-> Findings highlight important health and human rights implications resulting from infringements on the bodily integrity and future autonomy rights of boys… [^10]
+> Findings highlight important health and human rights implications resulting from infringements on the bodily integrity and future autonomy rights of boys… [^12]
 
 Martin Robbins argues that men should be able to choose whether they are circumcised or not
 
-> Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^11]
+> Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^13]
 
 ## Rape and Sexual Assault
 Section 128 of the Crimes Act 1961 defines *rape* as: 
@@ -109,13 +109,13 @@ Fourthly, rapists are stigmatised for their crimes. The stigma is not so great f
 
 [^8]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*. 2013
 
-[^9]: Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)
+[^9]: Pae Ora (Healthy Futures) Act 2022 Section 3(b)
 
-[^10]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
+[^10]: Casinader, Jehan . ['Men have it so easy' - why do NZ guys get minimal health support?](https://archive.ph/0wizg)  1 News, June 8, 2024
 
-[^11]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
+[^11]: Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)
 
-[^12]: Pae Ora (Healthy Futures) Act 2022 Section 3(b)
+[^12]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
 
-[^13]: Casinader, Jehan . ['Men have it so easy' - why do NZ guys get minimal health support?](https://archive.ph/0wizg)  1 News, June 8, 2024
+[^13]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
 
