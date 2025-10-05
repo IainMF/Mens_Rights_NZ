@@ -4,6 +4,7 @@ description: "Discusses discrimination against men in New Zealand and gives clea
 date: 2025-10-2
 ---
 
+## The right to be free from discrimiantion
 Section 19 of the New Zealand Bill of Rights 1990 act affirms men's right to be free from discrimination:
 
 > **19 Freedom from discrimination**
@@ -20,6 +21,7 @@ Article 26 of the ICCPR also requires the government to make discrimination ille
 
 ## Understanding Discrimination
 
+### International law
 The United Nations Human Rights Committee defines discrimination:
 
 > [T]he Committee believes that the term “discrimination” as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on... sex... which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms. [^1]
