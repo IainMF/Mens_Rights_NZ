@@ -1,6 +1,6 @@
 ---
-title: Discrimination New Zealand’s laws.
-description: New Zealand's laws explicitly discriminate against men and boys violating their right to be free from discrimination and their right to equality under the law.
+title: Legal Discrimination.
+description: New Zealand has laws that discriminate against men and boys violating their right to be free from discrimination and their right to equality under the law.
 ---
 
 Men have the right to be treated equally under the law. Article 7 of the *Universal Declaration of Human Rights* states: 
@@ -15,16 +15,15 @@ The Human Rights Commission states:
 Unfortunately, New Zealand has several laws that discriminate against men.
 
 ## Male Assaults Female
-Section 194 of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, male-assaults-female has a longer maximum sentence (2 years instead of 1 year) and does not fall under the more lenient 'bail of as right' provisions granted to persons charged with common assault.
+Section 194 of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year) and does not fall under the more lenient 'bail of as right' provisions granted to persons charged with common assault.
     
-In 2009 the Law Commission reviewed part eight of the Crimes Act[^2] and recommended repealing the ‘male-assaults-female’ offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, male-assaults-female is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
+In 2009 the Law Commission reviewed part eight of the Crimes Act[^2] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
 
-Male-assaults-female was used as a proxy to address family violence. The introduction of the Family and Whānau Violence Legislation Bill addressed the shortcomings of using male-assaults-female to address family violence. After all, family violence includes more than just a male assaulting a female. 
+*Male-assaults-female* was used as a proxy to address family violence. The introduction of the Family and Whānau Violence Legislation Bill addressed the shortcomings of using *male-assaults-female* to address family violence. After all, family violence includes more than just a male assaulting a female. 
 
 Both Amy Adams,[^3] justice minister for the introduction of the bill, and the Human Rights Commission recognised the limitation of male assaults female to address family violence. The Human Rights Commission states: “The law should reflect the seriousness of the assault and not the gender of the victim and perpetrator.”[^4]
 
-
-Despite the shortcomings of male-assaults-female being addressed in the proposed bill and the ineffectiveness of using the law for symbolic purposes Amy Adams recommended not repealing male assaults female because of the symbolism. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^5]
+Despite the shortcomings of *male-assaults-female* being addressed in the proposed bill and the ineffectiveness of using the law for symbolic purposes Amy Adams recommended not repealing *male-assaults-female* because of the symbolism. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^5]
 
 ### Other concerns about male assaults female
 The Criminal Investigations (Bodily Samples) Act 1995 allows investigators the ability to take bodily samples from people accused of certain crimes. Male assaults female is one of those crimes. The equivalent common assault is not.
