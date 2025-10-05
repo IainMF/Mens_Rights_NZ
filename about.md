@@ -6,5 +6,12 @@ description: "This website provides information about men's rights in New Zealan
  
 There are two main issues for addressing the human rights of men and boys. One, insufficient knowledge among policy-developers and decision-makers, and two, information about men's rights is scattered, making it difficult for anyone to increase their knowledge and address the previous point.
 
-This website aims to gather the relevant informtion about men's human rights in one place, making it easier for anyone to 
+This website aims to gather the relevant informtion about men's human rights in one place, making it easier for anyone to see what the issue are and to take action to address the issues.
+
+## Who made this?
+
+This website is made by Iain Fergusson. He has around 10 years of experience advocting for the human rights of men and boys. 
+
+
+
 
