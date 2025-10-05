@@ -23,6 +23,6 @@ Covenant should be understood to imply any distinction, exclusion, restriction o
 
 
 ## Discriminatory Laws
-[[discriminatory_laws]]
+[[discriminatory_laws|Legal discrimination]]
 
 [^1]: ICCPR General Comment 18 - para. 7
