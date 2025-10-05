@@ -1,7 +1,13 @@
 {
   "nav": {
     "logo": "logo.png",
-    "title": "Men's Rights New Zealand"
+    "title": "Men's Rights New Zealand",
+     "links": [
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ]
   },
   "showSidebar": true
 }
