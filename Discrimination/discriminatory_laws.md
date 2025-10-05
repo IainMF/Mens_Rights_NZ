@@ -85,10 +85,10 @@ Fourthly, rapists are stigmatised for their crimes. The stigma is not so great f
 ## Other discrimination in law.
 Some other laws treat men less favoutbaly than women.
 ### Equal pay
-The Equal Pay Act 1972 does not offer the same protection to men in jobs that are predominately male as it does for women in jobs that are predominately female. The law assume sthat women will always be the ones disadvantaged in matters of equal pay.
+The Equal Pay Act 1972 does not offer the same protection to men in jobs that are predominately male as it does for women in jobs that are predominately female. The law assumes that women will always be the ones disadvantaged in matters of equal pay.
 
 ### Good employer
-The Public Service Act 2020 requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for ... recognition of the employment requirements of women.
+The Public Service Act 2020 requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for ... recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but there is no requirement to recognise the employment requirements of men. 
 
 
 ## In other countries
