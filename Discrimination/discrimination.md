@@ -22,6 +22,6 @@ The United Nations Human Rights Committee defines discrimination:
 
 > [T]he Committee believes that the term “discrimination” as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on... sex... which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms. [^1]
 There are three important points here:
-One, discrimination can be an *act* or an *omission*.  That is discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required.
-
-Two,  
+One, discrimination can be an *act* or an *omission*.  For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required.
+Two, intent is not required for something to be discrimination. If an act, or omission, *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
+Three, discrimination includes impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
