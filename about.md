@@ -1,6 +1,10 @@
 ---
-title: "About Men's Rights New Zealand."
-description: "Explains the purpose of this website."
+title: "About Men's Rights New Zealand"
+description: "This website provides information about men's rights in New Zealand to highlight the human rights issues affecting men and boys and to support men’s advocates, human rights professionals, policymakers, and community organisations to improve outcomes for men and boys."
 ---
 # About
-Coming soon.
+ 
+There are two main issues for addressing the human rights of men and boys. One, insufficient knowledge among policy-developers and decision-makers, and two, information about men's rights is scattered, making it difficult for anyone to increase their knowledge and address the previous point.
+
+This website aims to gather the relevant informtion about men's human rights in one place, making it easier for anyone to 
+
