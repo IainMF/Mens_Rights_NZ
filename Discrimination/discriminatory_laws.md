@@ -1,5 +1,5 @@
 ---
-title: Discrimination against men in New Zealand’s laws.
+title: Discrimination New Zealand’s laws.
 description: New Zealand's laws explicitly discriminate against men and boys violating their right to be free from discrimination and their right to equality under the law.
 ---
 
