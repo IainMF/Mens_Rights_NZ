@@ -31,7 +31,13 @@ The Criminal Investigations (Bodily Samples) Act 1995 allows investigators the a
 
 ## Infanticide
 
-Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3 year prison sentence where murder has a maximum sentence of life imprisonment. Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where a woman he would have been charged with infanticide.[^6] 
+Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3 year prison sentence where murder has a maximum sentence of life imprisonment. Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where a woman he would have been charged with infanticide.
+
+> Another class of ‘neither nor’ defendants are the ‘deserving cases’. These are defendants suffering some mental impairment who, because of their circumstances, deserve reduced culpability in a way the law currently fails to provide. For example, in R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning. Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10), which was a causal factor in him killing the baby. He was held to be sane. As shall be discussed, infanticide is the only statutory form of reduced culpability for defendants suffering mental impairment short of insanity in New Zealand. **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^6]
+
+There is some support to replace infanticide with a gender neutral law.
+
+> Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^13]
 
 ## Adoption
 The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^7]
@@ -110,3 +116,5 @@ Fourthly, rapists are stigmatised for their crimes. The stigma is not so great f
 [^11]: Tim Hammond & Adrienne Carmack (2017): *Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*, The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
 
 [^12]: Robbins, Martin. *“Infant Male Circumcision Is Genital Mutilation.”* The Guardian, December 6, 2011↩
+
+[^13]:  *When mothers kill, but don’t go to jail* – Katie Kenny, Stuff.co.nz, November 24 2015↩
