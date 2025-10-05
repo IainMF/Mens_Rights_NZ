@@ -12,17 +12,16 @@ Section 19 of the New Zealand Bill of Rights 1990 act affirms men's right to be 
 > 
 > (2) Measures taken in good faith for the purpose of assisting or advancing persons or groups of persons disadvantaged because of discrimination that is unlawful by virtue of Part 2 of the Human Rights Act 1993 do not constitute discrimination.
 
-The [*International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) (ICCPR)* and the *International Covenant on Economic, Social and Cultural Rights* prohibit discrimination in the application of each convention. Article 26 of the ICCPR also requires the government to make discrimination illegal and to protect men from discrimination.
+The *[International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) (ICCPR)* and the *[International Covenant on Economic, Social and Cultural Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights) (ICESCR)* prohibit discrimination in the application of each convention. New Zealand ratified both conventions in 1978.
+
+Article 26 of the ICCPR also requires the government to make discrimination illegal and to protect men from discrimination.
+
 > All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
 
-Discrimination means:
-> [The Human Rights] Committee believes that the term “discrimination” as used in the
-Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on... sex... which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^1]
+The United Nations Human Rights Committee defines discrimination:
 
+> [T]he Committee believes that the term “discrimination” as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on... sex... which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms. [^1]
+There are three important points here:
+One, discrimination can be an *act* or an *omission*.  That is discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required.
 
-
-
-## Discriminatory Laws
-[[discriminatory_laws|Legal discrimination]]
-
-[^1]: ICCPR General Comment 18 - para. 7
+Two,  
