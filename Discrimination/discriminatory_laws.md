@@ -82,11 +82,16 @@ Thirdly, journalists reporting on female perpetrated sexual assaults cannot call
 
 Fourthly, rapists are stigmatised for their crimes. The stigma is not so great for sexual assault, which means male and female perpetrators do not experience the same stigma.
 
-## Equal pay
+## Other discrimination in law.
+Some other laws treat men less favoutbaly than women.
+### Equal pay
+The Equal Pay Act 1972 does not offer the same protection to men in jobs that are predominately male as it does for women in jobs that are predominately female. The law assume sthat women will always be the ones disadvantaged in matters of equal pay.
 
-## Good employer
+### Good employer
+The Public Service Act 2020 requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for ... recognition of the employment requirements of women.
 
-# In other countries
+
+## In other countries
 
 [Equi-Law in the UK found that seven instances of gender imbalances that disadvantage men and none that disadvantage women.](https://equi-law.uk/imbalanced-legislation/)
 
