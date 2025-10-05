@@ -1,5 +1,5 @@
 ---
-title: Discrimination Against Men in New Zealand
+title: Discrimination against men in New Zealand
 description: "Discusses discrimination against men in New Zealand and gives clear examples."
 date: 2025-10-2
 ---
