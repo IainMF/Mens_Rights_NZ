@@ -39,18 +39,19 @@ The United Nations Economic and Social Council adds some important points to dis
 > Non-discrimination is an immediate and cross-cutting obligation in the Covenant. Article 2, paragraph 2, requires States parties to guarantee non-discrimination in the exercise of each of the economic, social and cultural rights enshrined in the Covenant and can only be applied in conjunction with these rights. It is to be noted that discrimination constitutes any distinction, exclusion, restriction or preference or other differential treatment that is directly or indirectly based on the prohibited grounds of discrimination and which has the intention or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of Covenant rights. Discrimination also includes incitement to discriminate and harassment.[^2] 
 
 Important points:
+
 One, discrimination against men in the application of ICESCR must be addressed immediately.
+
 Two, discrimination includes incitement to discriminate. 
 
 ## Formal and Substantive Discrimination
-Formal discrimination is discrimination in laws and policy
-Substantive discrimination is 
+
+Formal discrimination is discrimination in laws and policy. 
 
 
+Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
 
 
-
-
-[^1]: [ICCPR General Comment 18](https://www.refworld.org/sites/default/files/legacy-pdf/en/1989-11/453883fa8.pdf) – para. 7
-[^2]: [ICCPR General Comment 18](https://www.refworld.org/sites/default/files/legacy-pdf/en/1989-11/453883fa8.pdf) – para. 5
-[^3]: ICESCR General Comment 20 – para. 7
+[^1]: [ICCPR General Comment 18](https://www.refworld.org/sites/default/files/legacy-pdf/en/1989-11/453883fa8.pdf) - para. 7
+[^2]: [ICCPR General Comment 18](https://www.refworld.org/sites/default/files/legacy-pdf/en/1989-11/453883fa8.pdf) - para. 5
+[^3]: ICESCR General Comment 20 - para. 7
