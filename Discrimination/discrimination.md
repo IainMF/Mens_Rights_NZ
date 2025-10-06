@@ -4,8 +4,8 @@ description: "Discusses discrimination against men in New Zealand and gives clea
 date: 2025-10-2
 ---
 
-## The right to be free from discrimiantion
-Section 19(1) of the New Zealand Bill of Rights 1990 says "Everyone has the right to freedom from discrimination on the grounds of discrimination in the Human Rights Act 1993."
+## The right to be free from discrimination
+Men have the right to be free from discrimination. Section 19(1) of the New Zealand Bill of Rights 1990 says "Everyone has the right to freedom from discrimination on the grounds of discrimination in the Human Rights Act 1993."
 
 Article 7 of the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) (UDHR) states:
 
