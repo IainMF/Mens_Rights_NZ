@@ -39,6 +39,10 @@ Police are more likely to use force against men than women. A review of TASER us
 > It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^11] 
 > Emphasis added
 
+> Women are significantly less likely to be TASERed despite demonstrating more assaultive behaviour in TASER video footage. Men were more likely to be TASERed for what appeared to be compliance, or for ‘passive resistant behaviour’. Video observations indicate far less assaultive behaviour than women. Officers consider the gender of the individual, particularly before discharging a TASER.[^12]
+
+> 
+
 [^1]: Department of Corrections - [Prison facts and statistics - June 2025](https://www.corrections.govt.nz/resources/statistics/quarterly_prison_statistics/prison_facts_and_statistics_-_june_2025) 
 
 [^2]:  Criminal Justice in New Zealand - Julia Tolmie, Warren Brookbanks, 2007 p 302 - ISBN 0408718846, 9780408718844
@@ -59,5 +63,6 @@ Police are more likely to use force against men than women. A review of TASER us
 
 [^10]: ICCPR General Comment 35, paragraph 9
 
-[^11]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research.
+[^11]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 30.
 
+[^12]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 45.
