@@ -60,5 +60,3 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 [^2]:ICCPR General Comment 18, paragraph 5
 
 
-
-
