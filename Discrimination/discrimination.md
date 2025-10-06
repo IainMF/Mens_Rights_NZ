@@ -23,3 +23,23 @@ The *[International Covenant on Civil and Political Rights](https://www.ohchr.or
 Article 26 of the ICCPR also requires the government to make discrimination illegal and to protect men from discrimination.
 
 > All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
+
+## Understanding Discrimination
+
+The United Nations Human Rights Committee defines discrimination:
+
+> [T]he Committee believes that the term “discrimination” as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on... sex... which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms. [^1]
+
+There are three important points here:
+
+One, discrimination can be an *act* or an *omission*. For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required. The Human Rights Committee gives an example, of when States are required to act:
+
+> For example, article 23, paragraph 4, stipulates that States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^2]
+
+Two, intent is not required for something to be discrimination. If an act, or omission, *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
+
+Three, discrimination includes impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
+
+The United Nations Economic and Social Council adds some important points to discrimination under ICESCR.
+
+> Non-discrimination is an immediate and cross-cutting obligation in the Covenant. Article 2, paragraph 2, requires States parties to guarantee non-discrimination in the exercise of each of the economic, social and cultural rights enshrined in the Covenant and can only be applied in conjunction with these rights. It is to be noted that discrimination constitutes any distinction, exclusion, restriction or preference or other differential treatment that is directly or indirectly based on the prohibited grounds of discrimination and which has the intention or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of Covenant rights. Discrimination also includes incitement to discriminate and harassment.[^2]
