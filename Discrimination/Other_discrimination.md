@@ -43,7 +43,32 @@ Police discriminate against men when considering whether to use force. They are 
 
 > Women are significantly less likely to be TASERed despite demonstrating more assaultive behaviour in TASER video footage. Men were more likely to be TASERed for what appeared to be compliance, or for ‘passive resistant behaviour’. Video observations indicate far less assaultive behaviour than women. Officers consider the gender of the individual, particularly before discharging a TASER.[^12]
 
-> 
+## Violence Prevention
+
+New Zealand discriminates against men in its violence prevention programmes. Male victims are not fully considered, and the barriers for men to receive support are not addressed.
+
+### It's Not Okay
+
+> The “it’s not ok” campaign, launched in 2008, focuses on people who have changed their violent behaviour towards women and children, and encourages others to ask for help. The campaign has played a key role in mobilising communities to get involved in family violence prevention and is built around three key elements: community action, communication and research. Research in 2010 revealed that 58 percent of people who recall the “it’s not ok” campaign have taken some kind of action as a result, up from 31 percent in 2008.[^13]
+
+### White Ribbon
+
+> New Zealand supports the global White Ribbon campaign, which is led by men who condemn violence against women and want to take action. The simplest way to support the campaign is to wear a white ribbon as a personal and public pledge to never commit, condone or remain silent about violence towards women.[^14]
+
+### Government websites
+Many government websites provide information for women who are victims of family violence. A small button allows women seeking information on family violence services to access the information without creating entries in their internet or search history.[^15]
+The information states:
+
+> We warmly welcome all women and their children to access our support, advocacy and crisis accommodation. If you need help or have questions, use our live chat to get in touch.
+
+Information for men is not provided. This discrimination is another missed opportunity to support male victims and  prevent further violence against men.
+
+## Health Strategy
+New Zealand has a women’s health strategy[^16] that will set “long-term priorities which will guide the health system progress towards equity and healthy futures for women.”
+
+The Ministry Of Health says there “will also be equity of health outcomes between men and women”[^17] but does not have a strategy to improve men’s health where it lags behind women’s health.
+
+The Government recognises that the Strategy “will contribute women’s rights to the highest attainable standard of health and wellbeing, and rights to be free from discrimination.”[^18] Men also have those rights, but there is no complementary men’s health strategy. Men have shorter life-expectancy, higher rates of amenable mortality, high suicide rates and other significant health issues.
 
 [^1]: Department of Corrections - [Prison facts and statistics - June 2025](https://www.corrections.govt.nz/resources/statistics/quarterly_prison_statistics/prison_facts_and_statistics_-_june_2025) 
 
@@ -68,3 +93,16 @@ Police discriminate against men when considering whether to use force. They are 
 [^11]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 30.
 
 [^12]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 45.
+
+[^13]: New Zealand's 4th UNCAT report
+
+[^14]: New Zealand's 4th UNCAT report
+
+[^15]: See [https://shielded.co.nz/](https://shielded.co.nz/) for more information
+
+[^16]: Ministry of Health – [Women’s Health Strategy](https://archive.ph/VF8Xf)
+
+[^17]:  Ministry of Health – [Women’s Health Strategy](https://archive.ph/VF8Xf)
+
+[^18]: Old version of webpage.  [https://archive.ph/gfWoJ](https://archive.ph/gfWoJ) Quote removed in current version.
+
