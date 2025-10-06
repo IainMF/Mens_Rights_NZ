@@ -448,7 +448,45 @@ Von Hipple[^50] investigated bias among social scientists and provides this insi
 Likewise, Stewart-Williams[^51] found after viewing “a fictional popular-science article describing either a male-favouring or a female-favouring sex difference (i.e., men/women draw better; women/men lie more). Both sexes reacted less positively to the male-favouring differences, judging the findings to be less important, less credible, and more offensive, harmful, and upsetting.”
 
 
+# Recommendations:
 
+1. Create a position with the explicit and exclusive responsibility for improving outcomes for male victims. Including by
+
+	a. Identifying and removing systemic barriers facing male victims
+
+	b. Identify instances where secondary abuse can occur and reduce them
+
+	c. Providing expertise to the government regarding male victims.
+
+	d. Making public statements, media appearances, and other educational and awareness raising measures regarding male victims.
+
+	e. Listening to and consulting with male victims and their advocates.
+
+2. Explicitly, repeatedly and publicly proclaim the government’s
+
+	a. commitment to support male victims; and
+
+	b. recognition of the unique experiences and challenges of male victims, including previous inadequacy of the system.
+
+3. Address laws that minimise male victims experiences.
+
+	a. amend the crimes act so rape is non-consensual sex, not penile penetration
+
+	b. repeal ‘male assaults female’
+
+4. Commission research on the experiences of male victims using methods specifically designed to capture males experiences.
+
+5. Create a public awareness campaign for male victims, especially of female perpetrators.
+
+6. Ensure government websites providing information for victims explicitly identify the services that are available to male victims.
+
+7. Change the Ministry of Health guidelines to ask male patients about family violence as a matter of routine, not just when the doctor suspects victimisation.
+
+8. Explicitly include male victims voices, experiences and needs when training police, justice system officials, health workers, social services etc.
+
+9. Prohibit public servants from supporting White Ribbon in their official capacity.
+
+10. Remove Duluth model, models based on the Duluth model from government policy and practice.
 
 
  
@@ -554,6 +592,7 @@ Likewise, Stewart-Williams[^51] found after viewing “a fictional popular-scien
 [^50]:von Hippel, William & Buss, David. (2017). Do Ideologically Driven Scientific Agendas Impede the Understanding and Acceptance of Evolutionary Principles in Social Psychology?. 10.4324/9781315112619-2.
 
 [^51]:https://www.researchgate.net/publication/334751470\_Reactions\_to\_Male-Favouring\_vs\_Female-Favouring\_Sex\_Differences\_A\_Preregistered\_Experiment\_and\_Southeast\_Asian\_Replication
+
 
 
 
