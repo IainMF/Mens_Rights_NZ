@@ -50,3 +50,10 @@ One, discrimination against men in the application of ICESCR must be addressed i
 
 Two, discrimination includes incitement to discriminate. 
 
+## Formal and Substantive Discrimination
+
+Formal discrimination is discrimination in laws and policy. 
+
+Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
+
+
