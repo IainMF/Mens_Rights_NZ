@@ -1,3 +1,4 @@
 blockquote {
-    font-weight: normal;
+    font-weight: normal !important;
+    font-style: italic !important;
 }
