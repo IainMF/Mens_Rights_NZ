@@ -22,6 +22,8 @@ Although men face significant discrimination and are significantly over-represen
 
 ### Sentencing Guidelines for sexual offences
 
+Men who are victims of sexual assault by a woman do not receive the same level of justice as women assaulted by men.
+
 New Zealand’s rape and sexual assault law and subsequent sentencing guidelines treat women who have non-consensual sex with men more leniently than men who have non-consensual with women. Sentencing guidelines released by the Court of Appeal make a clear distinction between rape by penetration and other forms of sexual assault.[^8] This creates a significant difference between men and women. For example, a man having sex with a women without her consent, with no aggravating factors, is recommended a 6-8 years sentence, in the reverse situation the women is recommended a 2-5 year sentence.
 
 ## Bias against men in family mediation
@@ -34,7 +36,7 @@ Men have the right to be protected from excessive force from the Police:
 
  >The right to security of person protects individuals against intentional infliction of bodily or mental injury, regardless of whether the victim is detained or non-detained... \[States] should also prevent and redress unjustifiable use of force in law enforcement,  and protect their populations against abuses by private security forces, and against the risks posed by excessive availability of firearms. [^10]
 
-Police are more likely to use force against men than women. A review of TASER use in the Police found:
+Police discriminate against men when considering whether to use force. They are more likely to use force against men than women. A review of TASER use in the Police found:
 
 > It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^11] 
 > Emphasis added
