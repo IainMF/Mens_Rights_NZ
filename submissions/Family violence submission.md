@@ -50,3 +50,24 @@ So in the context of male victims:
 * The system must be compassionate and responsive to male victims.
 
 Previous systems have not done those things.
+
+## System causing harm and secondary abuse
+
+> The current family violence system can result in a range of unintentionally harmful responses to victims
+> 
+> *FVDRC 5th report - think differently about family violence*
+
+The failure of previous governments to fully involve and consider the needs of male victims has harmed male victims. Abusers have been enabled to continue abuse of male victims and the system itself contributes to secondary abuse.
+
+Secondary abuse occurs when victims are treated badly by ‘support’ services.
+
+> Participants also reported secondary abusive experiences, with police and other support services responding with ridicule, doubt, indifference, and victim arrest.
+>  
+> *Male Victims of Female-Perpetrated Intimate Partner Violence, Help-Seeking, and Reporting Behaviors: A Qualitative Study*
+
+The result of secondary abuse is higher risk of mental health issues.
+
+> if victims are subjected to secondary victimisation, for example victim blaming, ridicule and dismissal, and not given the support they require, male victims are at increased risk of anxiety, depression and PTSD
+> 
+>*Male Victims of Intimate Partner Violence: A Challenge to the Gendered Paradigm - Deborah Powney and Nicola Graham-Kevan*[^5] 
+
