@@ -42,7 +42,7 @@ Three, discrimination includes impairing the recognition of men’s rights on eq
 
 The United Nations Economic and Social Council adds some important points to discrimination under ICESCR.
 
-> Non-discrimination is an immediate and cross-cutting obligation in the Covenant. Article 2, paragraph 2, requires States parties to guarantee non-discrimination in the exercise of each of the economic, social and cultural rights enshrined in the Covenant and can only be applied in conjunction with these rights. It is to be noted that discrimination constitutes any distinction, exclusion, restriction or preference or other differential treatment that is directly or indirectly based on the prohibited grounds of discrimination and which has the intention or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of Covenant rights. Discrimination also includes incitement to discriminate and harassment.[^2]
+> Non-discrimination is an immediate and cross-cutting obligation in the Covenant. Article 2, paragraph 2, requires States parties to guarantee non-discrimination in the exercise of each of the economic, social and cultural rights enshrined in the Covenant and can only be applied in conjunction with these rights. It is to be noted that discrimination constitutes any distinction, exclusion, restriction or preference or other differential treatment that is directly or indirectly based on the prohibited grounds of discrimination and which has the intention or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of Covenant rights. Discrimination also includes incitement to discriminate and harassment.[^3]
 
 Important points:
 
@@ -58,5 +58,6 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 
 [^1]:ICCPR General Comment 18, paragraph 7
 [^2]:ICCPR General Comment 18, paragraph 5
+[^3]:ICESCR General Comment 20, paragraph 7
 
 
