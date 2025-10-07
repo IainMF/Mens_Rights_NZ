@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.3220258"
-     inkscape:cx="315.80321"
-     inkscape:cy="233.7322"
+     inkscape:zoom="1.166217"
+     inkscape:cx="172.78088"
+     inkscape:cy="387.57794"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <defs
      id="defs1">
     <rect
@@ -47,15 +47,61 @@
        width="569.63239"
        height="164.73875"
        id="rect2-2" />
+    <linearGradient
+       id="swatch309"
+       inkscape:swatch="solid"
+       inkscape:label="legend box">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop309" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch283"
+       id="linearGradient304"
+       gradientUnits="userSpaceOnUse"
+       x1="3054.0081"
+       y1="6785.5732"
+       x2="17148.436"
+       y2="6785.5732"
+       gradientTransform="translate(7325.7002,6592.2285)" />
+    <linearGradient
+       id="swatch283"
+       inkscape:swatch="solid"
+       inkscape:label="Female">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop283" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch283"
+       id="linearGradient305"
+       gradientUnits="userSpaceOnUse"
+       x1="3035.6106"
+       y1="4681.0703"
+       x2="17161.623"
+       y2="4681.0703"
+       gradientTransform="translate(7325.1239,6717.8858)" />
+    <rect
+       x="134.25139"
+       y="731.16193"
+       width="569.63239"
+       height="164.73875"
+       id="rect2-1" />
   </defs>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-28.626804,-38.119171)">
+     id="layer3"
+     inkscape:label="BG elements"
+     style="display:inline">
     <g
-       id="g1"
-       transform="translate(18.73044,9.573413)">
+       id="g2"
+       transform="translate(-9.8963639,-24.689195)"
+       inkscape:label="shading"
+       style="display:inline">
       <rect
          style="display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
          id="rect98"
@@ -84,13 +130,26 @@
          id="use100"
          transform="translate(36.034874)"
          style="display:inline" />
+    </g>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke"
+       id="rect1"
+       width="148.36208"
+       height="76.886185"
+       x="18.884119"
+       y="14.527339" />
+    <g
+       id="g3"
+       inkscape:label="Chart lines"
+       transform="matrix(1.0148385,0,0,1,-10.323425,-24.689195)"
+       style="fill:none">
       <use
          x="0"
          y="0"
          xlink:href="#use8"
          id="use9"
          transform="translate(-7.2776281e-8,10.98374)"
-         style="display:inline" />
+         style="display:inline;fill:none" />
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
          d="M 28.780482,39.216535 H 177.14256"
@@ -101,49 +160,127 @@
          xlink:href="#path3"
          id="use3"
          transform="translate(7.2776281e-8,10.98374)"
-         style="display:inline" />
+         style="display:inline;fill:none" />
       <use
          x="0"
          y="0"
          xlink:href="#use3"
          id="use4"
          transform="translate(7.2776281e-8,10.98374)"
-         style="display:inline" />
+         style="display:inline;fill:none" />
       <use
          x="0"
          y="0"
          xlink:href="#use4"
          id="use5"
          transform="translate(7.2776281e-8,10.98374)"
-         style="display:inline" />
+         style="display:inline;fill:none" />
       <use
          x="0"
          y="0"
          xlink:href="#use5"
          id="use6"
          transform="translate(7.2776281e-8,10.98374)"
-         style="display:inline" />
+         style="display:inline;fill:none" />
       <use
          x="0"
          y="0"
          xlink:href="#use6"
          id="use7"
          transform="translate(7.2776281e-8,10.98374)"
-         style="display:inline" />
+         style="display:inline;fill:none;stroke-width:25.31983445;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
       <use
          x="0"
          y="0"
          xlink:href="#use7"
          id="use8"
          transform="translate(7.2776281e-8,10.98374)"
-         style="display:inline" />
+         style="display:inline;fill:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="36.087311"
+       y="6.9236188"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="36.087311"
+         y="6.9236188">Suicide rate, by sex, three-year moving average, 1921–2003</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="64.546959"
+       y="12.292006"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="64.546959"
+         y="12.292006">Age-standardised rate per 100,000</tspan></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0622013;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 35.793035,91.450118 v 1.794747"
+       id="path5" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path5"
+       id="use10"
+       transform="translate(17.951059)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use10"
+       id="use11"
+       transform="translate(18.055377)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11"
+       id="use12"
+       transform="translate(18.001429)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use12"
+       id="use13"
+       transform="translate(17.989676)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use13"
+       id="use14"
+       transform="translate(18.001429)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use14"
+       id="use15"
+       transform="translate(18.033445)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use15"
+       id="use16"
+       transform="translate(18.001429)" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.626804,-38.119171)">
+    <g
+       id="g1"
+       transform="translate(18.73044,13.429976)">
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
          d="m 31.232137,62.05289 1.826229,1.40094 1.801214,-0.27519 1.851245,-0.9006 1.751179,-5.95401 1.801214,0.025 1.851248,-4.42798 1.851244,4.77821 1.701147,-3.87761 1.826231,-0.17511 1.851244,0.50033 1.701147,6.80458 1.851247,9.43136 1.826228,5.07842 1.67613,4.92832 1.851247,-3.02704 1.801212,-0.67546 1.90128,-2.12643 1.751179,4.57808 1.826231,2.40162 1.776196,4.42798 1.676127,-0.05 1.951316,-0.65044 1.726162,-1.67613 1.776196,2.45165 1.876263,-0.1501 1.826231,0.10007 1.701144,-2.27653 1.876264,0.52535 1.801214,-0.82556 1.826228,1.17579 1.776196,0.42529 1.726163,0.50034 1.926296,-0.17512 1.726163,-0.05 1.876263,-1.17579 1.776201,-0.42529 1.70114,0.52535 1.87627,0.40027 1.751174,0.67546 1.85125,-0.50034 1.7762,2.8269 1.77619,-1.07572 1.80122,0.7505 1.82623,-3.65246 1.75117,-0.55037 1.82624,-1.45097 1.77619,1.20081 1.90128,2.50168 1.85125,0.97566 1.77619,0.3002 1.75118,-1.65111 1.67613,-0.32522 1.97633,-0.3002 1.72616,-3.42731 1.80122,0.17512 1.82623,-0.70047 1.77619,2.30154 1.80122,-1.80121 1.82623,-1.42596 1.80121,-0.62542 1.72616,-2.25151 1.97633,0.65043 1.7762,-2.47667 1.75118,-2.72683 1.75118,-5.57876 1.77619,-3.00202 1.82623,0.57539 1.75118,0.10006 1.82623,-0.55037 1.87627,1.02569 1.82622,-0.6004 1.70115,-0.70047 1.82623,-3.37728 1.82623,-1.07572 1.75118,-0.50034 1.75118,1.90128 1.85125,3.10209 1.80121,3.05206 1.7762,1.47599 1.82622,0.67546"
          id="path1"
          inkscape:label="male" />
       <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-dasharray:0.7,0.7;stroke-dashoffset:0;paint-order:fill markers stroke"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-dasharray:0.7, 0.7;stroke-dashoffset:0;paint-order:fill markers stroke"
          d="m 31.226684,102.66888 1.839717,0.0354 1.768959,0.14151 1.839717,-1.45054 1.804337,1.55668 1.839716,-1.83972 1.733579,-0.99061 1.875097,-0.74296 1.698199,3.36102 1.875097,0.42455 1.839714,-0.91986 1.804339,-0.74296 1.698199,1.62744 1.875097,1.06137 1.698199,-1.83971 1.875094,-0.28304 1.804339,-0.88448 1.768957,2.37041 1.910477,0.17689 1.662819,-0.95524 1.910474,-0.35379 1.698201,0.14152 1.910475,0.77834 1.768959,-1.13213 1.662819,0.8491 1.804339,0.0708 1.910474,0.0354 1.768957,-0.0354 1.910477,1.37978 1.698199,1.13214 1.804336,0.0708 1.733579,0.0354 2.016612,-0.42455 1.627441,-1.27364 1.73358,-1.23828 1.910476,-0.10613 1.839712,1.5213 1.76896,0.1769 1.76896,0.53068 1.768964,-1.16751 1.80434,-1.5213 1.91047,-1.6982 1.76896,-0.81372 1.6982,0.31841 h 1.87509 l 1.76896,-0.0354 1.80434,-0.24765 1.6982,-0.42455 1.94585,0.35379 1.73358,0.53068 1.83972,1.13214 1.80434,0.35379 1.73358,-0.10614 1.80433,-0.70758 1.8751,-0.8491 1.73358,-0.60145 1.76896,0.3538 1.98123,0.28303 1.62744,1.98123 1.8751,-0.70758 1.80433,0.56607 1.83972,-0.53069 1.76896,1.30903 1.94585,-0.24766 1.66282,-0.42455 1.80434,-0.45993 1.73358,0.99062 1.80434,0.38917 1.87509,0.38917 h 1.66282 l 1.8751,0.0708 1.87509,-0.0708 1.66282,-0.91986 1.8751,-0.56606 1.80434,-0.88448 1.66282,-0.74297 1.94585,-0.63682 1.8751,1.80434 1.76896,0.8491 1.73357,0.88448 1.76896,-2.15813"
          id="path2"
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
@@ -156,218 +293,286 @@
          inkscape:label="Citation"><tspan
            x="199.90126"
            y="743.57541"
-           id="tspan4">Citation: Ministry of Health. 2006. New Zealand Suicide Trends: Mortality
+           id="tspan1">Citation: Ministry of Health. 2006. New Zealand Suicide Trends: Mortality
 </tspan><tspan
            x="232.97454"
            y="760.24204"
-           id="tspan7">1921–2003, hospitalisations for intentional self-harm 1978–2004.
+           id="tspan2">1921–2003, hospitalisations for intentional self-harm 1978–2004.
 </tspan><tspan
            x="248.71447"
            y="776.90866"
-           id="tspan8">Monitoring Report No 10. Wellington: Ministry of Health.</tspan></text>
+           id="tspan6">Monitoring Report No 10. Wellington: Ministry of Health.</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-         x="26.02247"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="182.4153"
          y="40.468666"
          id="text90"><tspan
            sodipodi:role="line"
            id="tspan90"
-           style="stroke-width:0.264583;font-size:4.23333333px"
-           x="26.02247"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="182.4153"
            y="40.468666">35</tspan><tspan
            sodipodi:role="line"
-           style="stroke-width:0.264583;font-size:4.23333333px"
-           x="26.02247"
-           y="44.87838"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="182.4153"
+           y="45.76033"
            id="tspan91" /></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-         x="25.983665"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="182.38142"
          y="51.425941"
          id="text92"><tspan
            sodipodi:role="line"
            id="tspan92"
-           style="stroke-width:0.264583;font-size:4.23333333px"
-           x="25.983665"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="182.38142"
            y="51.425941">20</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-         x="26.02247"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="182.38142"
          y="62.383202"
          id="text93"><tspan
            sodipodi:role="line"
            id="tspan93"
-           style="stroke-width:0.264583;font-size:4.23333333px"
-           x="26.02247"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="182.38142"
            y="62.383202">25</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-         x="25.983665"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="182.38142"
          y="73.340469"
          id="text94"><tspan
            sodipodi:role="line"
            id="tspan94"
-           style="stroke-width:0.264583;font-size:4.23333333px"
-           x="25.983665"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="182.38142"
            y="73.340469">20</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-         x="26.02247"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="182.21632"
          y="84.297722"
          id="text95"><tspan
            sodipodi:role="line"
            id="tspan95"
-           style="stroke-width:0.264583;font-size:4.23333333px"
-           x="26.02247"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="182.21632"
            y="84.297722">15</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-         x="25.983665"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="182.21632"
          y="95.254982"
          id="text96"><tspan
            sodipodi:role="line"
            id="tspan96"
-           style="stroke-width:0.264583;font-size:4.23333333px"
-           x="25.983665"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="182.21632"
            y="95.254982">10</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-         x="26.904413"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="181.32309"
          y="106.21226"
          id="text97"><tspan
            sodipodi:role="line"
            id="tspan97"
-           style="stroke-width:0.264583;font-size:4.23333333px"
-           x="26.904413"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="181.32309"
            y="106.21226">5</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-         x="26.865606"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="181.36966"
          y="117.16952"
          id="text98"><tspan
            sodipodi:role="line"
            id="tspan98"
-           style="stroke-width:0.264583;font-size:4.23333333px"
-           x="26.865606"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="181.36966"
            y="117.16952">0</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
          x="45.572369"
          y="122.11839"
          id="text100"><tspan
            sodipodi:role="line"
            id="tspan100"
-           style="stroke-width:0.264583;font-size:4.23333333px"
+           style="font-size:4.23333px;stroke-width:0.264583"
            x="45.572369"
            y="122.11839">1930</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
          x="63.565067"
          y="122.11839"
          id="text101"><tspan
            sodipodi:role="line"
            id="tspan101"
-           style="stroke-width:0.264583;font-size:4.23333333px"
+           style="font-size:4.23333px;stroke-width:0.264583"
            x="63.565067"
            y="122.11839">1940</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
          x="81.557777"
          y="122.11839"
          id="text102"><tspan
            sodipodi:role="line"
            id="tspan102"
-           style="stroke-width:0.264583;font-size:4.23333333px"
+           style="font-size:4.23333px;stroke-width:0.264583"
            x="81.557777"
            y="122.11839">1950</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
          x="99.550491"
          y="122.11839"
          id="text103"><tspan
            sodipodi:role="line"
            id="tspan103"
-           style="stroke-width:0.264583;font-size:4.23333333px"
+           style="font-size:4.23333px;stroke-width:0.264583"
            x="99.550491"
            y="122.11839">1960</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
          x="117.54319"
          y="122.11839"
          id="text104"><tspan
            sodipodi:role="line"
            id="tspan104"
-           style="stroke-width:0.264583;font-size:4.23333333px"
+           style="font-size:4.23333px;stroke-width:0.264583"
            x="117.54319"
            y="122.11839">1970</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
          x="135.5359"
          y="122.11839"
          id="text105"><tspan
            sodipodi:role="line"
            id="tspan105"
-           style="stroke-width:0.264583;font-size:4.23333333px"
+           style="font-size:4.23333px;stroke-width:0.264583"
            x="135.5359"
            y="122.11839">1980</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
          x="153.52861"
          y="122.11839"
          id="text106"><tspan
            sodipodi:role="line"
            id="tspan106"
-           style="stroke-width:0.264583;font-size:4.23333333px"
+           style="font-size:4.23333px;stroke-width:0.264583"
            x="153.52861"
            y="122.11839">1990</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
          x="171.5901"
          y="122.11839"
          id="text107"><tspan
            sodipodi:role="line"
            id="tspan107"
-           style="stroke-width:0.264583;font-size:4.23333333px"
+           style="font-size:4.23333px;stroke-width:0.264583"
            x="171.5901"
            y="122.11839">2000</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:pre;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       x="49.761082"
-       y="77.67276"
-       id="text1"><tspan
-         sodipodi:role="line"
-         id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1;font-size:4.23333333px"
-         x="53.417614"
-         y="77.67276">Male</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:pre;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       x="49.768135"
-       y="119.37862"
-       id="text3"><tspan
-         sodipodi:role="line"
-         id="tspan3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         x="49.768135"
-         y="119.37862">Female</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g310"
+       transform="matrix(0.00997863,0,0,0.00992466,-58.613739,-76.965695)"
+       style="display:inline"
+       inkscape:label="Legend">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:26.4583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+         id="rect305"
+         width="2560.77"
+         height="1106.8024"
+         x="7766.3159"
+         y="9218.709" />
+      <g
+         id="g309"
+         transform="translate(-24.277333,43.721125)">
+        <g
+           id="g304"
+           transform="translate(-105.41918,125.65733)"
+           style="display:inline">
+          <path
+             fill="none"
+             stroke="#ff420e"
+             stroke-width="100"
+             stroke-linejoin="round"
+             d="m 8101.4544,9805.6266 h 799"
+             id="path272"
+             style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient304);stroke-width:60;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:60, 60;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+          <text
+             class="SVGTextShape"
+             id="text277"
+             x="141.45474"
+             y="1120.6266"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math'"><tspan
+               class="TextParagraph"
+               id="tspan277"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math'"><tspan
+                 class="TextPosition"
+                 x="9000.4551"
+                 y="9925.627"
+                 id="tspan276"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math'"><tspan
+                   font-family="'Liberation Sans', sans-serif"
+                   font-size="353px"
+                   font-weight="400"
+                   fill="#000000"
+                   stroke="none"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';white-space:pre"
+                   id="tspan275">female</tspan></tspan></tspan></text>
+        </g>
+        <g
+           id="g305"
+           transform="translate(-104.84288)"
+           style="display:inline">
+          <path
+             fill="none"
+             stroke="#004586"
+             stroke-width="100"
+             stroke-linejoin="round"
+             d="m 8100.8781,9502.5202 h 800"
+             id="path271"
+             style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient305);stroke-width:60;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+          <text
+             class="SVGTextShape"
+             id="text274"
+             x="2178.8403"
+             y="817.5202"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math'"><tspan
+               class="TextParagraph"
+               id="tspan274"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math'"><tspan
+                 class="TextPosition"
+                 x="9158.8398"
+                 y="9622.5205"
+                 id="tspan273"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math'"><tspan
+                   font-family="'Liberation Sans', sans-serif"
+                   font-size="353px"
+                   font-weight="400"
+                   fill="#000000"
+                   stroke="none"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';white-space:pre"
+                   id="tspan272">male</tspan></tspan></tspan></text>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
