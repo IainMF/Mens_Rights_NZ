@@ -4,6 +4,34 @@ description: New Zealand violates men's right right to be free from discriminati
 ---
 ## Discrimination in the Justice system
 
+### Police use of force
+
+Men have the right to be protected from excessive force from the Police:
+
+ >The right to security of person protects individuals against intentional infliction of bodily or mental injury, regardless of whether the victim is detained or non-detained... \[States] should also prevent and redress unjustifiable use of force in law enforcement,  and protect their populations against abuses by private security forces, and against the risks posed by excessive availability of firearms. [^10]
+
+Police discriminate against men when considering whether to use force. They are more likely to use force against men than women. A review of TASER use in the Police found:
+
+> It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^11] 
+> Emphasis added
+
+> Women are significantly less likely to be TASERed despite demonstrating more assaultive behaviour in TASER video footage. Men were more likely to be TASERed for what appeared to be compliance, or for ‘passive resistant behaviour’. Video observations indicate far less assaultive behaviour than women. Officers consider the gender of the individual, particularly before discharging a TASER.[^12]
+
+### Prosecutions
+Brown[^19] studied Police administrative data to investigate factors that may influence the likelihood of prosecution. He includes data from official statistics and previous studies.
+
+Brown reports that official statistics show "Males made up over 76% of proceedings and were prosecuted at a higher rate than females, 72.5% vs 65% respectively."
+
+Brown reports the results of  two internal Police studies from 2018 and 2020.
+
+> On average, males were 12\% more likely to be prosecuted than females for the same offence. For the particular crimes measured, Police were far more likely to prosecute males over females. The 2018 report stated that for ‘Threatening Behaviour’, Police were 64\% more likely to prosecute males. The 2020 report found that, for ‘Resist or Hinder Officer or Justice Official’, males were 45\% more likely to be prosecuted. Both studies found that sex was not a significant factor in other crime types such as ‘Possess Illicit Drugs’, and ‘Theft from Retail Premises’.
+
+> The studies found evidence that sex and ethnicity affect the prosecution decision for certain crime types (even after controlling for other factors, such as criminal history). While not apparent for all offence types measured, they found that the odds of prosecution for males, on average, are significantly greater than females for some offence types (Assault, Disorderly Conduct)
+
+Brown's research did not find a significant difference between males and females in the decision to prosecute overall. However, "There is some variability when looking at specific offences. Males are significantly more likely to be prosecuted for ‘Dangerous Driving’ (90%), are over twice as likely to be prosecuted for ‘Threatening Behaviour’ (110%), and ‘Property Damage’ (51%). Females are significantly more likely to be prosecuted for ‘Possessing Illicit Drugs’ (32%) and ‘Trespassing’ (29%)."
+
+### Sentencing and prison
+
 Men are over-represented in prison compared to women. In June 2025, 92.4% of prisoners were male and 7.6% were female.[^1]
 
 Women who enter the justice system are filtered out at every natural attrition point more than men. Men are more likely to be prosecuted rather than given an alternative like being warned or discharged without conviction. Men are more likely to be sent to prison once convicted. Men receive longer sentences on average and are less likely to be released on parole.[^2] This bias against men is consistent with international research.[^3]
@@ -30,18 +58,6 @@ New Zealand’s rape and sexual assault law and subsequent sentencing guidelines
 
 Nurit Zubery studied men’s experiences of family mediation and found issues with the “mediator’s bias against fathers” and “the devaluation of fatherhood”[^9]
 
-## Police use of force
-
-Men have the right to be protected from excessive force from the Police:
-
- >The right to security of person protects individuals against intentional infliction of bodily or mental injury, regardless of whether the victim is detained or non-detained... \[States] should also prevent and redress unjustifiable use of force in law enforcement,  and protect their populations against abuses by private security forces, and against the risks posed by excessive availability of firearms. [^10]
-
-Police discriminate against men when considering whether to use force. They are more likely to use force against men than women. A review of TASER use in the Police found:
-
-> It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^11] 
-> Emphasis added
-
-> Women are significantly less likely to be TASERed despite demonstrating more assaultive behaviour in TASER video footage. Men were more likely to be TASERed for what appeared to be compliance, or for ‘passive resistant behaviour’. Video observations indicate far less assaultive behaviour than women. Officers consider the gender of the individual, particularly before discharging a TASER.[^12]
 
 ## Violence Prevention
 
@@ -105,4 +121,6 @@ The Government recognises that the Strategy “will contribute women’s rights 
 [^17]:  Ministry of Health – [Women’s Health Strategy](https://archive.ph/VF8Xf)
 
 [^18]: Old version of webpage.  [https://archive.ph/gfWoJ](https://archive.ph/gfWoJ) Quote removed in current version.
+
+[^19]: Brown Paul. (2024) The Assessment of Factors Influencing Police Prosecution Decision-Making
 
