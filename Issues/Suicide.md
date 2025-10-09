@@ -32,10 +32,11 @@ The Government has released their Suicide Prevention Action Plan 2025–2029.[^5
 
 ## Issues in addressing male suicide
 
-Reasearch shows[^6] mental health professionals "showed a greater willingness to treat and refer female patients compared with male patients".
+Reasearch shows[^6] mental health professionals "showed a greater willingness to treat and refer female patients compared with male patients". Other research shows most men who die by suicide had contact with support services prior to their death.[^7]
 
 ## Links
 https://malesuicideresearch.com/resources/
+[Tackling Male Suicide --- A New ‘Whole System’ Approach](https://www.equi-law.uk/wp-content/uploads/2022/09/APPG-MB-Male-Suicide-Report-9-22.pdf)
 
 
 [^1]: Health New Zealand Te Whatu Ora -- [The Mortality Collection](https://www.tewhatuora.govt.nz/for-health-professionals/data-and-statistics/nz-health-statistics/national-collections-and-surveys/collections/mortality-collection)
@@ -44,3 +45,5 @@ https://malesuicideresearch.com/resources/
 [^4]: ICCPR General Comment 36 -- paragraph 25
 [^5]: https://www.health.govt.nz/system/files/2025-09/suicide-prevention-action-plan-2025-2029-v2.pdf
 [^6]: Almaliah-Rauscher S, Ettinger N, Levi-Belz Y, Gvion Y. ["Will you treat me? I'm suicidal!" The effect of patient gender, suicidal severity, and therapist characteristics on the therapist's likelihood to treat a hypothetical suicidal patient](https://pubmed.ncbi.nlm.nih.gov/31989723/). Clin Psychol Psychother. 2020 May;27(3):278-287. doi: 10.1002/cpp.2426. Epub 2020 Feb 3. PMID: 31989723.
+[^7]: The National Confidential Inquiry into Suicide and Safety in Mental Health (NCISH). [Suicide by middle-aged
+men](https://documents.manchester.ac.uk/display.aspx?DocID=55305). 2021. The University of Manchester.
