@@ -4,16 +4,18 @@ description: New Zealand violates men's right right to be free from discriminati
 ---
 ## Discrimination in the Justice system
 
+Men have the right to a fair trial, unfortuantely there is discrimiantion against men in the justice system.
+
 ### Police use of force
 
-Men have the right to be protected from excessive force from the Police:
+Men have the right to be protected from excessive force from the Police, however, Police are more likely to use force against men when it is not required. The Human Rights Committee states:
 
  >The right to security of person protects individuals against intentional infliction of bodily or mental injury, regardless of whether the victim is detained or non-detained... \[States] should also prevent and redress unjustifiable use of force in law enforcement,  and protect their populations against abuses by private security forces, and against the risks posed by excessive availability of firearms. [^10]
 
 Police discriminate against men when considering whether to use force. They are more likely to use force against men than women. A review of TASER use in the Police found:
 
 > It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^11] 
-> Emphasis added
+> *Emphasis added*
 
 > Women are significantly less likely to be TASERed despite demonstrating more assaultive behaviour in TASER video footage. Men were more likely to be TASERed for what appeared to be compliance, or for ‘passive resistant behaviour’. Video observations indicate far less assaultive behaviour than women. Officers consider the gender of the individual, particularly before discharging a TASER.[^12]
 
