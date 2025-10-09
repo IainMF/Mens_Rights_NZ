@@ -6,6 +6,8 @@ description: New Zealand violates men's right right to be free from discriminati
 
 Men have the right to a fair trial, unfortuantely there is discrimiantion against men in the justice system.
 
+New Zealand is required to treat men and women equally in the justice system. Men must be free from arbitrary detention.\footnote{Article 9.1} Arrest or detention on discriminatory grounds in violation of article~2, paragraph~1, article~3 or article~26 is also in principle arbitrary''.\footnote{General Comment 35 -- paragraph 17} Section 22 of the New Zealand Bill of Rights Act states: ``Everyone has the right not to be arbitrarily arrested or detained.''
+
 ### Police use of force
 
 Men have the right to be protected from excessive force from the Police, however, Police are more likely to use force against men when it is not required. The Human Rights Committee states:
