@@ -8,9 +8,13 @@ There are two main issues for addressing the human rights of men and boys. One, 
 
 This website aims to gather the relevant informtion about men's human rights in one place, making it easier for anyone to see what the issue are and to take action to address the issues.
 
+This website is a work in progress.
+
 ## Who made this?
 
 This website is made by Iain Fergusson. He has around 10 years of experience advocting for the human rights of men and boys. 
+
+
 
 
 
