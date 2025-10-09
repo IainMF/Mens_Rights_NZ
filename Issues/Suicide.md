@@ -34,6 +34,10 @@ The Government has released their Suicide Prevention Action Plan 2025–2029.[^5
 
 Reasearch shows[^6] mental health professionals "showed a greater willingness to treat and refer female patients compared with male patients".
 
+## Links
+https://malesuicideresearch.com/resources/
+
+
 [^1]: Health New Zealand Te Whatu Ora -- [The Mortality Collection](https://www.tewhatuora.govt.nz/for-health-professionals/data-and-statistics/nz-health-statistics/national-collections-and-surveys/collections/mortality-collection)
 [^2]: Ministry of Health. 2006. *New Zealand Suicide Trends: Mortality 1921–2003, hospitalisations for intentional self-harm 1978–2004*. Monitoring Report No 10. Wellington: Ministry of Health.
 [^3]: ICCPR General Comment 36 -- paragraph 9
