@@ -36,6 +36,7 @@ Reasearch shows[^6] mental health professionals "showed a greater willingness to
 
 ## Links
 https://malesuicideresearch.com/resources/
+
 [Tackling Male Suicide --- A New ‘Whole System’ Approach](https://www.equi-law.uk/wp-content/uploads/2022/09/APPG-MB-Male-Suicide-Report-9-22.pdf)
 
 
