@@ -1,7 +1,7 @@
 ---
 title: Male Suicide
 description: The high rate of male suicide is a human rights issue affecting men's right to life and right to health.
-date:2025-10-9
+date: 2025-10-9
 ---
 
 Suicide disproportionately affects men. The Health New Zealand Te Whatu Ora Mortality Collection[^1] reports between 1948 and 2020, 20571 males and 7302 females died from intentional self harm. For every female suicide there were approximately 2.8 male suicides. As percentages, 73.8\% of suicides were male and 26.2\% were female.
