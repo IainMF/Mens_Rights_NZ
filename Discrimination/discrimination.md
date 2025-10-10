@@ -1,12 +1,7 @@
-
-
 ---
 title: Discrimination against men in New Zealand
-
 description: "Discusses discrimination against men in New Zealand and gives clear examples."
-
 date: 2025-10-11
-
 ---
 
 ## The right to be free from discrimination
