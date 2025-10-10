@@ -62,8 +62,15 @@ Formal discrimination is discrimination in laws and policy.
 
 Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
 
-[^1]:ICCPR General Comment 18, paragraph 7
+## Direct and indirect discrimination
 
+## Differential treatment sometimes justified
+> The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^4]
+### Addressing conditions that perpetuate discrimination
+> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^5]
+
+[^1]:ICCPR General Comment 18, paragraph 7
 [^2]:ICESCR General Comment 20, paragraph 7
 [^3]:ICCPR General Comment 18, paragraph 5
-
+[^4]:ICCPR General Comment 18, paragraph 8
+[^5]:ICCPR General Comment 18, paragraph 10
