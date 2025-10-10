@@ -1,4 +1,5 @@
 
+
 ---
 
 title: Discrimination against men in New Zealand
@@ -31,7 +32,7 @@ The United Nations Human Rights Committee defines discrimination:
 
 > [T]he Committee believes that the term “discrimination” as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on... sex... which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms. [^1]
 
-The understanding of the term 'sex' has expande din international law "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^ICESCR General Comment 20, paragraph 20]
+The understanding of the term 'sex' has expanded in international law "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^ICESCR General Comment 20, paragraph 20]
 
 The United Nations Economic and Social Council adds some important points to discrimination under ICESCR.
 
@@ -43,7 +44,7 @@ There are five important points here, one, discrimination includes both act and 
 ### Acts and omissions
 One, discrimination can be an *act* or an *omission*. For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination.
 
-> Covenant rights can be violated through the **direct action or omission** by States parties, including through their institutions or agencies at the national and local levels. ICESCR General Commetn 20, paragrpah 14 _Emphasis added_
+> Covenant rights can be violated through the **direct action or omission** by States parties, including through their institutions or agencies at the national and local levels. ICESCR General Comment 20, paragraph 14 _Emphasis added_
 
 > ...States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but **it is a positive duty of States parties to make certain that spouses have equal rights** as required by the Covenant.[^3] *Emphasis added*
 
@@ -55,7 +56,7 @@ Two, intent is not required for something to be discrimination. If an act, or om
 Three, discrimination includes impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
 
 ### Immediate obligation
-Discrimiantion must be addressed immediately, there is no excuse to violate men's right to be free from discimination.
+Discrimination must be addressed immediately, there is no excuse to violate men's right to be free from discrimination.
 
 > A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority. ICESCR General Comment 20, paragraph 13
 
@@ -64,7 +65,7 @@ Discrimiantion must be addressed immediately, there is no excuse to violate men'
 > In addition to refraining from discriminatory actions, States parties should take concrete, deliberate and targeted measures to ensure that discrimination in the exercise of Covenant rights is eliminated. ICESCR Gneral Comment 20, paragraph 36
 
 ### Incitement
-Encouraging or inciting discrimiantion agianst men is prohibtied. 
+Encouraging or inciting discrimination against men is prohibited. 
 
 ## Formal and Substantive Discrimination
 
@@ -89,10 +90,13 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 
 > Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant. - General Comment 18 paragraph 13
 
+### Monitoring, indicators and benchmarks
+> States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination. ICECSR General Comment 20, paragraph 41
+
 ### Addressing conditions that perpetuate discrimination
 > The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^6]
 
-## Systemic discrimiantion
+## Systemic discrimination
 > The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups. ICESCR General Comment 20, paragraph 12
 
 > States parties must adopt an active approach to eliminating systemic discrimination and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the persistent hostility towards some groups, particular attention will need to be given to ensuring that laws and policies are implemented by officials and others in practice. ICESCR General Comment 20, paragraph 39
