@@ -1,5 +1,5 @@
 ---
-Discrimination in the Justice System
+title: Discrimination in the Justice System
 description: New Zealand's justice system violates men's right right to a fair trial and to not to be arbitrarily detained.
 ---
 
