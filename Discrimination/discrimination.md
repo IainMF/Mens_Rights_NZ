@@ -27,6 +27,8 @@ Article 26 of the ICCPR also requires the government to make discrimination ille
 
 > All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
 
+Article 3 of both the ICCPR and the ICESCR require New Zealand to ensure equal enjoyment of rights between women and men.
+
 ## Understanding Discrimination
 
 The United Nations Human Rights Committee defines discrimination:
@@ -68,6 +70,10 @@ Discrimination must be addressed immediately, there is no excuse to violate men'
 ### Incitement
 Encouraging or inciting discrimination against men is prohibited. 
 
+> All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination. UDHR Article 7
+
+> Discrimination also includes incitement to discriminate and harassment. ICESCR General Comment 20, paragraph 7
+
 ## Formal and Substantive Discrimination
 
 Formal discrimination is discrimination in laws and policy. 
@@ -98,9 +104,15 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 > The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^6]
 
 ## Systemic discrimination
+Systemic discrimination against men is prohibited. 
+
 > The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups. ICESCR General Comment 20, paragraph 12
 
 > States parties must adopt an active approach to eliminating systemic discrimination and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the persistent hostility towards some groups, particular attention will need to be given to ensuring that laws and policies are implemented by officials and others in practice. ICESCR General Comment 20, paragraph 39
+
+## Links
+[New Zealand Human Rights Commission on discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination)
+
 
 [^1]:ICCPR General Comment 18, paragraph 7
 [^2]:ICESCR General Comment 20, paragraph 7
