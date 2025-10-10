@@ -50,6 +50,14 @@ One, discrimination can be an *act* or an *omission*. For example, discriminatio
 ### Intent and effect
 Two, intent is not required for something to be discrimination. If an act, or omission, *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
 
+For example, the gender analysis for a cabinet paper says that it does not *intend* to negate men's experiences of violence. Unfortunately, research shows that the *effect* of seeing family and sexual violence as being driven by 'gender inequities' is that male victims are discriminated against in violence prevention measures and find it difficult to get support.
+
+> “Family violence and sexual violence are driven by gender inequities in society, and they are predominately perpetrated by men against women and children. **Recognising the gendered patterns of violence is not intended to negate the experiences of male victims**. The kinds of violence that men and women use, when and how they use violence, and the harm it causes are different. We need to acknowledge the gendered patterns of violence in order to develop different and tailored responses, so that we can effectively prevent this violence and reduce the harm that it causes.” *Emphasis added*
+
+> Ministry of Justice (2018) Leadership of Government’s collective efforts to reduce family violence and sexual violence
+
+
+
 ### Equal recognition of rights
 Three, discrimination includes impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
 
@@ -115,3 +123,4 @@ Systemic discrimination against men is prohibited.
 [^4]:ICCPR General Comment 18, paragraph 12
 [^5]:ICCPR General Comment 18, paragraph 8
 [^6]:ICCPR General Comment 18, paragraph 10
+
