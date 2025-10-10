@@ -1,5 +1,5 @@
 ---
-title: "About Men's Rights New Zealand"
+title: "About the Men's Rights New Zealand website"
 description: "This website provides information about men's rights in New Zealand to highlight the human rights issues affecting men and boys and to support men’s advocates, human rights professionals, policymakers, and community organisations to improve outcomes for men and boys."
 ---
 # About
