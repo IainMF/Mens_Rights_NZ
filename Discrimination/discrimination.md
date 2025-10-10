@@ -34,7 +34,7 @@ The United Nations Human Rights Committee defines discrimination:
 
 The United Nations Economic and Social Council adds some important points to discrimination under ICESCR.
 
-> Non-discrimination is an immediate and cross-cutting obligation in the Covenant. Article 2, paragraph 2, requires States parties to guarantee non-discrimination in the exercise of each of the economic, social and cultural rights enshrined in the Covenant and can only be applied in conjunction with these rights. It is to be noted that discrimination constitutes any distinction, exclusion, restriction or preference or other differential treatment that is directly or indirectly based on the prohibited grounds of discrimination and which has the intention or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of Covenant rights. Discrimination also includes incitement to discriminate and harassment.[^2]
+> Non-discrimination is an immediate and cross-cutting obligation in the Covenant. Article 2, paragraph 2, requires States parties to guarantee non-discrimination in the exercise of each of the economic, social and cultural rights enshrined in the Covenant and can only be applied in conjunction with these rights.[^2]
 
 
 There are five important points here, one, discrimination includes both act and omissions, two, discrimination can occur even if there is no intent to discriminate, and , three, discrimination includes unequal recognition of rights, four, discrimination against men must be addressed immediately, five, discrimination includes incitement to discriminate. 
@@ -51,10 +51,10 @@ Two, intent is not required for something to be discrimination. If an act, or om
 Three, discrimination includes impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
 
 ### Immediate obligation
-
+Discrimiantion must be addressed immediately, there is no excuse to violate men's right to be free from discimination.
 
 ### Incitement
-
+Encouraging or inciting discrimiantion agianst men is prohibtied. 
 
 ## Formal and Substantive Discrimination
 
@@ -63,14 +63,26 @@ Formal discrimination is discrimination in laws and policy.
 Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
 
 ## Direct and indirect discrimination
+> It prohibits discrimination in law or in fact in any field regulated and protected by public authorities.[^4]
+
+> 10.	Both direct and indirect forms of differential treatment can amount to discrimination under article 2, paragraph 2, of the Covenant:
+>	(a)	Direct discrimination occurs when an individual is treated less favourably than another person in a similar situation for a reason related to a prohibited ground; e.g. where employment in educational or cultural institutions or membership of a trade union is based on the political opinions of applicants or employees. Direct discrimination also includes detrimental acts or omissions on the basis of prohibited grounds where there is no comparable similar situation (e.g. the case of a woman who is pregnant);
+>	(b)	Indirect discrimination refers to laws, policies or practices which appear neutral at face value, but have a disproportionate impact on the exercise of Covenant rights as distinguished by prohibited grounds of discrimination. For instance, requiring a birth registration certificate for school enrolment may discriminate against ethnic minorities or non-nationals who do not possess, or have been denied, such certificates. ICESCR General Comment 20, paragraph 10
+
+### Direct
+### Indirect
 
 ## Differential treatment sometimes justified
-> The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^4]
+> The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^5]
+
+> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant. - General Comment 18 paragraph 13
+
 ### Addressing conditions that perpetuate discrimination
-> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^5]
+> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^6]
 
 [^1]:ICCPR General Comment 18, paragraph 7
 [^2]:ICESCR General Comment 20, paragraph 7
 [^3]:ICCPR General Comment 18, paragraph 5
-[^4]:ICCPR General Comment 18, paragraph 8
-[^5]:ICCPR General Comment 18, paragraph 10
+[^4]:ICCPR General Comment 18, paragraph 12
+[^5]:ICCPR General Comment 18, paragraph 8
+[^6]:ICCPR General Comment 18, paragraph 10
