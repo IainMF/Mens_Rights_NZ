@@ -1,3 +1,4 @@
+
 ---
 title: Discrimination against men in New Zealand
 description: "Discusses discrimination against men in New Zealand and gives clear examples."
@@ -40,26 +41,25 @@ The United Nations Economic and Social Council adds some important points to dis
 There are five important points here, one, discrimination includes both act and omissions, two, discrimination can occur even if there is no intent to discriminate, and , three, discrimination includes unequal recognition of rights, four, discrimination against men must be addressed immediately, five, discrimination includes incitement to discriminate. 
 
 ### Acts and omissions
-One, discrimination can be an *act* or an *omission*. For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination.
-
-> Covenant rights can be violated through the **direct action or omission** by States parties, including through their institutions or agencies at the national and local levels. ICESCR General Comment 20, paragraph 14 _Emphasis added_
+Discrimination can be an *act* or an *omission*.[^ICESCR General Comment 20, paragraph 14 ]  For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination.
 
 > ...States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but **it is a positive duty of States parties to make certain that spouses have equal rights** as required by the Covenant.[^3] *Emphasis added*
 
 
 ### Intent and effect
-Two, intent is not required for something to be discrimination. If an act, or omission, *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
+Intent is not required for something to be discrimination. If an act, or omission, *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
 
-For example, the gender analysis for a cabinet paper says that it does not *intend* to negate men's experiences of violence. Unfortunately, research shows that the *effect* of seeing family and sexual violence as being driven by 'gender inequities' is that male victims are discriminated against in violence prevention measures and find it difficult to get support.
+For example, this gender analysis for a cabinet paper says it does not *intend* to negate men's experiences of violence. Unfortunately, research shows that the *effect* of seeing family and sexual violence as being driven by 'gender inequities' is that male victims are discriminated against in violence prevention measures and find it difficult to get support.
 
-> “Family violence and sexual violence are driven by gender inequities in society, and they are predominately perpetrated by men against women and children. **Recognising the gendered patterns of violence is not intended to negate the experiences of male victims**. The kinds of violence that men and women use, when and how they use violence, and the harm it causes are different. We need to acknowledge the gendered patterns of violence in order to develop different and tailored responses, so that we can effectively prevent this violence and reduce the harm that it causes.” *Emphasis added*
+> “Family violence and sexual violence are driven by gender inequities in society, and they are predominately perpetrated by men against women and children. **Recognising the gendered patterns of violence is not intended to negate the experiences of male victims**. ” *Emphasis added*
 
 > Ministry of Justice (2018) Leadership of Government’s collective efforts to reduce family violence and sexual violence
 
-
-
 ### Equal recognition of rights
-Three, discrimination includes impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
+Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
+
+For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^footnote here] Men rights were not included. This failure to recognise men's rights on an equal footing with women is discrimination.
+ 
 
 ### Immediate obligation
 Discrimination must be addressed immediately, there is no excuse to violate men's right to be free from discrimination.
@@ -76,6 +76,8 @@ Encouraging or inciting discrimination against men is prohibited.
 > All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination. UDHR Article 7
 
 > Discrimination also includes incitement to discriminate and harassment. ICESCR General Comment 20, paragraph 7
+
+For example, 
 
 ## Formal and Substantive Discrimination
 
@@ -109,9 +111,14 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 ## Systemic discrimination
 Systemic discrimination against men is prohibited. 
 
+Systemic discrimination occurs because discrimination against men is considered normal and acceptable. 
+
 > The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups. ICESCR General Comment 20, paragraph 12
 
 > States parties must adopt an active approach to eliminating systemic discrimination and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the persistent hostility towards some groups, particular attention will need to be given to ensuring that laws and policies are implemented by officials and others in practice. ICESCR General Comment 20, paragraph 39
+
+
+> Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^A fair go for all? Rite tahi tätou katoa? Addressing Structural Discrimination in Public Services, HRC 2012]
 
 ## Links
 [New Zealand Human Rights Commission on discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination)
