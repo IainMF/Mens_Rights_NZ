@@ -6,14 +6,14 @@ date: 2025-10-11
 
 ## The right to be free from discrimination
 
-Men have the right to be free from discrimination. [Section 19(1) of the New Zealand Bill of Rights Act 1990](https://legislation.govt.nz/act/public/1990/0109/latest/DLM225519.html) says
+Men have the right to be free from discrimination. In New Zealand, [Section 19(1) of the Bill of Rights Act 1990](https://legislation.govt.nz/act/public/1990/0109/latest/DLM225519.html) says
 
 > Everyone has the right to freedom from discrimination on the grounds of discrimination in the Human Rights Act 1993. 
 
 Under the Human Rights Act 1993, sex is a prohibited grounds for discrimination.
 ### Internationally
 
- New Zealand agreed to be legally bound by both The *[International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) (ICCPR)* and the *[International Covenant on Economic, Social and Cultural Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights) (ICESCR)* when it ratified them in 1978. 
+ New Zealand agreed to be legally bound by both the *[International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) (ICCPR)* and the *[International Covenant on Economic, Social and Cultural Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights) (ICESCR)* when it ratified them in 1978. 
 
 Both conventions prohibit discrimination in the application of each convention.
 
@@ -46,10 +46,6 @@ This definition is reflected in other human rights conventions, including the Co
 
 The understanding of the term 'sex' has expanded in international law "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^2]
 
-
-
-
-There are five important points here, one, discrimination includes both act and omissions, two, discrimination can occur even if there is no intent to discriminate, and , three, discrimination includes unequal recognition of rights, four, discrimination against men must be addressed immediately, five, discrimination includes incitement to discriminate. 
 
 ### Acts and omissions
 Discrimination can be an *act* or an *omission*.[^3]  For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination.
@@ -136,7 +132,11 @@ Systemic discrimination occurs because discrimination against men is considered 
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^21]
 ## Links
-[New Zealand Human Rights Commission on discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination)
+- [New Zealand Human Rights Commission on discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination)
+
+- Malmi, P. (2009). [_Discrimination against men: Appearance and causes in the context of a modern welfare state_](https://lauda.ulapland.fi/bitstream/handle/10024/61748/Pasi_Malmi_v%E4it%F6skirja.pdf?sequence=1). fi= Lapin yliopisto| en= University of Lapland|.
+- Siddiqi, Aman. 2022. "[A Clinical Guide to Discussing Prejudice Against Men.](https://www.proquest.com/docview/2489734070?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses). " Order No. 28256318, The Chicago School of Professional Psychology 
+- https://en.wikipedia.org/wiki/Discrimination_against_men
 
 
 [^1]:ICCPR General Comment 18, paragraph 7
