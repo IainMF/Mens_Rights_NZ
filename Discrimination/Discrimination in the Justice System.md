@@ -66,6 +66,12 @@ Men who are victims of sexual assault by a woman do not receive the same level o
 
 New Zealand’s rape and sexual assault law and subsequent sentencing guidelines treat women who have non-consensual sex with men more leniently than men who have non-consensual with women. Sentencing guidelines released by the Court of Appeal make a clear distinction between rape by penetration and other forms of sexual assault.[^13] This creates a significant difference between men and women. For example, a man having sex with a women without her consent, with no aggravating factors, is recommended a 6-8 years sentence, in the reverse situation the women is recommended a 2-5 year sentence.
 
+### Women
+https://www.stuff.co.nz/the-press/news/96230482/fewer-women-to-be-jailed-under-new-government-strategy-to-curb-growth-in-crime
+
+https://www.borrinfoundation.nz/transforming-womens-imprisonment-in-aotearoa-by-proposing-an-open-prison-model/
+
+HRC CEDAW Report recommends sending fewer women to prison
 
 
 [^1]: ICCPR General Comment 35 -- paragraph 17
