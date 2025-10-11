@@ -1,9 +1,8 @@
 
 ---
-title: Discrimination against men in New Zealand
-description: "Discusses discrimination against men in New Zealand and gives clear examples."
+title: Understanding Discrimination against men
+description: "An overview of discrimination in human rights law and how it relates to men and boys."
 date: 2025-10-11
-
 ---
 
 ## The right to be free from discrimination
@@ -59,7 +58,7 @@ For example, this gender analysis for a cabinet paper says it does not *intend* 
 ### Equal recognition of rights
 Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
 
-For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^See: NZ reports for ICCPR] Men rights were not included. This failure to recognise men's rights on an equal footing with women is discrimination.
+For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^21] Men rights were not included. This failure to recognise men's rights on an equal footing with women is discrimination.
  
 
 ### Immediate obligation
@@ -132,7 +131,7 @@ Systemic discrimination occurs because discrimination against men is considered 
 [^4]: ICESCR General Comment 20, paragraph 14 
 [^5]:ICCPR General Comment 18, paragraph 5
 [^6]: Ministry of Justice (2018) Leadership of Government’s collective efforts to reduce family violence and sexual violence
-[^See: NZ reports for ICCPR]:
+
 [^7]: ICESCR General Comment 20, paragraph 13
 [^8]: ICESCR General Comment 20, paragraph 14
 [^9]: ICESCR Gneral Comment 20, paragraph 36
@@ -147,3 +146,4 @@ Systemic discrimination occurs because discrimination against men is considered 
 [^18]: ICESCR General Comment 20, paragraph 12
 [^19]: ICESCR General Comment 20, paragraph 39
 [^20]: A fair go for all? Rite tahi tätou katoa? Addressing Structural Discrimination in Public Services, HRC 2012
+[^21]: See: NZ reports for ICCPR
