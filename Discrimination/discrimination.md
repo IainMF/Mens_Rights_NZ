@@ -11,16 +11,15 @@ Men have the right to be free from discrimination. In New Zealand, [Section 19(1
 > Everyone has the right to freedom from discrimination on the grounds of discrimination in the Human Rights Act 1993. 
 
 Under the Human Rights Act 1993, sex is a prohibited grounds for discrimination.
+
 ### Internationally
 
- New Zealand agreed to be legally bound by both the *[International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) (ICCPR)* and the *[International Covenant on Economic, Social and Cultural Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights) (ICESCR)* when it ratified them in 1978. 
+ International human rights conventions prohibit discrimination against men. New Zealand ratified both the *[International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) (ICCPR)* and the *[International Covenant on Economic, Social and Cultural Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights) (ICESCR)* in 1978. 
 
-Both conventions prohibit discrimination in the application of each convention.
-
-Article 2.1 of ICCPR
+Article 2.1 of the ICCPR:
 > Each State Party to the present Covenant undertakes to respect and to ensure to all individuals within its territory and subject to its jurisdiction the rights recognized in the present Covenant, **without distinction of any kind**...
 
-Article 2.2 of ICESCR
+Article 2.2 of the ICESCR:
 >The States Parties to the present Covenant undertake to guarantee that the rights enunciated in the present Covenant will be exercised **without discrimination of any kind**...
 
 Article 26 of the ICCPR also requires the government to make discrimination illegal and to protect men from discrimination.
@@ -43,26 +42,34 @@ The United Nations Human Rights Committee defines discrimination:
 
 This definition is reflected in other human rights conventions, including the Convention on the Elimination of All Forms of Discrimination against Women.
 
-
 The understanding of the term 'sex' has expanded in international law "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^2]
 
 
 ### Acts and omissions
-Discrimination can be an *act* or an *omission*.[^3]  For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination.
+Discrimination can be an *act* or an *omission*.[^3] For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and also when someone *fails to act* to protect men’s rights when they are required to. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination.
 
 > ...States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but **it is a positive duty of States parties to make certain that spouses have equal rights** as required by the Covenant.[^4] *Emphasis added*
 
+Another example, is monitoring and reporting on men's rights
+
+In this article, I will refer only to 'acts' or 'actions' for readability. The reader should understand that often the terms include omissions or failure to act.
+
 
 ### Intent and effect
-Intent is not required for something to be discrimination. If an act, or omission, *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
+Intent is not required for something to be discrimination. If an act *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
 
-For example, this gender analysis for a cabinet paper says it does not *intend* to negate men's experiences of violence. Unfortunately, research shows that the *effect* of seeing family and sexual violence as being driven by 'gender inequities' is that male victims are discriminated against in violence prevention measures and find it difficult to get support.
-
+For example, the following gender analysis for a cabinet paper says it does not *intend* to negate men's experiences of violence. 
 > “Family violence and sexual violence are driven by gender inequities in society, and they are predominately perpetrated by men against women and children. **Recognising the gendered patterns of violence is not intended to negate the experiences of male victims**. ”[^5] *Emphasis added*
 
-The effect of framing family and sexual violence as being driven by gender inequities is that the focus of solving the violence is addressing gender inequities (largely understood as women's inequities) which doesn't address male victimisation at all. This makes male victims a secondary consideration.
+Unfortunately, research shows that the *effect* of framing family and sexual violence as being driven by 'gender inequities' is that male victims are discriminated against in violence prevention measures and find it difficult to get support. 
+
+Gender inequities are largely understood to be women's inequities, so addressing violence by addressing inequities means male victim's needs are not adequately addressed.
+
+See page on discrimination in violence prevention.
+
+
 ### Equal recognition of rights
-Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
+Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women. Men and women have the same human rights, and treating men’s rights as less important than women’s rights is discrimination against men. Of course the reverse is also true.
 
 For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^6] Men rights were not included. This failure to recognise men's rights on an equal footing with women is discrimination.
  
@@ -144,7 +151,7 @@ Systemic discrimination occurs because discrimination against men is considered 
 [^3]: ICESCR General Comment 20, paragraph 14 
 [^4]:ICCPR General Comment 18, paragraph 5
 [^5]: Ministry of Justice (2018) Leadership of Government’s collective efforts to reduce family violence and sexual violence
-[^6]: See: NZ reports for ICCPR
+[^6]: For example,  see New Zealand’s ICCPR reports:  (CCPR/C/64/Add.10) -- paragraph 25,  (CCPR/C/NZL/2001/4) -- para. 71, (CCPR/C/NZL/5) -- para. 89, (CCPR/C/NZL/6) -- Annex 1, para. 12
 [^7]:ICESCR General Comment 20, paragraph 7
 [^8]: ICESCR General Comment 20, paragraph 13
 [^9]: ICESCR General Comment 20, paragraph 14
