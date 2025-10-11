@@ -108,6 +108,10 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 ### Direct
 ### Indirect
 
+[Section 65 of the Human Rights Act 1993](https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304657.html?search=sw_096be8ed81e6926d_indirect_25_se&p=1&sr=4) 
+
+> Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it.
+
 ## Differential treatment sometimes justified
 > The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^15]
 
