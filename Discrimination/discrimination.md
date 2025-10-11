@@ -83,7 +83,8 @@ For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights 
  
 
 ### State Obligations
-New Zealand must act in good faith[^9] and stop discriminating against men  immediately.[^7] New Zealand "should take concrete, deliberate and targeted measures to ensure that discrimination" against men is eliminated.[^10] A lack of resources is not a valid excuse unless "every effort has been made to use all resources"[^8]  that are available.
+
+Under ICCPR and ICESCR New Zealand is required to  act in good faith,[^9] take all steps necessary, and stop discriminating against men immediately.[^7] New Zealand "should take concrete, deliberate and targeted measures to ensure that discrimination" against men is eliminated in both public and private sectors.[^10] A lack of resources is not a valid excuse unless "every effort has been made to use all resources"[^8]  that are available.
 
 >States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights. ICCPR GC 28 paragraph 4
 
@@ -100,11 +101,7 @@ For example, the Human Rights Commission recommends reducing the number of women
 
 Women are already treated more favorably than men in the justice system, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _because they are men_. 
 
-## Formal and Substantive Discrimination
 
-Formal discrimination is discrimination in laws and policy. 
-
-Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
 
 ## Direct and indirect discrimination
 > It prohibits discrimination in law or in fact in any field regulated and protected by public authorities.[^13]
@@ -122,7 +119,14 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 
 
 ### Direct
+
+Formal discrimination is discrimination in laws and policy. 
+
+
+
 ### Indirect
+
+Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
 
 [Section 65 of the Human Rights Act 1993](https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304657.html?search=sw_096be8ed81e6926d_indirect_25_se&p=1&sr=4) 
 
