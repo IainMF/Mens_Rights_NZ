@@ -6,29 +6,43 @@ date: 2025-10-11
 
 ## The right to be free from discrimination
 
-Men have the right to be free from discrimination.
-
-[Section 19(1) of the New Zealand Bill of Rights Act 1990](https://legislation.govt.nz/act/public/1990/0109/latest/DLM225519.html) says
+Men have the right to be free from discrimination. [Section 19(1) of the New Zealand Bill of Rights Act 1990](https://legislation.govt.nz/act/public/1990/0109/latest/DLM225519.html) says
 
 > Everyone has the right to freedom from discrimination on the grounds of discrimination in the Human Rights Act 1993. 
 
-Article 7 of the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) (UDHR) states:
+Under the Human Rights Act 1993, sex is a prohibited grounds for discrimination.
+### Internationally
 
-> All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.
+ New Zealand agreed to be legally bound by both The *[International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) (ICCPR)* and the *[International Covenant on Economic, Social and Cultural Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights) (ICESCR)* when it ratified them in 1978. 
 
-The *[International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) (ICCPR)* and the *[International Covenant on Economic, Social and Cultural Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights) (ICESCR)* prohibit discrimination in the application of each convention. New Zealand agreed to be legally bound by both conventions when it ratified them in 1978. 
+Both conventions prohibit discrimination in the application of each convention.
+
+Article 2.1 of ICCPR
+> Each State Party to the present Covenant undertakes to respect and to ensure to all individuals within its territory and subject to its jurisdiction the rights recognized in the present Covenant, **without distinction of any kind**...
+
+Article 2.2 of ICESCR
+>The States Parties to the present Covenant undertake to guarantee that the rights enunciated in the present Covenant will be exercised **without discrimination of any kind**...
 
 Article 26 of the ICCPR also requires the government to make discrimination illegal and to protect men from discrimination.
 
-> All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
+> All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground...
 
 Article 3 of both the ICCPR and the ICESCR require New Zealand to ensure equal enjoyment of rights between women and men.
+
+Article 3 of ICCPR
+> The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all civil and political rights set forth in the present Covenant.
+
+Article 3 of ICESCR
+> The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all economic, social and cultural rights set forth in the present Covenant.
 
 ## Understanding Discrimination
 
 The United Nations Human Rights Committee defines discrimination:
 
 > [T]he Committee believes that the term “discrimination” as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on... sex... which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms. [^1]
+
+This definition is reflected in other human rights conventions, including the Convention on the Elimination of All Forms of Discrimination against Women.
+
 
 The understanding of the term 'sex' has expanded in international law "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^2]
 
