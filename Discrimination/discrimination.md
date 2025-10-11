@@ -58,7 +58,7 @@ For example, this gender analysis for a cabinet paper says it does not *intend* 
 ### Equal recognition of rights
 Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
 
-For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^footnote here] Men rights were not included. This failure to recognise men's rights on an equal footing with women is discrimination.
+For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^See: NZ reports for ICCPR] Men rights were not included. This failure to recognise men's rights on an equal footing with women is discrimination.
  
 
 ### Immediate obligation
@@ -77,7 +77,9 @@ Encouraging or inciting discrimination against men is prohibited.
 
 > Discrimination also includes incitement to discriminate and harassment. ICESCR General Comment 20, paragraph 7
 
-For example, 
+For example, the Human Rights Commission recommends reducing the number of women in prison. (see report here: https://tikatangata.org.nz/our-work/submission-examination-of-aotearoa-new-zealands-9th-report-under-the-covention-on-the-elimination-of-all-forms-of-discrimination-against-women) 
+
+Women are already treated more favourabley than men in the justice sysyem, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _becuase they are men_. 
 
 ## Formal and Substantive Discrimination
 
