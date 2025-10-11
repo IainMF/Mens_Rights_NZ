@@ -15,7 +15,6 @@ Article 9.1
 >Arrest or detention on discriminatory grounds in violation of article 2, paragraph 1, article 3 or article 26 is also in principle arbitrary'.[^1] 
 
 
-
 ### Police use of force
 
 Men have the right to be protected from excessive force from the Police, however, Police are more likely to use force against men when it is not required. The Human Rights Committee states:
@@ -75,6 +74,7 @@ HRC CEDAW Report recommends sending fewer women to prison
 
 
 [^1]: ICCPR General Comment 35 -- paragraph 17
+
 [^2]: ICCPR General Comment 35, paragraph 9
 
 [^3]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 30.
@@ -82,6 +82,7 @@ HRC CEDAW Report recommends sending fewer women to prison
 [^4]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 45.
 
 [^5]: Brown Paul. (2024) The Assessment of Factors Influencing Police Prosecution Decision-Making
+
 [^6]: Department of Corrections - [Prison facts and statistics - June 2025](https://www.corrections.govt.nz/resources/statistics/quarterly_prison_statistics/prison_facts_and_statistics_-_june_2025) 
 
 [^7]:  Criminal Justice in New Zealand - Julia Tolmie, Warren Brookbanks, 2007 p 302 - ISBN 0408718846, 9780408718844
