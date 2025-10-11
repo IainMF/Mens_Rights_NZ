@@ -50,7 +50,7 @@ For example, this gender analysis for a cabinet paper says it does not *intend* 
 
 > “Family violence and sexual violence are driven by gender inequities in society, and they are predominately perpetrated by men against women and children. **Recognising the gendered patterns of violence is not intended to negate the experiences of male victims**. ”[^5] *Emphasis added*
 
-
+The effect of framing family and sexual violence as being driven by gender inequities is that the focus of solving the violence is addressing gender inequities (largely understood as women's inequities) which doesn't address male victimisation at all. This makes male victims a secondary consideration.
 ### Equal recognition of rights
 Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women’s rights. Men and women have the same human rights, and treating men’s rights as less important (or more important) than women’s rights is discrimination. 
 
