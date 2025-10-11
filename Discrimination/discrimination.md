@@ -26,7 +26,10 @@ Article 26 of the ICCPR also requires the government to make discrimination ille
 
 > All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground...
 
-Article 3 of both the ICCPR and the ICESCR require New Zealand to ensure equal enjoyment of rights between women and men.
+Article 3 of both the ICCPR and the ICESCR require New Zealand to ensure equal enjoyment of rights between women and men. 
+
+Eliminating discrimination is fundamental to the enjoyment of human rights. **ICECSR General Comment 16, paragraph 3**
+
 
 Article 3 of ICCPR
 > The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all civil and political rights set forth in the present Covenant.
@@ -44,6 +47,11 @@ This definition is reflected in other human rights conventions, including the Co
 
 The understanding of the term 'sex' has expanded in international law "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^2]
 
+> Discrimination on the basis of sex may be based on the differential treatment of women because of their biology, such as refusal to hire women because they could become pregnant; or stereotypical assumptions, such as tracking women into low-level jobs on the assumption that they are unwilling to commit as much time to their work as men. ICESCR General Comment 16 paragraph 11
+
+
+
+> Gender affects the equal right of men and women to the enjoyment of their rights.  Gender refers to cultural expectations and assumptions about the behaviour, attitudes, personality traits, and physical and intellectual capacities of men and women, based solely on their identity as men or women.  Gender-based assumptions and expectations generally place women at a disadvantage with respect to substantive enjoyment of rights, such as freedom to act and to be recognized as autonomous, fully capable adults, to participate fully in economic,  social and political development, and to make decisions concerning their circumstances and conditions.  Gender-based assumptions about economic, social and cultural roles preclude the sharing of responsibility between men and women in all spheres that is necessary to equality. ICESCR GC 16 paragraph 14
 
 ### Acts and omissions
 Discrimination can be an *act* or an *omission*.[^3] For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and also when someone *fails to act* to protect men’s rights when they are required to. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination.
@@ -74,10 +82,12 @@ Discrimination includes nullifying or impairing the recognition of men’s right
 For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^6] Men rights were not included. New Zealand's failure to recognise men's rights on an equal footing with women is discrimination.
  
 
-### Immediate obligation
+### State Obligations
 New Zealand must act in good faith[^9] and stop discriminating against men  immediately.[^7] New Zealand "should take concrete, deliberate and targeted measures to ensure that discrimination" against men is eliminated.[^10] A lack of resources is not a valid excuse unless "every effort has been made to use all resources"[^8]  that are available.
 
+>States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights. ICCPR GC 28 paragraph 4
 
+> The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.  ICCPR GC 28 paragraph 31
 
 ### Incitement
 Encouraging or inciting discrimination against men is prohibited.[^11] [^12] 
@@ -104,6 +114,12 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 >	(a)	**Direct discrimination** occurs when an individual is treated less favourably than another person in a similar situation for a reason related to a prohibited ground; e.g. where employment in educational or cultural institutions or membership of a trade union is based on the political opinions of applicants or employees. Direct discrimination also includes detrimental acts or omissions on the basis of prohibited grounds where there is no comparable similar situation (e.g. the case of a woman who is pregnant);
 > 
 >	(b)	**Indirect discrimination** refers to laws, policies or practices which appear neutral at face value, but have a disproportionate impact on the exercise of Covenant rights as distinguished by prohibited grounds of discrimination. For instance, requiring a birth registration certificate for school enrolment may discriminate against ethnic minorities or non-nationals who do not possess, or have been denied, such certificates. [^14]
+---
+>Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. ICESCR General comment 16 paragraph 12
+
+> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it. ICESCR General comment 16 paragraph 13
+
+
 
 ### Direct
 ### Indirect
