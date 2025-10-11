@@ -71,32 +71,24 @@ See page on discrimination in violence prevention.
 ### Equal recognition of rights
 Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women. Men and women have the same human rights, and treating men’s rights as less important than women’s rights is discrimination against men. Of course the reverse is also true.
 
-For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^6] Men rights were not included. This failure to recognise men's rights on an equal footing with women is discrimination.
+For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^6] Men rights were not included. New Zealand's failure to recognise men's rights on an equal footing with women is discrimination.
  
 
 ### Immediate obligation
-Discrimination must be addressed immediately, there is no excuse to violate men's right to be free from discrimination.
+New Zealand must act in good faith[^9] and stop discriminating against men  immediately.[^7] New Zealand "should take concrete, deliberate and targeted measures to ensure that discrimination" against men is eliminated.[^10] A lack of resources is not a valid excuse unless "every effort has been made to use all resources"[^8]  that are available.
 
-The United Nations Economic and Social Council adds some important points to discrimination under ICESCR.
 
-> Non-discrimination is an immediate and cross-cutting obligation in the Covenant. Article 2, paragraph 2, requires States parties to guarantee non-discrimination in the exercise of each of the economic, social and cultural rights enshrined in the Covenant and can only be applied in conjunction with these rights.[^7]
-
-> A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^8] 
-
-> Under international law, a failure to act in good faith to comply with the obligation in article 2, paragraph 2, to guarantee that the rights enunciated in the Covenant will be exercised without discrimination amounts to a violation.[^9]
-
-> In addition to refraining from discriminatory actions, States parties should take concrete, deliberate and targeted measures to ensure that discrimination in the exercise of Covenant rights is eliminated.[^10] 
 
 ### Incitement
-Encouraging or inciting discrimination against men is prohibited. 
+Encouraging or inciting discrimination against men is prohibited.[^11] [^12] 
 
-> All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.[^11] 
+A Right to a Male Curfew https://www.northumbriajournals.co.uk/index.php/ijgsl/article/view/1574
 
-> Discrimination also includes incitement to discriminate and harassment.[^12] 
+https://www.newstatesman.com/politics/2018/10/misandry-misogyny-hate
 
 For example, the Human Rights Commission recommends reducing the number of women in prison. (see report here: https://tikatangata.org.nz/our-work/submission-examination-of-aotearoa-new-zealands-9th-report-under-the-covention-on-the-elimination-of-all-forms-of-discrimination-against-women) 
 
-Women are already treated more favourabley than men in the justice sysyem, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _becuase they are men_. 
+Women are already treated more favorably than men in the justice system, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _because they are men_. 
 
 ## Formal and Substantive Discrimination
 
