@@ -79,9 +79,7 @@ Encouraging or inciting discrimination against men is prohibited.
 
 For example, the Human Rights Commission recommends reducing the number of women in prison. (see report here: https://tikatangata.org.nz/our-work/submission-examination-of-aotearoa-new-zealands-9th-report-under-the-covention-on-the-elimination-of-all-forms-of-discrimination-against-women) 
 
-Women are already treated more favourably than men in the justice system, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _because they are men_. 
-
-Incitement includes advocating for laws favouring women, which violates men right to equality under the law. For example, advocating for laws prohibiting misogyny and against laws prohibiting misandry. 
+Women are already treated more favourabley than men in the justice sysyem, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _becuase they are men_. 
 
 ## Formal and Substantive Discrimination
 
