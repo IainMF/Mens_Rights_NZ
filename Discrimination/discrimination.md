@@ -22,7 +22,20 @@ Article 26 of the ICCPR also requires the government to make discrimination ille
 
 > All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
 
+<<<<<<< HEAD
 Article 3 of both the ICCPR and the ICESCR require New Zealand to ensure equal enjoyment of rights between women and men.
+=======
+Article 3 of both the ICCPR and the ICESCR require New Zealand to ensure equal enjoyment of rights between women and men. 
+
+Eliminating discrimination is fundamental to the enjoyment of human rights. **ICECSR General Comment 16, paragraph 3**
+
+
+Article 3 of ICCPR
+> The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all civil and political rights set forth in the present Covenant.
+
+Article 3 of ICESCR
+> The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all economic, social and cultural rights set forth in the present Covenant.
+>>>>>>> parent of 086f329 (Update discrimination.md)
 
 ## Understanding Discrimination
 
@@ -35,7 +48,11 @@ The understanding of the term 'sex' has expanded in international law "to cover 
 
 
 
+<<<<<<< HEAD
 There are five important points here, one, discrimination includes both act and omissions, two, discrimination can occur even if there is no intent to discriminate, and , three, discrimination includes unequal recognition of rights, four, discrimination against men must be addressed immediately, five, discrimination includes incitement to discriminate. 
+=======
+> Gender affects the equal right of men and women to the enjoyment of their rights.  Gender refers to cultural expectations and assumptions about the behaviour, attitudes, personality traits, and physical and intellectual capacities of men and women, based solely on their identity as men or women.  Gender-based assumptions and expectations generally place women at a disadvantage with respect to substantive enjoyment of rights, such as freedom to act and to be recognized as autonomous, fully capable adults, to participate fully in economic,  social and political development, and to make decisions concerning their circumstances and conditions.  Gender-based assumptions about economic, social and cultural roles preclude the sharing of responsibility between men and women in all spheres that is necessary to equality. ICESCR GC 16 paragraph 14
+>>>>>>> parent of 086f329 (Update discrimination.md)
 
 ### Acts and omissions
 Discrimination can be an *act* or an *omission*.[^3]  For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and it can occur when someone *fails to act* to protect men’s rights when such an act is required. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination.
@@ -57,6 +74,7 @@ Discrimination includes nullifying or impairing the recognition of men’s right
 For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^6] Men rights were not included. This failure to recognise men's rights on an equal footing with women is discrimination.
  
 
+<<<<<<< HEAD
 ### Immediate obligation
 Discrimination must be addressed immediately, there is no excuse to violate men's right to be free from discrimination.
 
@@ -69,6 +87,15 @@ The United Nations Economic and Social Council adds some important points to dis
 > Under international law, a failure to act in good faith to comply with the obligation in article 2, paragraph 2, to guarantee that the rights enunciated in the Covenant will be exercised without discrimination amounts to a violation.[^9]
 
 > In addition to refraining from discriminatory actions, States parties should take concrete, deliberate and targeted measures to ensure that discrimination in the exercise of Covenant rights is eliminated.[^10] 
+=======
+### State Obligations
+
+Under ICCPR and ICESCR New Zealand is required to  act in good faith,[^9] take all steps necessary, and stop discriminating against men immediately.[^7] New Zealand "should take concrete, deliberate and targeted measures to ensure that discrimination" against men is eliminated in both public and private sectors.[^10] A lack of resources is not a valid excuse unless "every effort has been made to use all resources"[^8]  that are available.
+
+>States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights. ICCPR GC 28 paragraph 4
+
+> The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.  ICCPR GC 28 paragraph 31
+>>>>>>> parent of 086f329 (Update discrimination.md)
 
 ### Incitement
 Encouraging or inciting discrimination against men is prohibited. 
@@ -89,6 +116,7 @@ Formal discrimination is discrimination in laws and policy.
 
 Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
 
+
 ## Direct and indirect discrimination
 > It prohibits discrimination in law or in fact in any field regulated and protected by public authorities.[^13]
 
@@ -97,10 +125,31 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 >	(a)	**Direct discrimination** occurs when an individual is treated less favourably than another person in a similar situation for a reason related to a prohibited ground; e.g. where employment in educational or cultural institutions or membership of a trade union is based on the political opinions of applicants or employees. Direct discrimination also includes detrimental acts or omissions on the basis of prohibited grounds where there is no comparable similar situation (e.g. the case of a woman who is pregnant);
 > 
 >	(b)	**Indirect discrimination** refers to laws, policies or practices which appear neutral at face value, but have a disproportionate impact on the exercise of Covenant rights as distinguished by prohibited grounds of discrimination. For instance, requiring a birth registration certificate for school enrolment may discriminate against ethnic minorities or non-nationals who do not possess, or have been denied, such certificates. [^14]
+---
+>Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. ICESCR General comment 16 paragraph 12
+
+> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it. ICESCR General comment 16 paragraph 13
+
 
 ### Direct
+<<<<<<< HEAD
 ### Indirect
 
+=======
+
+Formal discrimination is discrimination in laws and policy. 
+
+
+
+### Indirect
+
+Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
+
+[Section 65 of the Human Rights Act 1993](https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304657.html?search=sw_096be8ed81e6926d_indirect_25_se&p=1&sr=4) 
+
+> Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it.
+
+>>>>>>> parent of 086f329 (Update discrimination.md)
 ## Differential treatment sometimes justified
 > The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^15]
 
@@ -124,7 +173,15 @@ Systemic discrimination occurs because discrimination against men is considered 
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^21]
 ## Links
+<<<<<<< HEAD
 [New Zealand Human Rights Commission on discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination)
+=======
+- [New Zealand Human Rights Commission on discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination)
+
+- Malmi, P. (2009). [_Discrimination against men: Appearance and causes in the context of a modern welfare state_](https://lauda.ulapland.fi/bitstream/handle/10024/61748/Pasi_Malmi_v%E4it%F6skirja.pdf?sequence=1). fi= Lapin yliopisto| en= University of Lapland|.
+- Siddiqi, Aman. 2022. "[A Clinical Guide to Discussing Prejudice Against Men.](https://www.proquest.com/docview/2489734070?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses). " Order No. 28256318, The Chicago School of Professional Psychology 
+- https://en.wikipedia.org/wiki/Discrimination_against_men
+>>>>>>> parent of 086f329 (Update discrimination.md)
 
 
 [^1]:ICCPR General Comment 18, paragraph 7
