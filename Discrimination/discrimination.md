@@ -37,6 +37,14 @@ Article 3 of ICCPR
 Article 3 of ICESCR
 > The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all economic, social and cultural rights set forth in the present Covenant.
 
+### State Obligations
+
+Under ICCPR and ICESCR New Zealand is required to  act in good faith,[^9] take all steps necessary, and stop discriminating against men immediately.[^7] New Zealand "should take concrete, deliberate and targeted measures to ensure that discrimination" against men is eliminated in both public and private sectors.[^10] A lack of resources is not a valid excuse unless "every effort has been made to use all resources"[^8]  that are available.
+
+>States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights. ICCPR GC 28 paragraph 4
+
+> The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.  ICCPR GC 28 paragraph 31
+
 ## Understanding Discrimination
 
 The United Nations Human Rights Committee defines discrimination:
@@ -48,7 +56,6 @@ This definition is reflected in other human rights conventions, including the Co
 The understanding of the term 'sex' has expanded in international law "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^2]
 
 > Discrimination on the basis of sex may be based on the differential treatment of women because of their biology, such as refusal to hire women because they could become pregnant; or stereotypical assumptions, such as tracking women into low-level jobs on the assumption that they are unwilling to commit as much time to their work as men. ICESCR General Comment 16 paragraph 11
-
 
 
 > Gender affects the equal right of men and women to the enjoyment of their rights.  Gender refers to cultural expectations and assumptions about the behaviour, attitudes, personality traits, and physical and intellectual capacities of men and women, based solely on their identity as men or women.  Gender-based assumptions and expectations generally place women at a disadvantage with respect to substantive enjoyment of rights, such as freedom to act and to be recognized as autonomous, fully capable adults, to participate fully in economic,  social and political development, and to make decisions concerning their circumstances and conditions.  Gender-based assumptions about economic, social and cultural roles preclude the sharing of responsibility between men and women in all spheres that is necessary to equality. ICESCR GC 16 paragraph 14
@@ -82,14 +89,6 @@ Discrimination includes nullifying or impairing the recognition of men’s right
 For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^6] Men rights were not included. New Zealand's failure to recognise men's rights on an equal footing with women is discrimination.
  
 
-### State Obligations
-
-Under ICCPR and ICESCR New Zealand is required to  act in good faith,[^9] take all steps necessary, and stop discriminating against men immediately.[^7] New Zealand "should take concrete, deliberate and targeted measures to ensure that discrimination" against men is eliminated in both public and private sectors.[^10] A lack of resources is not a valid excuse unless "every effort has been made to use all resources"[^8]  that are available.
-
->States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights. ICCPR GC 28 paragraph 4
-
-> The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.  ICCPR GC 28 paragraph 31
-
 ### Incitement
 Encouraging or inciting discrimination against men is prohibited.[^11] [^12] 
 
@@ -102,8 +101,10 @@ For example, the Human Rights Commission recommends reducing the number of women
 Women are already treated more favorably than men in the justice system, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _because they are men_. 
 
 
-
 ## Direct and indirect discrimination
+
+Both direct and indirect discrimination are prohibited.
+
 > It prohibits discrimination in law or in fact in any field regulated and protected by public authorities.[^13]
 
 > Both direct and indirect forms of differential treatment can amount to discrimination under article 2, paragraph 2, of the Covenant:
@@ -111,26 +112,39 @@ Women are already treated more favorably than men in the justice system, recomme
 >	(a)	**Direct discrimination** occurs when an individual is treated less favourably than another person in a similar situation for a reason related to a prohibited ground; e.g. where employment in educational or cultural institutions or membership of a trade union is based on the political opinions of applicants or employees. Direct discrimination also includes detrimental acts or omissions on the basis of prohibited grounds where there is no comparable similar situation (e.g. the case of a woman who is pregnant);
 > 
 >	(b)	**Indirect discrimination** refers to laws, policies or practices which appear neutral at face value, but have a disproportionate impact on the exercise of Covenant rights as distinguished by prohibited grounds of discrimination. For instance, requiring a birth registration certificate for school enrolment may discriminate against ethnic minorities or non-nationals who do not possess, or have been denied, such certificates. [^14]
----
->Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. ICESCR General comment 16 paragraph 12
-
-> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it. ICESCR General comment 16 paragraph 13
-
 
 
 ### Direct
 
 Formal discrimination is discrimination in laws and policy. 
 
+AKA *de jure* discrimination
 
+>Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. ICESCR General comment 16 paragraph 12
 
 ### Indirect
+AKA substantive or *de facto* discrimination
+
+> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it. ICESCR General comment 16 paragraph 13
+
 
 Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
 
 [Section 65 of the Human Rights Act 1993](https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304657.html?search=sw_096be8ed81e6926d_indirect_25_se&p=1&sr=4) 
 
 > Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it.
+
+### Systemic discrimination
+Systemic discrimination against men is prohibited. 
+
+Systemic discrimination occurs because discrimination against men is considered normal and acceptable. 
+
+> The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups. [^19]
+
+> States parties must adopt an active approach to eliminating systemic discrimination and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the persistent hostility towards some groups, particular attention will need to be given to ensuring that laws and policies are implemented by officials and others in practice. [^20]
+
+
+> Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^21]
 
 ## Differential treatment sometimes justified
 > The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^15]
@@ -143,18 +157,27 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 ### Addressing conditions that perpetuate discrimination
 > The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^18]
 
-## Systemic discrimination
-Systemic discrimination against men is prohibited. 
+#### Affirmative action
+Men have the same right to affirmative action when it is necessary.
 
-Systemic discrimination occurs because discrimination against men is considered normal and acceptable. 
+# Support for discrimination against men
 
-> The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups. [^19]
+## Double Standards and Perceptions of Double Standards in Attitudes Toward the Roles of Men and Women 
 
-> States parties must adopt an active approach to eliminating systemic discrimination and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the persistent hostility towards some groups, particular attention will need to be given to ensuring that laws and policies are implemented by officials and others in practice. [^20]
+By Kathleen A. Fortune 2006
+
+[https://mspace.lib.umanitoba.ca/bitstream/handle/1993/20367/Fortune_Double_standards.pdf?sequence=1](https://mspace.lib.umanitoba.ca/bitstream/handle/1993/20367/Fortune_Double_standards.pdf?sequence=1)
+
+Abstract
+
+Two studies examined double standards in attitudes toward appropriate roles and behaviors for women and men. **A double standard is an attitude that more strongly supports rights, freedoms, and opportunities for one sex more than the other.** Double standards were measured using a "mirror-image" time-delay method that minimizes social desirability concerns and a "mirror-image" simultaneous method that increases social desirability concerns. In addition, participants' beliefs about the attitudes of the "typical male" and "typical female" were measured. **Results indicated that overall participants endorsed a pro-female bias.** Female participants endorsed pro-female double standards in five domains; male participants endorsed pro-female double standards in three domains, and no double standards in two domains. Participants believed that overall, the "typical female" endorsed pro-female double standards and the "typical male" endorsed pro-male double standards'
 
 
-> Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^21]
-## Links
+## Reactions to affirmative action policies in hiring: Effects of framing and beneficiary gender
+
+
+
+# Links
 - [New Zealand Human Rights Commission on discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination)
 
 - Malmi, P. (2009). [_Discrimination against men: Appearance and causes in the context of a modern welfare state_](https://lauda.ulapland.fi/bitstream/handle/10024/61748/Pasi_Malmi_v%E4it%F6skirja.pdf?sequence=1). fi= Lapin yliopisto| en= University of Lapland|.
@@ -183,3 +206,4 @@ Systemic discrimination occurs because discrimination against men is considered 
 [^19]: ICESCR General Comment 20, paragraph 12
 [^20]: ICESCR General Comment 20, paragraph 39
 [^21]: A fair go for all? Rite tahi tätou katoa? Addressing Structural Discrimination in Public Services, HRC 2012
+
