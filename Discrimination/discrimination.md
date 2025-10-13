@@ -73,30 +73,31 @@ In this article, I will refer only to 'acts' or 'actions' for readability. The r
 ### Intent and effect
 Intent is not required for something to be discrimination. If an act, or omission, *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
 
-For example, this gender analysis for a cabinet paper says it does not *intend* to negate men's experiences of violence. Unfortunately, research shows that the *effect* of seeing family and sexual violence as being driven by 'gender inequities' is that male victims are discriminated against in violence prevention measures and find it difficult to get support.
+For example, this gender analysis for a cabinet paper says it does not *intend* to negate men's experiences of violence. 
 
 > “Family violence and sexual violence are driven by gender inequities in society, and they are predominately perpetrated by men against women and children. **Recognising the gendered patterns of violence is not intended to negate the experiences of male victims**. ”[^13] *Emphasis added*
 
-The effect of framing family and sexual violence as being driven by gender inequities is that the focus of solving the violence is addressing gender inequities (largely understood as women's inequities) which doesn't address male victimisation at all. This makes male victims a secondary consideration.
+Unfortunately, the *effect* of framing family and sexual violence as being driven by gender inequities is that the focus is addressing gender inequities, which is predominantly understood to be women's inequities. Research shows that the *effect* of seeing family and sexual violence as women's issue is that male victims are discriminated against in violence prevention measures and find it difficult to get support.
+
 ### Equal recognition of rights
 Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women. Men and women have the same human rights, and treating men’s rights as less important than women’s rights is discrimination against men. Of course the reverse is also true.
 
 For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^14] Men rights were not included. New Zealand's failure to recognise men's rights on an equal footing with women is discrimination.
  
-The effect of framing family and sexual violence as being driven by gender inequities is that the focus of solving the violence is addressing gender inequities (largely understood as women's inequities) which doesn't address male victimisation at all. This makes male victims a secondary consideration.
 
 ### Incitement
-Encouraging or inciting discrimination against men is prohibited.[^15] [^16]
+Encouraging or inciting discrimination against men is prohibited.[^15] [^16] Incitement to discrimination includes advocating for preferential treatment for women, which men would also benefit from, or advocating against equal rights for men. 
 
-A Right to a Male Curfew https://www.northumbriajournals.co.uk/index.php/ijgsl/article/view/1574
+For example, advocating for more lenient treatment of women in the justice system, such as sending fewer women to prison and redirecting them to more rehabilitative programs.  Men have the right to be free from arbitrary detention. A decision to imprison someone based on their sex, rather than the facts of the case, is arbitrary. Also, men should not be denied the benefit of rehabilitation programs simply because they are men. 
 
-https://www.newstatesman.com/politics/2018/10/misandry-misogyny-hate
+
+
 
 For example, the Human Rights Commission recommends reducing the number of women in prison. (see report here: https://tikatangata.org.nz/our-work/submission-examination-of-aotearoa-new-zealands-9th-report-under-the-covention-on-the-elimination-of-all-forms-of-discrimination-against-women) 
 
 Women are already treated more favorably than men in the justice system, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _because they are men_. 
 
-Incitement includes advocating for laws favouring women, which violates men right to equality under the law. For example, advocating for laws prohibiting misogyny and against laws prohibiting misandry. 
+Incitement includes advocating for laws favouring women, which violates men right to equality under the law. For example, advocating for laws prohibiting misogyny and against laws prohibiting misandry. https://www.newstatesman.com/politics/2018/10/misandry-misogyny-hate
 
 
 ## Direct and indirect discrimination
