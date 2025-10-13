@@ -161,7 +161,7 @@ Not all different treatment between men and women is discrimination. New Zealand
 
 Section 73 of  the New Zealand Human Rights Act 1993 allows different treatment if "it is done or omitted in good faith for the purpose of assisting or advancing persons or groups of persons" who "need or may reasonably be supposed to need assistance or advancement in order to achieve an equal place with other members of the community."
 
-In international human rights law different treatment is only justified if it is reasonable, objective, and the aims and effect of the treatment is the protection of human rights. Differential treatment must also be proportional to the need.
+In international human rights law requires the government to address existing disadvantages, which may require differential treatment. Different treatment is only justified if it is reasonable, objective, and the aims and effect of the treatment is the protection of human rights. Differential treatment must also be proportional to the need.
 
 Differential treatment must end.
 
