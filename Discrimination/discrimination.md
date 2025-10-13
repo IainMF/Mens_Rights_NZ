@@ -1,3 +1,4 @@
+
 ---
 title: Understanding Discrimination against men
 description: An overview of discrimination in human rights law and how it relates to men and boys.
@@ -88,7 +89,7 @@ For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights 
 ### Incitement
 Encouraging or inciting discrimination against men is prohibited.[^15] [^16] Incitement to discrimination includes advocating for preferential treatment for women, which men would also benefit from, or advocating against equal rights for men. 
 
-For example, advocating for more lenient treatment of women in the justice system, such as sending fewer women to prison and redirecting them to more rehabilitative programs.  Men have the right to be free from arbitrary detention. A decision to imprison someone based on their sex, rather than the facts of the case, is arbitrary. Also, men should not be denied the benefit of rehabilitation programs simply because they are men. 
+For example, advocating for more lenient treatment of women in the justice system, such as sending fewer women to prison and redirecting them to more rehabilitative programs.  Men have the right to be free from arbitrary detention. A decision to imprison someone, or not to imprison someone, based on their sex, rather than the facts of the case, is arbitrary. **ICCPR General Comment 35 paragraph 17** Also, men should not be denied the benefit of rehabilitation programs simply because they are men. 
 
 
 
