@@ -59,12 +59,6 @@ The United Nations Human Rights Committee defines discrimination:
 
 This definition is reflected in other human rights conventions, including the Convention on the Elimination of All Forms of Discrimination against Women.
 
-The understanding of the term 'sex' has expanded in international law "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^9]
- 
- The United Nations Economic and Social Council:
-
-> Gender affects the equal right of men and women to the enjoyment of their rights.  Gender refers to cultural expectations and assumptions about the behaviour, attitudes, personality traits, and physical and intellectual capacities of men and women, based solely on their identity as men or women.[^10]
-
 ### Acts and omissions
 Discrimination can be an *act* or an *omission*.[^11] For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and also when someone *fails to act* to protect men’s rights when they are required to. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination. 
 
@@ -195,6 +189,16 @@ ICESCR
 
 ## Monitoring, indicators and benchmarks
 > States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination.[^23]
+
+## Sex and gender
+
+International law prohibits discrimination based on sex, however, the understanding of the term 'sex' has expanded "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^9]
+ 
+ The United Nations Economic and Social Council:
+
+> Gender affects the equal right of men and women to the enjoyment of their rights.  Gender refers to cultural expectations and assumptions about the behaviour, attitudes, personality traits, and physical and intellectual capacities of men and women, based solely on their identity as men or women.[^10]
+
+Discrimination can occur  based on "actual or perceived" characteristics. Thus, if someone believes a person to be a man and treats them less favourably as a result, that is discrimination against men, regardless of the actual sex or gender of the person affected.
 
 
 ## Links
