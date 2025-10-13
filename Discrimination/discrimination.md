@@ -44,9 +44,11 @@ Eliminating discrimination is fundamental to the enjoyment of human rights.[^1]
 
 Under ICCPR and ICESCR New Zealand is required to act in good faith,[^2] take all steps necessary, and stop discriminating against men immediately.[^3] New Zealand "should take concrete, deliberate and targeted measures to ensure that discrimination" against men is eliminated in both public and private sectors.[^4] A lack of resources is not a valid excuse unless "every effort has been made to use all resources"[^5] that are available.
 
+The United Nations Human Rights Committee: 
+
 >States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights. [^6]
 
-> The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.[^7]  
+> The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination ... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.[^7]  
 
 
 ## Understanding Discrimination
@@ -59,6 +61,7 @@ This definition is reflected in other human rights conventions, including the Co
 
 The understanding of the term 'sex' has expanded in international law "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^9]
  
+ The United Nations Economic and Social Council:
 
 > Gender affects the equal right of men and women to the enjoyment of their rights.  Gender refers to cultural expectations and assumptions about the behaviour, attitudes, personality traits, and physical and intellectual capacities of men and women, based solely on their identity as men or women.[^10]
 
