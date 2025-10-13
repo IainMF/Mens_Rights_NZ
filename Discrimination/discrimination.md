@@ -117,7 +117,7 @@ Both direct and indirect discrimination are prohibited under New Zealand and int
 ### Direct
 Direct, or formal or *de jure*, discrimination against men is discrimination that occurs when a man is treated less favourably than a woman in a similar situation. It can also occur when, a man is treated less favourably when there is no equivalent situation. For example, denying men reproductive rights because they can't get pregnant.
 
-Direct discrimination is often explicit in law and policy. See [[discriminatory_laws.md|Legal Discrimination]] for examples.
+Direct discrimination is often explicit in law and policy. See [[discriminatory_laws|Legal Discrimination]] for examples.
 
 
 >Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. [^19]
