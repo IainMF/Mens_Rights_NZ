@@ -101,6 +101,9 @@ Incitement includes advocating for laws favouring women, which violates men righ
 
 
 ## Direct and indirect discrimination
+Both direct and indirect discrimination are prohibited under New Zealand and international human rights law.
+
+
 > It prohibits discrimination in law or in fact in any field regulated and protected by public authorities.[^17]
 
 > Both direct and indirect forms of differential treatment can amount to discrimination under article 2, paragraph 2, of the Covenant:
@@ -109,13 +112,16 @@ Incitement includes advocating for laws favouring women, which violates men righ
 > 
 >(b)**Indirect discrimination** refers to laws, policies or practices which appear neutral at face value, but have a disproportionate impact on the exercise of Covenant rights as distinguished by prohibited grounds of discrimination. For instance, requiring a birth registration certificate for school enrolment may discriminate against ethnic minorities or non-nationals who do not possess, or have been denied, such certificates. [^18]
 ---
->Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. [^19]
-
-> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it.[^20] 
 
 
 ### Direct
-Formal discrimination is discrimination in laws and policy. 
+Direct, or formal or *de jure*, discrimination against men is discrimination that occurs when a man is treated less favourably than a woman in a similar situation. It can also occur when, a man is treated less favourably when there is no equivalent situation. For example, denying men reproductive rights because they can't get pregnant.
+
+Direct discrimination is often explicit in law and policy. See [[discriminatory_laws.md|Legal Discrimination]] for examples.
+
+
+>Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. [^19]
+
 ### Indirect
 
 Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
@@ -124,6 +130,7 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 
 > Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it.
 
+> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it.[^20] 
 
 ## Differential treatment sometimes justified
 > The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^21]
