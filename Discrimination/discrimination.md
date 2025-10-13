@@ -148,8 +148,6 @@ Systemic discrimination occurs because discrimination against men is considered 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^25]
 ## Links
 
-[New Zealand Human Rights Commission on discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination)
-
 - [New Zealand Human Rights Commission on discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination)
 
 - Malmi, P. (2009). [_Discrimination against men: Appearance and causes in the context of a modern welfare state_](https://lauda.ulapland.fi/bitstream/handle/10024/61748/Pasi_Malmi_v%E4it%F6skirja.pdf?sequence=1). fi= Lapin yliopisto| en= University of Lapland|.
