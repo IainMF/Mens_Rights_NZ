@@ -60,13 +60,18 @@ The United Nations Human Rights Committee defines discrimination:
 This definition is reflected in other human rights conventions, including the Convention on the Elimination of All Forms of Discrimination against Women.
 
 ### Acts and omissions
-Discrimination can be an *act* or an *omission*.[^11] For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and also when someone *fails to act* to protect men’s rights when they are required to. For example, the Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination. 
+Discrimination can be an *act* or an *omission*.[^11] For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and also when someone *fails to act* to protect men’s rights when they are required to. 
+
+In this article, I will refer only to 'acts' or 'actions' for readability. The reader should understand that often the terms include omissions or failure to act.
+
+#### Examples of omissions
+The Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination. 
 
 > ...States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but **it is a positive duty of States parties to make certain that spouses have equal rights** as required by the Covenant.[^12] *Emphasis added*
 
-Another example, is monitoring and reporting on men's rights
+Another example, is monitoring and reporting on men's rights. As of October 2025, the Ministry of Justice website https://humanrights.govt.nz/ includes categories for women and girls but omits categories for men and boys. This omission impairs the recognition of men's rights on equal terms with women.
 
-In this article, I will refer only to 'acts' or 'actions' for readability. The reader should understand that often the terms include omissions or failure to act.
+
 ### Intent and effect
 Intent is not required for something to be discrimination. If an act, or omission, *has the effect* of impairing men’s rights, then that can be discrimination, even if there was no intent to impair men’s rights.
 
@@ -74,25 +79,24 @@ For example, this gender analysis for a cabinet paper says it does not *intend* 
 
 > “Family violence and sexual violence are driven by gender inequities in society, and they are predominately perpetrated by men against women and children. **Recognising the gendered patterns of violence is not intended to negate the experiences of male victims**. ”[^13] *Emphasis added*
 
-Unfortunately, the *effect* of framing family and sexual violence as being driven by gender inequities is that the focus is addressing gender inequities, which is predominantly understood to be women's inequities. Research shows that the *effect* of seeing family and sexual violence as women's issue is that male victims are discriminated against in violence prevention measures and find it difficult to get support.
+Unfortunately, the *effect* of framing it as being driven by "gender inequities" is family and sexual violence is treated as a women's issue. Research shows that the *effect* of seeing family and sexual violence as women's issue is that male victims are discriminated against in violence prevention measures and find it difficult to get support.
 
 ### Equal recognition of rights
 Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women. Men and women have the same human rights, and treating men’s rights as less important than women’s rights is discrimination against men. Of course the reverse is also true.
-
-For example, Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^14] Men rights were not included. New Zealand's failure to recognise men's rights on an equal footing with women is discrimination.
+#### Example of impairing the recognition of men's rights
+ Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^14] Men rights were not included. New Zealand's failure to recognise men's rights is discrimination.
  
 
 ### Incitement
 Encouraging or inciting discrimination against men is prohibited.[^15] [^16] Incitement to discrimination includes advocating for preferential treatment for women, which men would also benefit from, or advocating against equal rights for men. 
 
-For example, advocating for more lenient treatment of women in the justice system, such as sending fewer women to prison and redirecting them to more rehabilitative programs.  Men have the right to be free from arbitrary detention. A decision to imprison someone, or not to imprison someone, based on their sex, rather than the facts of the case, is arbitrary. **ICCPR General Comment 35 paragraph 17** Also, men should not be denied the benefit of rehabilitation programs simply because they are men. 
+
+#### Examples of Incitement
 
 
+Men have the right to be free from arbitrary detention. A decision to imprison someone, or not to imprison someone, based on their sex, rather than the facts of the case, is arbitrary. **ICCPR General Comment 35 paragraph 17** However, the New Zealand Human Rights Commission recommends reducing the number of women in prison. (see report here: https://tikatangata.org.nz/our-work/submission-examination-of-aotearoa-new-zealands-9th-report-under-the-covention-on-the-elimination-of-all-forms-of-discrimination-against-women)  Women are already treated more favorably than men in the justice system, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _because they are men_. 
 
-
-For example, the Human Rights Commission recommends reducing the number of women in prison. (see report here: https://tikatangata.org.nz/our-work/submission-examination-of-aotearoa-new-zealands-9th-report-under-the-covention-on-the-elimination-of-all-forms-of-discrimination-against-women) 
-
-Women are already treated more favorably than men in the justice system, recommending that fewer women are sent to prison will likely result in even more men being sent to prison being _because they are men_. 
+Also, men should not be denied the benefit of rehabilitation programs simply because they are men. 
 
 Incitement includes advocating for laws favouring women, which violates men right to equality under the law. For example, advocating for laws prohibiting misogyny and against laws prohibiting misandry. https://www.newstatesman.com/politics/2018/10/misandry-misogyny-hate
 
