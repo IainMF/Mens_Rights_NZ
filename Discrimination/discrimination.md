@@ -98,6 +98,7 @@ Men have the right to be free from arbitrary detention. A decision to imprison s
 
 Also, men should not be denied the benefit of rehabilitation programs simply because they are men. 
 
+
 Incitement includes advocating for laws favouring women, which violates men right to equality under the law. For example, advocating for laws prohibiting misogyny and against laws prohibiting misandry. https://www.newstatesman.com/politics/2018/10/misandry-misogyny-hate
 
 
@@ -124,13 +125,13 @@ Direct discrimination is often explicit in law and policy. See [[discriminatory_
 ### Indirect discrimination
 Indirect, or substantive or *de facto*, discrimination against men occurs when apparently gender-neutral polices or practices have the effect of disadvantaging men. This can occur because a policy or program does not recognise an existing disadvantage that men face, or because those implementing the program are prejudiced or biased against men.
 
-For example, the Police policy of identifying a primary aggressor in family violence situations disadvantages men in situations where both parties used violence. Research shows that people are more likely to identify men as perpetrators, rather than victims and more likely to judge harm done to men as less severe than the equivalent done to women.
-
-Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
-
 [Section 65 of the Human Rights Act 1993](https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304657.html?search=sw_096be8ed81e6926d_indirect_25_se&p=1&sr=4) 
 
 > Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it.
+
+#### Examples of indirect discrimination
+For example, the Police policy of identifying a primary aggressor in family violence situations disadvantages men in situations where both parties used violence. Research shows that people are more likely to identify men as perpetrators, rather than victims and more likely to judge harm done to men as less severe than the equivalent done to women.
+
 
 > Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it.[^20] 
 
@@ -146,6 +147,7 @@ The New Zealand Human Rights Commission:
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^27]
 
+#### Example of system discrimination
 For example, the WEF's Global Gender Gap report treats men's shorter life expectancy as normal and desirable, even though men's shorter life expectancy is due largely to preventable and treatable deaths. The normalisation of men's shorter life expectancy means that there is little political will to address the issue. Likewise, men's over-representation in prison is accepted as normal, even though research shows that men face discrimination in the justice system. See [[Discrimination in the Justice System]]
 
 By contrast, shorter life expectancy and over-representation in prison for Māori are considered discrimination and worthy of being addressed.
