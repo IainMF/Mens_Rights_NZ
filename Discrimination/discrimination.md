@@ -111,10 +111,8 @@ Both direct and indirect discrimination are prohibited under New Zealand and int
 >(a)**Direct discrimination** occurs when an individual is treated less favourably than another person in a similar situation for a reason related to a prohibited ground; e.g. where employment in educational or cultural institutions or membership of a trade union is based on the political opinions of applicants or employees. Direct discrimination also includes detrimental acts or omissions on the basis of prohibited grounds where there is no comparable similar situation (e.g. the case of a woman who is pregnant);
 > 
 >(b)**Indirect discrimination** refers to laws, policies or practices which appear neutral at face value, but have a disproportionate impact on the exercise of Covenant rights as distinguished by prohibited grounds of discrimination. For instance, requiring a birth registration certificate for school enrolment may discriminate against ethnic minorities or non-nationals who do not possess, or have been denied, such certificates. [^18]
----
 
-
-### Direct
+### Direct discrimination
 Direct, or formal or *de jure*, discrimination against men is discrimination that occurs when a man is treated less favourably than a woman in a similar situation. It can also occur when, a man is treated less favourably when there is no equivalent situation. For example, denying men reproductive rights because they can't get pregnant.
 
 Direct discrimination is often explicit in law and policy. See [[discriminatory_laws|Legal Discrimination]] for examples.
@@ -122,7 +120,10 @@ Direct discrimination is often explicit in law and policy. See [[discriminatory_
 
 >Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. [^19]
 
-### Indirect
+### Indirect discrimination
+Indirect, or substantive or *de facto*, discrimination against men occurs when apparently gender-neutral polices or practices have the effect of disadvantaging men. This can occur because a policy or program does not recognise an existing disadvantage that men face, or because those implementing the program are prejudiced or biased against men.
+
+For example, the Police policy of identifying a primary aggressor in family violence situations disadvantages men in situations where both parties used violence. Research shows that people are more likely to identify men as perpetrators, rather than victims and more likely to judge harm done to men as less severe than the equivalent done to women.
 
 Substantive discrimination occurs when prejudice or bias prevents the realisation of men’s rights, even when there is no formal discrimination. For example, gender-neutral partner violence laws may still disadvantage men because partner violence is broadly understood to be overwhelmingly female victims and male perpetrators. This can create a bias in police and social services which causes male victims to face additional barriers when seeking help and support. This impairs men's right to equal access to support services.
 
