@@ -153,7 +153,7 @@ Systemic, or structural, discrimination is discrimination that occurs because cu
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^27]
 
-For example, the WEF's Global Gender Gap report treats men's shorter life expectancy as normal and desirable, even though men's shorter life expectancy is due largely to preventable and treatable deaths. The normalisation of men's shorter life expectancy means that there is little political will to address the issue. Likewise, men's over-representation in prison is accepted as normal, even though research shows that men face discrimination in the justice system. See [[ Discrimination in the Justice System]]
+For example, the WEF's Global Gender Gap report treats men's shorter life expectancy as normal and desirable, even though men's shorter life expectancy is due largely to preventable and treatable deaths. The normalisation of men's shorter life expectancy means that there is little political will to address the issue. Likewise, men's over-representation in prison is accepted as normal, even though research shows that men face discrimination in the justice system. See [[Discrimination in the Justice System]]
 
 By contrast, shorter life expectancy and over-representation in prison for Māori are considered discrimination and worthy of being addressed.
 
