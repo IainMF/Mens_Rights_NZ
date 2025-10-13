@@ -1,4 +1,3 @@
-
 ---
 title: Understanding Discrimination against men
 description: An overview of discrimination in human rights law and how it relates to men and boys.
