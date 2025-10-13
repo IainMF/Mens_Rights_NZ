@@ -157,12 +157,30 @@ The United Nation's Committee on Economic, Social and Cultural Rights explains t
 > States parties must adopt an active approach to eliminating systemic discrimination and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the persistent hostility towards some groups, particular attention will need to be given to ensuring that laws and policies are implemented by officials and others in practice. [^26]
 
 ## Differential treatment sometimes justified
-Not all different treatment of men is discrimination. New Zealand and international human rights law allows for different treatment in some situations.
+Not all different treatment between men and women is discrimination. New Zealand and international human rights law allows for different treatment in some situations. 
+
+Section 73 of  the New Zealand Human Rights Act 1993 allows different treatment if "it is done or omitted in good faith for the purpose of assisting or advancing persons or groups of persons" who "need or may reasonably be supposed to need assistance or advancement in order to achieve an equal place with other members of the community."
+
+In international human rights law different treatment is only justified if it is reasonable, objective, and the aims and effect of the treatment is the protection of human rights. Differential treatment must also be proportional to the need.
+
+Differential treatment must end.
+
+
+
+
+This raises two issues. First, men have the right to different treatment if they need it to achieve and equal place with women. 
+
+Second, different treatment for women must be justified or it is discrimination against men.
+
+
+
 
 > The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^21]
 
 > Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant. [^22]
 
+ICESCR
+> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is reasonable and objective. This will include an assessment as to whether the aim and effects of the measures or omissions are legitimate, compatible with the nature of the Covenant rights and solely for the purpose of promoting the general welfare in a democratic society. In addition, there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority. ISESCR General Comment 20 paragraph 13
 
 ### Addressing conditions that perpetuate discrimination
 
