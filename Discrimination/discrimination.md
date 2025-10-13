@@ -133,23 +133,10 @@ Substantive discrimination occurs when prejudice or bias prevents the realisatio
 
 > Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it.[^20] 
 
-## Differential treatment sometimes justified
-Not all different treatment of men is discrimination. New Zealand and international human rights law allows for different treatment in some situations.
-
-> The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^21]
-
-> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant. [^22]
-
-### Monitoring, indicators and benchmarks
-> States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination.[^23]
-
-### Addressing conditions that perpetuate discrimination
-> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^24]
-
 ## Systemic discrimination
 Systemic discrimination against men is prohibited. 
 
-Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men are considered normal and acceptable.  This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'.
+Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men, or assume men are magically taken care of, are considered normal and acceptable.  This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'.
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^27]
 
@@ -157,14 +144,30 @@ For example, the WEF's Global Gender Gap report treats men's shorter life expect
 
 By contrast, shorter life expectancy and over-representation in prison for Māori are considered discrimination and worthy of being addressed.
 
-
-
 Systemic discrimination occurs because discrimination against men is considered normal and acceptable. 
 
 > The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups. [^25]
 
 > States parties must adopt an active approach to eliminating systemic discrimination and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the persistent hostility towards some groups, particular attention will need to be given to ensuring that laws and policies are implemented by officials and others in practice. [^26]
 
+## Differential treatment sometimes justified
+Not all different treatment of men is discrimination. New Zealand and international human rights law allows for different treatment in some situations.
+
+> The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^21]
+
+> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant. [^22]
+
+
+### Addressing conditions that perpetuate discrimination
+
+
+> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^24]
+
+
+
+
+## Monitoring, indicators and benchmarks
+> States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination.[^23]
 
 
 ## Links
