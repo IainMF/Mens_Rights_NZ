@@ -60,14 +60,14 @@ The United Nations Human Rights Committee defines discrimination:
 This definition is reflected in other human rights conventions, including the Convention on the Elimination of All Forms of Discrimination against Women.
 
 ### Acts and omissions
-Discrimination can be an *act* or an *omission*.[^11] For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and also when someone *fails to act* to protect men’s rights when they are required to. 
+Discrimination can be an *act* or an *omission*.[^9] For example, discrimination can occur when someone acts in a way that impairs men’s enjoyment of their rights, and also when someone *fails to act* to protect men’s rights when they are required to. 
 
 In this article, I will refer only to 'acts' or 'actions' for readability. The reader should understand that often the terms include omissions or failure to act.
 
 #### Examples of omissions
 The Human Rights Committee says States are required to ensure men and women have equal rights in marriage, so failing to ensure men have equal rights with women is an omission that amounts to discrimination. 
 
-> ...States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but **it is a positive duty of States parties to make certain that spouses have equal rights** as required by the Covenant.[^12] *Emphasis added*
+> ...States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but **it is a positive duty of States parties to make certain that spouses have equal rights** as required by the Covenant.[^10] *Emphasis added*
 
 Another example, is monitoring and reporting on men's rights. As of October 2025, the Ministry of Justice website https://humanrights.govt.nz/ includes categories for women and girls but omits categories for men and boys. This omission impairs the recognition of men's rights on equal terms with women.
 
@@ -77,18 +77,18 @@ Intent is not required for something to be discrimination. If an act, or omissio
 
 For example, this gender analysis for a cabinet paper says it does not *intend* to negate men's experiences of violence. 
 
-> “Family violence and sexual violence are driven by gender inequities in society, and they are predominately perpetrated by men against women and children. **Recognising the gendered patterns of violence is not intended to negate the experiences of male victims**. ”[^13] *Emphasis added*
+> “Family violence and sexual violence are driven by gender inequities in society, and they are predominately perpetrated by men against women and children. **Recognising the gendered patterns of violence is not intended to negate the experiences of male victims**. ”[^11] *Emphasis added*
 
 Unfortunately, the *effect* of framing it as being driven by "gender inequities" is family and sexual violence is treated as a women's issue. Research shows that the *effect* of seeing family and sexual violence as women's issue is that male victims are discriminated against in violence prevention measures and find it difficult to get support.
 
 ### Equal recognition of rights
 Discrimination includes nullifying or impairing the recognition of men’s rights on equal footing with women. Men and women have the same human rights, and treating men’s rights as less important than women’s rights is discrimination against men. Of course the reverse is also true.
 #### Example of impairing the recognition of men's rights
- Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^14] Men rights were not included. New Zealand's failure to recognise men's rights is discrimination.
+ Article 3 of the ICCPR requires New Zealand to ensure equal rights for women and men. However, when reporting on Article 3 to the United Nations, New Zealand's reports have only included women's rights.[^12] Men rights were not included. New Zealand's failure to recognise men's rights is discrimination.
  
 
 ### Incitement
-Encouraging or inciting discrimination against men is prohibited.[^15] [^16] Incitement to discrimination includes advocating for preferential treatment for women, which men would also benefit from, or advocating against equal rights for men. 
+Encouraging or inciting discrimination against men is prohibited.[^13] [^14] Incitement to discrimination includes advocating for preferential treatment for women, which men would also benefit from, or advocating against equal rights for men. 
 
 
 #### Examples of Incitement
@@ -106,13 +106,13 @@ Incitement includes advocating for laws favouring women, which violates men righ
 Both direct and indirect discrimination are prohibited under New Zealand and international human rights law.
 
 
-> It prohibits discrimination in law or in fact in any field regulated and protected by public authorities.[^17]
+> It prohibits discrimination in law or in fact in any field regulated and protected by public authorities.[^15]
 
 > Both direct and indirect forms of differential treatment can amount to discrimination under article 2, paragraph 2, of the Covenant:
 > 
 >(a)**Direct discrimination** occurs when an individual is treated less favourably than another person in a similar situation for a reason related to a prohibited ground; e.g. where employment in educational or cultural institutions or membership of a trade union is based on the political opinions of applicants or employees. Direct discrimination also includes detrimental acts or omissions on the basis of prohibited grounds where there is no comparable similar situation (e.g. the case of a woman who is pregnant);
 > 
->(b)**Indirect discrimination** refers to laws, policies or practices which appear neutral at face value, but have a disproportionate impact on the exercise of Covenant rights as distinguished by prohibited grounds of discrimination. For instance, requiring a birth registration certificate for school enrolment may discriminate against ethnic minorities or non-nationals who do not possess, or have been denied, such certificates. [^18]
+>(b)**Indirect discrimination** refers to laws, policies or practices which appear neutral at face value, but have a disproportionate impact on the exercise of Covenant rights as distinguished by prohibited grounds of discrimination. For instance, requiring a birth registration certificate for school enrolment may discriminate against ethnic minorities or non-nationals who do not possess, or have been denied, such certificates. [^16]
 
 ### Direct discrimination
 Direct, or formal or *de jure*, discrimination against men is discrimination that occurs when a man is treated less favourably than a woman in a similar situation. It can also occur when, a man is treated less favourably when there is no equivalent situation. For example, denying men reproductive rights because they can't get pregnant.
@@ -120,7 +120,7 @@ Direct, or formal or *de jure*, discrimination against men is discrimination tha
 Direct discrimination is often explicit in law and policy. See [[discriminatory_laws|Legal Discrimination]] for examples.
 
 
->Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. [^19]
+>Direct discrimination occurs when a difference in treatment relies directly and explicitly on distinctions based exclusively on sex and characteristics of men or of women, which cannot be justified objectively. [^17]
 
 ### Indirect discrimination
 Indirect, or substantive or *de facto*, discrimination against men occurs when apparently gender-neutral polices or practices have the effect of disadvantaging men. This can occur because a policy or program does not recognise an existing disadvantage that men face, or because those implementing the program are prejudiced or biased against men.
@@ -133,7 +133,7 @@ Indirect, or substantive or *de facto*, discrimination against men occurs when a
 For example, the Police policy of identifying a primary aggressor in family violence situations disadvantages men in situations where both parties used violence. Research shows that people are more likely to identify men as perpetrators, rather than victims and more likely to judge harm done to men as less severe than the equivalent done to women.
 
 
-> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it.[^20] 
+> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it.[^18] 
 
 ## Systemic discrimination
 
@@ -141,11 +141,11 @@ Systemic, or structural, discrimination is discrimination that occurs because cu
 
 The United Nation's Committee on Economic, Social and Cultural Rights:
 
-> The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups. [^25]
+> The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups. [^19]
 
 The New Zealand Human Rights Commission:
 
-> Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^27]
+> Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^20]
 
 #### Example of system discrimination
 For example, the WEF's Global Gender Gap report treats men's shorter life expectancy as normal and desirable, even though men's shorter life expectancy is due largely to preventable and treatable deaths. The normalisation of men's shorter life expectancy means that there is little political will to address the issue. Likewise, men's over-representation in prison is accepted as normal, even though research shows that men face discrimination in the justice system. See [[Discrimination in the Justice System]]
@@ -157,7 +157,7 @@ Systemic discrimination occurs because discrimination against men is considered 
 
 The United Nation's Committee on Economic, Social and Cultural Rights explains the government's responsibility to address systemic discrimination:
 
-> States parties must adopt an active approach to eliminating systemic discrimination and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the persistent hostility towards some groups, particular attention will need to be given to ensuring that laws and policies are implemented by officials and others in practice. [^26]
+> States parties must adopt an active approach to eliminating systemic discrimination and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the persistent hostility towards some groups, particular attention will need to be given to ensuring that laws and policies are implemented by officials and others in practice. [^21]
 
 ## Differential treatment sometimes justified
 Not all different treatment between men and women is discrimination. New Zealand and international human rights law allows for different treatment in some situations. 
@@ -178,9 +178,9 @@ Second, different treatment for women must be justified or it is discrimination 
 
 
 
-> The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^21]
+> The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. In this connection, the provisions of the Covenant are explicit. For example, article 6, paragraph 5, prohibits the death sentence from being imposed on persons below 18 years of age. The same paragraph prohibits that sentence from being carried out on pregnant women. Similarly, article 10, paragraph 3, requires the segregation of juvenile offenders from adults. Furthermore, article 25 guarantees certain political rights, differentiating on grounds of citizenship.[^22]
 
-> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant. [^22]
+> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant. [^23]
 
 ICESCR
 > Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is reasonable and objective. This will include an assessment as to whether the aim and effects of the measures or omissions are legitimate, compatible with the nature of the Covenant rights and solely for the purpose of promoting the general welfare in a democratic society. In addition, there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority. ISESCR General Comment 20 paragraph 13
@@ -194,15 +194,15 @@ ICESCR
 
 
 ## Monitoring, indicators and benchmarks
-> States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination.[^23]
+> States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination.[^25]
 
 ## Sex and gender
 
-International law prohibits discrimination based on sex, however, the understanding of the term 'sex' has expanded "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^9]
+International law prohibits discrimination based on sex, however, the understanding of the term 'sex' has expanded "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^26]
  
  The United Nations Economic and Social Council:
 
-> Gender affects the equal right of men and women to the enjoyment of their rights.  Gender refers to cultural expectations and assumptions about the behaviour, attitudes, personality traits, and physical and intellectual capacities of men and women, based solely on their identity as men or women.[^10]
+> Gender affects the equal right of men and women to the enjoyment of their rights.  Gender refers to cultural expectations and assumptions about the behaviour, attitudes, personality traits, and physical and intellectual capacities of men and women, based solely on their identity as men or women.[^27]
 
 Discrimination can occur  based on "actual or perceived" characteristics. Thus, if someone believes a person to be a man and treats them less favourably as a result, that is discrimination against men, regardless of the actual sex or gender of the person affected.
 
@@ -225,22 +225,22 @@ Discrimination can occur  based on "actual or perceived" characteristics. Thus, 
 [^6]: ICCPR GC 28 paragraph 4
 [^7]: ICCPR GC 28 paragraph 31
 [^8]:ICCPR General Comment 18, paragraph 7
-[^9]: ICESCR General Comment 20, paragraph 20
-[^10]: ICESCR General Comment 16, paragraph 14
-[^11]: ICESCR General Comment 20, paragraph 14 
-[^12]:ICCPR General Comment 18, paragraph 5
-[^13]: Ministry of Justice (2018) Leadership of Government’s collective efforts to reduce family violence and sexual violence
-[^14]: For example, see New Zealand’s ICCPR reports: (CCPR/C/64/Add.10) -- paragraph 25, (CCPR/C/NZL/2001/4) -- para. 71, (CCPR/C/NZL/5) -- para. 89, (CCPR/C/NZL/6) -- Annex 1, para. 12
-[^15]: UDHR Article 7
-[^16]: ICESCR General Comment 20, paragraph 7
-[^17]:ICCPR General Comment 18, paragraph 12
-[^18]: ICESCR General Comment 20, paragraph 10
-[^19]: ICESCR General Comment, 16 paragraph 12
-[^20]: ICESCR General Comment, 16 paragraph 13
-[^21]:ICCPR General Comment 18, paragraph 8
-[^22]: ICCPR General Comment 18 paragraph 13
-[^23]: ICECSR General Comment 20, paragraph 41
+[^9]: ICESCR General Comment 20, paragraph 14 
+[^10]:ICCPR General Comment 18, paragraph 5
+[^11]: Ministry of Justice (2018) Leadership of Government’s collective efforts to reduce family violence and sexual violence
+[^12]: For example, see New Zealand’s ICCPR reports: (CCPR/C/64/Add.10) -- paragraph 25, (CCPR/C/NZL/2001/4) -- para. 71, (CCPR/C/NZL/5) -- para. 89, (CCPR/C/NZL/6) -- Annex 1, para. 12
+[^13]: UDHR Article 7
+[^14]: ICESCR General Comment 20, paragraph 7
+[^15]:ICCPR General Comment 18, paragraph 12
+[^16]: ICESCR General Comment 20, paragraph 10
+[^17]: ICESCR General Comment, 16 paragraph 12
+[^18]: ICESCR General Comment, 16 paragraph 13
+[^19]: ICESCR General Comment 20, paragraph 12
+[^20]: A fair go for all? Rite tahi tätou katoa? Addressing Structural Discrimination in Public Services, HRC 2012
+[^21]: ICESCR General Comment 20, paragraph 39
+[^22]:ICCPR General Comment 18, paragraph 8
+[^23]: ICCPR General Comment 18 paragraph 13
 [^24]:ICCPR General Comment 18, paragraph 10
-[^25]: ICESCR General Comment 20, paragraph 12
-[^26]: ICESCR General Comment 20, paragraph 39
-[^27]: A fair go for all? Rite tahi tätou katoa? Addressing Structural Discrimination in Public Services, HRC 2012
+[^25]: ICECSR General Comment 20, paragraph 41
+[^26]: ICESCR General Comment 20, paragraph 20
+[^27]: ICESCR General Comment 16, paragraph 14
