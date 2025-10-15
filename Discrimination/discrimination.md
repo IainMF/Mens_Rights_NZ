@@ -50,6 +50,7 @@ The United Nations Human Rights Committee:
 
 > The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination ... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.[^7]  
 
+> Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above. Other laws should be regularly reviewed and, where necessary, amended in order to ensure that they do not discriminate or lead to discrimination, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights. ICESCR General Comment 20, paragraph 37
 
 ## Understanding Discrimination
 
