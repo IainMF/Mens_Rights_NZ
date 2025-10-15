@@ -1,7 +1,7 @@
 ---
 title: Different Treatment
 description: Different treatment is sometimes justified or required.
-date:2025-10-16
+date: 2025-10-16
 ---
 
 Different treatment between men and women is not always discrimination. Under international human rights law sometimes different treatment is justified or even required.
