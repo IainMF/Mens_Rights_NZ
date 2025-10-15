@@ -197,6 +197,8 @@ ICESCR
 ## Monitoring, indicators and benchmarks
 > States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination.[^25]
 
+> To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls; ICESCR Geneal Comment 16, paragraph 21
+
 ## Sex and gender
 
 International law prohibits discrimination based on sex, however, the understanding of the term 'sex' has expanded "to cover not only physiological characteristics but also the social construction of gender stereotypes, prejudices and expected roles, which have created obstacles to the equal fulfilment" of rights"[^26]
