@@ -23,6 +23,12 @@ Different treatment between men and women is not always discrimination. Under in
 Preferential treatment for women is may or may not be discrimination against men. 
 
 ## Temporary special measures
+
+> shall in no way entail as a consequence the maintenance of unequal or separate standards CEDAW article 4.1
+
+Thus, the standards applied to addressing discrimination against women, must be applied to addressing discrimination against men.
+
+
 > ...States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality... ICESCR General Comment 20, paragraph 38
 
 > The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved,  such differentiation is legitimate. ICESCR General Comment 16, paragraph 15
