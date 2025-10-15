@@ -167,7 +167,7 @@ Section 73 of  the New Zealand Human Rights Act 1993 allows different treatment 
 
 In international human rights law requires the government to address existing disadvantages, which may require differential treatment. Different treatment is only justified if it is reasonable, objective, and the aims and effect of the treatment is the protection of human rights. Differential treatment must also be proportional to the need.
 
-Differential treatment must end.
+Differential treatment must end. NOT TRUE sometimes different treatment can be permanent, for example, providing languauge support for minorites. 
 
 
 
