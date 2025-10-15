@@ -55,6 +55,6 @@ not maintain separate standards
 
 Men and men's advocates should be involved in decision making regrading any sex-based preferential treatment, for women or men.
 
-Men may be affected by preferential treatmetn for women, and have a right to have their concerns heard.
+Men may be affected by preferential treatment for women, and have a right to have their concerns heard.
 
 > In addition to refraining from discriminatory actions, States parties should take concrete, deliberate and targeted measures to ensure that discrimination in the exercise of Covenant rights is eliminated. Individuals and groups of individuals, who may be distinguished by one or more of the prohibited grounds, **should be ensured the right to participate in decision-making processes over the selection of such measures**. States parties **should regularly assess** whether the measures chosen are **effective in practice**. ICESCR General Comment 20, paragraph 36
