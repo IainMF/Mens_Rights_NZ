@@ -1,6 +1,7 @@
 ---
 title: Different Treatment
 description: Different treatment is sometimes justified or required.
+date:2025-10-16
 ---
 
 Different treatment between men and women is not always discrimination. Under international human rights law sometimes different treatment is justified or even required.
@@ -62,6 +63,8 @@ Different treatment must be necessary to reach the intended goals. If a program 
 
 > States parties **should regularly assess** whether the measures chosen are **effective in practice**. ICESCR General Comment 20, paragraph 36
 
+> Violations of the rights contained in the Covenant can occur through the direct action of, failure to act or omission by States parties, or through their institutions or agencies at the national and local levels.  **The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3**.  ICESCR General Comment 16, paragraph 42
+
 ## Discrimination in the application of affirmative action.
 Men have the same right to affirmative action as women. If affirmative action is not apply to men in a situation where it would be applied to women then that is discrimination.
 
@@ -82,3 +85,6 @@ Men may be affected by preferential treatment for women, and have a right to hav
 
 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant. ICESCR General Comment 16, paragraph 37
+
+## Monitoring
+> Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  Failure to adopt, implement and monitor effects of laws, policies and programmes to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights. ICESCR General Comment 16, paragraph 41
