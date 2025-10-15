@@ -1,7 +1,6 @@
 ---
 title: Different Treatment
 description: Different treatment is sometimes justified or required.
-date: 2025-10-16
 ---
 
 Different treatment between men and women is not always discrimination. Under international human rights law sometimes different treatment is justified or even required.
@@ -72,6 +71,15 @@ Men have the same right to affirmative action as women. If affirmative action is
 ## CEDAW
 
 not maintain separate standards
+
+> Article 4
+
+> 1. Adoption by States Parties of temporary special measures aimed at accelerating de facto equality between men and women shall not be considered discrimination as defined in the present Convention, **but shall in no way entail as a consequence the maintenance of unequal or separate standards; these measures shall be discontinued when the objectives of equality of opportunity and treatment have been achieved**.
+
+> 2. Adoption by States Parties of special measures, including those measures contained in the present Convention, aimed at protecting maternity shall not be considered discriminatory.
+
+
+> 18. Measures taken under article 4, paragraph 1, by States parties should aim to accelerate the equal participation of women in the political, economic, social, cultural, civil or any other field. The Committee views the application of these measures not as an exception to the norm of non-discrimination, but rather as an emphasis that temporary special measures are part of a necessary strategy by States parties directed towards the achievement of de facto or substantive equality of women with men in the enjoyment of their human rights and fundamental freedoms. While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists irrespective of any proof of past discrimination. **The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men**. CEDAW General Comment 25, paragraph 18
 
 ## Involvement in decisions regarding affirmative action
 
