@@ -14,3 +14,7 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 
 ### Necessary
 Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
+
+
+## Discrimination in the application of affirmative action.
+Men have the same right to affirmative action as women. If affirmative action is not apply to men in a situation where it would be applied to women then that is discrimination.
