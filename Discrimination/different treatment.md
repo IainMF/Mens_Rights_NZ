@@ -29,6 +29,8 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 
 > Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is **reasonable and objective**. This will include an assessment as to whether the aim and effects of the measures or omissions are **legitimate, compatible with the nature of the Covenant rights** and solely for the purpose of promoting the **general welfare in a democratic society**. In addition, there must be a clear and reasonable relationship of **proportionality** between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority. ICESCR General Comment 20, paragraph 13
 
+> Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. ICESCR General Comment 20, paragraph 39
+
 ### Reasonable
 
 ### Objective
