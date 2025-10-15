@@ -16,6 +16,8 @@ Different treatment between men and women is not always discrimination. Under in
 ## Special treatment for women
 Preferential treatment for women is may or may not be discrimination against men. 
 
+## Temporary special measures
+> ...States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality... ICESCR General Comment 20, paragraph 38
 
 ## When different treatment is justified
 Sometimes, to protect and ensure human rights, different treatment is justified. For example, 
