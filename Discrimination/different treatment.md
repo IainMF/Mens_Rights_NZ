@@ -13,11 +13,26 @@ Different treatment between men and women is not always discrimination. Under in
 
 >  **In order to eliminate substantive discrimination, States parties may be, and in some cases are, under an obligation to adopt special measures to attenuate or suppress conditions that perpetuate discrimination.** Such measures are legitimate to the extent that they represent **reasonable, objective and proportional** means to **redress de facto discrimination** and are **discontinued** when substantive  equality has been **sustainably achieved**. Such **positive measures may exceptionally, however, need to be of a permanent nature**, such as interpretation services for linguistic minorities and reasonable accommodation of persons with sensory impairments in accessing health-care facilities. ICESCR General Comment 20, paragraph 9
 
+> The enjoyment of human rights on the basis of equality between men and women must be understood comprehensively.  Guarantees of non-discrimination and equality in international human rights treaties mandate both de facto  and de jure equality.  De jure (or formal) equality and de facto (or substantive) equality are different but interconnected concepts.  Formal equality assumes that equality is achieved if a law or policy treats men and women in a neutral manner.  Substantive equality is concerned, in addition, with the effects of laws, policies and practices and with ensuring that they do not maintain, but rather alleviate, the inherent disadvantage that particular groups experience. ICESCR General Comment 16, paragraph 7
+
+> Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, **gender-neutral**.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those  experienced by women. ICESCR General Comment 16, paragraph 8
+
+> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  **Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it**. ICESCR General Comment 16, paragraph 13
+
 ## Special treatment for women
 Preferential treatment for women is may or may not be discrimination against men. 
 
 ## Temporary special measures
 > ...States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality... ICESCR General Comment 20, paragraph 38
+
+> The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved,  such differentiation is legitimate. ICESCR General Comment 16, paragraph 15
+
+> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources; ICESCR General Comment 16, paragraph 21
+
+> The adoption of temporary special measures may be necessary to accelerate the equal enjoyment by women of all economic, social and cultural rights and to improve the de facto position of women.  Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women. ICESCR General Comment 16, paragraph 35
+
+> States parties are encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to eliminate disadvantage caused by past and current discriminatory laws, traditions and practices.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved. CESCR General Comment 16, paragraph 36
+
 
 ## When different treatment is justified
 Sometimes, to protect and ensure human rights, different treatment is justified. For example, 
@@ -62,3 +77,8 @@ Men and men's advocates should be involved in decision making regrading any sex-
 Men may be affected by preferential treatment for women, and have a right to have their concerns heard.
 
 > In addition to refraining from discriminatory actions, States parties should take concrete, deliberate and targeted measures to ensure that discrimination in the exercise of Covenant rights is eliminated. Individuals and groups of individuals, who may be distinguished by one or more of the prohibited grounds, **should be ensured the right to participate in decision-making processes over the selection of such measures**. States parties **should regularly assess** whether the measures chosen are **effective in practice**. ICESCR General Comment 20, paragraph 36
+
+>  To promote equal participation of men and women in development planning, decision-making and in the benefits of development and all programmes related to the realization of economic, social and cultural rights  ICESCR General Comment 16, paragraph 21
+
+
+> The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant. ICESCR General Comment 16, paragraph 37
