@@ -206,6 +206,9 @@ International law prohibits discrimination based on sex, however, the understand
 
 Discrimination can occur  based on "actual or perceived" characteristics. Thus, if someone believes a person to be a man and treats them less favourably as a result, that is discrimination against men, regardless of the actual sex or gender of the person affected.
 
+Discrimaintion against men includes discrimiantiong agisnt people who are assicaited with men, such as men's advocates.
+
+> In determining whether a person is distinguished by one or more of the prohibited grounds, identification shall, if no justification exists to the contrary, be based upon self-identification by the individual concerned. Membership also includes **association with a group characterized by one of the prohibited grounds** (e.g. the parent of a child with a disability) or perception by others that an individual is part of such a group (e.g. a person has a similar skin colour or is a supporter of the rights of a particular group or a past member of a group).ICESCR General Comment 20, paragraph 16
 
 ## Links
 
