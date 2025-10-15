@@ -13,7 +13,8 @@ Different treatment between men and women is not always discrimination. Under in
 
 >  **In order to eliminate substantive discrimination, States parties may be, and in some cases are, under an obligation to adopt special measures to attenuate or suppress conditions that perpetuate discrimination.** Such measures are legitimate to the extent that they represent **reasonable, objective and proportional** means to **redress de facto discrimination** and are **discontinued** when substantive  equality has been **sustainably achieved**. Such **positive measures may exceptionally, however, need to be of a permanent nature**, such as interpretation services for linguistic minorities and reasonable accommodation of persons with sensory impairments in accessing health-care facilities. ICESCR General Comment 20, paragraph 9
 
-
+## Special treatment for women
+Preferential treatment for women is may or may not be discrimination against men. 
 
 
 ## When different treatment is justified
@@ -40,6 +41,7 @@ Different treatment must be necessary to reach the intended goals. If a program 
 > In becoming parties to the Covenant, States undertake, in accordance with article 3, to ensure the equal right of men and women to the enjoyment of all civil and political rights set forth in the Covenant, and in accordance with article 5, **nothing in the Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or perform any act aimed at the destruction of any of the rights provided for in article 3**, or at limitations not covered by the Covenant. ICCPR General Comment 28, paragraph 9
 
 
+> States parties **should regularly assess** whether the measures chosen are **effective in practice**. ICESCR General Comment 20, paragraph 36
 
 ## Discrimination in the application of affirmative action.
 Men have the same right to affirmative action as women. If affirmative action is not apply to men in a situation where it would be applied to women then that is discrimination.
@@ -48,3 +50,11 @@ Men have the same right to affirmative action as women. If affirmative action is
 ## CEDAW
 
 not maintain separate standards
+
+## Involvement in decisions regarding affirmative action
+
+Men and men's advocates should be involved in decision making regrading any sex-based preferential treatment, for women or men.
+
+Men may be affected by preferential treatmetn for women, and have a right to have their concerns heard.
+
+> In addition to refraining from discriminatory actions, States parties should take concrete, deliberate and targeted measures to ensure that discrimination in the exercise of Covenant rights is eliminated. Individuals and groups of individuals, who may be distinguished by one or more of the prohibited grounds, **should be ensured the right to participate in decision-making processes over the selection of such measures**. States parties **should regularly assess** whether the measures chosen are **effective in practice**. ICESCR General Comment 20, paragraph 36
