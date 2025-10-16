@@ -4,6 +4,8 @@ description: Different treatment is sometimes justified or required.
 date: 2025-10-16
 ---
 
+Note: Forcing equal outcomes for women could violate their right to autoomy (ie to make their own decsions)
+
 Different treatment between men and women is not always discrimination. Under international human rights law sometimes different treatment is justified or even required.
 
 >  The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. [^1]
