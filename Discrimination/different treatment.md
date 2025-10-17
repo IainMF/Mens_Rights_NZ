@@ -1,20 +1,28 @@
 ---
 title: Different Treatment
-description: Different treatment is sometimes justified or required.
+description: Different treatment is sometimes justified or required in human rights law.
 date: 2025-10-16
 ---
-New Zealand is required to ensure equal enjoyment of rights between men and women and to ensure men and women do not face discrimination. To meet these obligations New Zealand has to take action to address any unequal enjoyment of rights or discrimination. Sometimes this means treating men and women differently to address the disadvantages face by men or women. 
-
-Therefore, different treatment between men and women is not always discrimination. 
- Under international human rights law sometimes different treatment is justified or even required.
+Different treatment between men and women is not always discrimination. Under international human rights law sometimes different treatment is justified or even required.[^1] New Zealand is required to ensure equal enjoyment of rights between men and women and to ensure men and women do not face discrimination. To meet these obligations New Zealand has to address any unequal enjoyment of rights or discrimination. Sometimes this means treating men and women differently to address the disadvantages face by men or women. 
 
 Removing formal discrimination does not mean the effect of the discrimination is removed. For example, if a group was not allowed to vote and the law was changed to allow them to vote, it may be necessary to have special programs to enroll members of this group and help them learn about voting. Just changing the law does not mean that the group will fully enjoy their right to vote on equal terms with experienced voters. 
 
+The Human Rights Committee says different treatment in order to correct for discrimination is legitimate under ICCPR:
+
+> The Committee also wishes to point out that **the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination** prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^2] 
 
 
->  The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. [^1]
 
-> The Committee also wishes to point out that t**he principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination** prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^2] 
+There are issues relevant to men's rights here:
+
+First, the consideration and application of 'affirmative action' must itself be free from bias and discrimination. Men should receive affirmative action to address discrimination and unequal enjoyment of their rights in the same manner as women do.
+
+Second, improper application of 'affirmative action' for women is discrimination against men.
+
+
+
+
+
 
 > **Substantive discrimination**: *Merely addressing formal discrimination will not ensure substantive equality as envisaged and defined by article 2, paragraph 2*. The effective enjoyment of Covenant rights is often influenced by whether a person is a member of a group characterized by the prohibited grounds of discrimination. Eliminating discrimination in practice requires paying sufficient attention to groups of individuals which suffer historical or persistent prejudice instead of merely comparing the formal treatment of individuals in similar situations. States parties must therefore immediately adopt the necessary measures to prevent, diminish and eliminate the conditions and attitudes which cause or perpetuate substantive or de facto  discrimination. For example, ensuring that all individuals have equal access to adequate housing, water and sanitation will help to overcome discrimination against women and girl children and persons living in informal settlements and rural areas.[^3] 
 
@@ -66,6 +74,8 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 
 ### Necessary
 Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
+
+### Proportional
 
 ## Required
 >  The Committee wishes to draw the attention of States parties to the fact that the Covenant **sometimes expressly requires them to take measures to guarantee the equality of rights of the persons concerned**. For example, article 23, paragraph 4, stipulates that States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^17] 
