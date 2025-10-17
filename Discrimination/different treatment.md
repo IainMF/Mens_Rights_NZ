@@ -4,7 +4,12 @@ description: Different treatment is sometimes justified or required.
 date: 2025-10-16
 ---
 
-Note: Forcing equal outcomes for women could violate their right to autonomy (ie to make their own decsions)
+Note: Forcing equal outcomes for women could violate their right to autonomy (ie to make their own decisions)
+
+**States are required to ensure equal enjoyment of rights, which means they have to take action to address discrimination and unequal enjoyment of rights. This means different treatment is required for the groups who are disadvantaged.**
+
+**Removing formal discrimination does not mean the effect of the discrimination is removed.** For example, if a group was not allowed to vote and the law was changed to allow them to vote, it may be necessary to have special programs to enroll members of this group and help them learn about voting. Just changing the law does not mean that the group will fully enjoy their right to vote on equal terms with experienced voters. 
+
 
 Different treatment between men and women is not always discrimination. Under international human rights law sometimes different treatment is justified or even required.
 
