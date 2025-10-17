@@ -3,15 +3,14 @@ title: Different Treatment
 description: Different treatment is sometimes justified or required.
 date: 2025-10-16
 ---
+New Zealand is required to ensure equal enjoyment of rights between men and women and to ensure men and women do not face discrimination. To meet these obligations New Zealand has to take action to address any unequal enjoyment of rights or discrimination. Sometimes this means treating men and women differently to address the disadvantages face by men or women. 
 
-Note: Forcing equal outcomes for women could violate their right to autonomy (ie to make their own decisions)
+Therefore, different treatment between men and women is not always discrimination. 
+ Under international human rights law sometimes different treatment is justified or even required.
 
-**States are required to ensure equal enjoyment of rights, which means they have to take action to address discrimination and unequal enjoyment of rights. This means different treatment is required for the groups who are disadvantaged.**
-
-**Removing formal discrimination does not mean the effect of the discrimination is removed.** For example, if a group was not allowed to vote and the law was changed to allow them to vote, it may be necessary to have special programs to enroll members of this group and help them learn about voting. Just changing the law does not mean that the group will fully enjoy their right to vote on equal terms with experienced voters. 
+Removing formal discrimination does not mean the effect of the discrimination is removed. For example, if a group was not allowed to vote and the law was changed to allow them to vote, it may be necessary to have special programs to enroll members of this group and help them learn about voting. Just changing the law does not mean that the group will fully enjoy their right to vote on equal terms with experienced voters. 
 
 
-Different treatment between men and women is not always discrimination. Under international human rights law sometimes different treatment is justified or even required.
 
 >  The enjoyment of rights and freedoms on an equal footing, however, does not mean identical treatment in every instance. [^1]
 
@@ -78,6 +77,8 @@ Different treatment must be necessary to reach the intended goals. If a program 
 > States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^19] 
 
 > Violations of the rights contained in the Covenant can occur through the direct action of, failure to act or omission by States parties, or through their institutions or agencies at the national and local levels.  **The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3**.[^20]  
+
+Note: Forcing equal outcomes for women could violate their right to autonomy (ie to make their own decisions)
 
 ## Discrimination in the application of affirmative action.
 Men have the same right to affirmative action as women. If affirmative action is not apply to men in a situation where it would be applied to women then that is discrimination.
