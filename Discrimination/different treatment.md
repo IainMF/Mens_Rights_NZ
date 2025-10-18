@@ -80,6 +80,11 @@ The path to improving the situation must be clearly laid out in advance. EG
 Not:
 - X is a problem, if we spend more money on Y it will magically help.
 
+Reasonable means identifying unstated assumptions.  For example, assuming that men in power means men's needs are considered in decisions. Or that "gender is a hierarchy that privileges men and disadvantages women" 
+
+If there are unstated assumptions, then the logic of the decision may be flawed.
+
+Reasonable means discarding ideological opinions.
 
 
 ### Objective
@@ -87,14 +92,16 @@ Objective means based on verifiable facts.
 
 A problem must be clearly identified, and be able to be measured. Measurements must measure what they say they are measuring. Proxy measurements should be used only if direct measurements are not possible.
 
-
-
+##### Consider this hypothetical issue:
+Women's needs are not represented in decision making. 
+We can measure the number of decision makers who are women, but this does not necessarily relate to decision makers addressing women needs. It is possible that men are attentive to women's needs or women are not. Therefore, the using the number of women who are decision makers is not a direct measure of whether women's needs are taken into consideration.
 
 
 ### Necessary
 Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
 
 ### Proportional
+The special measure must be proportional to the disadvantage that is being addressed.
 
 ### Promoting general welfare
 
