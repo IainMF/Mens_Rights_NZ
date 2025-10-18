@@ -90,6 +90,8 @@ Reasonable means assessing likely situations where the special measure could bac
 
 Reasonable means identifying the human rights issue that is being addressed. Special measures are only legitimate if they support the human rights of the target group, and do not impair the rights of others. 
 
+Reasonable means being sure that special measures are required. Or when preferential or specific treatment is required.
+
 ### Objective
 Objective means based on verifiable facts.
 
@@ -163,11 +165,13 @@ Men may be affected by preferential treatment for women, and have a right to hav
 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^24] 
 
-# preferential  vs specific treatment
+# Preferential  vs specific treatment
 Different treatment can be *preferential* treatment or *specific* treatment. 
 Preferential treatment means allocating resources to a disadvantaged group to alleviate the disadvantage
 
 Specific treatment means different treatment that is based on needs. For example, men may need male specific programs, or policies, that are complimented by women only programs or polices.
+
+Preferential treatment for women, should not be used when specific treatment is more appropriate. For example, women's shelters without similar support for men is preferential treatment, while providing both women and men support based on their unique needs is specific treatment.
 
 
 
