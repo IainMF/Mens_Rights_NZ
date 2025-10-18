@@ -12,12 +12,13 @@ The Human Rights Committee says different treatment in order to correct for disc
 > The Committee also wishes to point out that **the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination** prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^2] 
 
 
-
 There are issues relevant to men's rights here:
 
 First, the consideration and application of 'affirmative action' must itself be free from bias and discrimination. Men should receive affirmative action to address discrimination and unequal enjoyment of their rights in the same manner as women do.
 
-Second, improper application of 'affirmative action' for women is discrimination against men.
+Second, not all preferential treatment for women is discrimination.
+
+Third, improper application of 'affirmative action' for women *is* discrimination against men.
 
 
 
