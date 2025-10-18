@@ -70,13 +70,33 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 > Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups.[^16] 
 
 ### Reasonable
+Reasonable means logical, or with sound judgement. The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
+
+The path to improving the situation must be clearly laid out in advance. EG
+- X is a problem 
+- Y is known to reduce the problem
+- therefore we should do Y to address X
+
+Not:
+- X is a problem, if we spend more money on Y it will magically help.
+
+
 
 ### Objective
+Objective means based on verifiable facts.
+
+A problem must be clearly identified, and be able to be measured. Measurements must measure what they say they are measuring. Proxy measurements should be used only if direct measurements are not possible.
+
+
+
+
 
 ### Necessary
 Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
 
 ### Proportional
+
+### Promoting general welfare
 
 ## Required
 >  The Committee wishes to draw the attention of States parties to the fact that the Covenant **sometimes expressly requires them to take measures to guarantee the equality of rights of the persons concerned**. For example, article 23, paragraph 4, stipulates that States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^17] 
