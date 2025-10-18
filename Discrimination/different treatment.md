@@ -99,6 +99,9 @@ A problem must be clearly identified, and be able to be measured. Measurements m
 Women's needs are not represented in decision making. 
 We can measure the number of decision makers who are women, but this does not necessarily relate to decision makers addressing women needs. It is possible that men are attentive to women's needs or women are not. Therefore, the using the number of women who are decision makers is not a direct measure of whether women's needs are taken into consideration.
 
+#### Monitoring is required
+Objectivity requires monitoring to ensure special measure are having the desired effect and not causing harm.
+> Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  **Failure to adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant **constitutes a violation of those rights.**[^25] 
 
 ### Necessary
 Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
@@ -154,8 +157,8 @@ Men may be affected by preferential treatment for women, and have a right to hav
 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^24] 
 
-## Monitoring
-> Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  Failure to adopt, implement and monitor effects of laws, policies and programmes to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^25] 
+
+
 
 [^1]: CCPR General Comment 18, paragraph 8
 [^2]: CCPR General Comment 18, paragraph 10
