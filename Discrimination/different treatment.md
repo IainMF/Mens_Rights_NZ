@@ -103,11 +103,18 @@ We can measure the number of decision makers who are women, but this does not ne
 Objectivity requires monitoring to ensure special measure are having the desired effect and not causing harm.
 > Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  **Failure to adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant **constitutes a violation of those rights.**[^25] 
 
+> States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^19] 
+
 ### Necessary
 Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
+
+### Time limited
+Special measures should be time limited and end once the goal is reached. The goal should be stated on commencement, and not be changed during the period without the same requirements (reasonable, objective etc.) to justify the change
+
+Some measures can be permanent, but these must be clearly identified.
 
 ### Promoting general welfare and supporting human rights
 Special measures must support the protection and promotion of human rights.
@@ -119,9 +126,6 @@ Special measures that undermine 'general welfare of society' should be avoided. 
 
 ## Not justified
 > In becoming parties to the Covenant, States undertake, in accordance with article 3, to ensure the equal right of men and women to the enjoyment of all civil and political rights set forth in the Covenant, and in accordance with article 5, **nothing in the Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or perform any act aimed at the destruction of any of the rights provided for in article 3**, or at limitations not covered by the Covenant.[^18] 
-
-
-> States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^19] 
 
 > Violations of the rights contained in the Covenant can occur through the direct action of, failure to act or omission by States parties, or through their institutions or agencies at the national and local levels.  **The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3**.[^20]  
 
@@ -157,7 +161,11 @@ Men may be affected by preferential treatment for women, and have a right to hav
 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^24] 
 
+# Wicked problems
 
+https://en.wikipedia.org/wiki/Wicked_problem
+
+> In planning and policy, a wicked problem is a problem that is difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize. It refers to an idea or problem that cannot be fixed, where there is no single solution to the problem; "wicked" does not indicate evil, but rather resistance to resolution. Another definition is "a problem whose social complexity means that it has no determinable stopping point". Because of complex interdependencies, the effort to solve one aspect of a wicked problem may reveal or create other problems. Due to their complexity, wicked problems are often characterized by organized irresponsibility. 
 
 
 [^1]: CCPR General Comment 18, paragraph 8
