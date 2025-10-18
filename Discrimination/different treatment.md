@@ -121,6 +121,8 @@ Special measures must support the protection and promotion of human rights.
 
 Special measures that undermine 'general welfare of society' should be avoided. Note: Affirmative action for men is disliked more than for women, so **care must be taken not to cause disharmony and resentment**. 
 
+Special measures should not 
+
 ## Required
 >  The Committee wishes to draw the attention of States parties to the fact that the Covenant **sometimes expressly requires them to take measures to guarantee the equality of rights of the persons concerned**. For example, article 23, paragraph 4, stipulates that States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^17] 
 
@@ -160,6 +162,14 @@ Men may be affected by preferential treatment for women, and have a right to hav
 
 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^24] 
+
+# preferential  vs specific treatment
+Different treatment can be *preferential* treatment or *specific* treatment. 
+Preferential treatment means allocating resources to a disadvantaged group to alleviate the disadvantage
+
+Specific treatment means different treatment that is based on needs. For example, men may need male specific programs, or policies, that are complimented by women only programs or polices.
+
+
 
 # Wicked problems
 
