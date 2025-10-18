@@ -86,6 +86,9 @@ If there are unstated assumptions, then the logic of the decision may be flawed.
 
 Reasonable means discarding ideological opinions.
 
+Reasonable means assessing likely situations where the special measure could backfire, or harm another group.
+
+Reasonable means identifying the human rights issue that is being addressed. Special measures are only legitimate if they support the human rights of the target group, and do not impair the rights of others. 
 
 ### Objective
 Objective means based on verifiable facts.
@@ -101,9 +104,12 @@ We can measure the number of decision makers who are women, but this does not ne
 Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
 
 ### Proportional
-The special measure must be proportional to the disadvantage that is being addressed.
+The special measure must be proportional to the disadvantage that is being addressed. 
 
-### Promoting general welfare
+### Promoting general welfare and supporting human rights
+Special measures must support the protection and promotion of human rights.
+
+Special measures that undermine 'general welfare of society' should be avoided. Note: Affirmative action for men is disliked more than for women, so **care must be taken not to cause disharmony and resentment**. 
 
 ## Required
 >  The Committee wishes to draw the attention of States parties to the fact that the Covenant **sometimes expressly requires them to take measures to guarantee the equality of rights of the persons concerned**. For example, article 23, paragraph 4, stipulates that States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^17] 
