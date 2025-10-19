@@ -36,6 +36,16 @@ There is little jurisprudence or guidance for governments to address discriminat
 #### States are required to equally protect the human rights of men and boys
 ICCPR and ICESCR require states to ensure equal enjoyment of rights between men and women. ICCPR prohibits discrimination against men.
 
+#### CEDAW does not limit states to things that are more conducive to equality
+
+> CEDAW Article 23
+
+> Nothing in the present Convention shall affect any provisions that are **more conducive to the achievement of equality between men and women** which may be contained: 
+> 
+> (a) In the legislation of a State Party; or
+> 
+> (b) In any other international convention, treaty or agreement in force for that State.
+
 ### Considering specific circumstances
 Special measures should consider the specific circumstances of women and men. This could be used to argue that the standards applied for special measures for women should not be used for men. However, this does not stand up:
 
@@ -249,3 +259,4 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^25]: ICESCR General Comment 20, paragraph 36
 [^26]: ICESCR General Comment 16, paragraph 21
 [^27]: ICESCR General Comment 16, paragraph 37
+
