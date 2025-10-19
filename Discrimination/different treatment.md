@@ -18,9 +18,9 @@ First, the consideration and application of 'affirmative action' must itself be 
 
 CEDAW General Recommendation 25 explains the standards for applying special measures to address discrimination against women and ensure substantive equality between women and men. These standards should be used for special measures to address discrimination against men and ensure substantive equality for men. After all, if the goal is substantive equality between women and men, then men's inequalities must be addressed.
 
-> The scope and meaning of article 4, paragraph 1, must be determined in the context of **the overall object and purpose of the Convention, which is to** eliminate all forms of discrimination against women with a view to **achieving women’s de jure and de facto equality with men in the enjoyment of their human rights and fundamental freedoms**. States parties to the Convention are under a legal obligation to respect, protect, promote and fulfil this right to non-discrimination for women and to ensure the development and advancement of women in order to improve their position to one of **de jure as well as de facto equality with men**. CEDAW General Recommendation 25, paragraph 4
+> The scope and meaning of article 4, paragraph 1, must be determined in the context of **the overall object and purpose of the Convention, which is to** eliminate all forms of discrimination against women with a view to **achieving women’s de jure and de facto equality with men in the enjoyment of their human rights and fundamental freedoms**. States parties to the Convention are under a legal obligation to respect, protect, promote and fulfil this right to non-discrimination for women and to ensure the development and advancement of women in order to improve their position to one of **de jure as well as de facto equality with men**.[^3] 
 
-> The Convention goes beyond the concept of discrimination used in many national and **international legal standards and norms. While such standards and norms prohibit discrimination on the grounds of sex and *protect both men and women* from treatment based on arbitrary, unfair and/or unjustifiable distinctions**, the Convention focuses on discrimination against women, emphasizing that women have suffered, and continue to suffer from various forms of discrimination because they are women. CEDAW General Recommendation 25, paragraph 5
+> The Convention goes beyond the concept of discrimination used in many national and **international legal standards and norms. While such standards and norms prohibit discrimination on the grounds of sex and *protect both men and women* from treatment based on arbitrary, unfair and/or unjustifiable distinctions**, the Convention focuses on discrimination against women, emphasizing that women have suffered, and continue to suffer from various forms of discrimination because they are women.[^4] 
 
 
 Second, not all preferential treatment for women is discrimination.
@@ -28,19 +28,15 @@ Second, not all preferential treatment for women is discrimination.
 Third, improper application of 'affirmative action' for women *is* discrimination against men.
 
 
+> **Substantive discrimination**: *Merely addressing formal discrimination will not ensure substantive equality as envisaged and defined by article 2, paragraph 2*. The effective enjoyment of Covenant rights is often influenced by whether a person is a member of a group characterized by the prohibited grounds of discrimination. Eliminating discrimination in practice requires paying sufficient attention to groups of individuals which suffer historical or persistent prejudice instead of merely comparing the formal treatment of individuals in similar situations. States parties must therefore immediately adopt the necessary measures to prevent, diminish and eliminate the conditions and attitudes which cause or perpetuate substantive or de facto  discrimination. For example, ensuring that all individuals have equal access to adequate housing, water and sanitation will help to overcome discrimination against women and girl children and persons living in informal settlements and rural areas.[^5] 
 
+>  **In order to eliminate substantive discrimination, States parties may be, and in some cases are, under an obligation to adopt special measures to attenuate or suppress conditions that perpetuate discrimination.** Such measures are legitimate to the extent that they represent **reasonable, objective and proportional** means to **redress de facto discrimination** and are **discontinued** when substantive  equality has been **sustainably achieved**. Such **positive measures may exceptionally, however, need to be of a permanent nature**, such as interpretation services for linguistic minorities and reasonable accommodation of persons with sensory impairments in accessing health-care facilities.[^6] 
 
+> The enjoyment of human rights on the basis of equality between men and women must be understood comprehensively.  Guarantees of non-discrimination and equality in international human rights treaties mandate both de facto  and de jure equality.  De jure (or formal) equality and de facto (or substantive) equality are different but interconnected concepts.  Formal equality assumes that equality is achieved if a law or policy treats men and women in a neutral manner.  Substantive equality is concerned, in addition, with the effects of laws, policies and practices and with ensuring that they do not maintain, but rather alleviate, the inherent disadvantage that particular groups experience.[^7] 
 
+> Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, **gender-neutral**.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those  experienced by women.[^8] 
 
-> **Substantive discrimination**: *Merely addressing formal discrimination will not ensure substantive equality as envisaged and defined by article 2, paragraph 2*. The effective enjoyment of Covenant rights is often influenced by whether a person is a member of a group characterized by the prohibited grounds of discrimination. Eliminating discrimination in practice requires paying sufficient attention to groups of individuals which suffer historical or persistent prejudice instead of merely comparing the formal treatment of individuals in similar situations. States parties must therefore immediately adopt the necessary measures to prevent, diminish and eliminate the conditions and attitudes which cause or perpetuate substantive or de facto  discrimination. For example, ensuring that all individuals have equal access to adequate housing, water and sanitation will help to overcome discrimination against women and girl children and persons living in informal settlements and rural areas.[^3] 
-
->  **In order to eliminate substantive discrimination, States parties may be, and in some cases are, under an obligation to adopt special measures to attenuate or suppress conditions that perpetuate discrimination.** Such measures are legitimate to the extent that they represent **reasonable, objective and proportional** means to **redress de facto discrimination** and are **discontinued** when substantive  equality has been **sustainably achieved**. Such **positive measures may exceptionally, however, need to be of a permanent nature**, such as interpretation services for linguistic minorities and reasonable accommodation of persons with sensory impairments in accessing health-care facilities.[^4] 
-
-> The enjoyment of human rights on the basis of equality between men and women must be understood comprehensively.  Guarantees of non-discrimination and equality in international human rights treaties mandate both de facto  and de jure equality.  De jure (or formal) equality and de facto (or substantive) equality are different but interconnected concepts.  Formal equality assumes that equality is achieved if a law or policy treats men and women in a neutral manner.  Substantive equality is concerned, in addition, with the effects of laws, policies and practices and with ensuring that they do not maintain, but rather alleviate, the inherent disadvantage that particular groups experience.[^5] 
-
-> Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, **gender-neutral**.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those  experienced by women.[^6] 
-
-> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  **Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it**.[^7] 
+> Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  **Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it**.[^9] 
 
 ## Special treatment for women
 Preferential treatment for women is may or may not be discrimination against men. 
@@ -52,29 +48,29 @@ Preferential treatment for women is may or may not be discrimination against men
 Thus, the standards applied to addressing discrimination against women, must be applied to addressing discrimination against men.
 
 
-> ...States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality... [^8]
+> ...States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality... [^10]
 
-> The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved,  such differentiation is legitimate.[^9] 
+> The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved,  such differentiation is legitimate.[^11] 
 
-> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources;[^10] 
+> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources;[^12] 
 
-> The adoption of temporary special measures may be necessary to accelerate the equal enjoyment by women of all economic, social and cultural rights and to improve the de facto position of women.  Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women.[^11] 
+> The adoption of temporary special measures may be necessary to accelerate the equal enjoyment by women of all economic, social and cultural rights and to improve the de facto position of women.  Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women.[^13] 
 
 
-> States parties are encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to eliminate disadvantage caused by past and current discriminatory laws, traditions and practices.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^12] 
+> States parties are encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to eliminate disadvantage caused by past and current discriminatory laws, traditions and practices.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^14] 
 
 
 ## When different treatment is justified
 Sometimes, to protect and ensure human rights, different treatment is justified. For example, 
 
-> In order to fulfil the obligation set forth in article 3, States parties **should take account of the factors which impede** the equal enjoyment by women and men of each right specified in the Covenant.[^13] 
+> In order to fulfil the obligation set forth in article 3, States parties **should take account of the factors which impede** the equal enjoyment by women and men of each right specified in the Covenant.[^15] 
 
 
-> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant.[^14] 
+> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant.[^16] 
 
-> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is **reasonable and objective**. This will include an assessment as to whether the aim and effects of the measures or omissions are **legitimate, compatible with the nature of the Covenant rights** and solely for the purpose of promoting the **general welfare in a democratic society**. In addition, there must be a clear and reasonable relationship of **proportionality** between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^15] 
+> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is **reasonable and objective**. This will include an assessment as to whether the aim and effects of the measures or omissions are **legitimate, compatible with the nature of the Covenant rights** and solely for the purpose of promoting the **general welfare in a democratic society**. In addition, there must be a clear and reasonable relationship of **proportionality** between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^17] 
 
-> Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups.[^16] 
+> Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups.[^18] 
 
 ### Reasonable
 Reasonable means logical, or with sound judgement. The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
@@ -110,9 +106,9 @@ We can measure the number of decision makers who are women, but this does not ne
 
 #### Monitoring is required
 Objectivity requires monitoring to ensure special measure are having the desired effect and not causing harm.
-> Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  **Failure to adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant **constitutes a violation of those rights.**[^25] 
+> Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  **Failure to adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant **constitutes a violation of those rights.**[^19] 
 
-> States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^19] 
+> States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^20] 
 
 ### Necessary
 Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
@@ -133,12 +129,12 @@ Special measures that undermine 'general welfare of society' should be avoided. 
 Special measures should not 
 
 ## Required
->  The Committee wishes to draw the attention of States parties to the fact that the Covenant **sometimes expressly requires them to take measures to guarantee the equality of rights of the persons concerned**. For example, article 23, paragraph 4, stipulates that States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^17] 
+>  The Committee wishes to draw the attention of States parties to the fact that the Covenant **sometimes expressly requires them to take measures to guarantee the equality of rights of the persons concerned**. For example, article 23, paragraph 4, stipulates that States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^21] 
 
 ## Not justified
-> In becoming parties to the Covenant, States undertake, in accordance with article 3, to ensure the equal right of men and women to the enjoyment of all civil and political rights set forth in the Covenant, and in accordance with article 5, **nothing in the Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or perform any act aimed at the destruction of any of the rights provided for in article 3**, or at limitations not covered by the Covenant.[^18] 
+> In becoming parties to the Covenant, States undertake, in accordance with article 3, to ensure the equal right of men and women to the enjoyment of all civil and political rights set forth in the Covenant, and in accordance with article 5, **nothing in the Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or perform any act aimed at the destruction of any of the rights provided for in article 3**, or at limitations not covered by the Covenant.[^22] 
 
-> Violations of the rights contained in the Covenant can occur through the direct action of, failure to act or omission by States parties, or through their institutions or agencies at the national and local levels.  **The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3**.[^20]  
+> Violations of the rights contained in the Covenant can occur through the direct action of, failure to act or omission by States parties, or through their institutions or agencies at the national and local levels.  **The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3**.[^23]  
 
 Note: Forcing equal outcomes for women could violate their right to autonomy (ie to make their own decisions)
 
@@ -159,7 +155,7 @@ not maintain separate standards
 > 2. Adoption by States Parties of special measures, including those measures contained in the present Convention, aimed at protecting maternity shall not be considered discriminatory.
 
 
-> 18. Measures taken under article 4, paragraph 1, by States parties should aim to accelerate the equal participation of women in the political, economic, social, cultural, civil or any other field. The Committee views the application of these measures not as an exception to the norm of non-discrimination, but rather as an emphasis that temporary special measures are part of a necessary strategy by States parties directed towards the achievement of de facto or substantive equality of women with men in the enjoyment of their human rights and fundamental freedoms. While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists *irrespective of any proof of past discrimination*. **The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men**. [^21]
+> 18. Measures taken under article 4, paragraph 1, by States parties should aim to accelerate the equal participation of women in the political, economic, social, cultural, civil or any other field. The Committee views the application of these measures not as an exception to the norm of non-discrimination, but rather as an emphasis that temporary special measures are part of a necessary strategy by States parties directed towards the achievement of de facto or substantive equality of women with men in the enjoyment of their human rights and fundamental freedoms. While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists *irrespective of any proof of past discrimination*. **The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men**. [^24]
 
 
 
@@ -170,12 +166,12 @@ Men and men's advocates should be involved in decision making regrading any sex-
 
 Men may be affected by preferential treatment for women, and have a right to have their concerns heard.
 
-> In addition to refraining from discriminatory actions, States parties should take concrete, deliberate and targeted measures to ensure that discrimination in the exercise of Covenant rights is eliminated. Individuals and groups of individuals, who may be distinguished by one or more of the prohibited grounds, **should be ensured the right to participate in decision-making processes over the selection of such measures**. States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^22] 
+> In addition to refraining from discriminatory actions, States parties should take concrete, deliberate and targeted measures to ensure that discrimination in the exercise of Covenant rights is eliminated. Individuals and groups of individuals, who may be distinguished by one or more of the prohibited grounds, **should be ensured the right to participate in decision-making processes over the selection of such measures**. States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^25] 
 
->  To promote equal participation of men and women in development planning, decision-making and in the benefits of development and all programmes related to the realization of economic, social and cultural rights[^23]  
+>  To promote equal participation of men and women in development planning, decision-making and in the benefits of development and all programmes related to the realization of economic, social and cultural rights[^26]  
 
 
-> The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^24] 
+> The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^27] 
 
 ## Prevent further imbalances from arising
 CERD general recommendation No. 32, paragraph 22, states that special measures can be for preventing further imbalances from arising.
@@ -202,27 +198,28 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^1]: CCPR General Comment 18, paragraph 8
 [^2]: CCPR General Comment 18, paragraph 10
-[^3]: ICESCR General Comment 20, paragraph 8
-[^4]: ICESCR General Comment 20, paragraph 9
-[^5]: ICESCR General Comment 16, paragraph 7
-[^6]: ICESCR General Comment 16, paragraph 8
-[^7]: ICESCR General Comment 16, paragraph 13
-[^8]: ICESCR General Comment 20, paragraph 38
-[^9]: ICESCR General Comment 16, paragraph 15
-[^10]: ICESCR General Comment 16, paragraph 21
-[^11]: ICESCR General Comment 16, paragraph 35
-[^12]: CESCR General Comment 16, paragraph 36
-[^13]: ICCPR General Comment 28, paragraph 6
-[^14]: ICCPR General Comment 18, paragraph 10
-[^15]: ICESCR General Comment 20, paragraph 13
-[^16]: ICESCR General Comment 20, paragraph 39
-[^17]: ICCPR General Comment 18, paragraph 5
-[^18]: ICCPR General Comment 28, paragraph 9
-[^19]: ICESCR General Comment 20, paragraph 36
-[^20]: ICESCR General Comment 16, paragraph 42
-[^21]: CEDAW General Comment 25, paragraph 18
-[^22]: ICESCR General Comment 20, paragraph 36
-[^23]: ICESCR General Comment 16, paragraph 21
-[^24]: ICESCR General Comment 16, paragraph 37
-[^25]: ICESCR General Comment 16, paragraph 41
-
+[^3]: CEDAW General Recommendation 25, paragraph 4
+[^4]: CEDAW General Recommendation 25, paragraph 5
+[^5]: ICESCR General Comment 20, paragraph 8
+[^6]: ICESCR General Comment 20, paragraph 9
+[^7]: ICESCR General Comment 16, paragraph 7
+[^8]: ICESCR General Comment 16, paragraph 8
+[^9]: ICESCR General Comment 16, paragraph 13
+[^10]: ICESCR General Comment 20, paragraph 38
+[^11]: ICESCR General Comment 16, paragraph 15
+[^12]: ICESCR General Comment 16, paragraph 21
+[^13]: ICESCR General Comment 16, paragraph 35
+[^14]: CESCR General Comment 16, paragraph 36
+[^15]: ICCPR General Comment 28, paragraph 6
+[^16]: ICCPR General Comment 18, paragraph 10
+[^17]: ICESCR General Comment 20, paragraph 13
+[^18]: ICESCR General Comment 20, paragraph 39
+[^19]: ICESCR General Comment 16, paragraph 41
+[^20]: ICESCR General Comment 20, paragraph 36
+[^21]: ICCPR General Comment 18, paragraph 5
+[^22]: ICCPR General Comment 28, paragraph 9
+[^23]: ICESCR General Comment 16, paragraph 42
+[^24]: CEDAW General Comment 25, paragraph 18
+[^25]: ICESCR General Comment 20, paragraph 36
+[^26]: ICESCR General Comment 16, paragraph 21
+[^27]: ICESCR General Comment 16, paragraph 37
