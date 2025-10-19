@@ -20,6 +20,12 @@ First, the consideration and application of 'affirmative action' must itself be 
 
 CEDAW General Recommendation 25 explains the standards for applying special measures to address discrimination against women and ensure substantive equality between women and men. These standards should be used for special measures to address discrimination against men and ensure substantive equality for men. After all, if the goal is substantive equality between women and men, then men's inequalities must be addressed.
 
+### Standards
+1. Substantive equality
+2. "irrespective of any proof of past discrimination"
+3. 
+
+
 ### Reasons that CEDAW standards for affirmative action should be applied to men
 
 #### De jure equality
@@ -35,6 +41,8 @@ There is little jurisprudence or guidance for governments to address discriminat
 
 #### States are required to equally protect the human rights of men and boys
 ICCPR and ICESCR require states to ensure equal enjoyment of rights between men and women. ICCPR prohibits discrimination against men.
+
+> The Convention goes beyond the concept of discrimination used in many national and **international legal standards and norms. While such standards and norms prohibit discrimination on the grounds of sex and *protect both men and women* from treatment based on arbitrary, unfair and/or unjustifiable distinctions**, the Convention focuses on discrimination against women, emphasizing that women have suffered, and continue to suffer from various forms of discrimination because they are women.[^4] 
 
 #### CEDAW does not limit states to things that are more conducive to equality
 
@@ -52,10 +60,17 @@ Special measures should consider the specific circumstances of women and men. Th
 - In any case, the standard of specific circumstances should be applied to both women and men. 
 - Some different standards related to specific circumstances may need to be considered, but 1) that does not mean **all** standards related to affirmative action should be different, 2) that only women should benefit from different standards in specific circumstances. Men should benefit from different stands where it is applicable. 3) The different standards for affirmative action in specific circumstances should be limited to the specific circumstances. there is no excuse for wide-ranging use of different standards.
 
+> The position of women will not be improved as long as the underlying causes of discrimination against women, and of their inequality, are not effectively addressed. **The lives of women and men must be considered in a contextual way**, and measures adopted towards a real transformation of opportunities, institutions and systems so that they are no longer grounded in historically determined male paradigms of power and life patterns. CEDAW General recommendation 25, paragraph 10 
 
+States should consider men's biological needs, past or present discrimination, dominant gender ideology, and manifestations of discrimination against men is cultural and social structures and institutions.
 
+> **Women’s biologically determined permanent needs and experiences should be distinguished from other needs that may be the result of past and present discrimination** against women by individual actors, the **dominant gender ideology**, or by **manifestations of such discrimination in social and cultural structures and institutions**. As steps are being taken to eliminate discrimination against women, women’s needs may change or disappear, or become the needs of both women and men. Thus, continuous monitoring of laws, programmes and practices directed at the achievement of women’s de facto or substantive equality is needed so as to avoid a perpetuation of non-identical treatment that may no longer be warranted. CEDAW General recommendation 25, paragraph 11
 
-> The Convention goes beyond the concept of discrimination used in many national and **international legal standards and norms. While such standards and norms prohibit discrimination on the grounds of sex and *protect both men and women* from treatment based on arbitrary, unfair and/or unjustifiable distinctions**, the Convention focuses on discrimination against women, emphasizing that women have suffered, and continue to suffer from various forms of discrimination because they are women.[^4] 
+States should recognise that some culture and social institutions are based on women's experiences or needs are not suitable for men and boys. EG seeing men as defective women by using a deficit model of masculinity.
+
+The causes and consequences of discrimination against men differ from those of women, but nevertheless should be addressed. 
+
+> The Convention, targets discriminatory dimensions of past and current societal and cultural contexts which impede women’s enjoyment of their human rights and fundamental freedoms. It aims at the elimination of all forms of discrimination against women, **including the elimination of the causes and consequences of their de facto or substantive inequality**. Therefore, the application of temporary special measures in accordance with the Convention is one of the means to realize de facto or substantive equality for women, rather than an exception to the norms of non-discrimination and equality. CEDAW General Recommendation 25, paragraph 14
 
 
 ## Not all preferential treatment is discrimination
