@@ -18,6 +18,9 @@ First, the consideration and application of 'affirmative action' must itself be 
 
 CEDAW General Recommendation 25 explains the standards for applying special measures to address discrimination against women and ensure substantive equality between women and men. These standards should be used for special measures to address discrimination against men and ensure substantive equality for men. After all, if the goal is substantive equality between women and men, then men's inequalities must be addressed.
 
+> The scope and meaning of article 4, paragraph 1, must be determined in the context of **the overall object and purpose of the Convention, which is to** eliminate all forms of discrimination against women with a view to **achieving women’s de jure and de facto equality with men in the enjoyment of their human rights and fundamental freedoms**. States parties to the Convention are under a legal obligation to respect, protect, promote and fulfil this right to non-discrimination for women and to ensure the development and advancement of women in order to improve their position to one of **de jure as well as de facto equality with men**. CEDAW General Recommendation 25, paragraph 4
+
+> The Convention goes beyond the concept of discrimination used in many national and **international legal standards and norms. While such standards and norms prohibit discrimination on the grounds of sex and *protect both men and women* from treatment based on arbitrary, unfair and/or unjustifiable distinctions**, the Convention focuses on discrimination against women, emphasizing that women have suffered, and continue to suffer from various forms of discrimination because they are women. CEDAW General Recommendation 25, paragraph 5
 
 
 Second, not all preferential treatment for women is discrimination.
