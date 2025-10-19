@@ -14,18 +14,32 @@ The Human Rights Committee says different treatment in order to correct for disc
 
 There are issues relevant to men's rights here:
 
+## Equal treatment in affirmative action
+
 First, the consideration and application of 'affirmative action' must itself be free from bias and discrimination. Men should receive affirmative action to address discrimination and unequal enjoyment of their rights in the same manner as women do.
 
 CEDAW General Recommendation 25 explains the standards for applying special measures to address discrimination against women and ensure substantive equality between women and men. These standards should be used for special measures to address discrimination against men and ensure substantive equality for men. After all, if the goal is substantive equality between women and men, then men's inequalities must be addressed.
+
+### Reasons that CEDAW standards should be applied to men
+
+#### Considering specific circumstances
+Special measures should consider the specific circumstances of women and men. This could be used to argue that the standards applied for special measures for women should not be used for men. However, this does not stand up:
+
+- In any case, the standard of specific circumstances should be applied to both women and men. 
+- Some different standards related to specific circumstances may need to be considered, but 1) that does not mean **all** standards related to affirmative action should be different, 2) that only women should benefit from different standards in specific circumstances. Men should benefit from different stands where it is applicable. 3) The different standards for affirmative action in specific circumstances should be limited to the specific circumstances. there is no excuse for wide-ranging use of different standards.
+
 
 > The scope and meaning of article 4, paragraph 1, must be determined in the context of **the overall object and purpose of the Convention, which is to** eliminate all forms of discrimination against women with a view to **achieving women’s de jure and de facto equality with men in the enjoyment of their human rights and fundamental freedoms**. States parties to the Convention are under a legal obligation to respect, protect, promote and fulfil this right to non-discrimination for women and to ensure the development and advancement of women in order to improve their position to one of **de jure as well as de facto equality with men**.[^3] 
 
 > The Convention goes beyond the concept of discrimination used in many national and **international legal standards and norms. While such standards and norms prohibit discrimination on the grounds of sex and *protect both men and women* from treatment based on arbitrary, unfair and/or unjustifiable distinctions**, the Convention focuses on discrimination against women, emphasizing that women have suffered, and continue to suffer from various forms of discrimination because they are women.[^4] 
 
 
+## Not all preferential treatment is discrimination
 Second, not all preferential treatment for women is discrimination.
 
+## Improper application of affirmative action is discrimination
 Third, improper application of 'affirmative action' for women *is* discrimination against men.
+
 
 
 > **Substantive discrimination**: *Merely addressing formal discrimination will not ensure substantive equality as envisaged and defined by article 2, paragraph 2*. The effective enjoyment of Covenant rights is often influenced by whether a person is a member of a group characterized by the prohibited grounds of discrimination. Eliminating discrimination in practice requires paying sufficient attention to groups of individuals which suffer historical or persistent prejudice instead of merely comparing the formal treatment of individuals in similar situations. States parties must therefore immediately adopt the necessary measures to prevent, diminish and eliminate the conditions and attitudes which cause or perpetuate substantive or de facto  discrimination. For example, ensuring that all individuals have equal access to adequate housing, water and sanitation will help to overcome discrimination against women and girl children and persons living in informal settlements and rural areas.[^5] 
@@ -38,8 +52,6 @@ Third, improper application of 'affirmative action' for women *is* discriminatio
 
 > Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  **Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it**.[^9] 
 
-## Special treatment for women
-Preferential treatment for women is may or may not be discrimination against men. 
 
 ## Temporary special measures
 
@@ -223,3 +235,4 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^25]: ICESCR General Comment 20, paragraph 36
 [^26]: ICESCR General Comment 16, paragraph 21
 [^27]: ICESCR General Comment 16, paragraph 37
+
