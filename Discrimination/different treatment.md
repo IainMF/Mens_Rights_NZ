@@ -16,6 +16,10 @@ There are issues relevant to men's rights here:
 
 First, the consideration and application of 'affirmative action' must itself be free from bias and discrimination. Men should receive affirmative action to address discrimination and unequal enjoyment of their rights in the same manner as women do.
 
+CEDAW General Recommendation 25 explains the standards for applying special measures to address discrimination against women and ensure substantive equality between women and men. These standards should be used for special measures to address discrimination against men and ensure substantive equality for men. After all, if the goal is substantive equality between women and men, then men's inequalities must be addressed.
+
+
+
 Second, not all preferential treatment for women is discrimination.
 
 Third, improper application of 'affirmative action' for women *is* discrimination against men.
@@ -139,6 +143,8 @@ Note: Forcing equal outcomes for women could violate their right to autonomy (ie
 Men have the same right to affirmative action as women. If affirmative action is not apply to men in a situation where it would be applied to women then that is discrimination.
 
 
+
+
 ## CEDAW
 
 not maintain separate standards
@@ -150,7 +156,10 @@ not maintain separate standards
 > 2. Adoption by States Parties of special measures, including those measures contained in the present Convention, aimed at protecting maternity shall not be considered discriminatory.
 
 
-> 18. Measures taken under article 4, paragraph 1, by States parties should aim to accelerate the equal participation of women in the political, economic, social, cultural, civil or any other field. The Committee views the application of these measures not as an exception to the norm of non-discrimination, but rather as an emphasis that temporary special measures are part of a necessary strategy by States parties directed towards the achievement of de facto or substantive equality of women with men in the enjoyment of their human rights and fundamental freedoms. While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists irrespective of any proof of past discrimination. **The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men**. [^21]
+> 18. Measures taken under article 4, paragraph 1, by States parties should aim to accelerate the equal participation of women in the political, economic, social, cultural, civil or any other field. The Committee views the application of these measures not as an exception to the norm of non-discrimination, but rather as an emphasis that temporary special measures are part of a necessary strategy by States parties directed towards the achievement of de facto or substantive equality of women with men in the enjoyment of their human rights and fundamental freedoms. While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists *irrespective of any proof of past discrimination*. **The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men**. [^21]
+
+
+
 
 ## Involvement in decisions regarding affirmative action
 
@@ -164,6 +173,12 @@ Men may be affected by preferential treatment for women, and have a right to hav
 
 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^24] 
+
+## Prevent further imbalances from arising
+CERD general recommendation No. 32, paragraph 22, states that special measures can be for preventing further imbalances from arising.
+
+Therefore, special measures includes measures to prevent imbalances that disadvantage men from arising. EG special measures to support women in university has ended, but a trend that shows men are increasingly disadvantaged merits special measures to prevent an imbalance.
+
 
 # Preferential  vs specific treatment
 Different treatment can be *preferential* treatment or *specific* treatment. 
@@ -207,3 +222,4 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^23]: ICESCR General Comment 16, paragraph 21
 [^24]: ICESCR General Comment 16, paragraph 37
 [^25]: ICESCR General Comment 16, paragraph 41
+
