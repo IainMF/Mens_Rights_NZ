@@ -20,16 +20,30 @@ First, the consideration and application of 'affirmative action' must itself be 
 
 CEDAW General Recommendation 25 explains the standards for applying special measures to address discrimination against women and ensure substantive equality between women and men. These standards should be used for special measures to address discrimination against men and ensure substantive equality for men. After all, if the goal is substantive equality between women and men, then men's inequalities must be addressed.
 
-### Reasons that CEDAW standards should be applied to men
+### Reasons that CEDAW standards for affirmative action should be applied to men
 
-#### Considering specific circumstances
+#### De jure equality
+While CEDAW concerns itself with addressing discrimination against women the goal of CEDAW is de facto and de jure equality with men. De facto and de jure equality can only be achieved by addressing inequalities that are faced by men and boys.
+
+> The scope and meaning of article 4, paragraph 1, must be determined in the context of **the overall object and purpose of the Convention, which is to** eliminate all forms of discrimination against women with a view to **achieving women’s de jure and de facto equality with men in the enjoyment of their human rights and fundamental freedoms**. States parties to the Convention are under a legal obligation to respect, protect, promote and fulfil this right to non-discrimination for women and to ensure the development and advancement of women in order to improve their position to one of **de jure as well as de facto equality with men**.[^3] 
+
+#### CEDAW prohibits the maintenance of different standards
+CEDAW prohibits the maintenance of separate standards for women and men. 
+
+#### Lack of jurisprudence on addressing men's discrimination
+There is little jurisprudence or guidance for governments to address discrimination against men. In the absence of guidance to the contrary, the principles of equality and non-discrimination suggest that the standards used for women should be used for men.
+
+#### States are required to equally protect the human rights of men and boys
+ICCPR and ICESCR require states to ensure equal enjoyment of rights between men and women. ICCPR prohibits discrimination against men.
+
+### Considering specific circumstances
 Special measures should consider the specific circumstances of women and men. This could be used to argue that the standards applied for special measures for women should not be used for men. However, this does not stand up:
 
 - In any case, the standard of specific circumstances should be applied to both women and men. 
 - Some different standards related to specific circumstances may need to be considered, but 1) that does not mean **all** standards related to affirmative action should be different, 2) that only women should benefit from different standards in specific circumstances. Men should benefit from different stands where it is applicable. 3) The different standards for affirmative action in specific circumstances should be limited to the specific circumstances. there is no excuse for wide-ranging use of different standards.
 
 
-> The scope and meaning of article 4, paragraph 1, must be determined in the context of **the overall object and purpose of the Convention, which is to** eliminate all forms of discrimination against women with a view to **achieving women’s de jure and de facto equality with men in the enjoyment of their human rights and fundamental freedoms**. States parties to the Convention are under a legal obligation to respect, protect, promote and fulfil this right to non-discrimination for women and to ensure the development and advancement of women in order to improve their position to one of **de jure as well as de facto equality with men**.[^3] 
+
 
 > The Convention goes beyond the concept of discrimination used in many national and **international legal standards and norms. While such standards and norms prohibit discrimination on the grounds of sex and *protect both men and women* from treatment based on arbitrary, unfair and/or unjustifiable distinctions**, the Convention focuses on discrimination against women, emphasizing that women have suffered, and continue to suffer from various forms of discrimination because they are women.[^4] 
 
@@ -235,4 +249,3 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^25]: ICESCR General Comment 20, paragraph 36
 [^26]: ICESCR General Comment 16, paragraph 21
 [^27]: ICESCR General Comment 16, paragraph 37
-
