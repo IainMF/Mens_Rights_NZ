@@ -7,9 +7,6 @@ Different treatment between men and women is not always discrimination. Under in
 
 Removing formal discrimination does not mean the effect of the discrimination is removed. For example, if a group was not allowed to vote and the law was changed to allow them to vote, it may be necessary to have special programs to enroll members of this group and help them learn about voting. Just changing the law does not mean that the group will fully enjoy their right to vote on equal terms with experienced voters. 
 
-> [!NOTE]
->  Note test
-
 The Human Rights Committee says different treatment in order to correct for discrimination is legitimate under ICCPR:
 
 > The Committee also wishes to point out that **the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination** prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^2] 
@@ -32,8 +29,10 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 > 8.	Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those experienced by women.  ICESCR General Comment 16, paragraph 8
 
 
+
 #### 2. "irrespective of any proof of past discrimination"
-3. 
+
+#### 3. 
 
 
 ### Reasons that CEDAW standards for affirmative action should be applied to men
@@ -180,6 +179,8 @@ Different treatment must be necessary to reach the intended goals. If a program 
 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
+
+> However, there is one exception to this general principle [ie measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination]:  reasons specific to an individual male candidate may tilt the balance in his favour, which is to be assessed objectively, taking into account all criteria pertaining to the individual candidates.  This is a requirement of the principle of **proportionality**. ICESCR General Comment 16, footnote 9
 
 ### Time limited
 Special measures should be time limited and end once the goal is reached. The goal should be stated on commencement, and not be changed during the period without the same requirements (reasonable, objective etc.) to justify the change
