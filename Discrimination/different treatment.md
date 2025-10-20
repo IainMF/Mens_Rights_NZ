@@ -11,6 +11,8 @@ The Human Rights Committee says different treatment in order to correct for disc
 
 > The Committee also wishes to point out that **the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination** prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^2] 
 
+> 36.	States parties are encouraged to adopt temporary special measures to **accelerate the achievement of equality between men and women** in the enjoyment of the rights under the Covenant.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s **obligation to eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the **specific issue** and **context**, and should be **adjusted as circumstances require**.  The results of such measures should be monitored with a view to being **discontinued** when the objectives for which they are undertaken have been achieved. ICESCR General Comment 16, paragraph 36
+
 States must take into account "apparently gender-neutral laws, policies and programmes" to consider if they negatively affect men and boys.
 
 > ...In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. ICESCR General Comment 16, paragraph 18
@@ -33,7 +35,7 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 
 > 8.	Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those experienced by women.  ICESCR General Comment 16, paragraph 8
 
-
+> Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.  Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights. ICESCR General Comment 16, paragraph 41
 
 #### 2. "irrespective of any proof of past discrimination"
 
@@ -43,8 +45,23 @@ Affirmative actions must be monitored so that:
 2. Prevent adverse affects.
 > To develop **monitoring mechanisms** to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls; ICESCR General Comment 16, paragraph 21
 
+> The results of such measures should be **monitored** with a view to being discontinued when the objectives for which they are undertaken have been achieved. ICESCR General Comment 16, paragraph 36
+
+> Failure to adopt, implement and **monitor effects** of laws, policies and programmes to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights. ICESCR General Comment 16, paragraph 41
+
 #### 4. Do no harm
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women **do not have unintended adverse effects on disadvantaged or marginalized individuals or groups**, particularly women and girls ICESCR General Comment 16, paragraph 21
+
+>  The adoption and undertaking of any **retrogressive measures** that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3 ICESCR General Comment 16, paragraph 42
+
+#### 5. Identify specific issues for men and women
+>32. These strategies should be based on the **systematic identification of policies, programmes and activities relevant to the situation and context within the State, as derived from the normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the elimination of discrimination in the enjoyment of economic, social and cultural rights. ICESCR General Comment 16, paragraph 33
+
+> The nature, duration and application of such measures should be designed with reference to the **specific issue** and **context**, and should be **adjusted as circumstances require**.  The results of such measures should be monitored with a view to being **discontinued** when the objectives for which they are undertaken have been achieved. ICESCR General Comment 16, paragraph 36
+
+#### 6. Temporary special measures must be identified and distinguished from permanent measures
+> ...Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women. ICESCR General Comment 16, paragraph 35
+
 
 
 ### Reasons that CEDAW standards for affirmative action should be applied to men
@@ -82,7 +99,14 @@ States are required to address stereotypes.  Policies that treat women and men d
 Special measures should consider the specific circumstances of women and men. This could be used to argue that the standards applied for special measures for women should not be used for men. However, this does not stand up:
 
 - In any case, the standard of specific circumstances should be applied to both women and men. 
-- Some different standards related to specific circumstances may need to be considered, but 1) that does not mean **all** standards related to affirmative action should be different, 2) that only women should benefit from different standards in specific circumstances. Men should benefit from different stands where it is applicable. 3) The different standards for affirmative action in specific circumstances should be limited to the specific circumstances. there is no excuse for wide-ranging use of different standards.
+- Some different standards related to specific circumstances may need to be considered, but 
+	- 1) that does not mean **all** standards related to affirmative action should be different, 
+	- 2) that only women should benefit from different standards in specific circumstances. Men should benefit from different stands where it is applicable. 
+	- 3) The different standards for affirmative action in specific circumstances should be limited to the specific circumstances. there is no excuse for wide-ranging use of different standards.
+
+Care should be taken that the consideration of specific circumstances is not gender biased or based on stereotypical assumptions about the situation for men and women. EG that women are disadvantaged and men are privileged.
+
+> The nature, duration and application of such measures should be designed with reference to the **specific issue** and **context**, and should be **adjusted as circumstances require**.  The results of such measures should be monitored with a view to being **discontinued** when the objectives for which they are undertaken have been achieved. ICESCR General Comment 16, paragraph 36
 
 > The position of women will not be improved as long as the underlying causes of discrimination against women, and of their inequality, are not effectively addressed. **The lives of women and men must be considered in a contextual way**, and measures adopted towards a real transformation of opportunities, institutions and systems so that they are no longer grounded in historically determined male paradigms of power and life patterns. CEDAW General recommendation 25, paragraph 10 
 
@@ -96,7 +120,7 @@ The causes and consequences of discrimination against men differ from those of w
 
 > The Convention, targets discriminatory dimensions of past and current societal and cultural contexts which impede women’s enjoyment of their human rights and fundamental freedoms. It aims at the elimination of all forms of discrimination against women, **including the elimination of the causes and consequences of their de facto or substantive inequality**. Therefore, the application of temporary special measures in accordance with the Convention is one of the means to realize de facto or substantive equality for women, rather than an exception to the norms of non-discrimination and equality. CEDAW General Recommendation 25, paragraph 14
 
-ICCPR (etc.) requires States to "take the necessary steps" to ensure men enjoy their rights and address "factors that impede" the men's enjoyment or rights.
+ICCPR (etc.) requires States to "take the necessary steps" to ensure men enjoy their rights and address "factors that impede" the men's enjoyment or rights. ICCPR General Comment 28, paragraph 6
 
 > 8.	Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they **do not take account of existing economic, social and cultural inequalities**, particularly those experienced by women.  ICESCR General Comment 16, paragraph 8
 
@@ -252,7 +276,7 @@ Men may be affected by preferential treatment for women, and have a right to hav
 >  To promote equal participation of men and women in development planning, decision-making and in the benefits of development and all programmes related to the realization of economic, social and cultural rights[^26]  
 
 
-> The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^27] 
+> The right of individuals and groups of individuals to **participate in decision-making processes that may affect their development** must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^27] 
 
 ## Prevent further imbalances from arising
 CERD general recommendation No. 32, paragraph 22, states that special measures can be for preventing further imbalances from arising.
@@ -304,4 +328,3 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^25]: ICESCR General Comment 20, paragraph 36
 [^26]: ICESCR General Comment 16, paragraph 21
 [^27]: ICESCR General Comment 16, paragraph 37
-
