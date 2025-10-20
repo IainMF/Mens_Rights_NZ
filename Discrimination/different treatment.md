@@ -11,6 +11,11 @@ The Human Rights Committee says different treatment in order to correct for disc
 
 > The Committee also wishes to point out that **the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination** prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^2] 
 
+States must take into account "apparently gender-neutral laws, policies and programmes" to consider if they negatively affect men and boys.
+
+> ...In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. ICESCR General Comment 16, paragraph 18
+
+> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of **temporary special measures** to accelerate women’s equal enjoyment of their rights, gender audits, and **gender-specific allocation of resources;** ICESCR General Comment 16, paragraph 21
 
 There are issues relevant to men's rights here:
 
@@ -32,7 +37,14 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 
 #### 2. "irrespective of any proof of past discrimination"
 
-#### 3. 
+#### 3. Monitoring 
+Affirmative actions must be monitored so that:
+1. they can be ended when no longer necessary
+2. Prevent adverse affects.
+> To develop **monitoring mechanisms** to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls; ICESCR General Comment 16, paragraph 21
+
+#### 4. Do no harm
+> To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women **do not have unintended adverse effects on disadvantaged or marginalized individuals or groups**, particularly women and girls ICESCR General Comment 16, paragraph 21
 
 
 ### Reasons that CEDAW standards for affirmative action should be applied to men
@@ -62,6 +74,9 @@ ICCPR and ICESCR require states to ensure equal enjoyment of rights between men 
 > (a) In the legislation of a State Party; or
 > 
 > (b) In any other international convention, treaty or agreement in force for that State.
+
+#### Addressing stereotypes
+States are required to address stereotypes.  Policies that treat women and men differently can reinforce stereotypes. See: ICESCR General Comment 16, paragraph 19 and CEDAW
 
 ### Considering specific circumstances
 Special measures should consider the specific circumstances of women and men. This could be used to argue that the standards applied for special measures for women should not be used for men. However, this does not stand up:
