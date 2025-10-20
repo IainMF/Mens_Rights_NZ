@@ -21,8 +21,15 @@ First, the consideration and application of 'affirmative action' must itself be 
 CEDAW General Recommendation 25 explains the standards for applying special measures to address discrimination against women and ensure substantive equality between women and men. These standards should be used for special measures to address discrimination against men and ensure substantive equality for men. After all, if the goal is substantive equality between women and men, then men's inequalities must be addressed.
 
 ### Standards
-1. Substantive equality
-2. "irrespective of any proof of past discrimination"
+#### 1.Substantive equality
+> 7.	The enjoyment of human rights on the basis of equality between men and women must be understood comprehensively.  **Guarantees of non-discrimination and equality in international human rights treaties mandate both de facto and de jure equality.**  De jure (or formal) equality and **de facto (or substantive)** equality are different but interconnected concepts.  Formal equality assumes that equality is achieved if a law or policy treats men and women in a neutral manner.  Substantive equality is concerned, in addition, with the effects of laws, policies and practices and with ensuring that **they do not maintain, but rather alleviate, the inherent disadvantage that particular groups experience**. ICESCR General Comment 16, paragraph 7
+
+
+
+> 8.	Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those experienced by women.  ICESCR General Comment 16, paragraph 8
+
+
+#### 2. "irrespective of any proof of past discrimination"
 3. 
 
 
@@ -71,6 +78,10 @@ States should recognise that some culture and social institutions are based on w
 The causes and consequences of discrimination against men differ from those of women, but nevertheless should be addressed. 
 
 > The Convention, targets discriminatory dimensions of past and current societal and cultural contexts which impede women’s enjoyment of their human rights and fundamental freedoms. It aims at the elimination of all forms of discrimination against women, **including the elimination of the causes and consequences of their de facto or substantive inequality**. Therefore, the application of temporary special measures in accordance with the Convention is one of the means to realize de facto or substantive equality for women, rather than an exception to the norms of non-discrimination and equality. CEDAW General Recommendation 25, paragraph 14
+
+ICCPR (etc.) requires States to "take the necessary steps" to ensure men enjoy their rights and address "factors that impede" the men's enjoyment or rights.
+
+> 8.	Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they **do not take account of existing economic, social and cultural inequalities**, particularly those experienced by women.  ICESCR General Comment 16, paragraph 8
 
 
 ## Not all preferential treatment is discrimination
