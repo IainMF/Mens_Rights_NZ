@@ -1,6 +1,6 @@
 ---
 title: Submission to the Joint Venture on Family and Sexual Violence
-description: My Submission to the New Zealand Government's consultation on Family and Sexual Violence.
+description: My Submission to the New Zealand Government's consultation on Family and Sexual Violence regarding male victims.
 date: 2021-06-29
 ---
 Submission to the Joint Venture on Family and Sexual Violence
