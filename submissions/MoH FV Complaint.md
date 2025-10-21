@@ -94,7 +94,7 @@
     >
     > *Emphasis added*
 
-    ![Family Violence Programme Logic: *2019 Violence Intervention Programme Evaluation -- page 74*](images/2019-VIP-Report-FINAL_web-version_1.png){#fig:FV_programme_logic width="50%"}
+    Image here:
 
 17. The Ministry has not met its due diligence obligations to effectively prevent violence against men. Due diligence requires understanding of the experience of male victims of family violence and the response of the health system to them. Appropriate support for male victims can only occur when good data about male victims and the health system's response are collected. The 2019 VIP evaluation identifies the importance of robust measurement:
 
