@@ -159,7 +159,7 @@
 
 35. Furthermore, restricting routine enquiry to women means that health professionals may filter out people identifying as a non-binary gender for routine enquiry.
 
-    # Harm done {#harm-done .unnumbered}
+    # Harm done
 
 36. The current implementation of the *Violence Intervention Programme* has caused harm to male victims of partner violence by:
 
@@ -179,9 +179,9 @@
 
     -   The collection of robust data and statistics to understand the needs and experience of male victims is not possible when routine enquiry is not done. Sampling bias is significant when health professionals only conduct enquiries when they see signs of family violence.
 
-    # Remedy {#remedy .unnumbered}
+    # Remedy
 
-37. Under the [ccpr]{acronym-label="ccpr" acronym-form="singular+abbrv"} and the [icescr]{acronym-label="icescr" acronym-form="singular+abbrv"}, New Zealand is required to provide an effective remedy to men whose rights have been violated. An effective remedy includes public apologies,[^36] ending ongoing violations,[^37] preventing recurrences of violations,[^38] repairing harm that as be done at the earliest possible opportunity.[^39]
+37. Under the ICCPR and the ICESCR, New Zealand is required to provide an effective remedy to men whose rights have been violated. An effective remedy includes public apologies,[^36] ending ongoing violations,[^37] preventing recurrences of violations,[^38] repairing harm that as be done at the earliest possible opportunity.[^39]
 
 38. To remedy the harm done by the Ministry's actions, the Ministry should:
 
