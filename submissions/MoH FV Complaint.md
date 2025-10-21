@@ -1,4 +1,8 @@
-20 August 2025
+---
+title: Minsitry of Health Family Violence Compliant.
+description: A complaint about discrimination against men in the Ministry of Health's approach to family violence.
+date: 2025-08-20
+---
 
 1.  This is a complaint of unlawful discrimination and human rights violations against men concerning the Ministry of Health's *Violence Intervention Program* (VIP) and *Family Violence Assessment and Intervention Guideline*[^1] (the Guidelines). New Zealand has human rights obligations to prevent violence against men and treat men without discrimination.
 ## Human rights obligations
