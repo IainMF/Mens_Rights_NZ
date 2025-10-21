@@ -598,7 +598,7 @@ Iain Fergusson
     > Pence, Ellen (1999). \"Some Thoughts on Philosophy\". In Shepherd, Melanie; Pence, Ellen (eds.). Coordinating Community Responses to Domestic Violence: Lessons from Duluth and Beyond. Thousand Oaks, CA.: Sage. pp. 29--30
 
 [^26]:
-    > <https://women.govt.nz/safety>
+    > https://women.govt.nz/safety
 
 [^27]:
     > breaking-the-inter-generational-cycle-of-family-violence-and-sexual-violence.pdf
