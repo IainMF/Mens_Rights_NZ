@@ -1,26 +1,6 @@
 20 August 2025
 
-# From:
-
-Name:
-
-:   Iain Fergusson
-
-Email:
-
-:   `iain.m.fergusson@gmail.com`
-
-# To:
-
-Name:
-
-:   The Ministry of Health
-
-Email:
-
-:   `info@health.govt.nz`
-
-1.  This is a complaint of unlawful discrimination and human rights violations against men concerning the Ministry of Health's [vip]{acronym-label="vip" acronym-form="singular+full"} and *Family Violence Assessment and Intervention Guideline*[^1] (the Guidelines). New Zealand has human rights obligations to prevent violence against men and treat men without discrimination.
+1.  This is a complaint of unlawful discrimination and human rights violations against men concerning the Ministry of Health's *Violence Intervention Program* (VIP) and *Family Violence Assessment and Intervention Guideline*[^1] (the Guidelines). New Zealand has human rights obligations to prevent violence against men and treat men without discrimination.
 
     # Human rights obligations
 
@@ -28,11 +8,11 @@ Email:
 
 3.  The *Human Rights Act 1993* prohibits discrimination on the grounds of sex.[^4]
 
-4.  The *[ccpr]{acronym-label="ccpr" acronym-form="singular+full"}* requires New Zealand to protect men from violence and discrimination. Article 2 prohibits discrimination against men in the application of covenant rights. Article 3 requires New Zealand to ensure that men enjoy their rights equally with women. Article 7 requires New Zealand to prevent cruel, inhuman, or degrading treatment, including domestic violence. Article 9 affirms everyone has the right to security of person. Article 26 requires New Zealand to provide equal and effective protection from discrimination to men.
+4.  The *International Covenant on Civil and Political Rights* (ICCPR) requires New Zealand to protect men from violence and discrimination. Article 2 prohibits discrimination against men in the application of covenant rights. Article 3 requires New Zealand to ensure that men enjoy their rights equally with women. Article 7 requires New Zealand to prevent cruel, inhuman, or degrading treatment, including domestic violence. Article 9 affirms everyone has the right to security of person. Article 26 requires New Zealand to provide equal and effective protection from discrimination to men.
 
-5.  The *[icescr]{acronym-label="icescr" acronym-form="singular+full"}* also prohibits discrimination against men in the application of the covenant and requires New Zealand to ensure that men have equal enjoyment of their rights. Article 12 requires New Zealand to ensure that men have the highest attainable standard of physical and mental health.
+5.  The *International Covenant on Economic, Social and Cultural Rights* (ICESCR) also prohibits discrimination against men in the application of the covenant and requires New Zealand to ensure that men have equal enjoyment of their rights. Article 12 requires New Zealand to ensure that men have the highest attainable standard of physical and mental health.
 
-6.  The 2019 [vip]{acronym-label="vip" acronym-form="singular+long"} evaluation identifies family violence as a human rights violation and highlights the importance of early intervention to prevent violence.
+6.  The 2019 *Violence Intervention Program* evaluation identifies family violence as a human rights violation and highlights the importance of early intervention to prevent violence.
 
     > Internationally and within New Zealand, family violence is acknowledged as a human rights violation and a preventable public health problem ...Early identification of people subjected to violence followed by a supportive and effective response can improve safety and wellbeing. The health care system is an important point of entry for the multi-sectoral response to family violence, including both preventing violence and treating its consequences.[^5]
 
