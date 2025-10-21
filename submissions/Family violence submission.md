@@ -260,9 +260,9 @@ This means programs and polices based on this model are, at best, insufficient t
 
 > Treatment of perpetrators is only one part of the Duluth approach, which also focuses on changing societal attitudes towards women. When first introduced in the 1980s, programmes in New Zealand were explicitly modelled on the Duluth approach.
 
-> [Family Violence Perpetrator Treatment - EVIDENCE BRIEF](https://www.justice.govt.nz/assets/Documents/Publications/Family-Violence-Perpetrator-Treatment.pdf) 
+> [Family Violence Perpetrator Treatment EVIDENCE BRIEF](https://www.justice.govt.nz/assets/Documents/Publications/Family-Violence-Perpetrator-Treatment.pdf) 
 
-The Duluth mod![](Pictures/100000000000066E000004D2BB65B2DE.png){width="10.783cm" height="7.782cm"}el is used by the New Zealand Police.
+The Duluth model is used by the New Zealand Police.![](Pictures/100000000000066E000004D2BB65B2DE.png)
 
 The proponents of the model describe it as based on "feminist political ideology"[^24] which lead to a focus on power and control. Later one of the founders admits this was confirmation bias and did not truly represent what the women were telling them.
 
