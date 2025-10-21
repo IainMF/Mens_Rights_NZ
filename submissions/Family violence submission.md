@@ -391,7 +391,7 @@ Government websites that provide information for victims of family violence do n
 
 ****One of the barriers for men receiving support is they don't know there is support. Government websites must give male victims clear guidance about how to get help.****
 
-### Shielded **site
+### Shielded site
 
 Many government website included the Women's Refuge Shielded Site service which excludes males victims. The shielded site says:
 
@@ -516,9 +516,7 @@ Likewise, Stewart-Williams[^51] found after viewing "a fictional popular-science
 
 10. Remove Duluth model, models based on the Duluth model from government policy and practice.
 
-# Nga Mihi
 
-Iain Fergusson
 
 [^1]:
     > New Zealand Crime and Victims Survey (NZCVS) Key findings -- Cycle 3 (2019/20)
