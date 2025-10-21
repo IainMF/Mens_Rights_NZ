@@ -541,10 +541,10 @@ Iain Fergusson
     > Victims' Voices: The Justice Needs and Experiences of New Zealand Serious Crime Victims.
 
 [^7]:
-    > 12 Week Review of Cases Referred to The Family Violence Integrated Safety Response (ISR) Pilot -- Review Of 129 Cases Active With ISR From May To August 2018 https://www.police.govt.nz/sites/default/files/publications/isr-12-week-case-review-report.pdf
+    > [12 Week Review of Cases Referred to The Family Violence Integrated Safety Response (ISR) Pilot](https://www.police.govt.nz/sites/default/files/publications/isr-12-week-case-review-report.pdf) -- Review Of 129 Cases Active With ISR From May To August 2018 
 
 [^8]:
-    > Improving the justice response to victims of sexual violence : victims\' experiences By: Boyer, Tania. \| Allison, Sue \| Creagh, Helen \| Gravitas Research and Strategy Wellington, New Zealand : Ministry of Justice, 2018 https://www.justice.govt.nz/assets/Documents/Publications/Improving-the-justice-response-to-victims-of-sexual-violence-victims-experiences.pdf
+    > [Improving the justice response to victims of sexual violence : victims\' experiences](https://www.justice.govt.nz/assets/Documents/Publications/Improving-the-justice-response-to-victims-of-sexual-violence-victims-experiences.pdf) By: Tania Boyer, Sue Allison,  Helen Creagh, Gravitas Research and Strategy Wellington, New Zealand : Ministry of Justice, 2018 
 
 [^9]:
     > "In Our Own Words" -- Student experiences of sexual violence prior to and during tertiary education. --Thursday's in Black
@@ -556,10 +556,10 @@ Iain Fergusson
     > Male Victims of Intimate Partner Violence in the United States: An Examination of the Review of Literature through the Critical Theoretical Perspective
 
 [^12]:
-    > Machado, A., Hines, D., & Douglas, E. M. (2020). Male victims of female-perpetrated partner violence: A qualitative analysis of men's experiences, the impact of violence, and perceptions of their worth. Psychology of Men & Masculinities, 21(4), 612--621. https://doi.org/10.1037/men0000285
+    > Machado, A., Hines, D., & Douglas, E. M. (2020). [Male victims of female-perpetrated partner violence: A qualitative analysis of men's experiences, the impact of violence, and perceptions of their worth](https://doi.org/10.1037/men0000285). Psychology of Men & Masculinities, 21(4), 612--621. 
 
 [^13]:
-    > Tsui, Venus. (2014). Male Victims of Intimate Partner Abuse: Use and Helpfulness of Services. Social work. 59. 121-30. 10.1093/sw/swu007.
+    > Tsui, Venus. (2014). Male Victims of Intimate Partner Abuse: Use and Helpfulness of Services. Social work. 59. 121-30.10.1093/sw/swu007.
 
 [^14]:
     > Internal and External Barriers to Help Seeking: Voices of Men Who Experienced Abuse in the Intimate Relationships
@@ -583,16 +583,16 @@ Iain Fergusson
     > Coercive Control: How Men Entrap Women in Personal--Life Evan Stark--Page 102
 
 [^21]:
-    > Gavey, N. (1991). Sexual victimization prevalence among New Zealand university students. Journal of Consulting and Clinical Psychology, 59(3), 464--466. https://doi.org/10.1037/0022-006X.59.3.464
+    > Gavey, N. (1991). [Sexual victimization prevalence among New Zealand university students](https://doi.org/10.1037/0022-006X.59.3.464). Journal of Consulting and Clinical Psychology, 59(3), 464--466. 
 
 [^22]:
-    > Koss, Mary P. (1993). Detecting the Scope of Rape: A Review of Prevalence Research Methods. Journal of Interpersonal Violence, Vol. 8, No. 2, 198-222. Available at: <http://boysmeneducation.com/wp-content/uploads/2014/01/Koss-1993-Detecting-the-Scope-of-Rape-a-review-of-prevalence-research-methods-see-p.-206-last-paragraph.pdf>
+    > Koss, Mary P. (1993). [Detecting the Scope of Rape: A Review of Prevalence Research Methods](http://boysmeneducation.com/wp-content/uploads/2014/01/Koss-1993-Detecting-the-Scope-of-Rape-a-review-of-prevalence-research-methods-see-p.-206-last-paragraph.pdf). Journal of Interpersonal Violence, Vol. 8, No. 2, 198-222.  
 
 [^23]:
     >  [Male Rape --- You Are Here From WERS]( https://soundcloud.com/889-wers/male-rape)
 
 [^24]:
-    > Countering Confusion about the Duluth Model - By Michael Paymar and Graham Barnes, Research Specialists with the Battered Women's Justice Project, a program of Domestic Abuse Intervention Programs - <https://www.theduluthmodel.org/wp-content/uploads/2017/03/CounteringConfusion.pdf>
+    > [Countering Confusion about the Duluth Model](https://www.theduluthmodel.org/wp-content/uploads/2017/03/CounteringConfusion.pdf) - By Michael Paymar and Graham Barnes, Research Specialists with the Battered Women's Justice Project, a program of Domestic Abuse Intervention Programs - 
 
 [^25]:
     > Pence, Ellen (1999). \"Some Thoughts on Philosophy\". In Shepherd, Melanie; Pence, Ellen (eds.). Coordinating Community Responses to Domestic Violence: Lessons from Duluth and Beyond. Thousand Oaks, CA.: Sage. pp. 29--30
@@ -619,7 +619,7 @@ Iain Fergusson
     > It's not Okay *--*An innovative approach to changing social attitudes
 
 [^33]:
-    > The Gendered Perspective of Domestic (Intimate Partner) Violence: A Review of the Evidence - <https://euromind.global/en/nicola-graham-kevan/>
+    > [The Gendered Perspective of Domestic (Intimate Partner) Violence: A Review of the Evidence](https://euromind.global/en/nicola-graham-kevan/) 
 
 [^34]:
     > News Stories of Intimate Partner Violence: An Experimental Examination of Participant Sex, Perpetrator Sex, and Violence Severity on Seriousness, Sympathy, and Punishment Preferences
@@ -640,34 +640,34 @@ Iain Fergusson
     > "In Our Own Words" -- Student experiences of sexual violence prior to and during tertiary education. --Thursday's in Black
 
 [^40]:
-    > Review of Part 8 of the Crimes Act 1961 : crimes against the person <http://www.lawcom.govt.nz/sites/default/files/projectAvailableFormats/NZLC%20R111.pdf>
+    > [Review of Part 8 of the Crimes Act 1961 : crimes against the person](http://www.lawcom.govt.nz/sites/default/files/projectAvailableFormats/NZLC%20R111.pdf) 
 
 [^41]:
-    > Reform Of Family Violence Law - Paper Three: Prosecuting family violence - Cabinet Social Policy Committee[ https://www.justice.govt.nz/assets/documents/publications/fv-reform-paper-3-prosecuting.pdf](https://www.justice.govt.nz/assets/Documents/Publications/fv-reform-paper-3-prosecuting.pdf)
+    > [Reform Of Family Violence Law - Paper Three: Prosecuting family violence - Cabinet Social Policy Committee](https://www.justice.govt.nz/assets/documents/publications/fv-reform-paper-3-prosecuting.pdf)
 
 [^42]:
-    > Tania Reynolds, Chuck Howard, Hallgeir Sjåstad, Luke Zhu, Tyler G. Okimoto, Roy F. Baumeister, Karl Aquino, JongHan Kim, - Man up and take it: Gender bias in moral typecasting, Organizational Behavior and Human Decision Processes, Volume 161, 2020, <https://www.sciencedirect.com/science/article/abs/pii/S0749597820303630>
+    > Tania Reynolds, Chuck Howard, Hallgeir Sjåstad, Luke Zhu, Tyler G. Okimoto, Roy F. Baumeister, Karl Aquino, JongHan Kim, - [Man up and take it: Gender bias in moral typecasting](https://www.sciencedirect.com/science/article/abs/pii/S0749597820303630), Organizational Behavior and Human Decision Processes, Volume 161, 2020, 
 
 [^43]:
     > Jeffries, Samantha. (2002). Does gender really matter? Criminal court decision making in New Zealand. New Zealand Sociology. 17.
 
 [^44]:
-    > Follingstad DR, Dehart DD, Green EP. Psychologists\' judgments of psychologically aggressive actions when perpetrated by a husband versus a wife. Violence Vict. 2004 Aug;19(4):435-52. doi: 10.1891/vivi.19.4.435.64165. PMID: 15726937.
+    > Follingstad DR, Dehart DD, Green EP. Psychologists\' judgments of psychologically aggressive actions when perpetrated by a husband versus a wife. Violence Vict. 2004 Aug;19(4):435-52. doi:10.1891/vivi.19.4.435.64165. PMID:15726937.
 
 [^45]:
-    > Brian Cesario, Attitudes about victims of workplace sexual harassment based on sex, Current Research in Behavioral Sciences, Volume 1, 2020, (<https://www.sciencedirect.com/science/article/pii/S2666518220300061>)
+    > Brian Cesario, [Attitudes about victims of workplace sexual harassment based on sex,](https://www.sciencedirect.com/science/article/pii/S2666518220300061) Current Research in Behavioral Sciences, Volume 1, 2020,
 
 [^46]:
     > Savage, Matthew & Scarduzio, Jennifer & Harris, Kate & Carlyle, Kellie & Sheff, Sarah. (2016). News Stories of Intimate Partner Violence: An Experimental Examination of Participant Sex, Perpetrator Sex, and Violence Severity on Seriousness, Sympathy, and Punishment Preferences. Health Communication. 32. 10.1080/10410236.2016.1217453.
 
 [^47]:
-    > https://www.sciencedirect.com/science/article/abs/pii/S1359178921000641
+    > Chima Agazue, [Revisiting the gender-relations debate in the violent murder of Kitty Genovese: Another side of gender-bias favoring women in bystander reactions to emergencies](https://www.sciencedirect.com/science/article/abs/pii/S1359178921000641), Aggression and Violent Behavior,Volume 58,2021 
 
 [^48]:
     > Male Victims of Intimate Partner Violence in the United States: An Examination of the Review of Literature through the Critical Theoretical Perspective
 
 [^49]:
-    > https://journals.sagepub.com/doi/abs/10.1177/1368430221996818?journalCode=gpia
+    > Salvatore, J., & Morton, T. A. (2021). Evaluations of science are robustly biased by identity concerns. _Group Processes & Intergroup Relations_, _24_(4), 568-582. [https://doi.org/10.1177/1368430221996818](https://doi.org/10.1177/1368430221996818) 
 
 [^50]:
     > von Hippel, William & Buss, David. (2017). Do Ideologically Driven Scientific Agendas Impede the Understanding and Acceptance of Evolutionary Principles in Social Psychology?. 10.4324/9781315112619-2.
