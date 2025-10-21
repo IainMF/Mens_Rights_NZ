@@ -4,7 +4,7 @@ description: "My Submisisn to the New Zealand Goverment's consultion on Family a
 ---
 Submission to the Joint Venture on Family and Sexual Violence
 
-> We must do things differently -- we must transform the system
+> We must do things differently -- we must transform the system"
 
 Quote from Hon Marama Davidson - Minister for the Prevention of Family and Sexual Violence
 
@@ -589,7 +589,7 @@ Iain Fergusson
     > Koss, Mary P. (1993). Detecting the Scope of Rape: A Review of Prevalence Research Methods. Journal of Interpersonal Violence, Vol. 8, No. 2, 198-222. Available at: <http://boysmeneducation.com/wp-content/uploads/2014/01/Koss-1993-Detecting-the-Scope-of-Rape-a-review-of-prevalence-research-methods-see-p.-206-last-paragraph.pdf>
 
 [^23]:
-    > <https://soundcloud.com/889-wers/male-rape>
+    >  [Male Rape --- You Are Here From WERS]( https://soundcloud.com/889-wers/male-rape)
 
 [^24]:
     > Countering Confusion about the Duluth Model - By Michael Paymar and Graham Barnes, Research Specialists with the Battered Women's Justice Project, a program of Domestic Abuse Intervention Programs - <https://www.theduluthmodel.org/wp-content/uploads/2017/03/CounteringConfusion.pdf>
