@@ -1,12 +1,13 @@
 ---
 title: Submission to the Joint Venture on Family and Sexual Violence
-description: "My Submisisn to the New Zealand Goverment's consultion on Family and Sexual Violence."
+description: My Submission to the New Zealand Government's consultation on Family and Sexual Violence.
+date: 2021-06-29
 ---
 Submission to the Joint Venture on Family and Sexual Violence
 
-> We must do things differently -- we must transform the system"
-
-Quote from Hon Marama Davidson - Minister for the Prevention of Family and Sexual Violence
+> We must do things differently -- we must transform the system
+> 
+> *Quote from Hon Marama Davidson - Minister for the Prevention of Family and Sexual Violence*
 
 Kia Ora,
 
