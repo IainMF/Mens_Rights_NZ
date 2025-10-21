@@ -80,7 +80,7 @@
 
     # Violence Intervention Program 
 
-16. The [vip]{acronym-label="vip" acronym-form="singular+abbrv"} discriminates against men and violates their human rights. The Family Violence Programme Logic (See Figure [1](#fig:FV_programme_logic){reference-type="ref" reference="fig:FV_programme_logic"}) does not include men as part of that logic. Subsequent discrimination occurs when men are not included in the VIP evaluation. The *2019 Violence Intervention Programme Evaluation* shows that men are excluded from the evaluation:[^16]
+16. The VIP discriminates against men and violates their human rights. The Family Violence Programme Logic (See Figure 1) does not include men as part of that logic. Subsequent discrimination occurs when men are not included in the VIP evaluation. The *2019 Violence Intervention Programme Evaluation* shows that men are excluded from the evaluation:[^16]
 
     > This evaluation sought to answer the following questions:
     >
