@@ -160,7 +160,7 @@ More detailed analysis comes form overseas research.
 
 > Analyses suggested that the help-seeking process of male PV victims is complex and heterogeneous **and can often lead to further negative consequences due to various structural, cultural, social, and organizational factors.** The findings also highlight the potential societal issues that male victims perceived as contributing to male victimization and lack of available resources for them. The results are discussed in terms of its implications for agencies, service providers, and general societal attitudes that are relevant to raising awareness about this phenomenon[^12]
 
-> Machado, A., Hines, D., & Douglas, E. M. (2020). Male victims of female-perpetrated partner violence: A qualitative analysis of men's experiences, the impact of violence, and perceptions of their worth. Psychology of Men & Masculinities, 21(4), 612--621. <https://doi.org/10.1037/men0000285>
+> Machado, A., Hines, D., & Douglas, E. M. (2020). Male victims of female-perpetrated partner violence: A qualitative analysis of men's experiences, the impact of violence, and perceptions of their worth. Psychology of Men & Masculinities, 21(4), 612--621. https://doi.org/10.1037/men0000285
 
 > **Empirical evidence from this mixed-method study suggests that male victims face many interpersonal and societal obstacles**. Feeling uncomfortable when requesting assistance, men in IPA situations are affected by a masking factor that causes them to hide their situation and contributes to a misconception factor that causes people to treat men as the sole perpetrator. Although men are eligible, services may not be perceived as being available or helpful. **The study yields important implications for social work practice, and the findings result in several recommendations for increased awareness about IPA, advocacy for gender-inclusive services, revision of laws and policies, increased research, and emphasis on funded and anonymous services**.[^13]
 
@@ -178,7 +178,7 @@ Male victims voices and experiences must be captured by good research if the sys
 
 > **Specialised population-based surveys of violence against women have been identified as the gold-standard** for obtaining the necessary data to guide national level responses to this critical problem ... **By design, these surveys also do not gather information on men's experience of violence.**
 
-> Methods for the 2019 New Zealand family violence study- a study on the association between violence exposure, health and well-being <https://www.tandfonline.com/doi/full/10.1080/1177083X.2020.1862252>
+> Methods for the 2019 New Zealand family violence study- a study on the association between violence exposure, health and well-being https://www.tandfonline.com/doi/full/10.1080/1177083X.2020.1862252
 
 > The report does not "deal with men's and boy's experiences as victim/survivors of sexual violence, and women as perpetrators. ...**there are gaps in knowledge about these issues**...
 
@@ -541,10 +541,10 @@ Iain Fergusson
     > Victims' Voices: The Justice Needs and Experiences of New Zealand Serious Crime Victims.
 
 [^7]:
-    > 12 Week Review of Cases Referred to The Family Violence Integrated Safety Response (ISR) Pilot -- Review Of 129 Cases Active With ISR From May To August 2018 <https://www.police.govt.nz/sites/default/files/publications/isr-12-week-case-review-report.pdf>
+    > 12 Week Review of Cases Referred to The Family Violence Integrated Safety Response (ISR) Pilot -- Review Of 129 Cases Active With ISR From May To August 2018 https://www.police.govt.nz/sites/default/files/publications/isr-12-week-case-review-report.pdf
 
 [^8]:
-    > Improving the justice response to victims of sexual violence : victims\' experiences By: Boyer, Tania. \| Allison, Sue \| Creagh, Helen \| Gravitas Research and Strategy Wellington, New Zealand : Ministry of Justice, 2018 <https://www.justice.govt.nz/assets/Documents/Publications/Improving-the-justice-response-to-victims-of-sexual-violence-victims-experiences.pdf>
+    > Improving the justice response to victims of sexual violence : victims\' experiences By: Boyer, Tania. \| Allison, Sue \| Creagh, Helen \| Gravitas Research and Strategy Wellington, New Zealand : Ministry of Justice, 2018 https://www.justice.govt.nz/assets/Documents/Publications/Improving-the-justice-response-to-victims-of-sexual-violence-victims-experiences.pdf
 
 [^9]:
     > "In Our Own Words" -- Student experiences of sexual violence prior to and during tertiary education. --Thursday's in Black
