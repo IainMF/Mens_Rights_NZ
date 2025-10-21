@@ -260,7 +260,7 @@ This means programs and polices based on this model are, at best, insufficient t
 
 > Treatment of perpetrators is only one part of the Duluth approach, which also focuses on changing societal attitudes towards women. When first introduced in the 1980s, programmes in New Zealand were explicitly modelled on the Duluth approach.
 
-> Family Violence Perpetrator Treatment - EVIDENCE BRIEF https://www.justice.govt.nz/assets/Documents/Publications/Family-Violence-Perpetrator-Treatment.pdf
+> [Family Violence Perpetrator Treatment - EVIDENCE BRIEF](https://www.justice.govt.nz/assets/Documents/Publications/Family-Violence-Perpetrator-Treatment.pdf) 
 
 The Duluth mod![](Pictures/100000000000066E000004D2BB65B2DE.png){width="10.783cm" height="7.782cm"}el is used by the New Zealand Police.
 
@@ -282,9 +282,7 @@ The Ministry for Women provides policy advice to the government with the goal of
 
 The Ministry provides gendered advice to other government agencies (including the Ministry of Justice and the Police) to support its goal of ending violence against women and girls. It is included in the development of the family and sexual violence strategy and believes it can take a leadership role.
 
-> We are the government's expert on violence against women, providing advice to government on how best to reduce violence. An effective government response to violence reduction, however, is not the sole responsibility of one agency. We work together with various agencies to make sure policies take into account the issue of violence against women and its impacts.
-
-> --- https://women.govt.nz/safety[^26]
+> We are the government's expert on violence against women, providing advice to government on how best to reduce violence. An effective government response to violence reduction, however, is not the sole responsibility of one agency. We work together with various agencies to make sure policies take into account the issue of violence against women and its impacts.[^26]
 
 Although the Ministry recognises the needs of male victims, its mandate is limited to women and girls. It does not have the mandate to speak for men and boys, or develop expertise and experience in the issues for male victims.
 
@@ -393,7 +391,7 @@ Government websites that provide information for victims of family violence do n
 
 ****One of the barriers for men receiving support is they don't know there is support. Government websites must give male victims clear guidance about how to get help.****
 
-### Shielded** **site
+### Shielded **site
 
 Many government website included the Women's Refuge Shielded Site service which excludes males victims. The shielded site says:
 
