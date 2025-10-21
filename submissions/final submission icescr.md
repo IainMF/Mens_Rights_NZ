@@ -153,24 +153,24 @@ One of the ironies of New Zealand domestic violence systems is that females invo
 
 Women are not charged by the police with domestic violence charges unless they have made a significant attempt to harm the male partner or other family member. This is one of the justice biases mentioned above. It is normal for my agency to have men tell us they called the police to ask for help when they were demonstrably the victim but little action was taken and the incident not recorded as a police incident. The police have confirmed this behaviour is common when we consulted them about it in recent research, saying so on tape, and there is no one that is taking them to task to change this cultural issue.
 
-Men are also the predominant victim of murder and experience assault on a comparable level to that of women. Those men that are victims of violence outside of the family/partner setting[]{#anchor-1} are generally not offered support despite coming to police attention with the presumption being that they were somehow complicit in the exchange and as such not eligible to receive such support.
+Men are also the predominant victim of murder and experience assault on a comparable level to that of women. Those men that are victims of violence outside of the family/partner setting are generally not offered support despite coming to police attention with the presumption being that they were somehow complicit in the exchange and as such not eligible to receive such support.
 
-Q1- What steps is the government taking to ensure that men are offered relevant support services when they are identified as victims of family violence?
+Q1. What steps is the government taking to ensure that men are offered relevant support services when they are identified as victims of family violence?
 
-Q2- What are NZ child protection services doing to improve engagement with fathers such that they can seek support when the mother of their children is harming them?
+Q2.  What are NZ child protection services doing to improve engagement with fathers such that they can seek support when the mother of their children is harming them?
 
-Q3- What are the police and others doing to care for men that experience assault, in particular with focus on integrating the harm and preparing to avoid further such harm?
+Q3.  What are the police and others doing to care for men that experience assault, in particular with focus on integrating the harm and preparing to avoid further such harm?
 
 #### 5\. Additional matters
 
 #### A. Male genital mutilation is still legal for boys in New Zealand. 
 There is very weak evidence to support the on-going allowance of this to continue and some concern about harm suffered as well. Regardless, the matter is about an irreversible insult to a child's bodily integrity without just cause.
 
-Q1- What is the NZ government doing about passing legislation or policy to prevent circumcision?
+Q1.  What is the NZ government doing about passing legislation or policy to prevent circumcision?
 
 B. Men are receiving much fewer proactive social and health services to address their needs than women are despite arguably worse outcomes in both areas.
 
-Q1- What is the New Zealand government doing to identify and address the imbalance of action taken to improve male health and wellbeing?
+Q1. What is the New Zealand government doing to identify and address the imbalance of action taken to improve male health and wellbeing?
 
 Best wishes,
 
