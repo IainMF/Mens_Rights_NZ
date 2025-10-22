@@ -38,48 +38,41 @@ is a high quality longitudinal study following 1037 people born in Dunedin in 19
 Table 2 shows the prevalence of victimisation and the number of types of victimisation. Higher numbers of types broadly relate to severity of violence. For example, respondents reporting 1-2 types of violence generally reported minor psychological aggression, where respondents reporting 7 or more types of violence generally included an incident of severe physical violence. A significant number of men had high victimisations scores.
 
 
-                               Women         Men
-  ------------------------- ------------ ------------
-    **Victimisation score**              
-           No victimisation  **33.90%**     33.50%
-                        1-2  **33.00%**     29.20%
-                        3-4  **23.80%**     23.30%
-                        5-6    4.60%      **7.40%**
-                  7 or more    4.80%      **6.70%**
-    **Perpetrator reports**              
-            No perpetration    31.10%     **43.00%**
-                        1-2  **29.50%**     26.10%
-                        3-4  **32.30%**     25.30%
-                        5-6  **3.20%**      2.80%
-                  7 or more  **3.90%**      2.80%
-
-  : Christchurch Health and Development Study
-:::
+|                         | Women      | Men        |
+| ----------------------- | ---------- | ---------- |
+| **Victimisation score** |            |            |
+| No victimisation        | **33.90%** | 33.50%     |
+| 1-2                     | **33.00%** | 29.20%     |
+| 3-4                     | **23.80%** | 23.30%     |
+| 5-6                     | 4.60%      | **7.40%**  |
+| 7 or more               | 4.80%      | **6.70%**  |
+| **Perpetrator reports** |            |            |
+| No perpetration         | 31.10%     | **43.00%** |
+| 1-2                     | **29.50%** | **26.10%** |
+| 3-4                     | **32.30%** | 25.30%     |
+| 5-6                     | **3.20%**  | 2.80%      |
+| 7 or more               | **3.90%**  | 2.80%      |
 
 #### The Pacific Islands Families Study
 
-followed the parents of Pacific infants born in 2000 in Auckland. The study on violence was done in 2002 and the article was published 2007. Importantly, both partners where included in the research allowing comparison of victimisation and perpetration from each person's perspective. They found that men in this group significantly under-reported violence victimisation and perpetration. More mothers reported perpetrating violence against their partner, than being victimised. See Table [3](#table:Pacific Islands){reference-type="ref" reference="table:Pacific Islands"}
+followed the parents of Pacific infants born in 2000 in Auckland. The study on violence was done in 2002 and the article was published 2007. Importantly, both partners where included in the research allowing comparison of victimisation and perpetration from each person's perspective. They found that men in this group significantly under-reported violence victimisation and perpetration. More mothers reported perpetrating violence against their partner, than being victimised. See Table 3
 
-::: {#table:Pacific Islands}
-                              Mother    Father
-  -------------------------- --------- ---------
-  **Victim**                           
-  Verbal aggression             86%     **87%**
-  Any physical violence       **28%**     8%
-  Severe physical violence    **15%**     3%
-  **Perpetrator**                      
-  Verbal aggression           **91%**     90%
-  Any physical violence       **37%**     11%
-  Severe physical violence    **20%**     3%
-
-  : Pacific Islands Families Study
-:::
+|                          | Mother  | Father  |
+| ------------------------ | ------- | ------- |
+| **Victim**               |         |         |
+| Verbal aggression        | 86%     | **87%** |
+| Any physical violence    | **28%** | 8%      |
+| Severe physical violence | **15%** | 3%      |
+| **Perpetrator**          |         |         |
+| Verbal aggression        | **91%** | 90%     |
+| Any physical violence    | **37%** | 11%     |
+| Severe physical violence | **20%** | 3%      |
 
 #### The Youth19 Survey
 
-is a survey of young people predominately in high school students in year 9-13 (approx. 15-18 years old). The survey was conducted in 2019 and these results were released in 2021. Table [4](#table:Youth19){reference-type="ref" reference="table:Youth19"} shows shows approximately equal numbers of males and females report experiencing violence. Notably, nearly twice and many males reported experiencing violence from their partner than females did.
+is a survey of young people predominately in high school students in year 9-13 (approx. 15-18 years old). The survey was conducted in 2019 and these results were released in 2021. Table 4 shows shows approximately equal numbers of males and females report experiencing violence. Notably, nearly twice and many males reported experiencing violence from their partner than females did.
 
-::: {#table:Youth19}
+
     **Victimisation in previous 12 months**              
   ----------------------------------------- ------------ ------------
                                                Female        Male
@@ -97,7 +90,7 @@ is a survey of young people predominately in high school students in year 9-13 (
 
 #### The New Zealand Family Violence Study(2019)
 
-is based on the World Health Organisation violence against women methodology so it could be compared to the 2003 WHO violence against women study. Using a methodology to designed to count women's victimisation may under-count male victims. The results were published in 2022. See Table [5](#table:NZFVS){reference-type="ref" reference="table:NZFVS"} and [6](#tab:NZFVS lifetime){reference-type="ref" reference="tab:NZFVS lifetime"}
+is based on the World Health Organisation violence against women methodology so it could be compared to the 2003 WHO violence against women study. Using a methodology to designed to count women's victimisation may under-count male victims. The results were published in 2022. See Table 5and 6
 
 ::: {#table:NZFVS}
   **IPV victimisation in previous 12 months**               
