@@ -36,7 +36,7 @@ is a high quality longitudinal study following 1037 people born in Dunedin in 19
 
   Dunedin Multidisciplinary Health and Development Study
 
-### The Christchurch Health and Development Study
+### The Christchurch Health and Development Study[^2]
 
 "is a longitudinal study of an unselected birth cohort of 1,265 children born in the Christchurch (New Zealand) urban region during a 4-month period in mid-1977". The study on violence was conducted when the participants were 25-years-old (in 2002). The results were published in 2005.
 
@@ -58,7 +58,7 @@ Table 2 shows the prevalence of victimisation and the number of types of victimi
 | 5-6                     | **3.20%**  | 2.80%      |
 | 7 or more               | **3.90%**  | 2.80%      |
 
-### The Pacific Islands Families Study
+### The Pacific Islands Families Study[^3]
 
 followed the parents of Pacific infants born in 2000 in Auckland. The study on violence was done in 2002 and the article was published 2007. Importantly, both partners where included in the research allowing comparison of victimisation and perpetration from each person's perspective. They found that men in this group significantly under-reported violence victimisation and perpetration. More mothers reported perpetrating violence against their partner, than being victimised. See Table 3
 
@@ -75,7 +75,7 @@ followed the parents of Pacific infants born in 2000 in Auckland. The study on v
 | Any physical violence    | **37%** | 11%     |
 | Severe physical violence | **20%** | 3%      |
 
-### The Youth19 Survey
+### The Youth19 Survey[^4]
 
 is a survey of young people predominately in high school students in year 9-13 (approx. 15-18 years old). The survey was conducted in 2019 and these results were released in 2021. Table 4 shows shows approximately equal numbers of males and females report experiencing violence. Notably, nearly twice and many males reported experiencing violence from their partner than females did.
 
@@ -92,7 +92,7 @@ is a survey of young people predominately in high school students in year 9-13 (
 | Other adult                       | 3.30%            | **5.40%**   |
 | **Unwanted sexual   contact**     | **26.10%**       | 9.70%       |
 
-### The New Zealand Family Violence Study(2019)
+### The New Zealand Family Violence Study(2019)[^5]
 
 is based on the World Health Organisation violence against women methodology so it could be compared to the 2003 WHO violence against women study. Using a methodology to designed to count women's victimisation may under-count male victims. The results were published in 2022. See Table 5 and 6
 
@@ -127,7 +127,7 @@ is based on the World Health Organisation violence against women methodology so 
 | Three or more                   | **19.8**      | 9.1       |
 
 
-### The New Zealand Crime and Victims Survey
+### The New Zealand Crime and Victims Survey[^6]
 
 is the government's annual survey of crime victimisation. Using 'crime' in the title of the survey has the potential to cause under-reporting because it sets respondents expectations for the kinds of incidents the survey expects. See Table 7, Table 8, and Table 9.
 
