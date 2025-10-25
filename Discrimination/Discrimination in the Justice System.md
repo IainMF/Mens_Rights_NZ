@@ -51,6 +51,11 @@ body indicated was lower back (two cases).
 There were examples of men being TASERed in 
 the groin, face, buttocks, and legs.
 
+> Caution: The head, face, neck, chest and groin area
+should not be deliberately targeted unless the
+appropriate level of force can be justified. See target
+areas in blue in diagram below.[^15]
+
 ## Prosecutions
 Brown[^5] studied Police administrative data to investigate factors that may influence the likelihood of prosecution. He includes data from official statistics and previous studies.
 
@@ -123,5 +128,7 @@ HRC CEDAW Report recommends sending fewer women to prison
 [^13]: R V AM CA27/2009
 
 [^14]: [Police TASER Policy](https://policepolicy.nz/policies/use-of-force-taser-electronic-control-devices/u-dcstd/TASER.pdf)
+
+[^15]: [Police TASER Policy](https://policepolicy.nz/policies/use-of-force-taser-electronic-control-devices/u-dcstd/TASER.pdf)
 
 
