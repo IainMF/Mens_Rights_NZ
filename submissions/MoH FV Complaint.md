@@ -139,7 +139,7 @@ Figure 1: Family Violence Programme Logic: *2019 Violence Intervention Programme
 
 29. Identifying male victims is important not only for these men, but also for other family members. As noted in the guidelines, when violence is present in a family, often there are multiple victims.[^22] Identifying male victims gives the opportunity for health professionals to intervene to prevent children being victims of family violence.
 
-30. The evidence on prevalence and severity is not as definitive as the *Guidelines* suggest. Population-based studies available in 2016, when the guidelines were written, show a significant number of male victims and a significant amount of severe violence directed at male victims (see ). Studies released after the *Guidelines* also show significant victimisation among men.
+30. The evidence on prevalence and severity is not as definitive as the *Guidelines* suggest. Population-based studies available in 2016, when the guidelines were written, show a significant number of male victims and a significant amount of severe violence directed at male victims (see [[Prevelance|Prevelance Studies]]). Studies released after the *Guidelines* also show significant victimisation among men.
 
 31. Relying on the subjective judgment of a health professional to trigger a family violence enquiry will be biased against male victims because people, including psychologists,[^23] judge violence and abuse against men as less harmful than equivalent violence and abuse against women.[^24] [^25] [^26] [^27] [^28] [^29] [^30] People are less willing to intervene for a man who is a victim of a female perpetrator than when a women is the victim. Routine enquiry mitigates this cognitive bias.
 
