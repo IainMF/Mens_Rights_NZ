@@ -1,5 +1,5 @@
 ---
-title: Appendix 1: Prevalence Studies 
+title: Appendix 1 -- Prevalence Studies 
 description: Prevalence of violence victimisation from population-based studies in New Zealand.
 ---
 
