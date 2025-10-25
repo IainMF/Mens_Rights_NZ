@@ -119,7 +119,7 @@ is based on the World Health Organisation violence against women methodology so 
 
 #### The New Zealand Crime and Victims Survey
 
-is the government's annual survey of crime victimisation. Using 'crime' in the title of the survey has the potential to cause under-reporting because it sets respondents expectations for the kinds of incidents the survey expects. See Table [7](#table:NZCVS cycle 5){reference-type="ref" reference="table:NZCVS cycle 5"}, Table [8](#tab:NZCVS cycle 6){reference-type="ref" reference="tab:NZCVS cycle 6"}, and Table [9](#tab:NZCVS cycle 7){reference-type="ref" reference="tab:NZCVS cycle 7"}.
+is the government's annual survey of crime victimisation. Using 'crime' in the title of the survey has the potential to cause under-reporting because it sets respondents expectations for the kinds of incidents the survey expects. See Table 7, Table 8, and Table 9.
 
 | _NZCVS cycle 5:_ In previous 12 months | Female         | Male   |
 |----------------------------------------|----------------|--------|
