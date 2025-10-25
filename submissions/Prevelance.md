@@ -72,21 +72,17 @@ followed the parents of Pacific infants born in 2000 in Auckland. The study on v
 
 is a survey of young people predominately in high school students in year 9-13 (approx. 15-18 years old). The survey was conducted in 2019 and these results were released in 2021. Table 4 shows shows approximately equal numbers of males and females report experiencing violence. Notably, nearly twice and many males reported experiencing violence from their partner than females did.
 
-
-    **Victimisation in previous 12 months**              
-  ----------------------------------------- ------------ ------------
-                                               Female        Male
-                          **Being hit by:**              
-                                     Anyone    50.20%     **52.30%**
-                                    Partner    3.70%      **7.30%**
-                                    Sibling  **42.10%**     39.50%
-                       Another young person    14.10%     **25.60%**
-                                     Parent  **14.10%**     11.30%
-                                Other adult    3.30%      **5.40%**
-                **Unwanted sexual contact**  **26.10%**     9.70%
-
-  : The Youth19 Rangatahi Smart Survey
-:::
+                  
+|**Victimisation in previous 12 months**| Female           | Male        |
+|-----------------------------------|------------------|-------------|
+| **Being   hit by:**               |                  |             |
+| Anyone                            | 50.20%           |  **52.30%** |
+| Partner                           | 3.70%            |  **7.30%**  |
+| Sibling                           |  **42.10%**      | 39.50%      |
+| Another young person              | 14.10%           | **25.60%**  |
+| Parent                            |  **14.10%**      | 11.30%      |
+| Other adult                       | 3.30%            | **5.40%**   |
+| **Unwanted sexual   contact**     | **26.10%**       | 9.70%       |
 
 #### The New Zealand Family Violence Study(2019)
 
