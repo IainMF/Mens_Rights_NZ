@@ -21,12 +21,14 @@ Men have the right to be protected from excessive force from the Police, however
 
  >The right to security of person protects individuals against intentional infliction of bodily or mental injury, regardless of whether the victim is detained or non-detained... \[States] should also prevent and redress unjustifiable use of force in law enforcement,  and protect their populations against abuses by private security forces, and against the risks posed by excessive availability of firearms. [^2]
 
-Police discriminate against men when considering whether to use force. They are more likely to use force against men than women. A review of TASER use in the Police found:
+Police discriminate against men when considering whether to use force. They are more likely to use force against men than women. A review of Police TASER use found:
+
+> Women are significantly less likely to be TASERed despite demonstrating more assaultive behaviour in TASER video footage. Men were more likely to be TASERed for what appeared to be compliance, or for ‘passive resistant behaviour’. Video observations indicate far less assaultive behaviour than women. Officers consider the gender of the individual, particularly before discharging a TASER.[^4]
 
 > It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^3] 
 > *Emphasis added*
 
-> Women are significantly less likely to be TASERed despite demonstrating more assaultive behaviour in TASER video footage. Men were more likely to be TASERed for what appeared to be compliance, or for ‘passive resistant behaviour’. Video observations indicate far less assaultive behaviour than women. Officers consider the gender of the individual, particularly before discharging a TASER.[^4]
+
 
 ### Prosecutions
 Brown[^5] studied Police administrative data to investigate factors that may influence the likelihood of prosecution. He includes data from official statistics and previous studies.
@@ -63,7 +65,7 @@ Although men face significant discrimination and are significantly over-represen
 
 Men who are victims of sexual assault by a woman do not receive the same level of justice as women assaulted by men.
 
-New Zealand’s rape and sexual assault law and subsequent sentencing guidelines treat women who have non-consensual sex with men more leniently than men who have non-consensual with women. Sentencing guidelines released by the Court of Appeal make a clear distinction between rape by penetration and other forms of sexual assault.[^13] This creates a significant difference between men and women. For example, a man having sex with a women without her consent, with no aggravating factors, is recommended a 6-8 years sentence, in the reverse situation the women is recommended a 2-5 year sentence.
+New Zealand’s rape and sexual assault law and subsequent sentencing guidelines treat women who have non-consensual sex with men more leniently than men who have non-consensual with women. Sentencing guidelines released by the Court of Appeal make a clear distinction between rape by penetration and other forms of sexual assault.[^13] This creates a significant difference between men and women. For example, a man having sex with a women without her consent, with no aggravating factors, is recommended a 6-8 years sentence, in the reverse situation the women is recommended a 2-5 year sentence.
 
 ### Women
 https://www.stuff.co.nz/the-press/news/96230482/fewer-women-to-be-jailed-under-new-government-strategy-to-curb-growth-in-crime
@@ -89,13 +91,13 @@ HRC CEDAW Report recommends sending fewer women to prison
 
 [^8]:  [The Effects of Suspect Characteristics on Arrest: A Meta-Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0047235214000890), Daniel J. Lytle, Journal of Criminal Justice, Volume 42, Issue 6, 2014,
 
-[^9]:  [Does Gender Really Matter?](https://bit.ly/2sVqrw2) Criminal Court Decision Making in New Zealand. Samantha Jeffries - New Zealand Sociology Volume 17 Number 1 2002
+[^9]:  [Does Gender Really Matter?](https://bit.ly/2sVqrw2) Criminal Court Decision Making in New Zealand. Samantha Jeffries - New Zealand Sociology Volume 17 Number 1 2002
 
-[^10]: [Disparities in police proceedings and court sentencing for females versus males who commit sexual offences in New Zealand](https://www.tandfonline.com/action/showCitFormats?doi=10.1080%2F13552600.2019.1581281) – Patterson, Hobbs, McKillop & Burton (2019), Journal of Sexual Aggression, 25:2
+[^10]: [Disparities in police proceedings and court sentencing for females versus males who commit sexual offences in New Zealand](https://www.tandfonline.com/action/showCitFormats?doi=10.1080%2F13552600.2019.1581281) – Patterson, Hobbs, McKillop & Burton (2019), Journal of Sexual Aggression, 25:2
 
-[^11]: Bindler, A., & Hjalmarsson, R. (2020). The persistence of the criminal justice gender gap: Evidence from 200 years of judicial decisions. _The Journal of Law and Economics_, _63_(2), 297-339.
+[^11]: Bindler, A., & Hjalmarsson, R. (2020). The persistence of the criminal justice gender gap: Evidence from 200 years of judicial decisions. _The Journal of Law and Economics_, _63_(2), 297-339.
 
-[^12]:  [Examination of Aotearoa New Zealand’s 7th Periodic Report under the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment](https://tikatangata.org.nz/cms/assets/CAT-submission-Te-Kahui-Tika-Tangata-Human-Rights-Commission.docx) - Human Rights Commission– 12 June 2023
+[^12]:  [Examination of Aotearoa New Zealand’s 7th Periodic Report under the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment](https://tikatangata.org.nz/cms/assets/CAT-submission-Te-Kahui-Tika-Tangata-Human-Rights-Commission.docx) - Human Rights Commission– 12 June 2023
 
 [^13]: R V AM CA27/2009
 
