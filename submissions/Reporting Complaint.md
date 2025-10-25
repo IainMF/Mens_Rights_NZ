@@ -5,8 +5,6 @@ date: 2025-08-20
 ---
 
 
-## From: Iain Fergusson 
-
 ## To: The Ministry of Justice 
 
 1.  This is a complaint of unlawful discrimination and other rights violations for omitting men's human rights issues when reporting on article 3 of the International Covenant on Civil and Political Rights (ICCPR) and article 3 the International Covenant on Economic, Social, and Cultural Rights (ICESCR). In this complaint, article 3 of both conventions are referred to collectively as **article 3** because article 3 of both conventions are substantially the same and this complaint applies to both conventions.
