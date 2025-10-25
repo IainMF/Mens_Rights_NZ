@@ -8,6 +8,7 @@ description: Prevalence of violence victimisation from population-based studies 
 is a high quality longitudinal study following 1037 people born in Dunedin in 1972-73. The study on violence was conducted when the participants were 21-years-old (in 1992/93), the results were published in 1997. Table 1 shows more men report being victims of partner violence than women.
 
 #### Table 1
+Dunedin Multidisciplinary Health and Development Study
 
 |                              | Victimisation % |          | Perpetration % |          |
 | ---------------------------- | --------------- | -------- | -------------- | -------- |
@@ -34,7 +35,7 @@ is a high quality longitudinal study following 1037 people born in Dunedin in 19
 | Any physical violence        | 27.1            | **34.1** | **37.2**       | 21.8     |
 |                              |                 |          |                |          |
 
-  Dunedin Multidisciplinary Health and Development Study
+
 
 ### The Christchurch Health and Development Study[^2]
 
@@ -43,6 +44,7 @@ is a high quality longitudinal study following 1037 people born in Dunedin in 19
 Table 2 shows the prevalence of victimisation and the number of types of victimisation. Higher numbers of types broadly relate to severity of violence. For example, respondents reporting 1-2 types of violence generally reported minor psychological aggression, where respondents reporting 7 or more types of violence generally included an incident of severe physical violence. A significant number of men had high victimisations scores.
 
 #### Table 2
+Christchurch Health and Development Study
 |                         | Women      | Men        |
 | ----------------------- | ---------- | ---------- |
 | **Victimisation score** |            |            |
@@ -63,6 +65,7 @@ Table 2 shows the prevalence of victimisation and the number of types of victimi
 followed the parents of Pacific infants born in 2000 in Auckland. The study on violence was done in 2002 and the article was published 2007. Importantly, both partners where included in the research allowing comparison of victimisation and perpetration from each person's perspective. They found that men in this group significantly under-reported violence victimisation and perpetration. More mothers reported perpetrating violence against their partner, than being victimised. See Table 3
 
 #### Table 3
+Pacific Islands Families Study
 
 |                          | Mother  | Father  |
 | ------------------------ | ------- | ------- |
@@ -80,6 +83,7 @@ followed the parents of Pacific infants born in 2000 in Auckland. The study on v
 is a survey of young people predominately in high school students in year 9-13 (approx. 15-18 years old). The survey was conducted in 2019 and these results were released in 2021. Table 4 shows shows approximately equal numbers of males and females report experiencing violence. Notably, nearly twice and many males reported experiencing violence from their partner than females did.
 
 #### Table 4
+Youth19 Survey
                   
 |**Victimisation in previous 12 months**| Female           | Male        |
 |-----------------------------------|------------------|-------------|
@@ -97,6 +101,7 @@ is a survey of young people predominately in high school students in year 9-13 (
 is based on the World Health Organisation violence against women methodology so it could be compared to the 2003 WHO violence against women study. Using a methodology to designed to count women's victimisation may under-count male victims. The results were published in 2022. See Table 5 and 6
 
 #### Table 5
+New Zealand Family Violence Study
 
 | IPV   victimisation in previous 12 months | Women     | Men        |
 |-------------------------------------------|-----------|------------|
@@ -111,6 +116,7 @@ is based on the World Health Organisation violence against women methodology so 
 | 3 or more                                 | 1.50%     | **1.90%**  |
 
 #### Table 6
+New Zealand Family Violence Study
 | Percent Victimised since age 15 | Women         | Men       |
 |---------------------------------|---------------|-----------|
 | **Non-partner**                 | 11.9          |  **39.9** |
