@@ -86,44 +86,36 @@ is a survey of young people predominately in high school students in year 9-13 (
 
 #### The New Zealand Family Violence Study(2019)
 
-is based on the World Health Organisation violence against women methodology so it could be compared to the 2003 WHO violence against women study. Using a methodology to designed to count women's victimisation may under-count male victims. The results were published in 2022. See Table 5and 6
+is based on the World Health Organisation violence against women methodology so it could be compared to the 2003 WHO violence against women study. Using a methodology to designed to count women's victimisation may under-count male victims. The results were published in 2022. See Table 5 and 6
 
-::: {#table:NZFVS}
-  **IPV victimisation in previous 12 months**               
-  --------------------------------------------- ----------- ------------
-                                                   Women        Men
-  **Physical**                                              
-  Any                                              2.40%     **4.90%**
-  Moderate                                         2.10%     **4.80%**
-  Severe                                           1.30%     **2.10%**
-  **Sexual**                                     **0.90%**     0.50%
-  **Psychological**                                         
-  1 or more                                       12.70%     **15.20%**
-  2 or more                                        5.00%     **5.20%**
-  3 or more                                        1.50%     **1.90%**
+| IPV   victimisation in previous 12 months | Women     | Men        |
+|-------------------------------------------|-----------|------------|
+| **Physical**                              |           |            |
+| Any                                       | 2.40%     | **4.90%**  |
+| Moderate                                  | 2.10%     | **4.80%**  |
+| Severe                                    | 1.30%     | **2.10%**  |
+| **Sexual**                                | **0.90%** | 0.50%      |
+| **Psychological**                         |           |            |
+| 1 or more                                 | 12.70%    | **15.20%** |
+| 2 or more                                 | 5.00%     | **5.20%**  |
+| 3 or more                                 | 1.50%     | **1.90%**  |
 
-  : New Zealand Family Violence Study -- violence in previous 12 months
-:::
 
-::: {#tab:NZFVS lifetime}
-  Percent Victimised since age 15              
-  --------------------------------- ---------- ----------
-                                      Women       Men
-  **Non-partner**                              
-  Physical Violence                    11.9     **39.9**
-  Sexual Violence                    **8.2**      2.2
-  **Intimate partner violence**                
-  Any Physical Violence               25.32     **29.4**
-  Moderate Physical Violence           26.9     **28.2**
-  Severe Physical Violence             7.6      **9.4**
-  Sexual Violence                    **12.4**     2.1
-  **Psychological abuse**                      
-  One or more                        **47.7**      40
-  Two or more                         **33**      19.3
-  Three or more                      **19.8**     9.1
+| Percent Victimised since age 15 | Women         | Men       |
+|---------------------------------|---------------|-----------|
+| **Non-partner**                 | 11.9          |  **39.9** |
+| Physical Violence               | **8.2**       | 2.2       |
+| Sexual Violence                 |               |           |
+| **Intimate partner violence**   |               |           |
+| Any Physical Violence           | 25.32         | **29.4**  |
+| Moderate Physical Violence      | 26.9          |  **28.2** |
+| Severe Physical Violence        | 7.6           | **9.4**   |
+| Sexual Violence                 | **12.4**      | 2.1       |
+|  **Psychological abuse**        |               |           |
+| One or more                     | **47.7**      | 40        |
+| Two or more                     | **33**        | 19.3      |
+| Three or more                   | **19.8**      | 9.1       |
 
-  : New Zealand Family Violence Study -- Lifetime experience of violence
-:::
 
 #### The New Zealand Crime and Victims Survey
 
