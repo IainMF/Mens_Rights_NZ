@@ -1,8 +1,13 @@
-# Appendix 1: Prevalence Studies 
+---
+title: Appendix 1: Prevalence Studies 
+description: Prevalence of violence victimisation from population-based studies in New Zealand.
+---
 
-#### The Dunedin Multidisciplinary Health and Development Study
+### The Dunedin Multidisciplinary Health and Development Study
 
 is a high quality longitudinal study following 1037 people born in Dunedin in 1972-73. The study on violence was conducted when the participants were 21-years-old (in 1992/93), the results were published in 1997. Table 1 shows more men report being victims of partner violence than women.
+
+#### Table 1
 
 |                              | Victimisation % |          | Perpetration % |          |
 | ---------------------------- | --------------- | -------- | -------------- | -------- |
@@ -31,13 +36,13 @@ is a high quality longitudinal study following 1037 people born in Dunedin in 19
 
   Dunedin Multidisciplinary Health and Development Study
 
-#### The Christchurch Health and Development Study
+### The Christchurch Health and Development Study
 
 "is a longitudinal study of an unselected birth cohort of 1,265 children born in the Christchurch (New Zealand) urban region during a 4-month period in mid-1977". The study on violence was conducted when the participants were 25-years-old (in 2002). The results were published in 2005.
 
 Table 2 shows the prevalence of victimisation and the number of types of victimisation. Higher numbers of types broadly relate to severity of violence. For example, respondents reporting 1-2 types of violence generally reported minor psychological aggression, where respondents reporting 7 or more types of violence generally included an incident of severe physical violence. A significant number of men had high victimisations scores.
 
-
+#### Table 2
 |                         | Women      | Men        |
 | ----------------------- | ---------- | ---------- |
 | **Victimisation score** |            |            |
@@ -53,9 +58,11 @@ Table 2 shows the prevalence of victimisation and the number of types of victimi
 | 5-6                     | **3.20%**  | 2.80%      |
 | 7 or more               | **3.90%**  | 2.80%      |
 
-#### The Pacific Islands Families Study
+### The Pacific Islands Families Study
 
 followed the parents of Pacific infants born in 2000 in Auckland. The study on violence was done in 2002 and the article was published 2007. Importantly, both partners where included in the research allowing comparison of victimisation and perpetration from each person's perspective. They found that men in this group significantly under-reported violence victimisation and perpetration. More mothers reported perpetrating violence against their partner, than being victimised. See Table 3
+
+#### Table 3
 
 |                          | Mother  | Father  |
 | ------------------------ | ------- | ------- |
@@ -68,10 +75,11 @@ followed the parents of Pacific infants born in 2000 in Auckland. The study on v
 | Any physical violence    | **37%** | 11%     |
 | Severe physical violence | **20%** | 3%      |
 
-#### The Youth19 Survey
+### The Youth19 Survey
 
 is a survey of young people predominately in high school students in year 9-13 (approx. 15-18 years old). The survey was conducted in 2019 and these results were released in 2021. Table 4 shows shows approximately equal numbers of males and females report experiencing violence. Notably, nearly twice and many males reported experiencing violence from their partner than females did.
 
+#### Table 4
                   
 |**Victimisation in previous 12 months**| Female           | Male        |
 |-----------------------------------|------------------|-------------|
@@ -84,9 +92,11 @@ is a survey of young people predominately in high school students in year 9-13 (
 | Other adult                       | 3.30%            | **5.40%**   |
 | **Unwanted sexual   contact**     | **26.10%**       | 9.70%       |
 
-#### The New Zealand Family Violence Study(2019)
+### The New Zealand Family Violence Study(2019)
 
 is based on the World Health Organisation violence against women methodology so it could be compared to the 2003 WHO violence against women study. Using a methodology to designed to count women's victimisation may under-count male victims. The results were published in 2022. See Table 5 and 6
+
+#### Table 5
 
 | IPV   victimisation in previous 12 months | Women     | Men        |
 |-------------------------------------------|-----------|------------|
@@ -100,7 +110,7 @@ is based on the World Health Organisation violence against women methodology so 
 | 2 or more                                 | 5.00%     | **5.20%**  |
 | 3 or more                                 | 1.50%     | **1.90%**  |
 
-
+#### Table 6
 | Percent Victimised since age 15 | Women         | Men       |
 |---------------------------------|---------------|-----------|
 | **Non-partner**                 | 11.9          |  **39.9** |
@@ -117,9 +127,12 @@ is based on the World Health Organisation violence against women methodology so 
 | Three or more                   | **19.8**      | 9.1       |
 
 
-#### The New Zealand Crime and Victims Survey
+### The New Zealand Crime and Victims Survey
 
 is the government's annual survey of crime victimisation. Using 'crime' in the title of the survey has the potential to cause under-reporting because it sets respondents expectations for the kinds of incidents the survey expects. See Table 7, Table 8, and Table 9.
+
+#### Table 7
+New Zealand Crime and Victims Survey Cycle 5 -- prevalence rate, pooled data
 
 | _NZCVS cycle 5:_ In previous 12 months | Female         | Male   |
 |----------------------------------------|----------------|--------|
@@ -130,18 +143,24 @@ is the government's annual survey of crime victimisation. Using 'crime' in the t
 | **Lifetime**                           |                |        |
 | Sexual assault                         | **36.25%**     | 12.54% |
 | Partner violence                       | **23.61%**     | 10.00% |
-New Zealand Crime and Victims Survey Cycle 5 -- prevalence rate, pooled data
+
+
+#### Table 8
+New Zealand Crime and Victims Survey Cycle 6 -- prevalence rate, pooled data
 
 | _NZCVS cycle 6:_ In   previous 12 months | Female       | Male  |
 |------------------------------------------|--------------|-------|
 | Sexual assault                           | **2.9%**     | 0.90% |
 | By family members                        | **2.9%**     | 1.00% |
 | All personal offences                    | **16.1%**    | 15%   |
-New Zealand Crime and Victims Survey Cycle 6 -- prevalence rate, pooled data
+
+
+#### Table 9
+New Zealand Crime and Victims Survey Cycle 7 -- prevalence rate, pooled data
 
 | _NZCVS cycle 7:_ In   previous 12 months | Female      | Male  |
 |------------------------------------------|-------------|-------|
 | Sexual assault                           | **2.9%**    | 0.90% |
 | By family members                        | **3.0%**    | 1.00% |
-New Zealand Crime and Victims Survey Cycle 7 -- prevalence rate, pooled data
+
 
