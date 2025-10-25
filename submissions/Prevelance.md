@@ -166,7 +166,7 @@ New Zealand Crime and Victims Survey Cycle 7 -- prevalence rate, pooled data
 [^1]: Lynn Magdol, Terrie E Moffitt, Avshalom Caspi, Denise L Newman, Jeffrey Fagan, & Phil A Silva. _Gender differences in partner violence in a birth cohort of 21-year-olds: bridging the gap between clinical and epidemiological approaches_. Journal of consulting and clinical psychology, 65(1):68, 1997.
 [^2]: David M Fergusson, L John Horwood, & Elizabeth M Ridder. _Partner violence and mental health outcomes in a New Zealand birth cohort._ Journal of marriage and family, 67(5):1103–1119, 2005.
 [^3]: Philip J Schluter, Janis Paterson, & Michael Feehan. _Prevalence and concordance of interpersonal violence reports from intimate partners: findings from the Pacific Islands Families Study._ Journal of Epidemiology & Community Health, 61(7):625–630, 2007.
-[^4]: Fleming T et al._ Youth19: Safety and Violence brief_, 2021.
+[^4]: Fleming T et al. _Youth19: Safety and Violence brief_, 2021.
 [^5]: Janet L Fanslow, Zarintaj Malihi, Ladan Hashemi, Pauline Gulliver, & Tracey McIntosh. _Prevalence of interpersonal violence against women and men in New Zealand: results of a cross-sectional study._ Australian and New Zealand journal of public health, 46(2):117–126, 2022.
 [^6]: Ministry of Justice. [New Zealand Crime and Victims Survey](https://www.justice.govt.nz/justice-sector-policy/research-data/nzcvs/) (NZCVS), 2024.
 
