@@ -45,6 +45,7 @@ Table 2 shows the prevalence of victimisation and the number of types of victimi
 
 #### Table 2
 Christchurch Health and Development Study
+
 |                         | Women      | Men        |
 | ----------------------- | ---------- | ---------- |
 | **Victimisation score** |            |            |
@@ -117,6 +118,7 @@ New Zealand Family Violence Study
 
 #### Table 6
 New Zealand Family Violence Study
+
 | Percent Victimised since age 15 | Women         | Men       |
 |---------------------------------|---------------|-----------|
 | **Non-partner**                 | 11.9          |  **39.9** |
