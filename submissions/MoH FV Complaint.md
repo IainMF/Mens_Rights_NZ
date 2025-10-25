@@ -3,9 +3,9 @@ title: Ministry of Health Family Violence Complaint
 description: A complaint about discrimination against men in the Ministry of Health's approach to family violence.
 date: 2025-08-20
 ---
-
+## My Complaint
 1.  This is a complaint of unlawful discrimination and human rights violations against men concerning the Ministry of Health's *Violence Intervention Program* (VIP) and *Family Violence Assessment and Intervention Guideline*[^1] (the Guidelines). New Zealand has human rights obligations to prevent violence against men and treat men without discrimination.
-## Human rights obligations
+### Human rights obligations
 
 2.  The *New Zealand Bill of Rights Act 1990* affirms men's right to be free from discrimination[^2] and to be free from torture or cruel, degrading, or disproportionately severe treatment or punishment.[^3] Partner violence can meet the threshold for cruel or degrading treatment.
 
@@ -18,7 +18,7 @@ date: 2025-08-20
 6.  The 2019 *Violence Intervention Program* evaluation identifies family violence as a human rights violation and highlights the importance of early intervention to prevent violence.
 
     > Internationally and within New Zealand, family violence is acknowledged as a human rights violation and a preventable public health problem ...Early identification of people subjected to violence followed by a supportive and effective response can improve safety and wellbeing. The health care system is an important point of entry for the multi-sectoral response to family violence, including both preventing violence and treating its consequences.[^5]
-### Due diligence
+#### Due diligence
 
 7.  New Zealand has the obligation to act with due diligence to protect[^6] men from rights violations by non-State actors. This includes protecting men from partner violence.
 
@@ -33,7 +33,7 @@ date: 2025-08-20
 10. "Due diligence should be understood as an obligation ...to prevent violence or violations of human rights, protect victims and witnesses from violations, investigate and punish those responsible, including private actors, and provide access to redress for human rights violations."[^7]
 
 11. Under international human rights law, New Zealand must take all appropriate measures to protect men from partner violence and to ensure such measures are effective. New Zealand must also eliminate practices that tolerate or allow a negligent response to partner violence against men.[^8] New Zealand must not discriminate in the application of due diligence. That is, New Zealand must use the same level of commitment to address violence against men as they do with violence against women.[^9]
-### Justification of different treatment 
+#### Justification of different treatment 
 
 12. Health providers should treat women and men equally by default. Different treatment of women or men may be justified but must be based on reasonable and objective criteria and compatible with human rights treaties.
 
@@ -44,14 +44,14 @@ date: 2025-08-20
     ICECSR general comment 20, paragraph 13 states:
 
     > Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is reasonable and objective. This will include an assessment as to whether the aim and effects of the measures or omissions are legitimate, compatible with the nature of the Covenant rights and solely for the purpose of promoting the general welfare in a democratic society. In addition, there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party's disposition in an effort to address and eliminate the discrimination, as a matter of priority.
-## Te Rito Family Violence Prevention Strategy
+### Te Rito Family Violence Prevention Strategy
 
-    Te Rito was New Zealand's family violence prevention strategy at the time of development of the *VIP* and the *Guidelines*. Te Rito states that the government has a responsibility to ensure that men are protected from violence.
+Te Rito was New Zealand's family violence prevention strategy at the time of development of the *VIP* and the *Guidelines*. Te Rito states that the government has a responsibility to ensure that men are protected from violence.
 
-    > **Principle 1:** All people have a fundamental right to be safe and to live free from violence
-    >
-    > The Government has a responsibility to ensure that all people in Aotearoa/New Zealand remain safe and free from violence. Consequently, family violence prevention initiatives must ensure that the safety and well-being of all victims are given paramount consideration.
-## The Ministry's view of family violence
+> **Principle 1:** All people have a fundamental right to be safe and to live free from violence
+>
+> The Government has a responsibility to ensure that all people in Aotearoa/New Zealand remain safe and free from violence. Consequently, family violence prevention initiatives must ensure that the safety and well-being of all victims are given paramount consideration.
+### The Ministry's view of family violence
 
 13. The Ministry emphasises the serious consequences of family violence and the importance of early intervention. The *Family Violence Assessment and Intervention Guidelines* state:
 
@@ -72,10 +72,10 @@ date: 2025-08-20
 14. The guidelines state that health services must be proactive in ensuring victims receive support:
 
     > We know we can make a difference, and need to work proactively so that delivery of this programme continues to be robust and well supported.[^14]
-## Ethics
+### Ethics
 
 15. The *Guidelines* highlight the important ethical considerations in responding to family violence. "The fundamental ethical principles which underpin all health care practice are relevant when guiding responses to violence and abuse."[^15] The Ministry has an ethical obligations to male victims of partner violence. These include the obligations *to do good*, and *to do no harm*.
-## Violence Intervention Program 
+### Violence Intervention Program 
 
 16. The VIP discriminates against men and violates their human rights. The Family Violence Programme Logic (See Figure 1) does not include men as part of that logic. Subsequent discrimination occurs when men are not included in the VIP evaluation. The *2019 Violence Intervention Programme Evaluation* shows that men are excluded from the evaluation:[^16]
 
@@ -99,10 +99,10 @@ Figure 1: Family Violence Programme Logic: *2019 Violence Intervention Programme
     > What we measure influences how we view and respond to the problem. To date, VIP has focused on supporting health professionals. Better understanding of impact for service users...is overdue ...Without this understanding, we risk repeating unhelpful and potentially harmful responses to those seeking help in times of crisis ...As Bouckaert and Halligan note, 'the more quality that is taken into account, the more valid the performance measurement system will be'.[^17]
 
 18. Collecting data on male victims and the health systems response is required regardless of whether the Ministry's guidelines recommend routine enquiry for men or not. There is no reasonable or objective reason to exclude men from VIP data collection.
-## Family Violence Guidelines 
+### Family Violence Guidelines 
 
 19. The *Guidelines* discriminate against male victims of family violence and impede New Zealand's human rights obligations to prevent violence against men. The *Guidelines* emphasise that \"\[r\]outine enquiry about intimate partner violence should be conducted with all females aged 16 years and older.\" However, for men \"\[r\]outine enquiry is not recommended\". Health professionals are recommended to wait until signs are present before asking men about partner violence. Health professionals following the guidelines provide an inferior service to men by denying them the benefits of routine enquiry.
-### Decision to do routine enquiry for women 
+#### Decision to do routine enquiry for women 
 
 20. The *Guidelines* explain that the decision to conduct routine enquiry for women is based on the "health and ethical imperatives to respond to victims of IPV".
 
@@ -110,7 +110,7 @@ Figure 1: Family Violence Programme Logic: *2019 Violence Intervention Programme
     > *Emphasis added*
 
 21. If the "health and ethical imperatives to respond to victims of IPV" require routine enquiry for women, then those the same imperatives must apply for men.
-### The Ministry's explanation 
+#### The Ministry's explanation 
 
 22. The ministry explains its rationale for excluding men from routine enquiry for family violence.[^19]
 
@@ -123,7 +123,7 @@ Figure 1: Family Violence Programme Logic: *2019 Violence Intervention Programme
     > A New Zealand study demonstrates that males who have been hit by females partners report needing no first aid, medical or hospital treatment compared with 9 percent of women who were hit by their male partners (Langley et al 1997).
     >
     > Kimmel (2002) acknowledges that prevalence rates of males reporting violence from partners may compare those reported by females. He also notes that perpetrators of systematic, persistent and serious violence are predominantly men.
-## Shortcomings of the Guidelines 
+### Shortcomings of the Guidelines 
 
 23. International human rights law allows for differential treatment if it is reasonable and objective, and supports protection of human rights (See above). For example, a legitimate reason for health providers to avoid routine enquiry for men would be if the evidence shows routine enquiry results in poorer outcomes for men, their families and the wider community.
 
@@ -152,7 +152,7 @@ Figure 1: Family Violence Programme Logic: *2019 Violence Intervention Programme
 34. The Ministry's note that "perpetrators of systematic, persistent and serious violence are predominantly men" does not negate the Ministry's obligations to male victims. In fact, noting this in a section about male victims is likely to prejudice readers against male victims due to moral typecasting. When a group is seen as a perpetrators, it is hard for people to see them as victims.[^35]
 
 35. Furthermore, restricting routine enquiry to women means that health professionals may filter out people identifying as a non-binary gender for routine enquiry.
-## Harm done
+### Harm done
 
 36. The current implementation of the *Violence Intervention Programme* has caused harm to male victims of partner violence by:
 
@@ -171,7 +171,7 @@ Figure 1: Family Violence Programme Logic: *2019 Violence Intervention Programme
     -   Early intervention and prevention of further violence or abuse has not occurred because routine enquiry is not done for men.
 
     -   The collection of robust data and statistics to understand the needs and experience of male victims is not possible when routine enquiry is not done. Sampling bias is significant when health professionals only conduct enquiries when they see signs of family violence.
-## Remedy
+### Remedy
 
 37. Under the ICCPR and the ICESCR, New Zealand is required to provide an effective remedy to men whose rights have been violated. An effective remedy includes public apologies,[^36] ending ongoing violations,[^37] preventing recurrences of violations,[^38] repairing harm that as be done at the earliest possible opportunity.[^39]
 
@@ -196,6 +196,37 @@ Figure 1: Family Violence Programme Logic: *2019 Violence Intervention Programme
         -   explain the change in policy in the guidelines; and
 
         -   Provide support and education for health professionals on the issues for male victims of partner and family violence.
+## Response
+
+Tēnā koe Iain
+
+Thank you for your detailed correspondence dated 20 August 2025 regarding the Ministry of Health’s Violence Intervention Programme (VIP) and the Family Violence Assessment and Intervention Guidelines. We appreciate your engagement and the time you have taken to raise concerns about the programme’s focus and its implications for male victims of family violence.
+
+We acknowledge the human rights principles you have outlined, including those in the New Zealand Bill of Rights Act 1990, the Human Rights Act 1993, and international covenants such as the International Covenant on Civil and Political Rights (ICCPR) and International Covenant on Economic, Social and Cultural Rights (ICESCR). Health New Zealand | Te Whatu Ora (Health NZ)
+is committed to upholding these obligations and ensuring that all individuals - regardless of gender - are treated with dignity and respect and have access to appropriate health services.
+
+### Rationale for VIP focus on women and children
+The VIP was developed in response to extensive evidence showing that women and children disproportionately experience the most severe and persistent forms of family violence. This includes physical, sexual, and psychological abuse, often with long-term health consequences. The programme’s design reflects the need for a targeted response to address this significant public
+health issue. 
+
+Key considerations include:
+
+1. **Prevalence and Severity of Harm:** While men can and do experience partner violence, the evidence consistently shows that women are more likely to experience repeated, severe, and coercive forms of abuse. For example, the New Zealand Family Violence Study (2019) found that women were significantly more likely than men to experience sexual violence and psychological abuse from intimate partners. The health consequences for women - especially in reproductive and maternal health settings - are profound and require tailored responses.
+2. **Health Sector Entry Points:** The VIP, which also encompasses child abuse and neglect, is integrated across various health services settings, including sexual health, and child health services. These settings provide critical opportunities for early identification and intervention.
+3. **Ethical and Clinical Imperatives**: Routine enquiry for women is recommended based on ethical obligations to do good and prevent harm, and because women are more likely to benefit from early identification due to the nature and frequency of their interactions with health services. For men, enquiry is recommended when signs or symptoms are present, ensuring that support is available without overextending limited resources in settings where routine enquiry may not be clinically justified.
+4. **Resource allocation and programme effectiveness:** Health NZ must ensure that interventions are evidence-based and proportionate to the scale and severity of the issue. While differential treatment must be justified, it is not discriminatory when based on objective criteria and aimed at achieving legitimate public health outcomes. The current approach reflects this balance.
+5. **Commitment to continuous improvement:** We acknowledge that male victims of family violence face unique barriers to disclosure and support. Health NZ is committed to improving data collection, training, and service responsiveness to ensure male victims are not overlooked. We will continue to review the Guidelines and VIP evaluation frameworks to ensure they reflect evolving evidence and uphold the rights of all individuals.
+
+Your feedback will be considered as part of the ongoing programme development and evaluation.
+
+Thank you for taking the time to write, and for your advocacy to ensure that all victims of family violence receive the support they need. I hope this information is useful, and I wish you well.
+
+Nāku noa, nā
+
+Deborah Woodley
+Director, Starting Well
+Planning, Funding & Outcomes
+
 
 [^1]: Fanslow J L, Kelly P, Ministry of Health. 2016. *[Family Violence Assessment and Intervention Guideline: Child abuse and intimate partner violence (2nd edn)](https://www.tewhatuora.govt.nz/assets/Our-health-system/Preventative-Health/Family-Violence/family-violence-assessment-intervention-guideline-jun16_0-1.pdf)*
 
