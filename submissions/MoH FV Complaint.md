@@ -1,5 +1,5 @@
 ---
-title: Minsitry of Health Family Violence Complaint
+title: Ministry of Health Family Violence Complaint
 description: A complaint about discrimination against men in the Ministry of Health's approach to family violence.
 date: 2025-08-20
 ---
