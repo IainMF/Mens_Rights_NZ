@@ -28,7 +28,16 @@ Police discriminate against men when considering whether to use force. They are 
 > It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^3] 
 > *Emphasis added*
 
+#### Table 1 TASER tactics by gender.
+| Gender  | Tactical Options Reports event |         | TASER Tactics |         | Taser Discharge |         |   | percent of TOR events resulting in discharge |
+|---------|--------------------------------|---------|---------------|---------|-----------------|---------|---|--------------------------------------------|
+|         | Number                         | Percent | Number        | Percent | Number          | Percent |   |                                            |
+| Male    | 2330                           | 85.7%   | 728           | 92.6%   | 122             | 90.4%   |   | 5.2%                                       |
+| Female  | 476                            | 17.5%   | 66            | 8.3%    | 13              | 9.6%    |   | 2.7%                                       |
+| Unknown | 6                              | 0.2%    | 1             | 0.1%    |                 |         |   |                                            |
+| Total   | 2719                           | *       | 786           | 100%    | 135             | 100%    |   |                                            |
 
+**There is no total percentage for TOR Events due to, in some instances, there being more than one person involved in a single event.*
 
 ### Prosecutions
 Brown[^5] studied Police administrative data to investigate factors that may influence the likelihood of prosecution. He includes data from official statistics and previous studies.
