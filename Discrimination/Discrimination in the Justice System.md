@@ -28,6 +28,10 @@ Police discriminate against men when considering whether to use force. A review 
 > It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^3] 
 > *Emphasis added*
 
+Police policy forbids use of TASER for compliance:
+> Caution: Under no circumstances must the device be applied (i.e. contact stun and/or discharge) to an uncooperative but otherwise non-aggressive person to
+induce compliance.[^14]
+
 ### Table 1 TASER tactics by gender.
 | Gender  | Tactical Options Reports event |         | TASER Tactics |         | Taser Discharge |         |   | percent of TOR events resulting in discharge |
 |---------|--------------------------------|---------|---------------|---------|-----------------|---------|---|--------------------------------------------|
@@ -38,6 +42,14 @@ Police discriminate against men when considering whether to use force. A review 
 | Total   | 2719                           | *       | 786           | 100%    | 135             | 100%    |   |                                            |
 
 **There is no total percentage for TOR Events due to, in some instances, there being more than one person involved in a single event.*
+
+Additionally, men were more likely to be TASERed in sensitive areas.
+
+> Generally, females were TASERed in the upper 
+body (chest/abdomen), the lowest point of the 
+body indicated was lower back (two cases). 
+There were examples of men being TASERed in 
+the groin, face, buttocks, and legs.
 
 ## Prosecutions
 Brown[^5] studied Police administrative data to investigate factors that may influence the likelihood of prosecution. He includes data from official statistics and previous studies.
@@ -109,4 +121,7 @@ HRC CEDAW Report recommends sending fewer women to prison
 [^12]:  [Examination of Aotearoa New Zealand’s 7th Periodic Report under the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment](https://tikatangata.org.nz/cms/assets/CAT-submission-Te-Kahui-Tika-Tangata-Human-Rights-Commission.docx) - Human Rights Commission– 12 June 2023
 
 [^13]: R V AM CA27/2009
+
+[^14]: [Police TASER Policy](https://policepolicy.nz/policies/use-of-force-taser-electronic-control-devices/u-dcstd/TASER.pdf)
+
 
