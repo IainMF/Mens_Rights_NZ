@@ -121,31 +121,23 @@ is based on the World Health Organisation violence against women methodology so 
 
 is the government's annual survey of crime victimisation. Using 'crime' in the title of the survey has the potential to cause under-reporting because it sets respondents expectations for the kinds of incidents the survey expects. See Table [7](#table:NZCVS cycle 5){reference-type="ref" reference="table:NZCVS cycle 5"}, Table [8](#tab:NZCVS cycle 6){reference-type="ref" reference="tab:NZCVS cycle 6"}, and Table [9](#tab:NZCVS cycle 7){reference-type="ref" reference="tab:NZCVS cycle 7"}.
 
-::: {#table:NZCVS cycle 5}
-                                 Female      Male
-  --------------------------- ------------ --------
-    **In previous 12 months**              
-               Sexual Assault  **2.96%**    0.89%
-            By family members  **3.02%**    1.00%
-             Partner violence  **2.03%**    0.53%
-              By other family  **1.09%**    0.50%
-                 **Lifetime**              
-               Sexual assault  **36.25%**   12.54%
-             Partner violence  **23.61%**   10.00%
+| _NZCVS cycle 5:_ In previous 12 months | Female         | Male   |
+|----------------------------------------|----------------|--------|
+|  Sexual Assault                        | **2.96%**      | 0.89%  |
+| By family members                      | **3.02%**      | 1.00%  |
+| Partner violence                       |  **2.03%**     | 0.53%  |
+| By other family                        | **1.09%**      | 0.50%  |
+| **Lifetime**                           |                |        |
+| Sexual assault                         | **36.25%**     | 12.54% |
+| Partner violence                       | **23.61%**     | 10.00% |
+New Zealand Crime and Victims Survey Cycle 5 -- prevalence rate, pooled data
 
-  : New Zealand Crime and Victims Survey Cycle 5 -- prevalence rate, pooled data
-:::
-
-::: {#tab:NZCVS cycle 6}
-                                Female     Male
-  --------------------------- ----------- ------
-    **In previous 12 months**             
-               Sexual assault  **2.9%**    0.9%
-            By family members  **2.9%**    1.0%
-        All personal offences  **16.1%**   15%
-
-  : New Zealand Crime and Victims Survey Cycle 6 -- prevalence rate, pooled data
-:::
+| _NZCVS cycle 6:_ In   previous 12 months | Female       | Male  |
+|------------------------------------------|--------------|-------|
+| Sexual assault                           | **2.9%**     | 0.90% |
+| By family members                        | **2.9%**     | 1.00% |
+| All personal offences                    | **16.1%**    | 15%   |
+New Zealand Crime and Victims Survey Cycle 6 -- prevalence rate, pooled data
 
 ::: {#tab:NZCVS cycle 7}
                                 Female    Male
