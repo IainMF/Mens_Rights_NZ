@@ -73,7 +73,7 @@ Women who enter the justice system are filtered out at every natural attrition p
 
 Jeffries found discrimination against men in several areas of the justice system:
 
-> In all but one case (the initial decision to imprison) sex was found to have a direct impact on the judicial outcomes investigated including: length of imprisonment term, remand status, length of custodial remand and bail conditions. With other factors statistically controlled, women’s imprisonment terms were found to be substantially shorter than men’s..[^11]
+> In all but one case (the initial decision to imprison) sex was found to have a direct impact on the judicial outcomes investigated including: length of imprisonment term, remand status, length of custodial remand and bail conditions. With other factors statistically controlled, women’s imprisonment terms were found to be substantially shorter than men’s.[^11]
 
 Patterson found similar discrimination against men for sexual assault cases.
 
