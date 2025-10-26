@@ -23,41 +23,37 @@ Men have the right to be protected from excessive force from the Police, however
 
 Police discriminate against men when considering whether to use force. A review of Police TASER use found that officers are more likely to use force against men than women:
 
-> Women are significantly less likely to be TASERed despite demonstrating more assaultive behaviour in TASER video footage. Men were more likely to be TASERed for what appeared to be compliance, or for ‘passive resistant behaviour’. Video observations indicate far less assaultive behaviour than women. Officers consider the gender of the individual, particularly before discharging a TASER.[^4]
+> Women are significantly less likely to be TASERed despite demonstrating more assaultive behaviour in TASER video footage. Men were more likely to be TASERed for what appeared to be compliance, or for ‘passive resistant behaviour’. Video observations indicate far less assaultive behaviour than women. Officers consider the gender of the individual, particularly before discharging a TASER.[^3]
 
-> It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^3] 
+> It was observed that the level of threat and physical assault was very high in the videos where females are TASERed. There was no evidence of the TASER being used to gain compliance or control over a situation, generally the level of threat to officers included either possession of a weapon and/or a physical assault. **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^4] 
 > *Emphasis added*
 
 Police policy forbids use of TASER for compliance:
 > Caution: Under no circumstances must the device be applied (i.e. contact stun and/or discharge) to an uncooperative but otherwise non-aggressive person to
-induce compliance.[^14]
+induce compliance.[^5]
 
 ### Table 1 TASER tactics by gender.
-| Gender  | Tactical Options Reports event |         | TASER Tactics |         | Taser Discharge |         |   | percent of TOR events resulting in discharge |
-|---------|--------------------------------|---------|---------------|---------|-----------------|---------|---|--------------------------------------------|
-|         | Number                         | Percent | Number        | Percent | Number          | Percent |   |                                            |
-| Male    | 2330                           | 85.7%   | 728           | 92.6%   | 122             | 90.4%   |   | 5.2%                                       |
-| Female  | 476                            | 17.5%   | 66            | 8.3%    | 13              | 9.6%    |   | 2.7%                                       |
-| Unknown | 6                              | 0.2%    | 1             | 0.1%    |                 |         |   |                                            |
-| Total   | 2719                           | *       | 786           | 100%    | 135             | 100%    |   |                                            |
+| Gender  | Tactical Options Reports events |         | TASER Tactics |         | Taser Discharge |         | percent of TOR events resulting in discharge |
+| ------- | ------------------------------- | ------- | ------------- | ------- | --------------- | ------- | -------------------------------------------- |
+|         | Number                          | Percent | Number        | Percent | Number          | Percent |                                              |
+| Male    | 2330                            | 85.7%   | 728           | 92.6%   | 122             | 90.4%   | 5.2%                                         |
+| Female  | 476                             | 17.5%   | 66            | 8.3%    | 13              | 9.6%    | 2.7%                                         |
+| Unknown | 6                               | 0.2%    | 1             | 0.1%    |                 |         |                                              |
+| Total   | 2719                            | *       | 786           | 100%    | 135             | 100%    |                                              |
 
-**There is no total percentage for TOR Events due to, in some instances, there being more than one person involved in a single event.*
+*\*There is no total percentage for TOR Events due to, in some instances, there being more than one person involved in a single event.*
 
 Additionally, men were more likely to be TASERed in sensitive areas.
 
-> Generally, females were TASERed in the upper 
-body (chest/abdomen), the lowest point of the 
-body indicated was lower back (two cases). 
-There were examples of men being TASERed in 
+> Generally, females were TASERed in the upper body (chest/abdomen), the lowest point of the 
+body indicated was lower back (two cases). There were examples of men being TASERed in 
 the groin, face, buttocks, and legs.
 
-> Caution: The head, face, neck, chest and groin area
-should not be deliberately targeted unless the
-appropriate level of force can be justified. See target
-areas in blue in diagram below.[^15]
+> Caution: The head, face, neck, chest and groin area should not be deliberately targeted unless the
+appropriate level of force can be justified. See target areas in blue in diagram below.[^6]
 
 ## Prosecutions
-Brown[^5] studied Police administrative data to investigate factors that may influence the likelihood of prosecution. He includes data from official statistics and previous studies.
+Brown[^7] studied Police administrative data to investigate factors that may influence the likelihood of prosecution. He includes data from official statistics and previous studies.
 
 Brown reports that official statistics show "Males made up over 76% of proceedings and were prosecuted at a higher rate than females, 72.5% vs 65% respectively."
 
@@ -71,27 +67,27 @@ Brown's research did not find a significant difference between males and females
 
 ## Sentencing and prison
 
-Men are over-represented in prison compared to women. In June 2025, 92.4% of prisoners were male and 7.6% were female.[^6]
+Men are over-represented in prison compared to women. In June 2025, 92.4% of prisoners were male and 7.6% were female.[^8]
 
-Women who enter the justice system are filtered out at every natural attrition point more than men. Men are more likely to be prosecuted rather than given an alternative like being warned or discharged without conviction. Men are more likely to be sent to prison once convicted. Men receive longer sentences on average and are less likely to be released on parole.[^7] This bias against men is consistent with international research.[^8]
+Women who enter the justice system are filtered out at every natural attrition point more than men. Men are more likely to be prosecuted rather than given an alternative like being warned or discharged without conviction. Men are more likely to be sent to prison once convicted. Men receive longer sentences on average and are less likely to be released on parole.[^9] This bias against men is consistent with international research.[^10]
 
 Jeffries found discrimination against men in several areas of the justice system:
 
-> In all but one case (the initial decision to imprison) sex was found to have a direct impact on the judicial outcomes investigated including: length of imprisonment term, remand status, length of custodial remand and bail conditions. With other factors statistically controlled, women’s imprisonment terms were found to be substantially shorter than men’s..[^9]
+> In all but one case (the initial decision to imprison) sex was found to have a direct impact on the judicial outcomes investigated including: length of imprisonment term, remand status, length of custodial remand and bail conditions. With other factors statistically controlled, women’s imprisonment terms were found to be substantially shorter than men’s..[^11]
 
 Patterson found similar discrimination against men for sexual assault cases.
 
-> In terms of police decision-making processes, compared to males, a smaller proportion of females proceeded to “court action” for their offences. Furthermore, the severity of sentences handed down to males was greater than those handed down to females, both generally and when the sexual offence could be directly matched.[^10]
+> In terms of police decision-making processes, compared to males, a smaller proportion of females proceeded to “court action” for their offences. Furthermore, the severity of sentences handed down to males was greater than those handed down to females, both generally and when the sexual offence could be directly matched.[^12]
 
-Discrimination against men in the justice system is a long-term systemic problem. For example, Bindler[^11] found a persistent sentencing gap disadvantaging men when reviewing 200 years of cases from the Old Bailey, London. 
+Discrimination against men in the justice system is a long-term systemic problem. For example, Bindler[^13] found a persistent sentencing gap disadvantaging men when reviewing 200 years of cases from the Old Bailey, London. 
 
-Although men face significant discrimination and are significantly over-represented in the justice system, the Department of Corrections “has made efforts to limit the number of women coming to prison, and data shows that these efforts have been successful”[^12] 
+Although men face significant discrimination and are significantly over-represented in the justice system, the Department of Corrections “has made efforts to limit the number of women coming to prison, and data shows that these efforts have been successful”[^14] 
 
 ## Sentencing Guidelines for sexual offences
 
 Men who are victims of sexual assault by a woman do not receive the same level of justice as women assaulted by men.
 
-New Zealand’s rape and sexual assault law and subsequent sentencing guidelines treat women who have non-consensual sex with men more leniently than men who have non-consensual with women. Sentencing guidelines released by the Court of Appeal make a clear distinction between rape by penetration and other forms of sexual assault.[^13] This creates a significant difference between men and women. For example, a man having sex with a women without her consent, with no aggravating factors, is recommended a 6-8 years sentence, in the reverse situation the women is recommended a 2-5 year sentence.
+New Zealand’s rape and sexual assault law and subsequent sentencing guidelines treat women who have non-consensual sex with men more leniently than men who have non-consensual with women. Sentencing guidelines released by the Court of Appeal make a clear distinction between rape by penetration and other forms of sexual assault.[^15] This creates a significant difference between men and women. For example, a man having sex with a women without her consent, with no aggravating factors, is recommended a 6-8 years sentence, in the reverse situation the women is recommended a 2-5 year sentence.
 
 ## Women
 https://www.stuff.co.nz/the-press/news/96230482/fewer-women-to-be-jailed-under-new-government-strategy-to-curb-growth-in-crime
@@ -105,30 +101,29 @@ HRC CEDAW Report recommends sending fewer women to prison
 
 [^2]: ICCPR General Comment 35, paragraph 9
 
-[^3]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 30.
+[^3]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 45.
 
-[^4]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 45.
+[^4]: Leonard, C., Sanaei, N., Goldsmith, L., Hynds, A., Sidley, M., Arahanga, H., & Leonard, J. (2024) *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. - page 30.
 
-[^5]: Brown Paul. (2024) The Assessment of Factors Influencing Police Prosecution Decision-Making
+[^5]: [Police TASER Policy](https://policepolicy.nz/policies/use-of-force-taser-electronic-control-devices/u-dcstd/TASER.pdf)
 
-[^6]: Department of Corrections - [Prison facts and statistics - June 2025](https://www.corrections.govt.nz/resources/statistics/quarterly_prison_statistics/prison_facts_and_statistics_-_june_2025) 
+[^6]: [Police TASER Policy](https://policepolicy.nz/policies/use-of-force-taser-electronic-control-devices/u-dcstd/TASER.pdf)
 
-[^7]:  Criminal Justice in New Zealand - Julia Tolmie, Warren Brookbanks, 2007 p 302 - ISBN 0408718846, 9780408718844
+[^7]: Brown Paul. (2024) The Assessment of Factors Influencing Police Prosecution Decision-Making
 
-[^8]:  [The Effects of Suspect Characteristics on Arrest: A Meta-Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0047235214000890), Daniel J. Lytle, Journal of Criminal Justice, Volume 42, Issue 6, 2014,
+[^8]: Department of Corrections - [Prison facts and statistics - June 2025](https://www.corrections.govt.nz/resources/statistics/quarterly_prison_statistics/prison_facts_and_statistics_-_june_2025) 
 
-[^9]:  [Does Gender Really Matter?](https://bit.ly/2sVqrw2) Criminal Court Decision Making in New Zealand. Samantha Jeffries - New Zealand Sociology Volume 17 Number 1 2002
+[^9]:  Criminal Justice in New Zealand - Julia Tolmie, Warren Brookbanks, 2007 p 302 - ISBN 0408718846, 9780408718844
 
-[^10]: [Disparities in police proceedings and court sentencing for females versus males who commit sexual offences in New Zealand](https://www.tandfonline.com/action/showCitFormats?doi=10.1080%2F13552600.2019.1581281) – Patterson, Hobbs, McKillop & Burton (2019), Journal of Sexual Aggression, 25:2
+[^10]:  [The Effects of Suspect Characteristics on Arrest: A Meta-Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0047235214000890), Daniel J. Lytle, Journal of Criminal Justice, Volume 42, Issue 6, 2014,
 
-[^11]: Bindler, A., & Hjalmarsson, R. (2020). The persistence of the criminal justice gender gap: Evidence from 200 years of judicial decisions. _The Journal of Law and Economics_, _63_(2), 297-339.
+[^11]:  [Does Gender Really Matter?](https://bit.ly/2sVqrw2) Criminal Court Decision Making in New Zealand. Samantha Jeffries - New Zealand Sociology Volume 17 Number 1 2002
 
-[^12]:  [Examination of Aotearoa New Zealand’s 7th Periodic Report under the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment](https://tikatangata.org.nz/cms/assets/CAT-submission-Te-Kahui-Tika-Tangata-Human-Rights-Commission.docx) - Human Rights Commission– 12 June 2023
+[^12]: [Disparities in police proceedings and court sentencing for females versus males who commit sexual offences in New Zealand](https://www.tandfonline.com/action/showCitFormats?doi=10.1080%2F13552600.2019.1581281) – Patterson, Hobbs, McKillop & Burton (2019), Journal of Sexual Aggression, 25:2
 
-[^13]: R V AM CA27/2009
+[^13]: Bindler, A., & Hjalmarsson, R. (2020). The persistence of the criminal justice gender gap: Evidence from 200 years of judicial decisions. _The Journal of Law and Economics_, _63_(2), 297-339.
 
-[^14]: [Police TASER Policy](https://policepolicy.nz/policies/use-of-force-taser-electronic-control-devices/u-dcstd/TASER.pdf)
+[^14]:  [Examination of Aotearoa New Zealand’s 7th Periodic Report under the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment](https://tikatangata.org.nz/cms/assets/CAT-submission-Te-Kahui-Tika-Tangata-Human-Rights-Commission.docx) - Human Rights Commission– 12 June 2023
 
-[^15]: [Police TASER Policy](https://policepolicy.nz/policies/use-of-force-taser-electronic-control-devices/u-dcstd/TASER.pdf)
-
+[^15]: R V AM CA27/2009
 
