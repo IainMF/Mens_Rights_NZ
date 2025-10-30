@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="160mm"
+   height="90mm"
+   viewBox="0 0 16000 9000"
+   version="1.1"
+   stroke-width="28.222"
+   stroke-linejoin="round"
+   xml:space="preserve"
+   id="svg125"
+   sodipodi:docname="Percent of non-fatal injuries.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs125"><pattern
+     inkscape:collect="always"
+     xlink:href="#pattern126"
+     preserveAspectRatio="xMidYMid"
+     id="pattern127"
+     patternTransform="matrix(19.485584,11.249977,-11.249977,19.485584,-1143.0315,137.22827)" /><pattern
+     inkscape:collect="always"
+     xlink:href="#Strips1_1.5"
+     preserveAspectRatio="xMidYMid"
+     id="pattern126"
+     patternTransform="matrix(19.485585,11.249977,-11.249977,19.485585,0,0)"
+     x="0"
+     y="0" /><pattern
+     inkscape:collect="always"
+     patternUnits="userSpaceOnUse"
+     width="2.5"
+     height="1"
+     patternTransform="translate(0,0) scale(2,2)"
+     preserveAspectRatio="xMidYMid"
+     id="Strips1_1.5"
+     style="fill:#000000"
+     inkscape:stockid="Stripes 02 (2:3)"
+     inkscape:isstock="true"
+     inkscape:label="Stripes 02 (2:3)">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="-0.5"
+   width="1"
+   height="2"
+   id="rect140" />
+    </pattern><pattern
+     inkscape:collect="always"
+     xlink:href="#Strips1_1.5-4"
+     preserveAspectRatio="xMidYMid"
+     id="pattern126-9"
+     patternTransform="matrix(19.485585,11.249977,-11.249977,19.485585,13598,2316)"
+     x="0"
+     y="0" /><pattern
+     inkscape:collect="always"
+     patternUnits="userSpaceOnUse"
+     width="2.5"
+     height="1"
+     patternTransform="translate(0,0) scale(2,2)"
+     preserveAspectRatio="xMidYMid"
+     id="Strips1_1.5-4"
+     style="fill:#000000"
+     inkscape:stockid="Stripes 02 (2:3)"
+     inkscape:isstock="true"
+     inkscape:label="Stripes 02 (2:3)">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="-0.5"
+   width="1"
+   height="2"
+   id="rect140-8" />
+    </pattern><pattern
+     inkscape:collect="always"
+     xlink:href="#Strips1_1.5-45"
+     preserveAspectRatio="xMidYMid"
+     id="pattern126-2"
+     patternTransform="matrix(19.485585,11.249977,-11.249977,19.485585,13598,2316)"
+     x="0"
+     y="0" /><pattern
+     inkscape:collect="always"
+     patternUnits="userSpaceOnUse"
+     width="2.5"
+     height="1"
+     patternTransform="translate(0,0) scale(2,2)"
+     preserveAspectRatio="xMidYMid"
+     id="Strips1_1.5-45"
+     style="fill:#000000"
+     inkscape:stockid="Stripes 02 (2:3)"
+     inkscape:isstock="true"
+     inkscape:label="Stripes 02 (2:3)">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="-0.5"
+   width="1"
+   height="2"
+   id="rect140-5" />
+    </pattern><pattern
+     inkscape:collect="always"
+     xlink:href="#Strips1_1.5-1"
+     preserveAspectRatio="xMidYMid"
+     id="pattern126-7"
+     patternTransform="matrix(19.485585,11.249977,-11.249977,19.485585,13598,2316)"
+     x="0"
+     y="0" /><pattern
+     inkscape:collect="always"
+     patternUnits="userSpaceOnUse"
+     width="2.5"
+     height="1"
+     patternTransform="translate(0,0) scale(2,2)"
+     preserveAspectRatio="xMidYMid"
+     id="Strips1_1.5-1"
+     style="fill:#000000"
+     inkscape:stockid="Stripes 02 (2:3)"
+     inkscape:isstock="true"
+     inkscape:label="Stripes 02 (2:3)">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="-0.5"
+   width="1"
+   height="2"
+   id="rect140-1" />
+    </pattern><pattern
+     inkscape:collect="always"
+     xlink:href="#Strips1_1.5-6"
+     preserveAspectRatio="xMidYMid"
+     id="pattern126-27"
+     patternTransform="matrix(19.485585,11.249977,-11.249977,19.485585,13598,2316)"
+     x="0"
+     y="0" /><pattern
+     inkscape:collect="always"
+     patternUnits="userSpaceOnUse"
+     width="2.5"
+     height="1"
+     patternTransform="translate(0,0) scale(2,2)"
+     preserveAspectRatio="xMidYMid"
+     id="Strips1_1.5-6"
+     style="fill:#000000"
+     inkscape:stockid="Stripes 02 (2:3)"
+     inkscape:isstock="true"
+     inkscape:label="Stripes 02 (2:3)">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="-0.5"
+   width="1"
+   height="2"
+   id="rect140-14" />
+    </pattern><pattern
+     inkscape:collect="always"
+     xlink:href="#Strips1_1.5-2"
+     preserveAspectRatio="xMidYMid"
+     id="pattern126-3"
+     patternTransform="matrix(19.485585,11.249977,-11.249977,19.485585,13598,2316)"
+     x="0"
+     y="0" /><pattern
+     inkscape:collect="always"
+     patternUnits="userSpaceOnUse"
+     width="2.5"
+     height="1"
+     patternTransform="translate(0,0) scale(2,2)"
+     preserveAspectRatio="xMidYMid"
+     id="Strips1_1.5-2"
+     style="fill:#000000"
+     inkscape:stockid="Stripes 02 (2:3)"
+     inkscape:isstock="true"
+     inkscape:label="Stripes 02 (2:3)">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="-0.5"
+   width="1"
+   height="2"
+   id="rect140-2" />
+    </pattern><pattern
+     inkscape:collect="always"
+     xlink:href="#Strips1_1.5-8"
+     preserveAspectRatio="xMidYMid"
+     id="pattern126-6"
+     patternTransform="matrix(19.485585,11.249977,-11.249977,19.485585,13598,2316)"
+     x="0"
+     y="0" /><pattern
+     inkscape:collect="always"
+     patternUnits="userSpaceOnUse"
+     width="2.5"
+     height="1"
+     patternTransform="translate(0,0) scale(2,2)"
+     preserveAspectRatio="xMidYMid"
+     id="Strips1_1.5-8"
+     style="fill:#000000"
+     inkscape:stockid="Stripes 02 (2:3)"
+     inkscape:isstock="true"
+     inkscape:label="Stripes 02 (2:3)">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="-0.5"
+   width="1"
+   height="2"
+   id="rect140-57" />
+    </pattern></defs><sodipodi:namedview
+   id="namedview125"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   inkscape:zoom="1.5424421"
+   inkscape:cx="252.19747"
+   inkscape:cy="200.33166"
+   inkscape:window-width="1920"
+   inkscape:window-height="1004"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg125" />
+ 
+ <path
+   fill="rgb(255,66,14)"
+   stroke="none"
+   d="M 13598,2756 L 13598,2316 15263,2316 15263,2756 13598,2756 Z "
+   id="path63"
+   style="fill:url(#pattern126);fill-opacity:1" /><path
+   fill="rgb(255,66,14)"
+   stroke="none"
+   d="M 12981,3636 L 12981,3196 15263,3196 15263,3636 12981,3636 Z "
+   id="path62"
+   style="fill:url(#pattern126);fill-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /><path
+   fill="rgb(255,66,14)"
+   stroke="none"
+   d="M 11176,4515 L 11176,4076 15263,4076 15263,4515 11176,4515 Z "
+   id="path61"
+   style="fill:url(#pattern126);fill-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /><path
+   fill="rgb(255,66,14)"
+   stroke="none"
+   d="M 10010,5395 L 10010,4955 15263,4955 15263,5395 10010,5395 Z "
+   id="path60"
+   style="fill:url(#pattern126);fill-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /><path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 9428,2097 L 9428,7375 "
+   id="path8"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:10.00000011;stroke-dasharray:none" /><path
+   fill="rgb(255,66,14)"
+   stroke="none"
+   d="M 8226,6275 L 8226,5835 15263,5835 15263,6275 8226,6275 Z "
+   id="path128"
+   style="fill:#ffffff;fill-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /><path
+   fill="rgb(255,66,14)"
+   stroke="none"
+   d="M 8226,6275 L 8226,5835 15263,5835 15263,6275 8226,6275 Z "
+   id="path59"
+   style="fill:url(#pattern126);fill-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /><path
+   fill="rgb(255,66,14)"
+   stroke="none"
+   d="M 13528,7155 L 13528,6715 15263,6715 15263,7155 13528,7155 Z "
+   id="path58"
+   style="fill:url(#pattern126);fill-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /><path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 9429,7376 L 3595,7376 3595,2098 15263,2098 15263,7376 9429,7376 Z "
+   id="path2"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 3595,7525 L 3595,7375 "
+   id="path29"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 4761,7525 L 4761,7375 "
+   id="path31"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 5928,7525 L 5928,7375 "
+   id="path33"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 7095,7525 L 7095,7375 "
+   id="path35"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 8261,7525 L 8261,7375 "
+   id="path37"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 9428,7525 L 9428,7375 "
+   id="path39"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 10595,7525 L 10595,7375 "
+   id="path41"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 11762,7525 L 11762,7375 "
+   id="path43"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 12929,7525 L 12929,7375 "
+   id="path45"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 14096,7525 L 14096,7375 "
+   id="path47"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 15263,7525 L 15263,7375 "
+   id="path49"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ 
+ 
+ <path
+   fill="rgb(0,69,134)"
+   stroke="none"
+   d="M 3595,7155 L 3595,6715 13528,6715 13528,7155 3595,7155 Z "
+   id="path52"
+   style="fill:#000000;fill-opacity:1" />
+ <path
+   fill="rgb(0,69,134)"
+   stroke="none"
+   d="M 3595,6275 L 3595,5835 8226,5835 8226,6275 3595,6275 Z "
+   id="path53"
+   style="fill:#000000;fill-opacity:1" />
+ <path
+   fill="rgb(0,69,134)"
+   stroke="none"
+   d="M 3595,5395 L 3595,4955 10010,4955 10010,5395 3595,5395 Z "
+   id="path54"
+   style="fill:#000000;fill-opacity:1" />
+ <path
+   fill="rgb(0,69,134)"
+   stroke="none"
+   d="M 3595,4515 L 3595,4076 11176,4076 11176,4515 3595,4515 Z "
+   id="path55"
+   style="fill:#000000;fill-opacity:1" />
+ <path
+   fill="rgb(0,69,134)"
+   stroke="none"
+   d="M 3595,3636 L 3595,3196 12981,3196 12981,3636 3595,3636 Z "
+   id="path56"
+   style="fill:#000000;fill-opacity:1" />
+ <path
+   fill="rgb(0,69,134)"
+   stroke="none"
+   d="M 3595,2756 L 3595,2316 13598,2316 13598,2756 3595,2756 Z "
+   id="path57"
+   style="fill:#000000;fill-opacity:1" />
+ 
+ 
+ 
+ 
+ 
+ 
+ <text
+   class="SVGTextShape"
+   id="text65"
+   x="68.614136"><tspan
+     class="TextParagraph"
+     id="tspan65"><tspan
+       class="TextPosition"
+       x="2687.614"
+       y="7056"
+       id="tspan64"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan63">Total</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text68"
+   x="68.614136"><tspan
+     class="TextParagraph"
+     id="tspan68"><tspan
+       class="TextPosition"
+       x="2744.614"
+       y="6176"
+       id="tspan67"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan66">Falls</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text71"
+   x="68.614136"><tspan
+     class="TextParagraph"
+     id="tspan71"><tspan
+       class="TextPosition"
+       x="2066.614"
+       y="5296"
+       id="tspan70"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan69">Self harm</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text74"
+   x="68.614136"><tspan
+     class="TextParagraph"
+     id="tspan74"><tspan
+       class="TextPosition"
+       x="376.61414"
+       y="4417"
+       id="tspan73"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan72">Motor vehicle crashes</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text77"
+   x="68.614136"><tspan
+     class="TextParagraph"
+     id="tspan77"><tspan
+       class="TextPosition"
+       x="2381.614"
+       y="3537"
+       id="tspan76"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan75">Assault</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text80"
+   x="68.614136"><tspan
+     class="TextParagraph"
+     id="tspan80"><tspan
+       class="TextPosition"
+       x="491.61414"
+       y="2657"
+       id="tspan79"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan78">Work related injuries</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text83"><tspan
+     class="TextParagraph"
+     id="tspan83"><tspan
+       class="TextPosition"
+       x="3367"
+       y="7943"
+       id="tspan82"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="458"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan81">0%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text86"><tspan
+     class="TextParagraph"
+     id="tspan86"><tspan
+       class="TextPosition"
+       x="4447"
+       y="7943"
+       id="tspan85"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="630"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan84">10%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text89"><tspan
+     class="TextParagraph"
+     id="tspan89"><tspan
+       class="TextPosition"
+       x="5614"
+       y="7943"
+       id="tspan88"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="630"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan87">20%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text92"><tspan
+     class="TextParagraph"
+     id="tspan92"><tspan
+       class="TextPosition"
+       x="6781"
+       y="7943"
+       id="tspan91"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="630"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan90">30%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text95"><tspan
+     class="TextParagraph"
+     id="tspan95"><tspan
+       class="TextPosition"
+       x="7948"
+       y="7943"
+       id="tspan94"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="630"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan93">40%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text98"><tspan
+     class="TextParagraph"
+     id="tspan98"><tspan
+       class="TextPosition"
+       x="9114"
+       y="7943"
+       id="tspan97"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="630"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan96">50%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text101"><tspan
+     class="TextParagraph"
+     id="tspan101"><tspan
+       class="TextPosition"
+       x="10281"
+       y="7943"
+       id="tspan100"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="630"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan99">60%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text104"><tspan
+     class="TextParagraph"
+     id="tspan104"><tspan
+       class="TextPosition"
+       x="11448"
+       y="7943"
+       id="tspan103"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="630"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan102">70%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text107"><tspan
+     class="TextParagraph"
+     id="tspan107"><tspan
+       class="TextPosition"
+       x="12615"
+       y="7943"
+       id="tspan106"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="630"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan105">80%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text110"><tspan
+     class="TextParagraph"
+     id="tspan110"><tspan
+       class="TextPosition"
+       x="13782"
+       y="7943"
+       id="tspan109"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="630"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan108">90%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text113"><tspan
+     class="TextParagraph"
+     id="tspan113"><tspan
+       class="TextPosition"
+       x="14863"
+       y="7943"
+       id="tspan112"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="802"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan111">100%</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text116"
+   x="1355.3738"><tspan
+     class="TextParagraph"
+     id="tspan116"><tspan
+       class="TextPosition"
+       x="5027.374"
+       y="839"
+       id="tspan115"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="459px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan114">Percent of serious non-fatal injurires 2000-2023</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text119"
+   x="1514.5712"><tspan
+     class="TextParagraph"
+     id="tspan119"><tspan
+       class="TextPosition"
+       x="6201.5713"
+       y="1724"
+       id="tspan118"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="388px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan117">Source: Stats NZ Aotearoa Data Explorer</tspan></tspan></tspan></text>
+ 
+ 
+ 
+ 
+<g
+   id="g128"
+   transform="translate(1143.0316,-137.22827)"><path
+     fill="rgb(255,66,14)"
+     stroke="none"
+     d="M 8844.2152,8857.7112 H 8672.8198 V 8513.288 h 342.7908 v 344.4232 z"
+     id="path120"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#pattern127);fill-opacity:1;stroke:none;stroke-width:28.222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /><text
+     class="SVGTextShape"
+     id="text122"
+     style="fill:#000000;fill-opacity:1"><tspan
+       class="TextParagraph"
+       id="tspan122"
+       style="fill:#000000;fill-opacity:1"><tspan
+         class="TextPosition"
+         x="7067"
+         y="8805"
+         id="tspan121"
+         style="fill:#000000;fill-opacity:1"><tspan
+           font-family="'Liberation Serif', serif"
+           font-size="353px"
+           font-weight="400"
+           lengthAdjust="spacingAndGlyphs"
+           fill="rgb(0,0,0)"
+           stroke="none"
+           style="white-space:pre;fill:#000000;fill-opacity:1"
+           id="tspan120">male</tspan></tspan></tspan></text><text
+     class="SVGTextShape"
+     id="text125"
+     style="fill:#000000;fill-opacity:1"
+     x="861.18597"><tspan
+       class="TextParagraph"
+       id="tspan125"
+       style="fill:#000000;fill-opacity:1"><tspan
+         class="TextPosition"
+         x="9140.1855"
+         y="8805"
+         id="tspan124"
+         style="fill:#000000;fill-opacity:1"><tspan
+           font-family="'Liberation Serif', serif"
+           font-size="353px"
+           font-weight="400"
+           lengthAdjust="spacingAndGlyphs"
+           fill="rgb(0,0,0)"
+           stroke="none"
+           style="white-space:pre;fill:#000000;fill-opacity:1"
+           id="tspan123">female</tspan></tspan></tspan></text><path
+     fill="rgb(255,66,14)"
+     stroke="none"
+     d="M 6721.5737,8857.7112 H 6550.1783 V 8513.288 h 342.7908 v 344.4232 z"
+     id="path127"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:28.222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /></g></svg>

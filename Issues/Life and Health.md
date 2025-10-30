@@ -2,8 +2,8 @@ More men than women die in each age group, until age 80.[^1]
 
 ![[male deaths for each female death.svg]]
 ![[Mortality rates 1948-2022.svg]]
-
-
+![[Percent of fatal injuries.svg]]
+![[Percent of non-fatal injuries.svg]]
 See also: 
 - [[Suicide]]
 - https://injuryprevention.bmj.com/content/27/2/124
