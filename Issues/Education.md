@@ -61,6 +61,82 @@ Women with degrees outnumber men with degrees. The gap between women and men is 
 Among 15-29 year olds, there are more men than women with no qualification, and more women than men with a degree.
 ![[Highest Qualification-crop.svg]]
 
+## Globally
+https://np.reddit.com/r/LeftWingMaleAdvocates/comments/1fww4tp/more_boys_are_now_out_of_school_globally_than/
+
+Accessed 13 Jan 2025
+
+Report: [What you need to know about UNESCO’s global report on boys’ disengagement from education | UNESCO](https://www.unesco.org/en/articles/what-you-need-know-about-unescos-global-report-boys-disengagement-education)
+
+https://archive.ph/gHSu2
+
+# Key facts and figures
+
+> global estimates indicate that 259 million children and youth were out of school in 2020, 132 million of them boys  
+> [...]
+> 
+> Boys are more likely than girls to repeat primary grades in 130 of 142 countries with data, indicating poorer progression through school.  
+> [...]
+> 
+> several low and middle-income countries have seen a reversal in gender gaps, with boys now lagging behind girls in enrolment and completion.
+
+# The trend
+
+Where girls were disadvantaged, things are getting more equal. Where boys were disadvantaged, things are getting worse:
+
+> Since 2000, the proportion of countries with data showing gender disparities at girls’ expense in lower secondary enrolment, for example, has reduced from 34 percent to 24 percent of countries. The share of countries where fewer boys are enrolled than girls, on the other hand, has increased marginally at primary level and remains unchanged at lower secondary level, at just 22 percent of countries
+
+# Government response
+
+> Despite clear gendered patterns in education in some countries, programmes and initiatives addressing boys’ disengagement from and disadvantage in education remain few. System-level policies to address boys’ constraints are even more rare.
+> 
+> [...]
+> 
+> A few programmes and initiatives aimed principally at girls as a response to the COVID-19 pandemic have benefited boys.
+
+# Bonus: Tertiary education
+
+In high-income countries, women significantly outperform men in higher education. This trend is now visible globally:
+
+> At the global level, almost no country with data has achieved gender parity at the tertiary level. The gender parity index (adjusted) data in 2019 for tertiary enrolment showed 88 young men for every 100 young women. In all regions except sub-Saharan Africa, young men are disadvantaged in tertiary enrolment. This disadvantage is particularly acute in the North America and Western Europe and the Latin America and the Caribbean regions, where 81 young men for every 100 young women are enrolled at tertiary education.
+
+# Bonus: Reading vs math
+
+Girls are better at reading; boys are better at math. Make your own conclusion.
+
+> Gaps in **reading** skills are found to start early. In 23 of 25 countries with data for proficiency in reading at Grade 2/3, the proportion of girls achieving minimum proficiency in reading is higher than the share of boys.  
+> [...]
+> 
+> In **mathematics** the gender gap that once worked against girls at the start of the millennium has narrowed or equalized with boys in half of all countries with data.
+
+# Bonus: Corporal punishment
+
+> Disciplinary practices meted out by teachers are often highly gendered and include corporal punishment and harsh physical labour, especially for boys.
+> 
+> All countries surveyed, apart from Nigeria, reported higher percentages of boys experiencing physical violence from a male teacher (Together for Girls, 2021). Yet [...] a study in Delhi, India found that female teachers were more likely than male teachers to physically punish male students, as a means to assure male students’ respect and reinforce their authority (Ginestra, 2020).
+
+# Bonus: Child labor
+
+From 56% to 61% of children engaged in child labor are boys:
+
+> In 2020, the International Labour Organization (ILO) estimated that 160 million children – or 1 in 10 children worldwide – were engaged in child labour, of which 97 million were estimated to be boys.
+> 
+> [...]
+> 
+> While a higher proportion of boys (11 percent) than girls (8 percent) are engaged in child labour (Figure 16), once the child labour definition expands to include 21 hours or more on household chores, the gender gap between boys and girls is reduced by half (ILO, 2021).
+
+# Bonus: "Rationale"
+
+UNESCO offers this rationale for why boys' education is important:
+
+> Globally, improving educational opportunities for girls continues to be of paramount importance  
+> [...]
+> 
+> Better-educated men are more likely to help in the household and take on care responsibilities  
+> [...]
+> 
+> boys who have a secondary education are more likely to condemn gender-based violence
+
 
 [^1]: A/HRC/26/3 – paragraph 128.72 and 128.75
 
