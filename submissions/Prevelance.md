@@ -125,7 +125,7 @@ New Zealand Family Violence Study
 | Physical Violence               | **8.2**       | 2.2       |
 | Sexual Violence                 |               |           |
 | **Intimate partner violence**   |               |           |
-| Any Physical Violence           | 25.32         | **29.4**  |
+| Any Physical Violence           | 28            | **29.4**  |
 | Moderate Physical Violence      | 26.9          |  **28.2** |
 | Severe Physical Violence        | 7.6           | **9.4**   |
 | Sexual Violence                 | **12.4**      | 2.1       |
