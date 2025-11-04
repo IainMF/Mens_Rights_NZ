@@ -1407,19 +1407,19 @@ The Commission should be accountable to rights-holders. If the process of develo
 
 # Accountability 
 
-The Commission has "two levels of accountability, one to the State and one to the public".^[National Human Rights Institutions : History, principles, roles and responsibilities] Part of the Commission's accountability to the public is the responsibility to men and boys. The Commission's board must "put in place principles and policies that\... ensure the Commission is transparent, effective and *accountable to stakeholders*, including the Minister and the public.^[Human Rights Commission Governance \& Responsibilities Manual]
+The Commission has "two levels of accountability, one to the State and one to the public".\[54] Part of the Commission's accountability to the public is the responsibility to men and boys. The Commission's board must "put in place principles and policies that\... ensure the Commission is transparent, effective and *accountable to stakeholders*, including the Minister and the public.\[19]
 
-\"Accountability is about ensuring laws, policies, strategies, plans, and promises are respected. It does not need to be about blame and punishment. Accountability can be about identifying what works so it can be repeated, and what doesn't work so it can be adjusted and remedial action taken. In the human rights field, this is called 'constructive accountability'.\"^[Housing Inquiry First Report: Strengthening Accountability and Participation in the Housing System]
+\"Accountability is about ensuring laws, policies, strategies, plans, and promises are respected. It does not need to be about blame and punishment. Accountability can be about identifying what works so it can be repeated, and what doesn't work so it can be adjusted and remedial action taken. In the human rights field, this is called 'constructive accountability'.\"\[17]
 
 The *Governance and Responsibility Manual* describes the Commissioners' requirement to the letter and spirit of the law:
 
-> Commissioners should comply with the spirit as well as the letter of the law, mindful that in addition to purely legal requirements, the proper discharge of these duties requires high ethical and moral standards of behavior.^[Human Rights Commission Governance \& Responsibilities Manual]
+> Commissioners should comply with the spirit as well as the letter of the law, mindful that in addition to purely legal requirements, the proper discharge of these duties requires high ethical and moral standards of behavior.^\[19]
 
 *A Manual on National Human Rights Institutions* explains the moral and ethical obligations of the Commission to men and boys:
 
 > **NHRIs also have moral accountability obligations to the community**, especially to those who are victims of or at risk of human rights violations. The mandate to promote and protect human rights is a mandate of leadership on behalf of actual and potential victims of violations, as well as one of service to actual and potential victims. **NHRIs owe the community generally, and victims particularly, reports on their work, including their effectiveness and their failings. This is not a legal obligation but a moral and ethical one**. It certainly requires NHRIs to release publicly and promote their reports to parliaments and to make them generally available. However, it also requires a variety of less formal reporting mechanisms, including briefings, consultation meetings, regular statements, news reports and so on. **Accountability to the community is not an annual activity but a continuing process of reporting and seeking feedback, of consulting and listening**.
 
-The Commission identifies three elements of accountability^[Housing Inquiry First Report: Strengthening Accountability and Participation in the Housing System]:
+The Commission identifies three elements of accountability\[17]:
 
 -   monitoring i.e. the collection of information and data;
 -   review, including *independent* review, in relation to agreed standards and promises made;
@@ -1429,7 +1429,7 @@ The Commission identifies three elements of accountability^[Housing Inquiry Firs
 
 The Commission should be effective in their work to protect and promote the human rights of men and boys.
 
-The Commission should "actively evaluate the effectiveness of its activities" and should "should examine the quality of the NHRI's programmes and the extent to which existing programmes sufficiently address the human rights issues"^[National Human Right Institutions Best Practice] for men and boys.
+The Commission should "actively evaluate the effectiveness of its activities" and should "should examine the quality of the NHRI's programmes and the extent to which existing programmes sufficiently address the human rights issues"\[73] for men and boys.
 
 *National Human Rights Institutions Best Practice* says:
 
@@ -1439,7 +1439,7 @@ The Commission should "actively evaluate the effectiveness of its activities" an
 
 The Commission should have a robust complaint procedure to handle complaints about the Commission's actions or policies. Complaints are opportunities for the Commission to improve its work. The Commission should be responsive to feedback and complaints from men and men's advocates. The Commission should provide redress or remedy when they have failed in their obligations to men and boys.
 
-The *New Zealand Ombudsman* outlines an effective complaint process^[@Ombudsman]:
+The *New Zealand Ombudsman* outlines an effective complaint process\[61]:
 
 > An effective complaints process should aim to achieve the following:
 >
@@ -1463,9 +1463,40 @@ The Commission should have regular independent reviews.
 
 Remedy means making changes to make things right. Chapter [1.2](#reccomendations) gives selected recommendations for the Commission to correct shortcomings and improve its work with men and boys. These do not replace the guidance provided in the body of this report.
 
-The Commission should collaborate with men and men's advocates when making changes. See Chapter [5](#collaboration_and_cooperation), on page .
+The Commission should collaborate with men and men's advocates when making changes. See Chapter 5, Collaboration and cooperation on page 29.
 
 # Bibliography
+[1] Paula Bennett. Speech to HRINZ: The reason for the Gender Pay Gap. https://www.beehive.govt.nz/speech/speech-hrinz-reason-gender-pay-gap. Accesed 8 Oct 2016.
+
+[2] Katharina Block, Alyssa Croft, Lucy De Souza, & Toni Schmader. *Do people care if men don’t care about caring? The asymmetry in support for changing gender roles.* Journal of Experimental Social Psychology, 83:112–131, 2019.
+
+[3] Dr Jackie Blue. Dr Jackie Blue: HeForShe Speech Nov 27th. https://archive.is/LtsQQ. Accesed 1 Jan 2016.
+
+[4] Paul Callister. ’Missing men’: The politics of gender analysis, 08 2009.
+
+[5] Robyn Caygill. How our education system is performing for literacy: Progress and achievement of New Zealand learners in English medium settings. Minsitry of Education, 2021.
+
+[6] Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child (2019) on harmful practices, 2019. CEDAW/C/GC/31/Rev.1–CRC/C/GC/18/Rev.1.
+
+[7] Committee on the Elimination of Discrimination Against Women, General Recommendation No. 19: Violence against Women, 1992. 
+
+[8] Committee on the Elimination of Discrimination Against Women, General Recommendation No. 25, 2004.
+
+[9] 2004. For example, see Committee on the Elimination of Discrimination
+Against Women, General Recommendation No. 25, paragraph 9.
+
+[10] Human Rights Commision. Human Rights in New Zealand; Ng¯a Tika
+Tangata O Aotearoa, 2010.
+
+[11] Human Rights Commission. Submission of the Human Rights Commission
+as Intervener in Adoption Action Inc v Attorney-General, 2013.
+
+
+
+
+
+
+# Footnotes
 
 [^1]: Human rights Act 1993 -- Section 5.2.kc
 
