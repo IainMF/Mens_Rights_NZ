@@ -1377,8 +1377,7 @@ People are also less willing to address discrimination against men. Sinclair\[74
 
 Men are more vulnerable to the human rights violations that occur in the prison system because they make up the vast majority of prisoners.
 
-See [Removing Barriers on page 21](#Removing Barriers) for more information about potential
-vulnerabilities.
+See [#Removing Barriers] on page 21 for more information about potential vulnerabilities.
 
 ## Following human rights principles
 
@@ -1462,9 +1461,9 @@ The Commission should have regular independent reviews.
 
 ## Remedy
 
-Remedy means making changes to make things right. Chapter [1.2](#reccomendations) gives selected recommendations for the Commission to correct shortcomings and improve its work with men and boys. These do not replace the guidance provided in the body of this report.
+Remedy means making changes to make things right. Chapter 1.2 gives selected recommendations for the Commission to correct shortcomings and improve its work with men and boys. These do not replace the guidance provided in the body of this report.
 
-The Commission should collaborate with men and men's advocates when making changes. See [Chapter 5 - Collaboration and cooperation on page 29](#Chapter 5 - Collaboration and cooperation).
+The Commission should collaborate with men and men's advocates when making changes. See Chapter 5 - Collaboration and cooperation on page 29.
 
 # Bibliography
 [1] Paula Bennett. Speech to HRINZ: The reason for the Gender Pay Gap. https://www.beehive.govt.nz/speech/speech-hrinz-reason-gender-pay-gap. Accesed 8 Oct 2016.
