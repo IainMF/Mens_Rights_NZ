@@ -196,9 +196,9 @@ Including men and boys in the work of the Commission "requires a planned strateg
 A formal system ensures:
 
 -   Decisions to include or exclude men and boys are not arbitrary;
--   Continuity is maintained through staffing changes. Including men and boys is not reliant on specific staff member's personal interest (see , on page , for more);
+-   Continuity is maintained through staffing changes. Including men and boys is not reliant on specific staff member's personal interest (see Building the Commission’s Capacity, on page 33, for more);
 -   The Commission can evaluate it effectiveness in its work for men and boys;
--   Rights-holders can hold the Commission accountable (see , on page , for more);
+-   Rights-holders can hold the Commission accountable (see Accountability, on page 75, for more);
 
 ## Proactive, continuous, consistent
 
@@ -1482,18 +1482,151 @@ The Commission should collaborate with men and men's advocates when making chang
 
 [8] Committee on the Elimination of Discrimination Against Women, General Recommendation No. 25, 2004.
 
-[9] 2004. For example, see Committee on the Elimination of Discrimination
-Against Women, General Recommendation No. 25, paragraph 9.
+[9] 2004. For example, see Committee on the Elimination of Discrimination Against Women, General Recommendation No. 25, paragraph 9.
 
-[10] Human Rights Commision. Human Rights in New Zealand; Ng¯a Tika
-Tangata O Aotearoa, 2010.
+[10] Human Rights Commision. Human Rights in New Zealand; Ng¯a Tika Tangata O Aotearoa, 2010.
 
-[11] Human Rights Commission. Submission of the Human Rights Commission
-as Intervener in Adoption Action Inc v Attorney-General, 2013.
+[11] Human Rights Commission. Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General, 2013.
 
+[12] Human Rights Commission. Submission on Family and Whanau Violence Legislation Bill, 2017.
 
+[13] Human Rights Commission. Human Rights Commission Submission to Hon Marama Davidson, Minister for Family and Sexual Violence, on a National Action Plan and Strategy to Address Family and Sexual Violence in Aotearoa New Zealand, 2021.
 
+[14] New Zealand Human Rights Commission. Human Rights Policy Statement. https://hrc-nz-resources.s3.ap-southeast-2.amazonaws.com/files/2114/7147/3368/Human_Rights_Policy_Statement.pdf. Accesed 8 Oct 2024.
 
+[15] New Zealand Human Rights Commission. New Zealand’s 6th periodic review under the International Covenant on Civil and Political Rights - Submission of the New Zealand Human Rights Commission to the Human Rights Committee, 2016.
+
+[16] New Zealand Human Rights Commission. New Zealand’s Third Universal Periodic Review Submission of New Zealand Human Rights Commission, 2019.
+
+[17] New Zealand Human Rights Commission. Housing Inquiry First Report: Strengthening Accountability and Participation in the Housing System, 2021.
+
+[18] Te K¯ahui Tika Tangata Human Rights Commission. Equality and Freedom from Discrimination. https://tikatangata.org.nz/human-rights-in-aotearoa/equality-and-freedom-from-discrimination. Accesed 14/09/2024.
+
+[19] Te K¯ahui Tika Tangata Human Rights Commission. Governance & Responsibilities Manual, 2024.
+
+[20] United Nations Human Rights Committee. CCPR General Comment No. 18; Non-discrimiantion, 1989.
+
+[21] United Nations Human Rights Committee. CCPR General Comment No. 28: Article 3 (The Equality of Rights Between Men and Women), 2000. CCPR/C/21/Rev.1/Add.10.
+
+[22] United Nations Human Rights Committee. CCPR General Comment No. 36: Article 6: right to life, 2019. CCPR/C/GC/36.
+
+[23] Simone Cusack. Gender Stereotyping as a Human Rights Violation. United Nations, 2013.
+
+[24] United Nations Statistical Division. Integrating a Gender Perspective into Statistics. United Nations, 2016.
+
+[25] 2008. Statement by the Committee on the Elimination of Discrimination against Women on its relationship with national human rights institutions E/CN.6/2008/CRP.1.
+
+[26] Economic & Social Council. Report of the Economic and Social Council for the year 1997 - A/52/3/Rev.1, 1997.
+
+[27] Equitas – International Centre for Human Rights Education. Equality for Women: A Handbook for NHRIs on Economic, Social and Cultural Rights. United Nations Development Programme - Asia and Pacific, 2008.
+
+[28] APF Pacific Roundtable for National Human Rights Institutions on the Rights of Women & Girls. Apia Statement for National Human Rights Institutions on the human rights of Women and Girls in the Pacific Region, 2018.
+
+[29] Organization for Security & Cooperation in Europe. Handbook for National Human Rights Institutions on Women’s Rights and Gender Equality. Organization for Security and Co-operation in Europe, 2012.
+
+[30] John Gerritsen. Proportion of men in higher education hits all-time low, 9 2022. https://www.rnz.co.nz/news/national/475179/proportion-of-men-in-higher-education-hits-all-time-low
+
+[31] Human Rights Act 1993, section 5. https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304212.html.
+
+[32] United Nations Office of the High Commissioner for Human Rights International Council on Human Rights Policy. Assessing the Effectiveness of National Human Rights Institutions, 2005.
+
+[33] ITV News. Labour MP Jess Phillips targeted by trolls after scoffing at men’s rights debate request. https://archive.ph/bVR2z. Accesed 8 Oct 2016.
+
+[34] Samantha Jeffries. Does gender really matter?: Criminal court decision making in New Zealand. New Zealand Sociology, 17(1):135–149, 2002.
+
+[35] FranCis Luketina. Supporting Kiwi Dads: Role and Needs of New Zealand Fathers. Families Commission, 2009.
+
+[36] Steve May & Emma Medina. PISA 2022 Aotearoa New Zealand Summary Report, 2023.
+
+[37] James Gregory Higano McKay. Men’s mental health: what helps or hinders men’s access to a community mental health team. Ph.D. thesis, University of Otago, 2007.
+
+[38] United Nations. Gender Equality. https://www.un.org/en/global-issues/gender-equality. Accesed 6/10/2024.
+
+[39] United Nations. Principles relating to the Status of National Institutions (The Paris Principles), 1993.
+
+[40] United Nations. Beijing Declaration and Platform for Action, 1995.
+
+[41] United Nations. Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework. United Nations, 2012.
+
+[42] United Nations. Human Rights Indicators - A Guide to Measurement and Implementation. United Nations, 2012.
+
+[43] United Nations. Integrating a Gender Perspective into Human Rights Investigations: Guidance and Practice. United Nations, 2018.
+
+[44] Manfred Nowak. The United Nations Global Study on Children Deprived of Liberty. United Nations, 2019.
+
+[45] James Nuzzo. Bias against men’s issues within the United Nations and the World Health Organization: a content analysis. Psychreg J Psychol, 4(3):120–50, 2020.
+
+[46] Council of Europe. What is gender-based violence? https://www.coe.int/en/web/gender-matters/what-is-gender-based-violence. Accesed 7/10/2024.
+
+[47] Council of Europe. Gender Mainstreaming - Conceptual framework, methodology and presentation of good practices. Council of Europe, 1998.
+
+[48] Asia Pacific Forum of National Human Rights Institutions. Human Rights Education: A Manual for National Human Rights Institutions. Asia Pacific Forum of National Human Rights Institutions, 2013.
+
+[49] Asia Pacific Forum of National Human Rights Institutions. NHRI Guidelines for Mainstreaming the Human Rights of Women and Girls into Our Everyday Work. Asia Pacific Forum of National Human Rights Institutions, 2019.
+
+[50] Asia Pacific Forum of National Human Rights Institutions. Monitoring, Evaluation, Accountability and Learning: A Guide for National Human Rights Institutions in the Asia Pacific. Asia Pacific Forum of National Human Rights Institutions, 2021.
+
+[51] Asia Pacific Forum of National Human Rights Institutions. NHRI leadership: an introductory guide. Asia Pacific Forum of National Human Rights Institutions, 2023.
+
+[52] International Coordinating Committee of National Institutions for the
+Promotion & Protection of Human Rights. Amman Declaration. Amman
+Declaration, Paragraph 1.
+
+[53] Ministry of Social Development. The Social Report 2009, 2009. Quoting OECD homicide death rates for the period 2003–2007.
+
+[54] Office of the High Commissioner for Human Rights. National Human Rights Institutions : History, principles, roles and responsibilities. United
+Nations, 2010.
+
+[55] Office of the High Commissioner for Human Rights. Women’s rights are
+human rights, 2014. ST/HR/PUB/14/2.
+
+[56] Office of the High Commissioner for Human Rights. A Human Rights Based Approach to Data - Leaving No One Behind in the 2030 Agenda for Sustainable Development: Guidance Note to Data Collection and Disaggregation. United Nations, 2018.
+
+[57] The Office of the High Commissioner for Human Rights. Manual on Human Rights Monitoring (Revised edition). United Nations, 2011.
+
+[58] Office of the United Nations High Commissioner for Human Rights. Handbook on National Human Rights Plans of Action. United Nations, 2002.
+
+[59] National Council of Women of New Zealand. Gender Attitudes Survey, 2023.
+
+[60] United Kingdom Home Office. Supporting Male Victims of Crimes Considered Violence Against Women and Girls. https://data.parliament.uk/DepositedPapers/Files/DEP2022-0294/
+Supporting_Male_Victims_March_2022.pdf, 2022. Accesed 8 Oct 2024.
+
+[61] New Zealand Ombdsman. Effective Complaint Handling, 2019. [62] Sub-Committee on Accreditation Global Alliance of National Human Rights Institutions. General Observations of the Sub-Committee on Accreditation, 2018.
+
+[63] United Nations Committee on Economic Social & Cultural Rights. General Comment No. 13: The right to education (article 13 of the Covenant), 1999. E/C.12/1999/10.1999. 
+
+[64] United Nations Committee on Economic Social & Cultural Rights. CESCR General Comment No. 14: The Right to the Highest Attainable Standard of Health (Art. 12), 2000. E/C.12/2000/4.
+
+[65] United Nations Committee on Economic Social & Cultural Rights. General Comment No. 16: The Equal Right of Men and Women to the Enjoyment of All Economic, Social and Cultural Rights (Art. 3 of the Covenant), 2005. E/C.12/2005/4.
+
+[66] United Nations Committee on Economic Social & Cultural Rights. GENERAL COMMENT No. 20 Non-discrimination in economic, social and cultural rights(art. 2, para. 2, of the International Covenant on Economic, Social and Cultural Rights), 2009. E/C.12/GC/20.
+
+[67] The Joint Venture on Family Violence & Sexual Violence. Specialist Family Violence Organisational Standards, 2022.
+
+[68] World Health Organisation. Depressive disorder (depression). https://archive.ph/eM6Aj#selection-6059.0-6067.122. Accesed 11 Oct 2024.
+
+[69] World Health Organisation. Suicide Rates. https://www.who.int/data/gho/data/themes/mental-health/suicide-rates.
+Accesed 11 Oct 2024.
+
+[70] Donald Pettit. Mind the Gap: What those in the field say about male victims of family violence. Canterbury Men’s Centre, 2016.
+
+[71] R V AM (CA27/2009).
+
+[72] Tania Reynolds, Chuck Howard, Hallgeir Sj˚astad, Luke Zhu, Tyler G Okimoto, Roy F Baumeister, Karl Aquino, & JongHan Kim. Man up and take it: Gender bias in moral typecasting. Organizational Behavior and Human Decision Processes, 161:120–141, 2020.
+
+[73] Commonwealth Secretariat. National Human Right Insitutions Best Practice. Commonwealth Secretariat, 2001.
+
+[74] Samantha Sinclair & Rickard Carlsson. Reactions to affirmative action policies in hiring: Effects of framing and beneficiary gender. Analyses of Social Issues and Public Policy, 21(1):660–678, 2021.
+
+[75] Lara Stemple. Male Rape and Human Rights. Hastings LJ, 60:605, 2008.
+
+[76] J Steven Svoboda. Circumcision of male infants as a human rights violation. Journal of Medical Ethics, 39(7):469–474, 2013.
+
+[77] The Danish Insitute for Human Rights United Nations Population Fund. Reproductive Rights are Human Rights – A Handbook for National Human Rights Institutions. United Nations, 2014. HR/PUB/14/6.
+
+[78] UN Women. Gender Equality Glossary. https://trainingcentre.unwomen.org/mod/glossary/view.php?id=36&mode=letter&hook=G&sortkey=&sortorder=. Accesed 6/10/2024.
+
+[79] UN Women. Handbook on Gender Mainstreaming for Gender Equality Results. UN Women, 2022.
 
 
 # Footnotes
