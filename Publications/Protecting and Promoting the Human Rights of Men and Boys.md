@@ -90,28 +90,28 @@ Stereotypical thinking can lead to seeing something as normal or natural, or 'ju
 
 Commission staff should be aware of their biases and how it affects their work with men and boys. *Integrating a Gender Perspective into Human Rights Investigations* explains that biases and stereotypes can lead us to overlook important information:
 
-> Be aware of the team members' own biases, prejudices and stereotypes that may lead to their overlooking important gender-sensitive information, for instance by not asking the relevant questions, affecting information-gathering and documentation.^[Integrating a Gender Perspective into Human Rights Investigations: Guidance and Practice]
+> Be aware of the team members' own biases, prejudices and stereotypes that may lead to their overlooking important gender-sensitive information, for instance by not asking the relevant questions, affecting information-gathering and documentation.\[43]
 
 ## Non-discrimination
 
-The principle of non-discrimination follows from the principle of universality. "Non-discrimination means that no one should be subjected to any distinction, exclusion, restriction, or preference because of a personal characteristic like race, colour, sex, language, religion, national or social origin."^[Human Rights Commission Governance \& Responsibilities Manual]
+The principle of non-discrimination follows from the principle of universality. "Non-discrimination means that no one should be subjected to any distinction, exclusion, restriction, or preference because of a personal characteristic like race, colour, sex, language, religion, national or social origin."\[19]
 
 The Commission's work should not discriminate based on gender or sex. The Commission may discriminate if its actions or policy impairs the recognition or enjoyment of men's rights. For example, the recognition of men's rights is impaired if they are not included in monitoring an reporting. The Commission must explicitly include men's rights in its work to avoid discrimination against men.
 
-"Discrimination can be direct or indirect. 'Direct discrimination' occurs when an individual is treated less favourably than someone else in a similar situation, for a reason related to a prohibited ground...'Indirect discrimination' describes the situation where an apparently neutral practice or condition has a disproportionate, negative impact on one of the groups against whom it is unlawful to discriminate, and the practice or condition cannot be justified objectively."^[HRC website: Equality and Freedom from Discrimination]
+"Discrimination can be direct or indirect. 'Direct discrimination' occurs when an individual is treated less favourably than someone else in a similar situation, for a reason related to a prohibited ground...'Indirect discrimination' describes the situation where an apparently neutral practice or condition has a disproportionate, negative impact on one of the groups against whom it is unlawful to discriminate, and the practice or condition cannot be justified objectively."\[18]
 
 The Commission should ensure that its apparently gender-neutral policies and practices do not negatively impact men and boys.
 
-The Commission's *Governance and Responsibilities Manual* describes non-discrimination as "ensuring the equitable enjoyment of rights and obligations for all, including moving from a focus on 'need' to a focus on the fulfilment of 'rights'."^[Human Rights Commission Governance \& Responsibilities Manual] The Commission should consider how to fulfil the rights of men and boys.
+The Commission's *Governance and Responsibilities Manual* describes non-discrimination as "ensuring the equitable enjoyment of rights and obligations for all, including moving from a focus on 'need' to a focus on the fulfilment of 'rights'."\[19] The Commission should consider how to fulfil the rights of men and boys.
 
 ## Gender equality
 
-Gender equality is a consequence of the principles of universality and non-discrimination. Gender equality "was made part of international human rights law by the Universal Declaration of Human Rights when it was adopted by the UN General Assembly on 10 December 1948".^[UN Website: Gender Equality]
+Gender equality is a consequence of the principles of universality and non-discrimination. Gender equality "was made part of international human rights law by the Universal Declaration of Human Rights when it was adopted by the UN General Assembly on 10 December 1948".\[38]
 
-Gender equality means equal rights, responsibilities, and opportunities between women and men. UN Women explains that "gender equality implies that the interests, needs and priorities of both women and men are taken into consideration".^[UN Women Gender Equality Glossary] Similarly, the Asia Pacific Forum says gender equality "means the aspirations and needs of all genders are considered, valued and favoured equally".^[Monitoring, Evaluation, Accountability and Learning: A Guide for National Human Rights Institutions in the Asia Pacific] Therefore, the Commission must consider the needs and interests of both women *and men*, without favouring either.
+Gender equality means equal rights, responsibilities, and opportunities between women and men. UN Women explains that "gender equality implies that the interests, needs and priorities of both women and men are taken into consideration".\[78] Similarly, the Asia Pacific Forum says gender equality "means the aspirations and needs of all genders are considered, valued and favoured equally".\[50] Therefore, the Commission must consider the needs and interests of both women *and men*, without favouring either.
 #### Substantive/de facto equality
 
-International human rights law identifies two types of equality. One, formal or *de jure* equality, which is equality under the law and policy. Two, substantive or *de facto* equality, which is equality of outcomes or results.^[CEDAW General Recommendation 25_p_9]
+International human rights law identifies two types of equality. One, formal or *de jure* equality, which is equality under the law and policy. Two, substantive or *de facto* equality, which is equality of outcomes or results.\[9]
 
 Formal equality is not always enough to ensure that everyone enjoys their human rights. For example, repealing a discriminatory law does not address the effects of the discrimination. Likewise, gender-neutral laws and policies may not have gender-neutral results. Gender stereotypes, biases, and culture or tradition can cause indirect discrimination even when laws and policies are gender neutral.
 
@@ -119,23 +119,23 @@ Men and boys have the same right to substantive equality as women and girls. If 
 
 The Commission should not assume that its own gender neutral policies are sufficient to protect men's rights. *A Manual on National Human Rights Institutions* points out that relying on gender-neutral policies can lead to perpetuating injustices:
 
-> A widespread belief in and commitment to the underlying objectivity and "gender neutrality" of core human rights prevented recognition of the fact that equal treatment of persons in unequal situations will invariably perpetuate, rather than eradicate, injustices.^[Asia Pacific Forum : A Manual for National Human Rights Institutions]
+> A widespread belief in and commitment to the underlying objectivity and "gender neutrality" of core human rights prevented recognition of the fact that equal treatment of persons in unequal situations will invariably perpetuate, rather than eradicate, injustices.\[48]
 
-The *Committee on the Elimination of Discrimination against Women* expects NHRIs to base their work "on the principle of formal and substantive equality between women and men and non-discrimination"^[Statement by the Committee on the Elimination of Discrimination against Women on its relationship with national human rights institutions E/CN.6/2008/CRP.1]
+The *Committee on the Elimination of Discrimination against Women* expects NHRIs to base their work "on the principle of formal and substantive equality between women and men and non-discrimination"\[25]
 
 The principle of substantive equality requires the Commission to address the disadvantages faced by men and boys in their work. For example, the Commission is required to monitor CEDAW, which means regularly reviewing women's rights. The Commission does not regularly review men's rights. This creates a disadvantage for men that the Commission should address.
 
 # Gender Mainstreaming 
 
-Gender mainstreaming is the practical application of the principle of gender equality. "It is a strategy for making women's as well as men's concerns and experiences an integral dimension of the design, implementation, monitoring and evaluation of policies and programmes... so that women and men benefit equally".^[Report of the Economic and Social Council for the year 1997 -  A/52/3/Rev.1]
+Gender mainstreaming is the practical application of the principle of gender equality. "It is a strategy for making women's as well as men's concerns and experiences an integral dimension of the design, implementation, monitoring and evaluation of policies and programmes... so that women and men benefit equally".\[26]
 
 In the *[[Amman Declaration and Programme of Action|Amman Declaration]]*, NHRIs agreed to implement gender mainstreaming in their work:
 
-> \[NHRI's agree to\] prioritize and mainstream... gender equality throughout all their strategic planning, processes, policies, programmes and activities with a view to establishing sustainable interventions to achieve gender equality. This would also include developing and implementing training for NHRI members and staff on gender equality and reviewing their internal structures with a view to achieving gender equality at all levels and in all aspects of their work...^[Amman Declaration and Program for Action]
+> \[NHRI's agree to\] prioritize and mainstream... gender equality throughout all their strategic planning, processes, policies, programmes and activities with a view to establishing sustainable interventions to achieve gender equality. This would also include developing and implementing training for NHRI members and staff on gender equality and reviewing their internal structures with a view to achieving gender equality at all levels and in all aspects of their work...\[52]
 
-Similarly, the *Apia Statement* --- which the Commission contributed to --- recommends Pacific region NHRI's "commit to planning and implementing an internal gender mainstreaming strategy."^[Apia Statement for National Human Rights Institutions on the human rights of Women and Girls in the Pacific Region]
+Similarly, the *Apia Statement* --- which the Commission contributed to --- recommends Pacific region NHRI's "commit to planning and implementing an internal gender mainstreaming strategy."\[28]
 
-Gender mainstreaming is an **active process**^[NHRI Guidelines for Mainstreaming the Human Rights of Women and Girls into Our Everyday Work] that considers the effects of polices on both women and men before **decisions are made**.^[Beijing Platform for Action] The Commission should have a gender mainstreaming strategy that considers the impacts of policies and programmes on men. In short, the Commission asks two questions:
+Gender mainstreaming is an **active process**\[49] that considers the effects of polices on both women and men before **decisions are made**.\[40] The Commission should have a gender mainstreaming strategy that considers the impacts of policies and programmes on men. In short, the Commission asks two questions:
 
 1.  What do men need from the Commission?
 
@@ -143,7 +143,7 @@ Gender mainstreaming is an **active process**^[NHRI Guidelines for Mainstreaming
 
 ## Gender analysis
 
-Gender analysis is the first step in gender mainstreaming. Gender analysis "allows for the screening of a given policy proposal, in order to detect and assess its differential impact or effects on women and men, so that these imbalances can be redressed before the proposal is endorsed. An analysis from a gender perspective helps to see whether the needs of women and men are equally taken into account and served by this proposal."^[Gender Mainstreaming - Conceptual framework, methodology and presentation of good practices]
+Gender analysis is the first step in gender mainstreaming. Gender analysis "allows for the screening of a given policy proposal, in order to detect and assess its differential impact or effects on women and men, so that these imbalances can be redressed before the proposal is endorsed. An analysis from a gender perspective helps to see whether the needs of women and men are equally taken into account and served by this proposal."\[47]
 
 The Commission should complete a gender analysis early in the development process for new policies and programmes to identify if the policy will meet men's needs. Then the Commission can address any discrepancies found in the analysis.
 
@@ -153,9 +153,9 @@ The Commission should also analyse existing policies and programmes to see if th
 
 Historically, gender mainstreaming and gender analysis has focused on women. It is important for the Commission to ensure that men are effectively included in gender mainstreaming and gender analysis. In *Gender Mainstreaming for Gender Equality Results*, UN Women argues that men must be included in gender analysis:
 
-> Gender analysis must focus on women and men, and girls and boys, and on the relations between and amongst them. When gender is applied as a synonym for women, and men are not included in analyses, the potential to identify gender relations... is seriously constrained.^[Handbook on Gender Mainstreaming for Gender Equality Results]
+> Gender analysis must focus on women and men, and girls and boys, and on the relations between and amongst them. When gender is applied as a synonym for women, and men are not included in analyses, the potential to identify gender relations... is seriously constrained.\[79]
 
-UN Women continues to explain some of the problems of excluding men in gender analysis^[Handbook on Gender Mainstreaming for Gender Equality Results]:
+UN Women continues to explain some of the problems of excluding men in gender analysis\[79]:
 
 > **Ignoring men in gender analysis means gender relations are being neglected, and this is problematic for several reasons**:
 >
@@ -173,7 +173,7 @@ UN Women continues to explain some of the problems of excluding men in gender an
 
 The Commission needs to ensure that good intentions to include men in their work translate into actual positive outcomes for men. *Gender Mainstreaming -- Conceptual Framework, Methodology and Presentation of Good Practices* cautions against assuming intentions will translate into practice:
 
-> Introducing mainstreaming in the first stages is no guarantee that a gender perspective will effectively be taken into account when policies are implemented -- analysis and action are two different things. There are big steps between detecting a gender issue, endorsing the principle of gender equality and implementing policies which take this issue into account.^[Gender Mainstreaming - Conceptual framework, methodology and presentation of good practices]
+> Introducing mainstreaming in the first stages is no guarantee that a gender perspective will effectively be taken into account when policies are implemented -- analysis and action are two different things. There are big steps between detecting a gender issue, endorsing the principle of gender equality and implementing policies which take this issue into account.\[47]
 
 ## Leadership, Commitment & Planning
 
@@ -183,7 +183,7 @@ Including men and boys in the Commission's work will require leadership, commitm
 
 Leadership is required to ensure that men's rights are adequately included in the work of the Commission. The Commission's leadership is responsible for gender mainstreaming and therefore is responsible for including men's rights in the Commission's work. *NHRI Leadership: An Introductory Guide* states:
 
-> The governance responsibilities of the top leaders include... ensuring that gender issues and gender perspectives are mainstreamed throughout the NHRI's work and in its policies and procedures inside the NHRI.^[NHRI leadership: an introductory guide]
+> The governance responsibilities of the top leaders include... ensuring that gender issues and gender perspectives are mainstreamed throughout the NHRI's work and in its policies and procedures inside the NHRI.\[51]
 
 ##### Commitment:
 
@@ -191,7 +191,7 @@ The Commission should demonstrate a commitment to including men and boys in its 
 
 ##### Planning:
 
-Including men and boys in the work of the Commission "requires a planned strategic and systematic approach".^[NHRI Guidelines for Mainstreaming the Human Rights of Women and Girls into Our Everyday Work] "Comprehensive, integrated strategies are required, not piecemeal approaches".^[Asia Pacific Forum : A Manual for National Human Rights Institutions] The Commission should have a formal system to include men and boys.
+Including men and boys in the work of the Commission "requires a planned strategic and systematic approach".\[49] "Comprehensive, integrated strategies are required, not piecemeal approaches".\[48] The Commission should have a formal system to include men and boys.
 
 A formal system ensures:
 
@@ -206,7 +206,7 @@ The Commission should be proactive and act continuously and consistently in the 
 
 ##### Proactive:
 
-The Commission should be proactive in protecting and promoting men's rights. \"Integrating gender implies a proactive attitude of looking at and analysing how situations affect women, girls, men and boys differently\".^[NManual on Human Rights Monitoring (Revised edition)] \"NHRIs must proactively reach out to vulnerable and disadvantaged persons\"^[National Human Right Institutions Best Practice], including men and boys.
+The Commission should be proactive in protecting and promoting men's rights. "Integrating gender implies a proactive attitude of looking at and analysing how situations affect women, girls, men and boys differently".\[57] "NHRIs must proactively reach out to vulnerable and disadvantaged persons"\[73], including men and boys.
 
 To be proactive, the commission should:
 
@@ -221,15 +221,15 @@ To be proactive, the commission should:
 Protecting and promoting men's rights requires long-term commitment. The inclusion of men is a continuous process and must be evaluated and adjusted over time.
 *National Human rights Institutions Best Practice* says:
 
-> The roles of NHRIs will need to evolve as the nature of human rights challenges evolves. New problems will emerge and old challenges will require fresh approaches.^[National Human Right Institutions Best Practice]
+> The roles of NHRIs will need to evolve as the nature of human rights challenges evolves. New problems will emerge and old challenges will require fresh approaches.\[73]
 
 *Gender Mainstreaming - Conceptual Framework, Methodology and Presentation of Good Practices* says:
 
-> Gender equality must be constantly fought for, protected and promoted -- like human rights, of which it is an integral part. Achieving gender equality is a continuous process that has to be constantly put into question, thought about and redefined.^[Gender Mainstreaming - Conceptual framework, methodology and presentation of good practices]
+> Gender equality must be constantly fought for, protected and promoted -- like human rights, of which it is an integral part. Achieving gender equality is a continuous process that has to be constantly put into question, thought about and redefined.^\[47]
 
 ##### Consistent:
 
-The Commission should be consistent with including men in their work. \"What strategies are in place to ensure that gender considerations are consistently integrated into the NHRI's work on an ongoing basis?\"^[Handbook for National Human Rights Institutions on Women’s Rights and Gender Equality]
+The Commission should be consistent with including men in their work. \"What strategies are in place to ensure that gender considerations are consistently integrated into the NHRI's work on an ongoing basis?\"\[26]
 
 # Removing Barriers 
 
@@ -257,7 +257,7 @@ To be effective in detecting human rights issues for men, the Commission should:
 -   Evaluate the effectiveness of their systems to detecting the human rights issues for men;
 -   Make improvements to their system if the evaluation finds flaws.
 
-See , on page , and , on page , for more information.
+See Collaboration and cooperation, on page 29, and Accountability, on page 75, for more information.
 
 ### Attitudes and beliefs of the leadership and staff
 
@@ -265,17 +265,17 @@ The attitudes and beliefs of the leadership and staff can create barriers to the
 
 The Commission's *Governance and Responsibilities Manual* says:
 
-> Commissioners and kaimahi must recognise that personal biases can undermine the integrity of the Commission's work and lead to inconsistent application of human rights principles.^[Human Rights Commission Governance \& Responsibilities Manual]
+> Commissioners and kaimahi must recognise that personal biases can undermine the integrity of the Commission's work and lead to inconsistent application of human rights principles.\[19]
 
 *Mainstreaming the Human Rights of Women and Girls into Our Everyday Work* identifies [[organisational culture]], including staff attitudes, as an important enabling factor for gender equality and, therefore, including men and boys:
 
-> \[An enabling factor is\] [[organisational culture]]: the extent that the attitudes of staff, NHRI members and formal institutional systems, policies and structures support or marginalise gender equality.^[NHRI Guidelines for Mainstreaming the Human Rights of Women and Girls into Our Everyday Work]
+> \[An enabling factor is\] [[organisational culture]]: the extent that the attitudes of staff, NHRI members and formal institutional systems, policies and structures support or marginalise gender equality.\[49]
 
 As a human rights duty-bearer, the Commission should consider the effects of their policy and actions on men. The Commission's stated beliefs about equality and universality are not necessarily reflected in its actions and policy. Commissioners and staff should consider whether their beliefs align with human rights principles and consider how these beliefs affect the protection and promotion of men's human rights.
 
-It is possible that the leadership and staff do not know that their beliefs create barriers to the protection and promotion of men's rights. *Integrating a Gender Perspective into Human Rights Investigations* cautions that "gender-based discrimination might be so ingrained that even the investigators themselves fail to recognize human rights concerns".^[Integrating a Gender Perspective into Human Rights Investigations: Guidance and Practice]
+It is possible that the leadership and staff do not know that their beliefs create barriers to the protection and promotion of men's rights. *Integrating a Gender Perspective into Human Rights Investigations* cautions that "gender-based discrimination might be so ingrained that even the investigators themselves fail to recognize human rights concerns".\[43]
 
-The Commission should "ensure that members and staff are equipped to deal with issues that are sensitive, outside their experience, or clash with their personal beliefs"^[Assessing the Effectiveness of National Human Rights Institutions], including issues related to men and boys.
+The Commission should "ensure that members and staff are equipped to deal with issues that are sensitive, outside their experience, or clash with their personal beliefs"\[32], including issues related to men and boys.
 
 ### Knowledge and experience of leadership and staff
 
@@ -293,7 +293,7 @@ See , on page for more information.
 
 ### Accessibility
 
-"An NHRI must be readily accessible to its clients -- those individuals and groups whose rights it has been established to promote and protect".^[National Human Right Institutions Best Practice] The Commission should:
+"An NHRI must be readily accessible to its clients -- those individuals and groups whose rights it has been established to promote and protect".\[73] The Commission should:
 
 -   Provide clear pathways for men and men's advocates to engage with them about men's human rights;
 -   Identify barriers for men and men's advocates in engaging with the Commission;
@@ -302,15 +302,15 @@ See , on page for more information.
 
 ### Use language carefully
 
-"Over time, careful use of language can affect people's consciousness positively or negatively".^[NManual on Human Rights Monitoring (Revised edition)] The use of language by the Commission can make it harder for men to recognise that they are victims, advocate for themselves and find help. The Commission should use language to empower men and men's advocates.
+"Over time, careful use of language can affect people's consciousness positively or negatively".\[57] The use of language by the Commission can make it harder for men to recognise that they are victims, advocate for themselves and find help. The Commission should use language to empower men and men's advocates.
 
 ##### Use consistent definitions:
 
 The Commission should use terms as they are broadly defined and understood. When a term has multiple meanings, the Commission should not use the term to mean more than one thing.
 
-For example, 'gender equality' means equal rights between women and men, but is often used to mean 'women's empowerment'. The United Nations reminds us that the "term gender is not interchangeable with women",^[Women's rights are human rights] so 'gender equality' should not be used as a synonym for 'women's empowerment'.
+For example, 'gender equality' means equal rights between women and men, but is often used to mean 'women's empowerment'. The United Nations reminds us that the "term gender is not interchangeable with women",\[55] so 'gender equality' should not be used as a synonym for 'women's empowerment'.
 
-Similarly, 'gender-based violence' refers to violence that occurs due to a person's gender, or when victims are predominantly one gender. This includes both men and women, but often "**Gender-based violence** and **violence against women** are two terms that are often used interchangeably..."^[Council of Europe - What is gender-based violence?]
+Similarly, 'gender-based violence' refers to violence that occurs due to a person's gender, or when victims are predominantly one gender. This includes both men and women, but often "**Gender-based violence** and **violence against women** are two terms that are often used interchangeably..."\[46]
 
 Using the term 'gender-based violence' when specifically referring to women, undermines the protection of men's rights by superficially appearing to include men but, in practice, excludes men.
 
@@ -320,7 +320,7 @@ The Commission's public communications can send indirect or implied messages to 
 -   Ignore gender for issues that disproportionately affect men. This prevents policymakers from meeting their obligations to ensure equal rights for men.
 -   Have more messages about men as duty-bearers, or their responsibilities, compared to messages about men as rights-holders. This sends the message that the Commission does not see men as rights-holders.
 
-See Chapter [8](#reporting), , on page , for more information.
+See Chapter 8, Reporting, on page 61, for more information.
 
 ## External barriers
 
@@ -330,15 +330,15 @@ The Commission should work to address barriers to the protection and promotion o
 
 Men's rights are often neglected in the wider human rights system. For example:
 
-*The United Nations Global Study on Children Deprived of Liberty*^[The United Nations Global Study on Children Deprived of Liberty]:
+*The United Nations Global Study on Children Deprived of Liberty*\[44]:
 
 > Some adults are in deep denial of the gender issue when boys are at the losing end of the disparities... Sad to say, there is outright sex discrimination against boys in the \[Children's Rights\] movement.
 
-*Male Rape and Human Rights*^[Stemple - Male Rape and Human Rights]:
+*Male Rape and Human Rights*\[75]:
 
 > Despite the grave and widespread nature of sexual violence against men and boys, the current international human rights framework is inadequate for addressing this problem... No human rights instruments explicitly address sexual violence against men.
 
-*Bias against men's issues within the United Nations and the World Health Organization: A content analysis*^[Bias against men’s issues within the United Nations and the World Health Organization: a content analysis]:
+*Bias against men's issues within the United Nations and the World Health Organization: A content analysis*\[45]:
 
 > The results show men's issues are given less attention than women's issues by the UN and WHO... Therefore, the observed differences could have two possible explanations: (a) lack of awareness of men's issues by UN and WHO staff, or (b) bias (conscious or unconscious) against men's or in favour of women's issues by UN and WHO staff.
 
@@ -348,7 +348,7 @@ The Commission should work to highlight and overcome bias against men in the wid
 
 People's attitudes and beliefs that undervalue men's rights are a barrier to addressing men's rights issues. The Commission should combat beliefs that devalue men's human rights.
 
-In the *Amman Declaration and Programme of Action*^[Amman Declaration and Program for Action], NHRIs have agreed to education, promotion and awareness-raising activities on equal rights for women and men (gender equality) and to eliminate prejudices against women and men:
+In the *Amman Declaration and Programme of Action*\[52], NHRIs have agreed to education, promotion and awareness-raising activities on equal rights for women and men (gender equality) and to eliminate prejudices against women and men:
 
 > The NHRIs assembled agreed to the following broad principles and areas of work...
 >
@@ -359,46 +359,47 @@ Some examples of attitudes and beliefs that negatively impact the human rights o
 ##### Myth -- Gender equality is about women:
 
 There is a widespread belief that gender equality is only, or overwhelmingly, about women. This idea undermines men's right to equality. For example, Dr. Jackie Blue's statement:
-\"Gender equality is about accepting that at birth, half of us are intrinsically discriminated and treated differently based on sex\".^[Dr Jackie Blue: HeForShe Speech Nov 27th]
+\"Gender equality is about accepting that at birth, half of us are intrinsically discriminated and treated differently based on sex\".\[3]
 The Commission should combat this belief and raise awareness of men's gender inequalities.
 
 ##### Myth -- Gender equality is a zero sum game:
 
-A common attitude is that gender equality is a zero-sum game. That is, we cannot help both men and women at the same time. For example, Paula Bennett, in her role as Minister for Women equates having a Ministry for Men with having no Ministry for Women. "In just about every speech I have given... I get someone from the audience ask me if there is a Ministry for Men. My answer is simple. When we have closed the gender pay gap and women aren't predominantly the victims of domestic and sexual violence I will look to close down the Ministry for Women."^[Speech to HRINZ: The reason for the Gender Pay Gap] The Minister did not see the possibility of having a Ministry for Women *and* a Ministry for Men.
+A common attitude is that gender equality is a zero-sum game. That is, we cannot help both men and women at the same time. For example, Paula Bennett, in her role as Minister for Women equates having a Ministry for Men with having no Ministry for Women. "In just about every speech I have given... I get someone from the audience ask me if there is a Ministry for Men. My answer is simple. When we have closed the gender pay gap and women aren't predominantly the victims of domestic and sexual violence I will look to close down the Ministry for Women."\[1] The Minister did not see the possibility of having a Ministry for Women *and* a Ministry for Men.
 
 The Commission should combat this belief and raise awareness that addressing men's rights can be done at the same time as addressing women's rights and does not undermine women's rights.
 
 ##### Myth -- Women's rights issues should be solved before men's rights issues:
 
-A common belief is that women's rights are more important than men's rights, so women should have their human rights issues dealt with first. For example, in response to a request for a debate about issues like male suicide on International Men's Day, UK MP Jess Phillips said: "When I've got parity, when women in these buildings have parity, you can have your debate. And that will take an awfully long time\".^[Labour MP Jess Phillips targeted by trolls after scoffing at men's rights debate request]
+A common belief is that women's rights are more important than men's rights, so women should have their human rights issues dealt with first. For example, in response to a request for a debate about issues like male suicide on International Men's Day, UK MP Jess Phillips said: "When I've got parity, when women in these buildings have parity, you can have your debate. And that will take an awfully long time\".\[33]
 
 The Commission should combat this belief and raise awareness that all rights are equal and men's rights and women's rights are equally important.
 
 ##### Male privilege:
 
-The belief that men, as a group, receive unearned benefits from society is a stereotype that undermines the protection of men's rights. In some situations, men may receive unearned benefits, but in other situations they do not. An objective assessment of human rights requires accepting that all people can suffer human rights violations. See on page for more information.
+The belief that men, as a group, receive unearned benefits from society is a stereotype that undermines the protection of men's rights. In some situations, men may receive unearned benefits, but in other situations they do not. An objective assessment of human rights requires accepting that all people can suffer human rights violations. See Prioritisation & Vulnerable
+Groups on page 71 for more information.
 
 ### Human rights issues labelled as women's issues
 
 Labelling certain issues as women's issues creates a barrier for men who are also affected by those issues. The Commission should ensure their work empowers men who are victims of issues predominately affecting women.
 
-For example, the UK Government's categorisation of male victims of family and sexual violence as victims of "violence against women and girls" disempowers male victims. See *Supporting male victims of crimes considered violence against women and girls*^[Supporting Male Victims of Crimes Considered Violence Against Women and Girls]
+For example, the UK Government's categorisation of male victims of family and sexual violence as victims of "violence against women and girls" disempowers male victims. See *Supporting male victims of crimes considered violence against women and girls*\[60]
 
 ##### Example of poor practice:
 
 In *Human Rights in New Zealand; Ngā Tika Tangata O Aotearoa*, the Commission placed sexual violence in the *Women's Rights* section. This meant that an issue for male victims was only mentioned in the women's rights section.
 
-> The availability of culturally appropriate services and services for diverse population groups (including Mäori, Pacific people and ethnic communities, including refugees, people with disabilities, **men** and young people) is uneven and has been identified as a gap in services.^[Human Rights in New Zealand; Ngā Tika Tangata O Aotearoa]
+> The availability of culturally appropriate services and services for diverse population groups (including Mäori, Pacific people and ethnic communities, including refugees, people with disabilities, **men** and young people) is uneven and has been identified as a gap in services.\[10]
 
 ### Lack of knowledge about men's rights
 
 Lack of knowledge about men's rights in the Government, NGOs, and the public creates a barrier to protecting men's human rights. The Commission should work to increase knowledge and expertise about men's rights in the Government, NGOs, and the public.
 
-See , on page , for more.
+See Capacity building, on page 33, for more.
 
 ### Lack of jurisprudence and guidance 
 
-The lack of jurisprudence in men's rights makes protecting men's rights harder. Women's rights has a large body of jurisprudence and guidance that decision makers can draw upon. For example, the Committee on the Elimination of Discrimination against Women has made thirty-nine general recommendations outlining the obligations of States to women and girls. There are no documents specifically outlining States' obligations to men and boys. Similarly, General Comments from the Human Rights Committee^[CCPR General Comment 28] and the Committee on Economic, Social, and Cultural Rights^[CESCR General Comment 16] on equality between women and men overwhelmingly address the State's obligations to women.
+The lack of jurisprudence in men's rights makes protecting men's rights harder. Women's rights has a large body of jurisprudence and guidance that decision makers can draw upon. For example, the Committee on the Elimination of Discrimination against Women has made thirty-nine general recommendations outlining the obligations of States to women and girls. There are no documents specifically outlining States' obligations to men and boys. Similarly, General Comments from the Human Rights Committee\[21] and the Committee on Economic, Social, and Cultural Rights\[65] on equality between women and men overwhelmingly address the State's obligations to women.
 
 The Commission should:
 
@@ -408,11 +409,11 @@ The Commission should:
 
 # Collaboration and cooperation 
 
-Part of the Commission's function is "to consult and co-operate with other persons and bodies concerned with the protection of human rights".^[Section 5 - Human Rights Act 1993] Accordingly, the Commission's Human Rights Policy says "The Commission will engage appropriately with stakeholders and communities so they can be involved in the development of solutions to issues that affect them".^[New Zealand Human Rights Commission - Human Rights Policy Statement]
+Part of the Commission's function is "to consult and co-operate with other persons and bodies concerned with the protection of human rights".\[31] Accordingly, the Commission's Human Rights Policy says "The Commission will engage appropriately with stakeholders and communities so they can be involved in the development of solutions to issues that affect them".\[14]
 
-"Some groups of rights holders do not have well-resourced civil society organisations supporting them and need to be engaged with directly by the Commission."^[Human Rights Commission Governance \& Responsibilities Manual] Men do not have well-resourced civil society organisations, like *The National Council of Women of New Zealand*.
+"Some groups of rights holders do not have well-resourced civil society organisations supporting them and need to be engaged with directly by the Commission."\[19] Men do not have well-resourced civil society organisations, like *The National Council of Women of New Zealand*.
 
-The Commission should 'develop, formalise, and maintain regular, constructive and systematic working relationships"^[General Observations of the Sub-Committee on Accreditation - GANHRI] with men's advocates, and other community groups that are concerned with the needs and well-being of men and/or boys.
+The Commission should 'develop, formalise, and maintain regular, constructive and systematic working relationships"\[62] with men's advocates, and other community groups that are concerned with the needs and well-being of men and/or boys.
 
 The Commission must engage with men and men's advocates to:
 
@@ -435,31 +436,31 @@ The Commission's engagement with men and men's advocates should be *meaningful*.
 -   Including men's "interests, needs and priorities"[^4] in consultations;
 -   Evaluation of the participation process to ensure consultations result in better decisions.
 
-The Global Alliance of National Human Rights Institutions says "meaningful participation... at all levels is important to ensure an understanding of, and access for, a significant proportion of the population."^[General Observations of the Sub-Committee on Accreditation - GANHRI]
+The Global Alliance of National Human Rights Institutions says "meaningful participation... at all levels is important to ensure an understanding of, and access for, a significant proportion of the population."\[62]
 
 ### Poor Practice
 
 In the 2019 UPR cycle, the Commission had a public consultation with the disabled community that excluded disabled men. The Commission describes their consultation with the disabled community:
 
-> People with Disabilities
+> **People with Disabilities**
 > The Commission held two consultations with disabled women in Auckland and Wellington. The key issues raised were low levels of employment, access to education, violence and abuse and data
-> collection.^[New Zealand Human Rights Commission - New Zealand’s Third Universal Periodic Review Submission of New Zealand Human Rights Commission]
+> collection.\[16]
 
 ## Including men in your organisation
 
-The Paris Principles^[Principles relating to the Status of National Institutions (The Paris Principles)] are the minimum standards for National Human Rights Insitutions. The principle of *pluralism* requires NHRIs to reflect broader society. GANRHI highlights the importance of a diverse staff:
+The Paris Principles\[39] are the minimum standards for National Human Rights Insitutions. The principle of *pluralism* requires NHRIs to reflect broader society. GANRHI highlights the importance of a diverse staff:
 
 > A diverse decision-making and staff body facilitates the NHRI's appreciation of, and capacity to engage on, all human rights issues affecting the society in which it operates, and promotes the accessibility of the NHRI for all citizens.
 >
-> Pluralism refers to broader representation of national society. Consideration must be given to ensuring pluralism in the context of gender, ethnicity or minority status.^[General Observations of the Sub-Committee on Accreditation - GANHRI]
+> Pluralism refers to broader representation of national society. Consideration must be given to ensuring pluralism in the context of gender, ethnicity or minority status.\[62]
 
-*A Manual on National Human Rights Institutions* recommends "the composition of the staff, and of any advisory committees or working groups, should reflect the broader community to ensure that the NHRI itself is able to hear the broadest range of voices and views".^[Asia Pacific Forum : A Manual for National Human Rights Institutions] The *Office of the High Commissioner for Human Rights*,^[National Human Rights Institutions : History, principles, roles and responsibilities] the *Committee on Elimination of Discrimination Against Women*^[Statement by the Committee on the Elimination of Discrimination against Women on its relationship with national human rights institutions E/CN.6/2008/CRP.1] and the *Commonwealth Secretariat*^[National Human Right Institutions Best Practice] recommend NHRIs have a gender-balanced staff.
+*A Manual on National Human Rights Institutions* recommends "the composition of the staff, and of any advisory committees or working groups, should reflect the broader community to ensure that the NHRI itself is able to hear the broadest range of voices and views".\[58] The *Office of the High Commissioner for Human Rights*,\[54] the *Committee on Elimination of Discrimination Against Women*\[25] and the *Commonwealth Secretariat*\[73] recommend NHRIs have a gender-balanced staff.
 
 The Commission should aim for a gender-balanced staff and include staff members who *act in the interests* of men and boys. Committees and working groups should also be gender balanced and include members who act in the interests of men and boys.
 
 ## Acting in the interests of men
 
-A man will not necessarily act in men's interests or be an expert on men's human rights. Similarly, experts in men's human rights are not necessarily men. Therefore, gender-balance itself is not sufficient to ensure that men's needs and interests are represented. The Commission should ensure that a significant proportion of its staff, working groups, committees, and consultations, etc. include people acting in men's interests. "Involving stakeholders representing a *diversity of interests* ensures that pluralism is built into the process and that civil society buys into the concept of an NHRI".^[National Human Rights Institutions : History, principles, roles and responsibilities]
+A man will not necessarily act in men's interests or be an expert on men's human rights. Similarly, experts in men's human rights are not necessarily men. Therefore, gender-balance itself is not sufficient to ensure that men's needs and interests are represented. The Commission should ensure that a significant proportion of its staff, working groups, committees, and consultations, etc. include people acting in men's interests. "Involving stakeholders representing a *diversity of interests* ensures that pluralism is built into the process and that civil society buys into the concept of an NHRI".\[54]
 
 # Capacity building 
 
@@ -475,12 +476,12 @@ Commission staff should have a knowledge of men's rights. Without such knowledge
 
 *National Human Rights Institutions Best Practice* says:
 
-> NHRI staff should be properly trained so as to respond sensitively to human rights issues or violations related to sex or gender.^[National Human Right Institutions Best Practice]
+> NHRI staff should be properly trained so as to respond sensitively to human rights issues or violations related to sex or gender.\[73]
 
 *Amman Declaration* says NHRI staff should be trained on gender equality --- which includes the needs of men and boys:
 
 > The NHRIs assembled agreed to the following broad principles and areas of work:
-> Prioritize and mainstream... gender equality throughout all their strategic planning, processes, policies, programmes and activities with a view to establishing sustainable interventions to achieve gender equality. **This would also include developing and implementing training for NHRI members and staff on gender equality** and reviewing their internal structures with a view to achieving gender equality at all levels and in all aspects of their work^[Amman Declaration and Program for Action]
+> Prioritize and mainstream... gender equality throughout all their strategic planning, processes, policies, programmes and activities with a view to establishing sustainable interventions to achieve gender equality. **This would also include developing and implementing training for NHRI members and staff on gender equality** and reviewing their internal structures with a view to achieving gender equality at all levels and in all aspects of their work\[52]
 
 Staff knowledge about men's rights should include:
 
@@ -498,24 +499,24 @@ The Commission can increase it capacity by engaging experts on men's human right
 
 ## Building capacity in Government
 
-The *Paris Principles*^[Principles relating to the Status of National Institutions (The Paris Principles)] state that NHRIs have a responsibility to advise the Government. This is reflected in the Human Rights Act 1993. Part of the role of the Commission is to advise the Government on human rights, "including the desirability of legislative, administrative, or other action to give better protection to human rights and to ensure better compliance with standards laid down in international instruments on human rights".^[Section 5 - Human Rights Act 1993]
+The *Paris Principles*\[39] state that NHRIs have a responsibility to advise the Government. This is reflected in the Human Rights Act 1993. Part of the role of the Commission is to advise the Government on human rights, "including the desirability of legislative, administrative, or other action to give better protection to human rights and to ensure better compliance with standards laid down in international instruments on human rights".\[31]
 
 *A Manual on National Human Rights Institutions* says:
 
 > NHRIs' advice can be directed to "the Government, Parliament and any other competent body".
 > "Government" and "Parliament" are clear enough. "Government" includes individual ministers as well
 > as the Government collectively and it should also include ministries, departments and government
-> agencies, including the police, prison authorities and the armed forces, unless the legislation exempts any of them from the jurisdiction of the NHRI. "Parliament" will include parliamentary committees, parliamentary officers and other parts of the parliamentary structure. It should also include individual members of parliament and the parliamentary leaders of political parties.^[Asia Pacific Forum : A Manual for National Human Rights Institutions]
+> agencies, including the police, prison authorities and the armed forces, unless the legislation exempts any of them from the jurisdiction of the NHRI. "Parliament" will include parliamentary committees, parliamentary officers and other parts of the parliamentary structure. It should also include individual members of parliament and the parliamentary leaders of political parties.^\[48]
 
 The Commission should include men's human rights in their advice to the Government. Including:
 
--   Informing the Government on it's obligations to men under international human rights instruments. For example, \"identify whether relevant laws are aligned with their human rights obligations and are being effectively enforced...\"^[Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework], and to ensure men equally enjoy their rights with women;
+-   Informing the Government on it's obligations to men under international human rights instruments. For example, \"identify whether relevant laws are aligned with their human rights obligations and are being effectively enforced...\"\[41], and to ensure men equally enjoy their rights with women;
 -   Explaining the consequences of law and policy on men and boys;
 -   Identifying where Government policy violates men's human rights.
 
 ## Building public & civil society capacity 
 
-The Commission should work to increase the capacity of the public and civil society to understand and advocate for men's rights. "NHRIs should provide technical training and expertise to help build the capacity of other democratic institutions".^[National Human Right Institutions Best Practice]
+The Commission should work to increase the capacity of the public and civil society to understand and advocate for men's rights. "NHRIs should provide technical training and expertise to help build the capacity of other democratic institutions".\[73]
 
 In the *Amman Declaration* NHRIs agreed to:
 
@@ -543,17 +544,17 @@ It can do this by, for example:
 -   Collaborating with other NHRIs to raise men's rights issues in regional and international forums;
 -   Encourage other NHRIs to ensure men's rights issues are part of their work.
 
-See Chapter [8](#reporting), , on page , for more information.
+See Chapter 8, Reporting, on page 61, for more information.
 
 The *Amman Declaration* says NHRIs have agreed to promote gender equality (which includes the needs and interests of men and boys) in their international and regional work:
 
 > The NHRIs assembled agreed to the following broad principles and areas of work...
 
-> Prioritize and promote\... gender equality through their engagement with all international and regional human rights mechanisms, and in their engagement with global processes such as the post-2015 development agenda, the ICPD Beyond 2014 Global Review, the Beijing Platform of Action, and the Vienna Programme of Action;^[Amman Declaration and Program for Action]
+> Prioritize and promote\... gender equality through their engagement with all international and regional human rights mechanisms, and in their engagement with global processes such as the post-2015 development agenda, the ICPD Beyond 2014 Global Review, the Beijing Platform of Action, and the Vienna Programme of Action;\[52]
 
 # Monitoring & Investigations 
 
-> On a general level, the idea of measuring human rights is inspired by the thinking, once well summed up by the eminent development thinker and practitioner J.K. Galbraith, that **"if it is not counted, it tends not to be noticed."** ^[Human Rights Indicators - A Guide to Measurement and Implementation]
+> On a general level, the idea of measuring human rights is inspired by the thinking, once well summed up by the eminent development thinker and practitioner J.K. Galbraith, that **"if it is not counted, it tends not to be noticed."** \[42]
 
 The Human Rights Act 1993 requires the Commission to monitor the Government's compliance with international human rights instruments. These instruments identify men's right to equality, non-discrimination, and "equal and effective protection against discrimination".
 
@@ -571,11 +572,11 @@ Article 3 --- The States Parties to the present Covenant undertake to ensure the
 
 Article 26 --- All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
 
-The *Human Rights Committee* emphasises the importance of equal enjoyment of civil and political rights in *General Comment 28*^[CCPR General Comment 28]:
+The *Human Rights Committee* emphasises the importance of equal enjoyment of civil and political rights in *General Comment 28*\[21]:
 
 > Article 3 implies that all human beings should enjoy the rights provided for in the Covenant, on an equal basis and in their totality. The full effect of this provision is impaired whenever any person is denied the full and equal enjoyment of any right. Consequently, States should ensure to men and women equally the enjoyment of all rights provided for in the Covenant.[^5]
 
-The *Committee On Economic, Social and Cultural Rights* highlights the cross-cutting nature of equal enjoyment of rights in *General Comment 16*^[CESCR General Comment 16]:
+The *Committee On Economic, Social and Cultural Rights* highlights the cross-cutting nature of equal enjoyment of rights in *General Comment 16*\[65]:
 
 > Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.[^6]
 
@@ -594,7 +595,7 @@ The *Manual on Human Rights Monitoring* says a gender perspective ensures that a
 
 > Integrating gender implies a **proactive** attitude of looking at and analysing how situations affect women, girls, men and boys differently. It is also about making such differences **visible** throughout the monitoring cycle. *Emphasis in original*
 
-When the Commission detects and reports on these differences, it allows duty-bearers to address the human rights issues for men and boys. "A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations."^[Integrating a Gender Perspective into Human Rights Investigations: Guidance and Practice]
+When the Commission detects and reports on these differences, it allows duty-bearers to address the human rights issues for men and boys. "A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations."^\[43]
 
 ### Avoid making false assumptions
 
