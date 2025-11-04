@@ -1291,7 +1291,7 @@ The *Manual on Human Rights Monitoring* has a checklist to ensure that gender, a
 | One father said that two weeks' paid parental leave on the birth of a child would be ideal... This would enable mothers to return to work and fathers to be primary caregivers early in a child's life. | One father said that two weeks' paid parental leave on the birth of a child would be ideal... This would enable fathers to be primary caregivers early in a child's life and mothers to return to work. | Focusing on fathers, in a section about fathers.                                   |
 | Men's Health: Men tend to have higher mortality rates\... Women, on the other hand, tend to have higher morbidity rates, especially as they age.                                                        | Men's Health: Men tend to have higher mortality rates... Men tend to have lower morbidity rates, especially as they age.                                                                                | Focusing on men in the men's health section.                                       |
 
-> Examples of minimising language: Quotes adapted from the Commission's 2010 report: *Human Rights in New Zealand; Ngā Tika Tangata O Aotearoa*
+Table 8.1: Examples of minimising language: Quotes adapted from the Commission's 2010 report: *Human Rights in New Zealand; Ngā Tika Tangata O Aotearoa*
 
 
 # Chapter 9 - Prioritisation & Vulnerable Groups 
