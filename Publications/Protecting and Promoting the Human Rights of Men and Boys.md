@@ -8,7 +8,7 @@ date: 2024-12-16
 
 *Protecting and Promoting the Human Rights of Men and Boys: Guidelines for Te Kāhui Tika Tangata Human Rights Commission* © 2024 by Iain Fergusson is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
-# Introduction
+# Chapter 1 - Introduction
 
 This report will help the Human Rights Commission achieve its goals and perform its functions. It refers to a wide range of guidance documents for human rights organisations, including National Human Rights Insitutions (see Bibliography for the complete list of documents).
 
@@ -70,7 +70,7 @@ These recommendations do not replace the recommendations and guidance included i
 
 5.  Ensure communications are sensitive to men and men's right's issues;
 
-# Human rights principles
+# Chapter 2 - Human rights principles
 
 The Commission wants to be an example of human rights. This means adhering to human rights principles such as universality, non-discrimination, and equality.
 
@@ -125,7 +125,7 @@ The *Committee on the Elimination of Discrimination against Women* expects NHRIs
 
 The principle of substantive equality requires the Commission to address the disadvantages faced by men and boys in their work. For example, the Commission is required to monitor CEDAW, which means regularly reviewing women's rights. The Commission does not regularly review men's rights. This creates a disadvantage for men that the Commission should address.
 
-# Gender Mainstreaming 
+# Chapter 3 - Gender Mainstreaming 
 
 Gender mainstreaming is the practical application of the principle of gender equality. "It is a strategy for making women's as well as men's concerns and experiences an integral dimension of the design, implementation, monitoring and evaluation of policies and programmes... so that women and men benefit equally".\[26]
 
@@ -211,10 +211,10 @@ The Commission should be proactive in protecting and promoting men's rights. "In
 To be proactive, the commission should:
 
 -   Explicitly include men's rights in all stages, from planning to implementation to review.
--   Reach out to men's advocates for collaboration, and expertise (see , on page , for more);
+-   Reach out to men's advocates for collaboration, and expertise (see Collaboration and cooperation, on page 29, for more);
 -   Take responsibility for engaging with men's advocates. If men's advocates do not want to engage then that is something the Commission should overcome, not just accept;
 -   Identifying shortcomings in the Commission's protection and promotion of men's rights, and address them;
--   Supporting civil society to advocate for men's rights (see , on page , for more).
+-   Supporting civil society to advocate for men's rights (see Building public & civil society capacity, on page 35, for more).
 
 ##### Continuous process:
 
@@ -231,7 +231,7 @@ Protecting and promoting men's rights requires long-term commitment. The inclusi
 
 The Commission should be consistent with including men in their work. \"What strategies are in place to ensure that gender considerations are consistently integrated into the NHRI's work on an ongoing basis?\"\[26]
 
-# Removing Barriers 
+# Chapter 4 - Removing Barriers 
 
 The first step is to remove any barriers that prevent the Commission from including men and boys in its work. Ensuring that men and boys are included means that existing resources are used more effectively. Some progress can be made with little additional effort, but the Commission will need to allocate resources to address significant discrimination or barriers to the inclusion of men and boys.
 
@@ -248,7 +248,7 @@ The Commission's systems must be sensitive enough to identify gender-related hum
 -   Track changes in men's human rights over time;
 -   Maintain staff's knowledge of men's human rights issues;
 
-Even with the best intentions, without these measures the Commission cannot detect men's rights issues. See , on page , for more.
+Even with the best intentions, without these measures the Commission cannot detect men's rights issues. See Gender sensitive monitoring, on page 38, for more.
 
 To be effective in detecting human rights issues for men, the Commission should:
 
@@ -289,7 +289,7 @@ Leadership and staff should be able to answer basic questions, such as:
 -   Who is the best person in government to approach about men's rights issues?
 -   Who is the Commission staff member responsible for men's rights?
 
-See , on page for more information.
+See **Staff expertise**, on page 33 for more information.
 
 ### Accessibility
 
@@ -407,7 +407,7 @@ The Commission should:
 -   Identify existing jurisprudence and guidance on men's rights and refer to it in its reports and advice to make it more widely known;
 -   Identify and take advantage of opportunities likely to create jurisprudence and guidance for men's rights.
 
-# Collaboration and cooperation 
+# Chapter 5 - Collaboration and cooperation 
 
 Part of the Commission's function is "to consult and co-operate with other persons and bodies concerned with the protection of human rights".\[31] Accordingly, the Commission's Human Rights Policy says "The Commission will engage appropriately with stakeholders and communities so they can be involved in the development of solutions to issues that affect them".\[14]
 
@@ -462,7 +462,7 @@ The Commission should aim for a gender-balanced staff and include staff members 
 
 A man will not necessarily act in men's interests or be an expert on men's human rights. Similarly, experts in men's human rights are not necessarily men. Therefore, gender-balance itself is not sufficient to ensure that men's needs and interests are represented. The Commission should ensure that a significant proportion of its staff, working groups, committees, and consultations, etc. include people acting in men's interests. "Involving stakeholders representing a *diversity of interests* ensures that pluralism is built into the process and that civil society buys into the concept of an NHRI".\[54]
 
-# Capacity building 
+# Chapter 6 - Capacity building 
 
 The Commission should improve its capacity to protect and promote men's rights, as well as supporting others to constructively engage with men's rights issues.
 
@@ -495,7 +495,8 @@ Staff knowledge about men's rights should include:
 
 ##### Engagement with experts on men's rights:
 
-The Commission can increase it capacity by engaging experts on men's human rights issues. See , on page , for more details.
+The Commission can increase it capacity by engaging experts on men's human rights issues. See
+Collaboration and cooperation, on page 29, for more details.
 
 ## Building capacity in Government
 
@@ -552,7 +553,7 @@ The *Amman Declaration* says NHRIs have agreed to promote gender equality (which
 
 > Prioritize and promote\... gender equality through their engagement with all international and regional human rights mechanisms, and in their engagement with global processes such as the post-2015 development agenda, the ICPD Beyond 2014 Global Review, the Beijing Platform of Action, and the Vienna Programme of Action;\[52]
 
-# Monitoring & Investigations 
+# Chapter 7 - Monitoring & Investigations 
 
 > On a general level, the idea of measuring human rights is inspired by the thinking, once well summed up by the eminent development thinker and practitioner J.K. Galbraith, that **"if it is not counted, it tends not to be noticed."** \[42]
 
@@ -1072,7 +1073,7 @@ The *Manual on Human Rights Monitoring* says:
 
 > Whenever appropriate, and with the informed consent of the individuals concerned, for the people they come into contact with HROs should facilitate access to structures and organizations that can provide psycho-social support, legal aid, shelter, physical protection, health care services, etc. This entails mapping existing referral pathways or networks, and establishing contacts with these organizations and services in advance so as to be in a position to advise on how to access them and to facilitate contact when needed. Coordination with other actors is thus essential to ensuring a wider availability of services, but also to ensuring that a referral respects confidentiality and protects the security of the individuals assisted.\[57]
 
-# Reporting 
+# Chapter 8 - Reporting 
 
 In this section 'reports' and 'reporting' include submissions to the United Nations or Government, advice and guidelines, media releases, social media posts, etc.
 
@@ -1175,7 +1176,7 @@ The Commission's reports should focus on men as *rights-holders*. Focussing on m
 -   Avoiding stereotypes (see below);
 -   Using language that empowers men.
 
-The Commission should avoid language that minimises the issues faced by men. ee Table 8.1 on page 70
+The Commission should avoid language that minimises the issues faced by men. See Table 8.1 on page 70
 
 ### Avoid Stereotypes
 
@@ -1293,7 +1294,7 @@ The *Manual on Human Rights Monitoring* has a checklist to ensure that gender, a
 > Examples of minimising language: Quotes adapted from the Commission's 2010 report: *Human Rights in New Zealand; Ngā Tika Tangata O Aotearoa*
 
 
-# Prioritisation & Vulnerable Groups 
+# Chapter 9 - Prioritisation & Vulnerable Groups 
 
 The Commission should prioritise individuals and groups that are vulnerable to human rights violations. In a human rights context, vulnerability means individuals or groups:
 
@@ -1341,7 +1342,7 @@ For example, women have many mechanisms that men lack:
 -   Women's Health Strategy
 -   Women's Equality Strategy
 -   Convention on the Elimination of All Forms of Discrimination against Women
--   Jurisprudence and guidance explicitly recognising women's rights. See also on page
+-   Jurisprudence and guidance explicitly recognising women's rights. See also Lack of jurisprudence and guidance on page 27
 -   UN Women;
 
 ##### Poorer visibility of men's rights issues:
@@ -1357,7 +1358,7 @@ Men and boys are more vulnerable to human rights violations if people have attit
 
 For example, if people believe that men's disadvantages are normal or natural or that men cannot be discriminated against, they are unlikely to recognise violations against men.
 
-See on page for more information.
+See Attitudes that devalue men’s rights on page 25 for more information
 
 ##### Cognitive bias:
 
@@ -1376,7 +1377,7 @@ People are also less willing to address discrimination against men. Sinclair\[74
 
 Men are more vulnerable to the human rights violations that occur in the prison system because they make up the vast majority of prisoners.
 
-See Removing Barriers on page 21 for more information about potential
+See [Removing Barriers on page 21](#Removing Barriers) for more information about potential
 vulnerabilities.
 
 ## Following human rights principles
@@ -1405,7 +1406,7 @@ The Commission should engage with right-holders when deciding priorities. The Co
 
 The Commission should be accountable to rights-holders. If the process of developing its priorities or the decisions about priorities negatively affect some rights-holders, those rights holders should have a means of redress.
 
-# Accountability 
+# Chapter 10 - Accountability 
 
 The Commission has "two levels of accountability, one to the State and one to the public".\[54] Part of the Commission's accountability to the public is the responsibility to men and boys. The Commission's board must "put in place principles and policies that\... ensure the Commission is transparent, effective and *accountable to stakeholders*, including the Minister and the public.\[19]
 
@@ -1463,7 +1464,7 @@ The Commission should have regular independent reviews.
 
 Remedy means making changes to make things right. Chapter [1.2](#reccomendations) gives selected recommendations for the Commission to correct shortcomings and improve its work with men and boys. These do not replace the guidance provided in the body of this report.
 
-The Commission should collaborate with men and men's advocates when making changes. See Chapter 5, Collaboration and cooperation on page 29.
+The Commission should collaborate with men and men's advocates when making changes. See [Chapter 5 - Collaboration and cooperation on page 29](#Chapter 5 - Collaboration and cooperation).
 
 # Bibliography
 [1] Paula Bennett. Speech to HRINZ: The reason for the Gender Pay Gap. https://www.beehive.govt.nz/speech/speech-hrinz-reason-gender-pay-gap. Accesed 8 Oct 2016.
