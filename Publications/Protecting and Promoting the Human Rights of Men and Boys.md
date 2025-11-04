@@ -8,10 +8,6 @@ date: 2024-12-16
 
 *Protecting and Promoting the Human Rights of Men and Boys: Guidelines for Te Kāhui Tika Tangata Human Rights Commission* © 2024 by Iain Fergusson is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
-The author can be contacted at:
-
-     iain.m.fergusson@gmail.com
-
 # Introduction
 
 This report will help the Human Rights Commission achieve its goals and perform its functions. It refers to a wide range of guidance documents for human rights organisations, including National Human Rights Insitutions (see Bibliography for the complete list of documents).
@@ -28,13 +24,13 @@ The Government has obligations to respect, protect, and fulfil human rights. The
 
 Protecting and promoting the rights of men and boys means applying human rights norms, principles, and standards. This is often called a *human-rights-based approach*.
 
-This report explicitly states how human rights norms, principles, and standards apply to men and boys. This is needed because "sometimes even human rights practitioners find it difficult to link these concepts with implementation practices"^[Human Rights Indicators - A Guide to Measurement and Implementation]. For example, *National Human Rights Institutions Best Practice* says "NHRIs should assume special responsibility in responding to human rights violations suffered on account of sex or gender."^[National Human Right Institutions Best Practice] This report explains the Commission's responsibility for men and boys.
+This report explicitly states how human rights norms, principles, and standards apply to men and boys. This is needed because "sometimes even human rights practitioners find it difficult to link these concepts with implementation practices"\[42]. For example, *National Human Rights Institutions Best Practice* says "NHRIs should assume special responsibility in responding to human rights violations suffered on account of sex or gender."\[73] This report explains the Commission's responsibility for men and boys.
 
 ## Language used in this report
 
 Sex and gender are not the same thing. However, this report uses sex and gender interchangeably because most of the issues raised in this report apply to both sex and gender.
 
-Various definitions of the term 'man' exist. This report uses the term 'man' to include most definitions of 'man' for easier reading. Similarly, in most cases, the term 'man / men' includes 'boy / boys'.
+Various definitions of the term 'man' exist. This report uses the term 'man' to include most definitions of 'man' for easier reading. Similarly, in most cases, the term 'man/men' includes 'boy/boys'.
 
 The term \"men's rights\" refers to:
 
@@ -56,19 +52,19 @@ These recommendations do not replace the recommendations and guidance included i
 
 2.  Explicitly include men in Commission policy by having policy to ensure:
 
-    1.  men's issues are monitored;
-    2.  reports, submissions, advice etc. include men and boys; and
-    3.  the National Plan of Action includes men's rights.
+    - (a) men's issues are monitored;
+    - (b) reports, submissions, advice etc. include men and boys; and
+    - (c) the National Plan of Action includes men's rights.
 
 3.  Form relationships with men's experts and advocates:
 
-    1.  Create and maintain a directory of men's experts, advocates, and service providers; and
-    2.  Regularly engage men's advocates and experts.
+    - (a)  Create and maintain a directory of men's experts, advocates, and service providers; and
+    - (b) Regularly engage men's advocates and experts.
 
 4.  Build capacity to address men's rights issues:
 
-    1.  Train staff on men's rights issues;
-    2.  Maintain institutional knowledge on men's rights;
+    - (a) Train staff on men's rights issues;
+    - (b) Maintain institutional knowledge on men's rights;
         -   Conduct a baseline review of men's rights;
         -   Maintain an accessible database or library of relevant information on men's rights issues.
 
@@ -80,9 +76,9 @@ The Commission wants to be an example of human rights. This means adhering to hu
 
 ## Universality
 
-Human rights apply to everyone. That is, "all people, everywhere, are entitled to the same fundamental rights and freedoms".^[Human Rights Commission Governance \& Responsibilities Manual] *A Manual on National Human Rights Institutions* explains:
+Human rights apply to everyone. That is, "all people, everywhere, are entitled to the same fundamental rights and freedoms".\[19] *A Manual on National Human Rights Institutions* explains:
 
-> The core international human rights treaties, including the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights, also affirm that the rights they contain apply to all persons, without distinction of any kind, and expressly guarantee the right of all people to the equal enjoyment of those rights, regardless of sex.^[Asia Pacific Forum : A Manual for National Human Rights Institutions]
+> The core international human rights treaties, including the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights, also affirm that the rights they contain apply to all persons, without distinction of any kind, and expressly guarantee the right of all people to the equal enjoyment of those rights, regardless of sex.\[48]
 
 ### Gender stereotypes
 
@@ -90,7 +86,7 @@ Gender stereotypes are generalised preconceptions about men and/or women. They c
 
 Stereotypical thinking can lead to seeing something as normal or natural, or 'just the way things are'. *Gender Stereotyping as a Human Rights Violation* explains how relying on gender stereotypes can affect people's human rights:
 
-> The harm is caused by the application of a stereotypical belief to an individual (e.g., through a state enforcing a gender stereotype into a law) in such a way as to negatively affect the recognition, exercise, or enjoyment of their rights and freedoms.^[Gender Stereotyping as a Human Rights Violation]
+> The harm is caused by the application of a stereotypical belief to an individual (e.g., through a state enforcing a gender stereotype into a law) in such a way as to negatively affect the recognition, exercise, or enjoyment of their rights and freedoms.\[23]
 
 Commission staff should be aware of their biases and how it affects their work with men and boys. *Integrating a Gender Perspective into Human Rights Investigations* explains that biases and stereotypes can lead us to overlook important information:
 
@@ -547,7 +543,7 @@ It can do this by, for example:
 -   Collaborating with other NHRIs to raise men's rights issues in regional and international forums;
 -   Encourage other NHRIs to ensure men's rights issues are part of their work.
 
-See Chapter [8](#reporting){reference-type="ref" reference="reporting"}, , on page , for more information.
+See Chapter [8](#reporting), , on page , for more information.
 
 The *Amman Declaration* says NHRIs have agreed to promote gender equality (which includes the needs and interests of men and boys) in their international and regional work:
 
@@ -743,7 +739,7 @@ The Commission should conduct a baseline survey of the human rights situation fo
 
 The Commission should have a system to maintain institutional knowledge of men's rights as part of their monitoring practice. This is essential for monitoring progressive realisation of rights. The Commission should have a system to ensure that leadership and staff can access the accumulated knowledge on men's rights.
 
-See Chapter [6](#capacity_building){reference-type="ref" reference="capacity_building"}, , on page for more information.
+See Chapter [6](#capacity_building), , on page for more information.
 
 ## Monitoring gender equality for men
 
@@ -1182,7 +1178,7 @@ The Commission's reports should focus on men as *rights-holders*. Focussing on m
 -   Avoiding stereotypes (see below);
 -   Using language that empowers men.
 
-The Commission should avoid language that minimises the issues faced by men. See Table [8.1](#table:lang){reference-type="ref" reference="table:lang"} on page
+The Commission should avoid language that minimises the issues faced by men. See Table [8.1] on page
 
 ### Avoid Stereotypes
 
@@ -1467,7 +1463,7 @@ The Commission should have regular independent reviews.
 
 ## Remedy
 
-Remedy means making changes to make things right. Chapter [1.2](#reccomendations){reference-type="ref" reference="reccomendations"} gives selected recommendations for the Commission to correct shortcomings and improve its work with men and boys. These do not replace the guidance provided in the body of this report.
+Remedy means making changes to make things right. Chapter [1.2](#reccomendations) gives selected recommendations for the Commission to correct shortcomings and improve its work with men and boys. These do not replace the guidance provided in the body of this report.
 
 The Commission should collaborate with men and men's advocates when making changes. See Chapter [5](#collaboration_and_cooperation), on page .
 
