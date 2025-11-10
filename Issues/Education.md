@@ -27,11 +27,26 @@ The National Monitoring Study of Student Achievement shows the difference in ave
 
 Secondary school students work towards the National Certificate of Educational Achievement (NCEA). NCEA has three levels of certificate, depending on the difficulty of the standards. Overall achievement rates for students are increasing but boys lag behind girls at all NCEA levels. Fewer boys attain NCEA in the expected year of schooling (e.g. level 1 in year 11) and fewer boys attain each NCEA level before they leave school. The largest gap is for NCEA level 3. In 2016 60.3% girls achieved level 3 while only 47.7% of boys did. A 12.6 percentage point difference.
 
-In the Programme for International Student Assessment(PISA), boys are more likely to perform below the baseline reading standard and less likely to be a top performer, compared to girls.
+
 
 Secondary school boys are over-represented in the lowest achievers and under-represented in the highest achievers, compared to girls. This has been consistent for at least a decade
 
 > “For female school leavers in 2019, NCEA Level 2 attainment (81%) was higher than for their male counterparts (76%). **This may indicate the importance of literacy for overall performance in NCEA**”[^7]
+
+#### PISA
+In the Programme for International Student Assessment(PISA), boys are more likely to perform below the baseline reading standard and less likely to be a top performer, compared to girls.
+![[PISA 22 Reading.svg]]
+In Mathematics, on average boys outperform girls, but the lowest scoring 10% of boys score lower than the lowest 10% of girls.
+![[PISA 22 Maths.svg]]
+
+In Science, on average, boys and girls perform the same, however lowest scoring 10% of boys score lower than the lowest 10% of girls. The reverse is true for the highest 10% of boys and girls.
+
+![[PISA 22 Science.svg]]
+There are more boys who are low performers than girls in each subject.
+![[PISA 22 Low performers.svg]]
+There are fewer boys than girls who are the top performers in reading. For science and maths the are more boys than girls who are top performers.
+![[PISA 22 Top performers.svg]]
+
 #### Dropping out, suspensions and expulsions
 
 Secondary Schools have four levels of consequences for bad behaviour. Stand-downs (least severe), suspensions, exclusion and expulsion (most severe). In 2016, boys received 3 times as many stand downs and suspensions, 3.3 times as many exclusions and 3.6 times as many expulsions, compared to girls. Fewer boys than girls stay in school until 17 (81.0% vs 86.3%). [^8]

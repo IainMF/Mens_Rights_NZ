@@ -1,63 +1,552 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="160mm" height="90mm" viewBox="0 0 16000 9000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
- <path fill="rgb(255,255,255)" stroke="none" d="M 7987,8986 L -13,8986 -13,-13 15986,-13 15986,8986 7987,8986 Z "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 8533,7376 L 1704,7376 1704,2703 15363,2703 15363,7376 8533,7376 Z "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1704,2702 L 1704,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 3655,2702 L 3655,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 5606,2702 L 5606,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 7558,2702 L 7558,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 9508,2702 L 9508,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 11460,2702 L 11460,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 13411,2702 L 13411,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 15363,2702 L 15363,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1554,7375 L 1704,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1554,7375 L 1704,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1554,5817 L 1704,5817 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1554,5817 L 1704,5817 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1554,4260 L 1704,4260 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1554,4260 L 1704,4260 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1554,2702 L 1704,2702 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1554,2702 L 1704,2702 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1704,7375 L 1704,2702 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1704,7525 L 1704,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1704,7525 L 1704,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 3655,7525 L 3655,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 3655,7525 L 3655,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 5606,7525 L 5606,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 5606,7525 L 5606,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 7558,7525 L 7558,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 7558,7525 L 7558,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 9508,7525 L 9508,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 9508,7525 L 9508,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 11460,7525 L 11460,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 11460,7525 L 11460,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 13411,7525 L 13411,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 13411,7525 L 13411,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 15363,7525 L 15363,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 15363,7525 L 15363,7375 "/>
- <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1704,7375 L 15363,7375 "/>
- <path fill="rgb(255,109,109)" stroke="none" d="M 1704,7115 L 1704,6596 12802,6596 12802,7115 1704,7115 Z "/>
- <path fill="rgb(255,109,109)" stroke="none" d="M 1704,5557 L 1704,5038 8076,5038 8076,5557 1704,5557 Z "/>
- <path fill="rgb(255,109,109)" stroke="none" d="M 1704,4000 L 1704,3481 9020,3481 9020,4000 1704,4000 Z "/>
- <path fill="rgb(114,159,207)" stroke="none" d="M 1704,6596 L 1704,6076 13055,6076 13055,6596 1704,6596 Z "/>
- <path fill="rgb(114,159,207)" stroke="none" d="M 1704,5038 L 1704,4518 11486,4518 11486,5038 1704,5038 Z "/>
- <path fill="rgb(114,159,207)" stroke="none" d="M 1704,3481 L 1704,2961 10301,2961 10301,3481 1704,3481 Z "/>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="594" y="6717"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="859" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Maths</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="308" y="5159"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1146" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Reading</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="385" y="3602"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1069" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Science</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1490" y="7943"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="429" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">0.0</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3441" y="7943"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="429" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">5.0</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5306" y="7943"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="601" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">10.0</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="7258" y="7943"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="601" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">15.0</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9208" y="7943"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="601" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">20.0</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="11160" y="7943"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="601" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">25.0</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="13111" y="7943"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="601" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">30.0</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="15063" y="7943"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="601" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">35.0</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3754" y="839"><tspan font-family="Liberation Serif, serif" font-size="459px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="8467" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Percentage of students who are low perfromers</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6994" y="1787"><tspan font-family="Liberation Serif, serif" font-size="459px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1986" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">PISA 2022</tspan></tspan></tspan></text>
- <path fill="rgb(255,109,109)" stroke="none" d="M 8217,8791 L 8111,8791 8111,8580 8322,8580 8322,8791 8217,8791 Z "/>
- <path fill="rgb(114,159,207)" stroke="none" d="M 6965,8791 L 6860,8791 6860,8580 7071,8580 7071,8791 6965,8791 Z "/>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="7171" y="8805"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="707" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Boys</tspan></tspan></tspan></text>
- <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="8422" y="8805"><tspan font-family="Liberation Serif, serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="687" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Girls</tspan></tspan></tspan></text>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="160mm"
+   height="90mm"
+   viewBox="0 0 16000 9000"
+   version="1.1"
+   stroke-width="28.222"
+   stroke-linejoin="round"
+   xml:space="preserve"
+   id="svg86"
+   sodipodi:docname="PISA 22 Low performers.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs86"><pattern
+     inkscape:collect="always"
+     xlink:href="#Strips1_1.5"
+     preserveAspectRatio="xMidYMid"
+     id="pattern126"
+     patternTransform="matrix(19.485585,11.249977,-11.249977,19.485585,12350,10889)"
+     x="0"
+     y="0" /><pattern
+     inkscape:collect="always"
+     patternUnits="userSpaceOnUse"
+     width="2.5"
+     height="1"
+     patternTransform="translate(0,0) scale(2,2)"
+     preserveAspectRatio="xMidYMid"
+     id="Strips1_1.5"
+     style="fill:#000000"
+     inkscape:stockid="Stripes 02 (2:3)"
+     inkscape:isstock="true"
+     inkscape:label="Stripes 02 (2:3)">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="-0.5"
+   width="1"
+   height="2"
+   id="rect140" />
+    </pattern><pattern
+     inkscape:collect="always"
+     xlink:href="#pattern126-7"
+     preserveAspectRatio="xMidYMid"
+     id="pattern88"
+     patternTransform="matrix(19.485586,11.249977,-11.249977,19.485586,9198.1119,5004.3576)" /><pattern
+     inkscape:collect="always"
+     xlink:href="#Strips1_1.5-1"
+     preserveAspectRatio="xMidYMid"
+     id="pattern126-7"
+     patternTransform="matrix(19.485585,11.249977,-11.249977,19.485585,10010,4955)"
+     x="0"
+     y="0" /><pattern
+     inkscape:collect="always"
+     patternUnits="userSpaceOnUse"
+     width="2.5"
+     height="1"
+     patternTransform="translate(0,0) scale(2,2)"
+     preserveAspectRatio="xMidYMid"
+     id="Strips1_1.5-1"
+     style="fill:#000000"
+     inkscape:stockid="Stripes 02 (2:3)"
+     inkscape:isstock="true"
+     inkscape:label="Stripes 02 (2:3)">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="-0.5"
+   width="1"
+   height="2"
+   id="rect140-1" />
+    </pattern></defs><sodipodi:namedview
+   id="namedview86"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   inkscape:zoom="1.0906713"
+   inkscape:cx="160.91007"
+   inkscape:cy="178.78897"
+   inkscape:window-width="1920"
+   inkscape:window-height="1004"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg86" />
+ 
+ 
+ 
+ <path
+   fill="none"
+   stroke="#b3b3b3"
+   stroke-linejoin="round"
+   d="M 3655,2702 V 7525"
+   id="path4"
+   style="stroke-width:10.00000011;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+ <path
+   fill="none"
+   stroke="#b3b3b3"
+   stroke-linejoin="round"
+   d="M 5606,2702 V 7525"
+   id="path5"
+   style="stroke-width:10.00000011;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+ <path
+   fill="none"
+   stroke="#b3b3b3"
+   stroke-linejoin="round"
+   d="M 7558,2702 V 7525"
+   id="path6"
+   style="stroke-width:10.00000011;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+ <path
+   fill="none"
+   stroke="#b3b3b3"
+   stroke-linejoin="round"
+   d="M 9508,2702 V 7525"
+   id="path7"
+   style="stroke-width:10.00000011;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+ <path
+   fill="none"
+   stroke="#b3b3b3"
+   stroke-linejoin="round"
+   d="M 11460,2702 V 7525"
+   id="path8"
+   style="stroke-width:10.00000011;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+ <path
+   fill="none"
+   stroke="#b3b3b3"
+   stroke-linejoin="round"
+   d="M 13411,2702 V 7525"
+   id="path9"
+   style="stroke-width:10.00000011;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 15363,2702 L 15363,7375 "
+   id="path10" />
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 1554,7375 L 1704,7375 "
+   id="path11"
+   style="stroke-width:19.99999996;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stop-color:#000000;stop-opacity:1" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 1554,5817 L 1704,5817 "
+   id="path13"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none;font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stop-color:#000000;stop-opacity:1" />
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 1554,4260 L 1704,4260 "
+   id="path15"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none;font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stop-color:#000000;stop-opacity:1" />
+ <path
+   fill="rgb(255,109,109)"
+   stroke="none"
+   d="M 1704,7115 L 1704,6596 12802,6596 12802,7115 1704,7115 Z "
+   id="path86"
+   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 1554,2702 L 1704,2702 "
+   id="path17"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none;font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stop-color:#000000;stop-opacity:1" />
+ 
+ <path
+   fill="rgb(255,109,109)"
+   stroke="none"
+   d="M 1704,5557 L 1704,5038 8076,5038 8076,5557 1704,5557 Z "
+   id="path87"
+   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 1704,7525 L 1704,7375 "
+   id="path20"
+   style="stroke-width:19.99999996;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stop-color:#000000;stop-opacity:1" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 15363,7525 L 15363,7375 "
+   id="path34" />
+ 
+ 
+ <path
+   fill="rgb(255,109,109)"
+   stroke="none"
+   d="M 1704,4000 L 1704,3481 9020,3481 9020,4000 1704,4000 Z "
+   id="path88"
+   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /><path
+   fill="rgb(255,109,109)"
+   stroke="none"
+   d="M 1704,7115 L 1704,6596 12802,6596 12802,7115 1704,7115 Z "
+   id="path37"
+   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#pattern126);fill-opacity:1;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+ <path
+   fill="rgb(255,109,109)"
+   stroke="none"
+   d="M 1704,5557 L 1704,5038 8076,5038 8076,5557 1704,5557 Z "
+   id="path38"
+   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#pattern126);fill-opacity:1;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+ <path
+   fill="rgb(255,109,109)"
+   stroke="none"
+   d="M 1704,4000 L 1704,3481 9020,3481 9020,4000 1704,4000 Z "
+   id="path39"
+   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#pattern126);fill-opacity:1;stroke:none;stroke-width:28.22200007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+ <path
+   fill="rgb(114,159,207)"
+   stroke="none"
+   d="M 1704,6596 L 1704,6076 13055,6076 13055,6596 1704,6596 Z "
+   id="path40"
+   style="fill:#000000;fill-opacity:1" />
+ <path
+   fill="rgb(114,159,207)"
+   stroke="none"
+   d="M 1704,5038 L 1704,4518 11486,4518 11486,5038 1704,5038 Z "
+   id="path41"
+   style="fill:#000000;fill-opacity:1" />
+ <path
+   fill="rgb(114,159,207)"
+   stroke="none"
+   d="M 1704,3481 L 1704,2961 10301,2961 10301,3481 1704,3481 Z "
+   id="path42"
+   style="fill:#000000;fill-opacity:1" /><path
+   fill="none"
+   stroke="rgb(179,179,179)"
+   stroke-linejoin="round"
+   d="M 8533,7376 L 1704,7376 1704,2703 15363,2703 15363,7376 8533,7376 Z "
+   id="path2"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:19.99999996;stroke-dasharray:none" />
+ <text
+   class="SVGTextShape"
+   id="text44"><tspan
+     class="TextParagraph"
+     id="tspan44"><tspan
+       class="TextPosition"
+       x="594"
+       y="6717"
+       id="tspan43"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="859"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan42">Maths</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text47"><tspan
+     class="TextParagraph"
+     id="tspan47"><tspan
+       class="TextPosition"
+       x="308"
+       y="5159"
+       id="tspan46"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="1146"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan45">Reading</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text50"><tspan
+     class="TextParagraph"
+     id="tspan50"><tspan
+       class="TextPosition"
+       x="385"
+       y="3602"
+       id="tspan49"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="1069"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan48">Science</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text53"><tspan
+     class="TextParagraph"
+     id="tspan53"><tspan
+       class="TextPosition"
+       x="1490"
+       y="7943"
+       id="tspan52"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="429"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan51">0.0</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text56"><tspan
+     class="TextParagraph"
+     id="tspan56"><tspan
+       class="TextPosition"
+       x="3441"
+       y="7943"
+       id="tspan55"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="429"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan54">5.0</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text59"><tspan
+     class="TextParagraph"
+     id="tspan59"><tspan
+       class="TextPosition"
+       x="5306"
+       y="7943"
+       id="tspan58"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="601"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan57">10.0</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text62"><tspan
+     class="TextParagraph"
+     id="tspan62"><tspan
+       class="TextPosition"
+       x="7258"
+       y="7943"
+       id="tspan61"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="601"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan60">15.0</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text65"><tspan
+     class="TextParagraph"
+     id="tspan65"><tspan
+       class="TextPosition"
+       x="9208"
+       y="7943"
+       id="tspan64"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="601"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan63">20.0</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text68"><tspan
+     class="TextParagraph"
+     id="tspan68"><tspan
+       class="TextPosition"
+       x="11160"
+       y="7943"
+       id="tspan67"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="601"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan66">25.0</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text71"><tspan
+     class="TextParagraph"
+     id="tspan71"><tspan
+       class="TextPosition"
+       x="13111"
+       y="7943"
+       id="tspan70"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="601"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan69">30.0</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text74"><tspan
+     class="TextParagraph"
+     id="tspan74"><tspan
+       class="TextPosition"
+       x="15063"
+       y="7943"
+       id="tspan73"><tspan
+         font-family="Liberation Serif, serif"
+         font-size="353px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="601"
+         fill="rgb(0,0,0)"
+         stroke="none"
+         style="white-space: pre"
+         id="tspan72">35.0</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text77"
+   y="548.91309"
+   x="460.4624"><tspan
+     class="TextParagraph"
+     id="tspan77"><tspan
+       class="TextPosition"
+       x="4214.4624"
+       y="1387.913"
+       id="tspan76"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="459px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan75">Percentage of students who are low performers</tspan></tspan></tspan></text>
+ <text
+   class="SVGTextShape"
+   id="text80"
+   y="377.37775"
+   x="544.40234"><tspan
+     class="TextParagraph"
+     id="tspan80"><tspan
+       class="TextPosition"
+       x="7538.4023"
+       y="2164.3777"
+       id="tspan79"><tspan
+         font-family="'Liberation Serif', serif"
+         font-size="459px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan78">PISA 2022</tspan></tspan></tspan></text>
+ 
+ 
+ 
+ 
+<g
+   id="g88"
+   transform="translate(1848.2021,-394.53128)"><g
+     id="g89"
+     transform="translate(-1036.3153,345.17153)"><path
+       fill="rgb(241,13,12)"
+       stroke="none"
+       d="m 8162.619,8576.1499 h -148.654 v -295.9057 h 295.9057 v 295.9057 z"
+       id="path80"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#pattern88);fill-opacity:1;stroke:none;stroke-width:28.222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /><text
+       class="SVGTextShape"
+       id="text83"
+       y="-257.30301"
+       x="-442.72238"><tspan
+         class="TextParagraph"
+         id="tspan83"><tspan
+           class="TextPosition"
+           x="6728.2778"
+           y="8547.6973"
+           id="tspan82"><tspan
+             font-family="'Liberation Serif', serif"
+             font-size="353px"
+             font-weight="400"
+             lengthAdjust="spacing"
+             fill="#000000"
+             stroke="none"
+             style="white-space:pre"
+             id="tspan81-5">Boys</tspan></tspan></tspan></text><text
+       class="SVGTextShape"
+       id="text86"
+       y="-257.30301"><tspan
+         class="TextParagraph"
+         id="tspan86"><tspan
+           class="TextPosition"
+           x="8422"
+           y="8547.6973"
+           id="tspan85"><tspan
+             font-family="'Liberation Serif', serif"
+             font-size="353px"
+             font-weight="400"
+             lengthAdjust="spacing"
+             fill="#000000"
+             stroke="none"
+             style="white-space:pre"
+             id="tspan84">Girls</tspan></tspan></tspan></text><path
+       fill="rgb(241,13,12)"
+       stroke="none"
+       d="m 6476.6352,8576.1499 h -148.654 v -295.9057 h 295.9057 v 295.9057 z"
+       id="path89-2"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:28.222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /></g></g></svg>
