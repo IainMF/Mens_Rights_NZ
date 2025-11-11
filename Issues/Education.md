@@ -32,7 +32,7 @@ Secondary school students work towards the National Certificate of Educational A
 Secondary school boys are over-represented in the lowest achievers and under-represented in the highest achievers, compared to girls. This has been consistent for at least a decade
 
 > “For female school leavers in 2019, NCEA Level 2 attainment (81%) was higher than for their male counterparts (76%). **This may indicate the importance of literacy for overall performance in NCEA**”[^7]
-
+![[NECA attainment.svg]]
 #### PISA
 In the Programme for International Student Assessment(PISA), boys are more likely to perform below the baseline reading standard and less likely to be a top performer, compared to girls.
 ![[PISA 22 Reading.svg]]
@@ -54,7 +54,7 @@ Secondary Schools have four levels of consequences for bad behaviour. Stand-down
 ### Tertiary education
 
 In 2015 8.5% of men and 11.0% of women were enrolled in tertiary education. Fewer men are completing their tertiary education, compared to women. At tertiary level only 4 out 10 people who gain tertiary certificates, diplomas, or bachelor degrees and above are men. Overall participation in tertiary education has grown but so has the gap between men and women. A large disparity exists between the number of men (2.8%) and women (4.2%) studying a bachelor’s degree. The result of the increased participation and completion of tertiary education by women has led to women with bachelor’s degrees outnumbering men since 2006.[^9]
-
+![[School leavers destination.svg]]
 Men are under-represented at University.
 
 Table 10: All Universities have more females than males attending.
