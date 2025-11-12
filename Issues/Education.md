@@ -32,7 +32,17 @@ Secondary school students work towards the National Certificate of Educational A
 Secondary school boys are over-represented in the lowest achievers and under-represented in the highest achievers, compared to girls. This has been consistent for at least a decade
 
 > “For female school leavers in 2019, NCEA Level 2 attainment (81%) was higher than for their male counterparts (76%). **This may indicate the importance of literacy for overall performance in NCEA**”[^7]
-![[NECA attainment.svg]]
+
+![[NCEA + UE attainment.svg]]
+
+
+| 2024 Leavers' Attainment | Boys % | Girls % |
+| ------------------------ | :------: | :-------: |
+| NCEA Level 1             | 83.1   | 85.4    |
+| NCEA Level 2             | 74.5   | 77.8    |
+| NCEA Level 3             | 51.6   | 59.5    |
+| University Entrance      | 34.7   | 46      |
+
 #### PISA
 In the Programme for International Student Assessment(PISA), boys are more likely to perform below the baseline reading standard and less likely to be a top performer, compared to girls.
 ![[PISA 22 Reading.svg]]
