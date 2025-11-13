@@ -13,15 +13,34 @@ The Growing Up in New Zealand (GUiNZ) assessed literacy skills of 4.5 year-olds 
 > **Literacy learning in early learning services**
 
 > “In some services, however, boys were not well catered for and were often bored with the literacy activities provided. Most services with some differentiation provided books and resources, or planned different activities and environments, so both boys and girls had access to literacy learning that would engage them. This is not meant to imply there should be gender-specific activities available, but that teachers need to ensure that boys are engaged by literacy activities”[^4]
+
 ### Primary school
 
 In years 1-8 fewer boys than girls are meeting national standards. In 2016 the percentage of boys meeting or exceeding national standards is slightly lower than for girls in maths (75.0% vs 75.9%), but there is a bigger difference for reading (73.6% vs 82.1%) and a bigger difference still for writing (63.4% vs 79.4%). The same trend is seen in Ngā Whanaketanga Rumaki Māori (Māori education).[^5]
 
-The Progress in International Reading Literacy Study shows that average reading comprehension achievement at Year 5 is lower for boys (512) than for girls (533). **The difference is larger in New Zealand than many other countries.**
+#### PIRLS
+The 2021 Progress in International Reading Literacy Study shows that average reading comprehension achievement at Year 5 is lower for boys (512) than for girls (533). **The difference is larger in New Zealand than many other countries.**
+
+> Girls were more likely than boys to have reached each of the international reading benchmarks in 2020. Just 8 percent of girls did not score above 400 (that is, did not reach the Low International Benchmark) compared with 12 percent of boys. Students in this category had difficulty locating and reproducing explicitly stated information and making simple inferences even when reading the simpler reading passages.
+> At the other end of the scale, 14 percent of girls reached the Advanced International Benchmark, compared with 9 percent of boys. These students demonstrated a thorough understanding of what they read, could interpret and integrate information across texts or webpages, and could make inferences from complex information. (See Figures 4.3A and 4.3B)[^10]
+
+
+
+> **Gender and ethnicity**
+> There is a strong association between reading achievement and gender for all ethnic groupings, with
+girls demonstrating much stronger performance than boys. In 2020, the average difference between
+Māori girls and boys, increased from a non-significant 13 score points in 2015 to a statistically
+significant 21 score points in 2020. There was no change in either Pacific girls’ or boys’ mean reading
+scores from 2015 to 2020, but the average difference is the largest observed for all groupings
+(31 points).[^11]
 
 The National Monitoring Study of Student Achievement shows the difference in average achievement between boys and girls in reading at both Year 4 and Year 8 is about one year of schooling, while in writing it is about one and a half years.
 
-> “Some commentators suggest this finding may be indicative of gendered expectations of boys to be more active learners and girls to be more passive learners. Others argue that texts and tasks at an early age favour the interests of girls over that of boys. **Whatever the reason, the outcome is that more boys than girls are labelled as poor readers and writers and have trouble using these skills to access other parts of the curriculum.”**[^6]
+> “Some commentators suggest this finding may be indicative of gendered expectations of boys to be more active learners and girls to be more passive learners. Others argue that texts and tasks at an early age favour the interests of girls over that of boys. **Whatever the reason, the outcome is that more boys than girls are labelled as poor readers and writers and have trouble using these skills to access other parts of the curriculum.”**[^6]
+
+#### Science
+
+
 
 ### Secondary school
 
@@ -31,7 +50,7 @@ Secondary school students work towards the National Certificate of Educational A
 
 Secondary school boys are over-represented in the lowest achievers and under-represented in the highest achievers, compared to girls. This has been consistent for at least a decade
 
-> “For female school leavers in 2019, NCEA Level 2 attainment (81%) was higher than for their male counterparts (76%). **This may indicate the importance of literacy for overall performance in NCEA**”[^7]
+> “For female school leavers in 2019, NCEA Level 2 attainment (81%) was higher than for their male counterparts (76%). **This may indicate the importance of literacy for overall performance in NCEA**”[^7]
 
 ![[NCEA + UE attainment.svg]]
 
@@ -91,7 +110,7 @@ https://np.reddit.com/r/LeftWingMaleAdvocates/comments/1fww4tp/more_boys_are_now
 
 Accessed 13 Jan 2025
 
-Report: [What you need to know about UNESCO’s global report on boys’ disengagement from education | UNESCO](https://www.unesco.org/en/articles/what-you-need-know-about-unescos-global-report-boys-disengagement-education)
+Report: [What you need to know about UNESCO’s global report on boys’ disengagement from education | UNESCO](https://www.unesco.org/en/articles/what-you-need-know-about-unescos-global-report-boys-disengagement-education)
 
 https://archive.ph/gHSu2
 
@@ -129,10 +148,10 @@ In high-income countries, women significantly outperform men in higher education
 
 Girls are better at reading; boys are better at math. Make your own conclusion.
 
-> Gaps in **reading** skills are found to start early. In 23 of 25 countries with data for proficiency in reading at Grade 2/3, the proportion of girls achieving minimum proficiency in reading is higher than the share of boys.  
+> Gaps in **reading** skills are found to start early. In 23 of 25 countries with data for proficiency in reading at Grade 2/3, the proportion of girls achieving minimum proficiency in reading is higher than the share of boys.  
 > [...]
 > 
-> In **mathematics** the gender gap that once worked against girls at the start of the millennium has narrowed or equalized with boys in half of all countries with data.
+> In **mathematics** the gender gap that once worked against girls at the start of the millennium has narrowed or equalized with boys in half of all countries with data.
 
 # Bonus: Corporal punishment
 
@@ -167,17 +186,22 @@ UNESCO offers this rationale for why boys' education is important:
 
 [^2]: The New Zealand Official Year-Book, 1985 Section 38 New Zealand Women: Their Changing Situation, 1970-1984 [http://archive.li/h8uKR](http://archive.li/h8uKR)
 
-[^3]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 9 and 10
+[^3]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 9 and 10
 
-[^4]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 25
+[^4]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 25
 
 [^5]: Ngā Whanaketanga Rumaki Māori | Education in New Zealand [http://archive.li/83gIY](http://archive.li/83gIY)
 
-[^6]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 14
+[^6]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 14
 
-[^7]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 16
+[^7]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 16
 
 [^8]: Education Counts [https://www.educationcounts.govt.nz/](https://www.educationcounts.govt.nz/)
 
 [^9]: Education Counts [https://www.educationcounts.govt.nz/](https://www.educationcounts.govt.nz/)
+
+[^10]: Megan Chamberlain and Jessica Forkert -- Reading literacy at Year 5: New Zealand’s participation in PIRLS 2021 -- Marking 20 years of the Progress in International Reading Literacy Study -- Ministry of Education https://www.educationcounts.govt.nz/__data/assets/pdf_file/0015/221037/PIRLS-2021-Reading-literacy-year-5-v2.pdf
+
+[^11]: https://www.educationcounts.govt.nz/__data/assets/pdf_file/0004/243409/Indicator-Report-reading-literacy-middle-primary.pdf
+
 
