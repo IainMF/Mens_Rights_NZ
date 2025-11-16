@@ -196,7 +196,7 @@ Including men and boys in the work of the Commission "requires a planned strateg
 A formal system ensures:
 
 -   Decisions to include or exclude men and boys are not arbitrary;
--   Continuity is maintained through staffing changes. Including men and boys is not reliant on specific staff member's personal interest (see [Building the Commission’s Capacity](#Building the Commission’s Capacity), on page 33, for more);
+-   Continuity is maintained through staffing changes. Including men and boys is not reliant on specific staff member's personal interest (see [Building the Commission’s Capacity](#building-the-commissions-capacity), on page 33, for more);
 -   The Commission can evaluate it effectiveness in its work for men and boys;
 -   Rights-holders can hold the Commission accountable (see Accountability, on page 75, for more);
 
