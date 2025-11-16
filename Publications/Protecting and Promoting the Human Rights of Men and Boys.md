@@ -10,7 +10,7 @@ date: 2024-12-16
 
 ## Chapter 1 - Introduction
 
-This report will help the Human Rights Commission achieve its goals and perform its functions. It refers to a wide range of guidance documents for human rights organisations, including National Human Rights Insitutions (see Bibliography for the complete list of documents).
+This report will help the Human Rights Commission achieve its goals and perform its functions. It refers to a wide range of guidance documents for human rights organisations, including National Human Rights Institutions (see Bibliography for the complete list of documents).
 
 The Commission wants to be an exemplar for human rights. This report will support the Commission in being exemplary for the human rights of men and boys.
 
@@ -196,7 +196,7 @@ Including men and boys in the work of the Commission "requires a planned strateg
 A formal system ensures:
 
 -   Decisions to include or exclude men and boys are not arbitrary;
--   Continuity is maintained through staffing changes. Including men and boys is not reliant on specific staff member's personal interest (see Building the Commission’s Capacity, on page 33, for more);
+-   Continuity is maintained through staffing changes. Including men and boys is not reliant on specific staff member's personal interest (see [Building the Commission’s Capacity](#Building the Commission’s Capacity), on page 33, for more);
 -   The Commission can evaluate it effectiveness in its work for men and boys;
 -   Rights-holders can hold the Commission accountable (see Accountability, on page 75, for more);
 
