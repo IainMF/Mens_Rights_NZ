@@ -1,3 +1,9 @@
+---
+title: Life and Health
+description: Issues for New Zealand men relating to their right to life and health.
+---
+> [!tip] This page is a work in progress
+
 More men than women die in each age group, until age 80.[^1]
 
 ![[male deaths for each female death.svg]]

@@ -2,6 +2,8 @@
 title: Legal Discrimination
 description: New Zealand has laws that discriminate against men and boys violating their right to be free from discrimination and their right to equality under the law.
 ---
+> [!tip] This page is a work in progress
+
 
 Men have the right to be treated equally under the law. Article 7 of the *Universal Declaration of Human Rights* states: 
 > All are equal before the law and are entitled without any discrimination to equal protection of the law".

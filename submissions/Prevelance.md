@@ -11,7 +11,7 @@ is a high quality longitudinal study following 1037 people born in Dunedin in 19
 Dunedin Multidisciplinary Health and Development Study
 
 |                              | Victimisation % |          | Perpetration % |          |
-| ---------------------------- | --------------- | -------- | -------------- | -------- |
+| ---------------------------- | :-------------: | :------: | :------------: | :------: |
 |                              | Women           | Men      | Women          | Men      |
 | **Verbal Aggression**        | 83.8            | **89.7** | **94.6**       | 85.8     |
 | Insult or swear              | 53.9            | **55.9** | **66.8**       | 53.2     |
@@ -46,20 +46,20 @@ Table 2 shows the prevalence of victimisation and the number of types of victimi
 #### Table 2
 Christchurch Health and Development Study
 
-|                         | Women      | Men        |
-| ----------------------- | ---------- | ---------- |
+|                         | Women %    | Men %      |
+| ----------------------- | :--------: | :--------: |
 | **Victimisation score** |            |            |
-| No victimisation        | **33.90%** | 33.50%     |
-| 1-2                     | **33.00%** | 29.20%     |
-| 3-4                     | **23.80%** | 23.30%     |
-| 5-6                     | 4.60%      | **7.40%**  |
-| 7 or more               | 4.80%      | **6.70%**  |
-| **Perpetrator reports** |            |            |
-| No perpetration         | 31.10%     | **43.00%** |
-| 1-2                     | **29.50%** | **26.10%** |
-| 3-4                     | **32.30%** | 25.30%     |
-| 5-6                     | **3.20%**  | 2.80%      |
-| 7 or more               | **3.90%**  | 2.80%      |
+| No victimisation        | **33.9** | 33.5     |
+| 1-2                     | **33.0** | 29.2     |
+| 3-4                     | **23.8** | 23.3     |
+| 5-6                     | 4.6      | **7.4**  |
+| 7 or more               | 4.8      | **6.7**  |
+| **Perpetrator reports** |          |          |
+| No perpetration         | 31.1     | **43.0** |
+| 1-2                     | **29.5** | **26.1** |
+| 3-4                     | **32.3** | 25.3     |
+| 5-6                     | **3.2**  | 2.8      |
+| 7 or more               | **3.9**  | 2.8      |
 
 ### The Pacific Islands Families Study[^3]
 
@@ -68,16 +68,16 @@ followed the parents of Pacific infants born in 2000 in Auckland. The study on v
 #### Table 3
 Pacific Islands Families Study
 
-|                          | Mother  | Father  |
-| ------------------------ | ------- | ------- |
+|                          | Mother %| Father %|
+| ------------------------ | :-----: | :-----: |
 | **Victim**               |         |         |
-| Verbal aggression        | 86%     | **87%** |
-| Any physical violence    | **28%** | 8%      |
-| Severe physical violence | **15%** | 3%      |
-| **Perpetrator**          |         |         |
-| Verbal aggression        | **91%** | 90%     |
-| Any physical violence    | **37%** | 11%     |
-| Severe physical violence | **20%** | 3%      |
+| Verbal aggression        | 86     | **87** |
+| Any physical violence    | **28** | 8      |
+| Severe physical violence | **15** | 3      |
+| **Perpetrator**          |        |        |
+| Verbal aggression        | **91** | 90     |
+| Any physical violence    | **37** | 11     |
+| Severe physical violence | **20** | 3      |
 
 ### The Youth19 Survey[^4]
 
@@ -86,16 +86,16 @@ is a survey of young people predominately in high school students in year 9-13 (
 #### Table 4
 Youth19 Survey
                   
-|**Victimisation in previous 12 months**| Female           | Male        |
-|-----------------------------------|------------------|-------------|
-| **Being   hit by:**               |                  |             |
-| Anyone                            | 50.20%           |  **52.30%** |
-| Partner                           | 3.70%            |  **7.30%**  |
-| Sibling                           |  **42.10%**      | 39.50%      |
-| Another young person              | 14.10%           | **25.60%**  |
-| Parent                            |  **14.10%**      | 11.30%      |
-| Other adult                       | 3.30%            | **5.40%**   |
-| **Unwanted sexual   contact**     | **26.10%**       | 9.70%       |
+| **Victimisation in previous 12 months** | Female %  | Male  %   |
+| --------------------------------------- | :-------: | :-------: |
+| **Being   hit by:**                     |           |           |
+| Anyone                                  | 50.2     | **52.3** |
+| Partner                                 | 3.7      | **7.3**  |
+| Sibling                                 | **42.1** | 39.5     |
+| Another young person                    | 14.1     | **25.6** |
+| Parent                                  | **14.1** | 11.3     |
+| Other adult                             | 3.3      | **5.4**  |
+| **Unwanted sexual contact**           | **26.1** | 9.7      |
 
 ### The New Zealand Family Violence Study(2019)[^5]
 
@@ -104,35 +104,35 @@ is based on the World Health Organisation violence against women methodology so 
 #### Table 5
 New Zealand Family Violence Study
 
-| IPV   victimisation in previous 12 months | Women     | Men        |
-|-------------------------------------------|-----------|------------|
-| **Physical**                              |           |            |
-| Any                                       | 2.40%     | **4.90%**  |
-| Moderate                                  | 2.10%     | **4.80%**  |
-| Severe                                    | 1.30%     | **2.10%**  |
-| **Sexual**                                | **0.90%** | 0.50%      |
-| **Psychological**                         |           |            |
-| 1 or more                                 | 12.70%    | **15.20%** |
-| 2 or more                                 | 5.00%     | **5.20%**  |
-| 3 or more                                 | 1.50%     | **1.90%**  |
+| IPV victimisation in previous 12 months | Women % | Men %    |
+| --------------------------------------- | :-----: | :------: |
+| **Physical**                            |         |          |
+| Any                                     | 2.4     | **4.9**  |
+| Moderate                                | 2.1     | **4.8**  |
+| Severe                                  | 1.3     | **2.1**  |
+| **Sexual**                              | **0.9** | 0.5      |
+| **Psychological**                       |         |          |
+| 1 or more                               | 12.7    | **15.2** |
+| 2 or more                               | 5.0     | **5.2**  |
+| 3 or more                               | 1.5     | **1.9**  |
 
 #### Table 6
 New Zealand Family Violence Study
 
-| Percent Victimised since age 15 | Women         | Men       |
-|---------------------------------|---------------|-----------|
-| **Non-partner**                 | 11.9          |  **39.9** |
-| Physical Violence               | **8.2**       | 2.2       |
-| Sexual Violence                 |               |           |
-| **Intimate partner violence**   |               |           |
-| Any Physical Violence           | 28            | **29.4**  |
-| Moderate Physical Violence      | 26.9          |  **28.2** |
-| Severe Physical Violence        | 7.6           | **9.4**   |
-| Sexual Violence                 | **12.4**      | 2.1       |
-|  **Psychological abuse**        |               |           |
-| One or more                     | **47.7**      | 40        |
-| Two or more                     | **33**        | 19.3      |
-| Three or more                   | **19.8**      | 9.1       |
+| Victimised since age 15       | Women %  | Men %    |
+| ----------------------------- | :------: | :------: |
+| **Non-partner**               | 11.9     | **39.9** |
+| Physical Violence             | **8.2**  | 2.2      |
+| Sexual Violence               |          |          |
+| **Intimate partner violence** |          |          |
+| Any Physical Violence         | 28       | **29.4** |
+| Moderate Physical Violence    | 26.9     | **28.2** |
+| Severe Physical Violence      | 7.6      | **9.4**  |
+| Sexual Violence               | **12.4** | 2.1      |
+| **Psychological abuse**       |          |          |
+| One or more                   | **47.7** | 40       |
+| Two or more                   | **33**   | 19.3     |
+| Three or more                 | **19.8** | 9.1      |
 
 
 ### The New Zealand Crime and Victims Survey[^6]
@@ -156,20 +156,20 @@ New Zealand Crime and Victims Survey Cycle 5 -- prevalence rate, pooled data
 #### Table 8
 New Zealand Crime and Victims Survey Cycle 6 -- prevalence rate, pooled data
 
-| _NZCVS cycle 6:_ In   previous 12 months | Female       | Male  |
-|------------------------------------------|--------------|-------|
-| Sexual assault                           | **2.9%**     | 0.90% |
-| By family members                        | **2.9%**     | 1.00% |
-| All personal offences                    | **16.1%**    | 15%   |
+| _NZCVS cycle 6:_ In previous 12 months | Female % | Male % |
+| -------------------------------------- | :------: | :----: |
+| Sexual assault                         | **2.9**  |  0.9   |
+| By family members                      | **2.9**  |  1.0   |
+| All personal offences                  | **16.1** |  15.0  |
 
 
 #### Table 9
 New Zealand Crime and Victims Survey Cycle 7 -- prevalence rate, pooled data
 
-| _NZCVS cycle 7:_ In   previous 12 months | Female      | Male  |
-|------------------------------------------|-------------|-------|
-| Sexual assault                           | **2.9%**    | 0.90% |
-| By family members                        | **3.0%**    | 1.00% |
+| _NZCVS cycle 7:_ In previous 12 months | Female % | Male % |
+| -------------------------------------- | :------: | :----: |
+| Sexual assault                         | **2.9**  |  0.9   |
+| By family members                      | **3.0**  |  1.0   |
 
 [^1]: Lynn Magdol, Terrie E Moffitt, Avshalom Caspi, Denise L Newman, Jeffrey Fagan, & Phil A Silva. _Gender differences in partner violence in a birth cohort of 21-year-olds: bridging the gap between clinical and epidemiological approaches_. Journal of consulting and clinical psychology, 65(1):68, 1997.
 [^2]: David M Fergusson, L John Horwood, & Elizabeth M Ridder. _Partner violence and mental health outcomes in a New Zealand birth cohort._ Journal of marriage and family, 67(5):1103–1119, 2005.

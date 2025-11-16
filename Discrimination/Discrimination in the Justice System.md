@@ -2,6 +2,7 @@
 title: Discrimination in the Justice System
 description: New Zealand's justice system violates men's right right to a fair trial and to not to be arbitrarily detained.
 ---
+> [!tip] This page is a work in progress
 
 
 Men have the right to a fair trial, unfortunately there is discrimination against men in the justice system.

@@ -3,6 +3,7 @@ title: Understanding Discrimination against men
 description: An overview of discrimination in human rights law and how it relates to men and boys.
 date: 2025-10-14
 ---
+> [!tip] This page is a work in progress
 
 ## The right to be free from discrimination
 

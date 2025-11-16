@@ -2,6 +2,7 @@
 title: Other Discrimination against men
 description: New Zealand violates men's right right to be free from discrimination in many areas of public policy and practice.
 ---
+> [!tip] This page is a work in progress
 ## Bias against men in family mediation
 
 Nurit Zubery studied men’s experiences of family mediation and found issues with the “mediator’s bias against fathers” and “the devaluation of fatherhood”[^1]

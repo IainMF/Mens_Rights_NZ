@@ -2,6 +2,9 @@
 title: Education
 description: Issues for men's and boys' education in New Zealand
 ---
+
+> [!tip] This page is a work in progress
+
 ## Right to education
 
 New Zealand has accepted recommendations to reduce inequities in the education system[^1] however boys and men are behind at all levels of education. Historically, boys had an advantage in education; however girls started performing better than boys as early as 1985.[^2]

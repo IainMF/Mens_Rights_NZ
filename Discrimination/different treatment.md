@@ -3,6 +3,8 @@ title: Different Treatment
 description: Different treatment is sometimes justified or required in human rights law.
 date: 2025-10-21
 ---
+> [!tip] This page is a work in progress
+
 Different treatment between men and women is not always discrimination. Under international human rights law sometimes different treatment is justified or even required.[^1] New Zealand is required to ensure equal enjoyment of rights between men and women and to ensure men and women do not face discrimination. To meet these obligations New Zealand has to address any unequal enjoyment of rights or discrimination. Sometimes this means treating men and women differently to address the disadvantages faced by men or women. 
 
 Removing formal discrimination does not mean the effect of the discrimination is removed. For example, if a group was not allowed to vote and the law was changed to allow them to vote, it may be necessary to have special programs to enroll members of this group and help them learn about voting. Just changing the law does not mean that the group will fully enjoy their right to vote on equal terms with experienced voters. 
