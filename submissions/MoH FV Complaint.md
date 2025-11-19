@@ -1,3 +1,4 @@
+
 ---
 title: Ministry of Health Family Violence Complaint
 description: A complaint about discrimination against men in the Ministry of Health's approach to family violence.
@@ -11,7 +12,7 @@ date: 2025-08-20
 
 3.  The *Human Rights Act 1993* prohibits discrimination on the grounds of sex.[^4]
 
-4.  The *International Covenant on Civil and Political Rights* (ICCPR) requires New Zealand to protect men from violence and discrimination. Article 2 prohibits discrimination against men in the application of covenant rights. Article 3 requires New Zealand to ensure that men enjoy their rights equally with women. Article 7 requires New Zealand to prevent cruel, inhuman, or degrading treatment, including domestic violence. Article 9 affirms everyone has the right to security of person. Article 26 requires New Zealand to provide equal and effective protection from discrimination to men.
+4.  The *International Covenant on Civil and Political Rights* (ICCPR) requires New Zealand to protect men from violence and discrimination. Article 2 prohibits discrimination against men in the application of covenant rights. Article 3 requires New Zealand to ensure that men enjoy their rights equally with women. Article 7 requires New Zealand to prevent cruel, inhuman, or degrading treatment, including domestic violence. Article 9 affirms everyone has the right to security of person. Article 26 requires New Zealand to provide equal and effective protection from discrimination to men.
 
 5.  The *International Covenant on Economic, Social and Cultural Rights* (ICESCR) also prohibits discrimination against men in the application of the covenant and requires New Zealand to ensure that men have equal enjoyment of their rights. Article 12 requires New Zealand to ensure that men have the highest attainable standard of physical and mental health.
 
@@ -227,6 +228,90 @@ Deborah Woodley
 Director, Starting Well
 Planning, Funding & Outcomes
 
+## Reply
+20 November 2025
+
+From: Iain Fergusson 
+
+To: Deborah Woodley -- Director, Starting Well -- Planning, Funding & Outcomes `info@health.govt.nz`
+
+Tēnā koe,
+
+1.  Thank you for your response (HNZ00096554) to my discrimination complaint about the *Violence Intervention Programme* (VIP) and *Family Violence Assessment and Intervention Guidelines*. Unfortunately, I am not satisfied. New Zealand has a human rights obligation to prevent and protect men from violence. The needs of male victims must be taken into account in the development, implementation, and evaluation of violence prevention measures.
+
+2.  This letter contains questions at the end that are an OIA request.
+
+## Following the Guidelines 
+
+3.  The Health New Zealand website[^41] says that the VIP must align with National Guidelines, which recommend enquiry for men if there are signs and symptoms present. Health New Zealand's example Intimate Partner Violence Intervention Policy[^42] states that "The Ministry of Health's Family Violence Assessment and Intervention Guideline guides this policy". If the VIP is to follow the Guidelines, then it must include men.
+
+4.  There is no reasonable or objective reason to exclude men from the VIP programme logic. Excluding men from the programme logic does not support legitimate public health or human rights outcomes. Men's needs should have been considered in the programme development and reflected in the programme logic to align with the Guidelines and with New Zealand's human rights obligations. For example, the programme logic could have included the following:
+
+    -   Screening questions asked of women
+    -   Enquiry with men when signs are present
+    -   Clinical assessment of child abuse
+
+5.  The Guidelines, and the VIP policy example include non-routine enquiry for men. There is no reasonable or objective reason to exclude men's enquiries from data collection and the programme evaluation. Excluding male victims from data collection and programme evaluation does not support legitimate public health or human rights outcomes. If Health New Zealand is going to base it's policy on evidence, *it must collect the evidence about men in the VIP evaluation*. Including non-routine enquiry for men in reporting and evaluation would not have created an unreasonable drain on resources.
+
+## Limited resources
+
+6.  Even if including men in VIP programme logic and evaluation did require significant resources, that is not an excuse for discrimination. In international human rights law having limited resources is not a valid excuse for discrimination:
+
+    > A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party's disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^43]
+
+## Routine enquiry
+
+7.  Reasons for a targeted programme for women do not negate New Zealand's health, ethical, and human rights obligations to men. New Zealand must demonstrate that it has taken the necessary steps to prevent violence and protect male victims, and that these steps meet New Zealand's health, ethical and human rights obligations.
+
+8.  In your response, you say "\[f\]or men, enquiry is recommended when signs or symptoms are present, **ensuring that support is available**". However, there is nothing in your response to indicate that men, are, in fact, receiving support.
+
+### The ineffectiveness of men's screening
+
+9.  International research shows formal support services do not work well for male victims of partner violence.[^44] [^45] Therefore, if New Zealand's support systems for male victims are similar to international models, it is reasonable to assume they are also ineffective and require remedial action to address the shortcomings.
+
+10. In New Zealand, Higgins[^46] studied partner violence screening in a New Zealand General Practice that used the Ministry's Guidelines. The study provides data on the effectiveness of screening for women and men. In the study, 54% of females were screened, 13% of them reported that they had experienced partner violence at some point in their lives. 9.7% of males were screened, only 1.3% of them reported that they had experienced partner violence at some point in their lives. 7.2% of all female patients and 0.12% of all male patients reported partner violence.[^47]
+
+11. Population based-studies report similar lifetime experience of partner violence. The New Zealand Family Violence Study, which you reference in your response, shows that 28% of women and 29.4% of men report lifetime experience of partner violence. In the New Zealand Crime and Victims Survey,[^48] 23.6% of women and 10% of men report lifetime experience of partner violence.
+
+12. These studies suggest that men are between 30--50% of the victims of partner violence. If the screening for men was as effective as the routine screening for women the study would have found between 3--7.2% of men were victims, rather than finding just 0.12%. **Therefore, it is clear that the recommended screening for men is ineffective in identifying male victims**.
+
+13. The ineffectiveness of screening when only signs and symptoms are present was highlighted in the Ministry's 2002 *Family Violence Intervention Guidelines*[^49] It explains that screening women based on signs and symptoms is as ineffective at identifying victims as relying on women to voluntarily disclose abuse. Both result in approximately 2% of abused women being found. The 2002 Guidelines argue that this low rate of detection for women is not acceptable and recommends routine screening. Higgins' study showed signs-and-symptoms screening was similarly ineffective in detecting male victims.
+
+### Due diligence and burden of proof 
+
+14. New Zealand must exercise due diligence to ensure that violence prevention measures are effective for men. The Ministry carries the burden to proof[^50] to show that omitting men from the VIP programme logic and evaluation is not discriminatory. The Ministry also has to show that non-routine enquiry for men is not discrimination. It must show that it is necessary, reasonable, and proportionate and supports the goal of reducing violence and supporting victims.
+
+15. If you could show that male victims are being identified at rates that are proportional to population-based studies, and they are receiving the support they need, that would show that the VIP and Guidelines are not discriminating against men.
+
+## An analogy
+
+16. Men die from suicide at approximately 3 times the rate of women. This difference in prevalence and severity might justify a targeted suicide reduction program for men, but a suicide reduction program can't ignore female suicide. Data collected about the suicide reduction program should not just collect data about men; women must be included.
+
+17. Different risk factors between men and women may require different approaches to reduce suicides, but the each approach should be effective. Women being the minority of suicides does not justify an ineffective programme for women.
+
+## Questions
+
+18. These questions are an OIA request and should be read in the context of my previous letter of complaint, your response and this letter.
+
+    1.  Please clarify whether the *Violence Intervention Programme* isa targeted programme to address violence against women andchildren, or a programme to implement the *Family ViolenceAssessment and Intervention Guidelines* which includes men? 
+    
+    3.  How does excluding men from VIP programme logic and evaluation support 'legitimate public health outcomes'?
+
+    4.  What systems are in place to ensure that health professionals are following the Guidelines on male victims?
+
+    5.  You say that 'male victims of family violence face uniquebarriers to disclosure and support'. What has Health New Zealand done to identify and address these barriers?
+
+    6.  What evidence do you have that male victims are receiving the support they need from the health system?
+
+Ngā Mihi,
+
+Iain Fergusson
+
+---
+
+
+
+
 
 [^1]: Fanslow J L, Kelly P, Ministry of Health. 2016. *[Family Violence Assessment and Intervention Guideline: Child abuse and intimate partner violence (2nd edn)](https://www.tewhatuora.govt.nz/assets/Our-health-system/Preventative-Health/Family-Violence/family-violence-assessment-intervention-guideline-jun16_0-1.pdf)*
 
@@ -305,3 +390,23 @@ Planning, Funding & Outcomes
 [^38]: ICCPR General Comment 31 -- para. 17
 
 [^39]: ICCPR General Comment 31 -- para. 19
+
+[^41]: [Establishing a Violence Intervention Programme (VIP) Health New Zealand](https://www.tewhatuora.govt.nz/health-services-and-programmes/family-violence-and-sexual-violence/establishing-a-violence-intervention-programme-vip)
+
+[^42]: *Guide to Establishing a Violence Intervention Programme Policy* from: [Establishing a Violence Intervention Programme (VIP) Health New Zealand](https://www.tewhatuora.govt.nz/health-services-and-programmes/family-violence-and-sexual-violence/establishing-a-violence-intervention-programme-vip)
+
+[^43]: ICESCR General Comment 20, para. 13
+
+[^44]: Machado, A., Mesquita, C., & Matos, M. (2024). Brief report on a systematic review of the experiences of male victims of intimate partner violence as help-seekers. *Journal of Aggression, Maltreatment & Trauma,33*(1), 109-122.
+
+[^45]: Moore, T. (2021). Suggestions to improve outcomes for male victims of domestic abuse: a review of the literature. *SN Social Sciences,1*(10), 252.
+
+[^46]: Higgins, D., Manhire, K., & Marshall, B. (2015). Prevalence of intimate partner violence disclosed during routine screening in a large general practice. The Journal of Primary Health Care, 7(2),102-108.
+
+[^47]: Some of these figures are calculated from the data presented in the paper.
+
+[^48]: Data from Cycle 5 of NZCVS are used because lifetime data are not readily available for later cycles.
+
+[^49]: Minsitry of Health. *Family Violence Intervention Guidelines -- Child and Partner Abuse*. 2002
+
+[^50]: ICESCR General Comment 20, para. 40
