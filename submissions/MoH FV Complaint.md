@@ -1,4 +1,3 @@
-
 ---
 title: Ministry of Health Family Violence Complaint
 description: A complaint about discrimination against men in the Ministry of Health's approach to family violence.
@@ -241,7 +240,7 @@ Tēnā koe,
 
 2.  This letter contains questions at the end that are an OIA request.
 
-## Following the Guidelines 
+### Following the Guidelines 
 
 3.  The Health New Zealand website[^41] says that the VIP must align with National Guidelines, which recommend enquiry for men if there are signs and symptoms present. Health New Zealand's example Intimate Partner Violence Intervention Policy[^42] states that "The Ministry of Health's Family Violence Assessment and Intervention Guideline guides this policy". If the VIP is to follow the Guidelines, then it must include men.
 
@@ -253,19 +252,19 @@ Tēnā koe,
 
 5.  The Guidelines, and the VIP policy example include non-routine enquiry for men. There is no reasonable or objective reason to exclude men's enquiries from data collection and the programme evaluation. Excluding male victims from data collection and programme evaluation does not support legitimate public health or human rights outcomes. If Health New Zealand is going to base it's policy on evidence, *it must collect the evidence about men in the VIP evaluation*. Including non-routine enquiry for men in reporting and evaluation would not have created an unreasonable drain on resources.
 
-## Limited resources
+### Limited resources
 
 6.  Even if including men in VIP programme logic and evaluation did require significant resources, that is not an excuse for discrimination. In international human rights law having limited resources is not a valid excuse for discrimination:
 
     > A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party's disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^43]
 
-## Routine enquiry
+### Routine enquiry
 
 7.  Reasons for a targeted programme for women do not negate New Zealand's health, ethical, and human rights obligations to men. New Zealand must demonstrate that it has taken the necessary steps to prevent violence and protect male victims, and that these steps meet New Zealand's health, ethical and human rights obligations.
 
 8.  In your response, you say "\[f\]or men, enquiry is recommended when signs or symptoms are present, **ensuring that support is available**". However, there is nothing in your response to indicate that men, are, in fact, receiving support.
 
-### The ineffectiveness of men's screening
+#### The ineffectiveness of men's screening
 
 9.  International research shows formal support services do not work well for male victims of partner violence.[^44] [^45] Therefore, if New Zealand's support systems for male victims are similar to international models, it is reasonable to assume they are also ineffective and require remedial action to address the shortcomings.
 
@@ -277,19 +276,19 @@ Tēnā koe,
 
 13. The ineffectiveness of screening when only signs and symptoms are present was highlighted in the Ministry's 2002 *Family Violence Intervention Guidelines*[^49] It explains that screening women based on signs and symptoms is as ineffective at identifying victims as relying on women to voluntarily disclose abuse. Both result in approximately 2% of abused women being found. The 2002 Guidelines argue that this low rate of detection for women is not acceptable and recommends routine screening. Higgins' study showed signs-and-symptoms screening was similarly ineffective in detecting male victims.
 
-### Due diligence and burden of proof 
+#### Due diligence and burden of proof 
 
 14. New Zealand must exercise due diligence to ensure that violence prevention measures are effective for men. The Ministry carries the burden to proof[^50] to show that omitting men from the VIP programme logic and evaluation is not discriminatory. The Ministry also has to show that non-routine enquiry for men is not discrimination. It must show that it is necessary, reasonable, and proportionate and supports the goal of reducing violence and supporting victims.
 
 15. If you could show that male victims are being identified at rates that are proportional to population-based studies, and they are receiving the support they need, that would show that the VIP and Guidelines are not discriminating against men.
 
-## An analogy
+### An analogy
 
 16. Men die from suicide at approximately 3 times the rate of women. This difference in prevalence and severity might justify a targeted suicide reduction program for men, but a suicide reduction program can't ignore female suicide. Data collected about the suicide reduction program should not just collect data about men; women must be included.
 
 17. Different risk factors between men and women may require different approaches to reduce suicides, but the each approach should be effective. Women being the minority of suicides does not justify an ineffective programme for women.
 
-## Questions
+### Questions
 
 18. These questions are an OIA request and should be read in the context of my previous letter of complaint, your response and this letter.
 
