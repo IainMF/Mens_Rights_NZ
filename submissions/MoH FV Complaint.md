@@ -242,7 +242,7 @@ Tēnā koe,
 
 ### Following the Guidelines 
 
-3.  The Health New Zealand website[^41] says that the VIP must align with National Guidelines, which recommend enquiry for men if there are signs and symptoms present. Health New Zealand's example Intimate Partner Violence Intervention Policy[^42] states that "The Ministry of Health's Family Violence Assessment and Intervention Guideline guides this policy". If the VIP is to follow the Guidelines, then it must include men.
+3.  The Health New Zealand website[^40] says that the VIP must align with National Guidelines, which recommend enquiry for men if there are signs and symptoms present. Health New Zealand's example Intimate Partner Violence Intervention Policy[^41] states that "The Ministry of Health's Family Violence Assessment and Intervention Guideline guides this policy". If the VIP is to follow the Guidelines, then it must include men.
 
 4.  There is no reasonable or objective reason to exclude men from the VIP programme logic. Excluding men from the programme logic does not support legitimate public health or human rights outcomes. Men's needs should have been considered in the programme development and reflected in the programme logic to align with the Guidelines and with New Zealand's human rights obligations. For example, the programme logic could have included the following:
 
@@ -256,7 +256,7 @@ Tēnā koe,
 
 6.  Even if including men in VIP programme logic and evaluation did require significant resources, that is not an excuse for discrimination. In international human rights law having limited resources is not a valid excuse for discrimination:
 
-    > A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party's disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^43]
+    > A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party's disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^42]
 
 ### Routine enquiry
 
@@ -266,19 +266,19 @@ Tēnā koe,
 
 #### The ineffectiveness of men's screening
 
-9.  International research shows formal support services do not work well for male victims of partner violence.[^44] [^45] Therefore, if New Zealand's support systems for male victims are similar to international models, it is reasonable to assume they are also ineffective and require remedial action to address the shortcomings.
+9.  International research shows formal support services do not work well for male victims of partner violence.[^43] [^44] Therefore, if New Zealand's support systems for male victims are similar to international models, it is reasonable to assume they are also ineffective and require remedial action to address the shortcomings.
 
-10. In New Zealand, Higgins[^46] studied partner violence screening in a New Zealand General Practice that used the Ministry's Guidelines. The study provides data on the effectiveness of screening for women and men. In the study, 54% of females were screened, 13% of them reported that they had experienced partner violence at some point in their lives. 9.7% of males were screened, only 1.3% of them reported that they had experienced partner violence at some point in their lives. 7.2% of all female patients and 0.12% of all male patients reported partner violence.[^47]
+10. In New Zealand, Higgins[^45] studied partner violence screening in a New Zealand General Practice that used the Ministry's Guidelines. The study provides data on the effectiveness of screening for women and men. In the study, 54% of females were screened, 13% of them reported that they had experienced partner violence at some point in their lives. 9.7% of males were screened, only 1.3% of them reported that they had experienced partner violence at some point in their lives. 7.2% of all female patients and 0.12% of all male patients reported partner violence.[^46]
 
-11. Population based-studies report similar lifetime experience of partner violence. The New Zealand Family Violence Study, which you reference in your response, shows that 28% of women and 29.4% of men report lifetime experience of partner violence. In the New Zealand Crime and Victims Survey,[^48] 23.6% of women and 10% of men report lifetime experience of partner violence.
+11. Population based-studies report similar lifetime experience of partner violence. The New Zealand Family Violence Study, which you reference in your response, shows that 28% of women and 29.4% of men report lifetime experience of partner violence. In the New Zealand Crime and Victims Survey,[^47] 23.6% of women and 10% of men report lifetime experience of partner violence.
 
 12. These studies suggest that men are between 30--50% of the victims of partner violence. If the screening for men was as effective as the routine screening for women the study would have found between 3--7.2% of men were victims, rather than finding just 0.12%. **Therefore, it is clear that the recommended screening for men is ineffective in identifying male victims**.
 
-13. The ineffectiveness of screening when only signs and symptoms are present was highlighted in the Ministry's 2002 *Family Violence Intervention Guidelines*[^49] It explains that screening women based on signs and symptoms is as ineffective at identifying victims as relying on women to voluntarily disclose abuse. Both result in approximately 2% of abused women being found. The 2002 Guidelines argue that this low rate of detection for women is not acceptable and recommends routine screening. Higgins' study showed signs-and-symptoms screening was similarly ineffective in detecting male victims.
+13. The ineffectiveness of screening when only signs and symptoms are present was highlighted in the Ministry's 2002 *Family Violence Intervention Guidelines*[^48] It explains that screening women based on signs and symptoms is as ineffective at identifying victims as relying on women to voluntarily disclose abuse. Both result in approximately 2% of abused women being found. The 2002 Guidelines argue that this low rate of detection for women is not acceptable and recommends routine screening. Higgins' study showed signs-and-symptoms screening was similarly ineffective in detecting male victims.
 
 #### Due diligence and burden of proof 
 
-14. New Zealand must exercise due diligence to ensure that violence prevention measures are effective for men. The Ministry carries the burden to proof[^50] to show that omitting men from the VIP programme logic and evaluation is not discriminatory. The Ministry also has to show that non-routine enquiry for men is not discrimination. It must show that it is necessary, reasonable, and proportionate and supports the goal of reducing violence and supporting victims.
+14. New Zealand must exercise due diligence to ensure that violence prevention measures are effective for men. The Ministry carries the burden to proof[^49] to show that omitting men from the VIP programme logic and evaluation is not discriminatory. The Ministry also has to show that non-routine enquiry for men is not discrimination. It must show that it is necessary, reasonable, and proportionate and supports the goal of reducing violence and supporting victims.
 
 15. If you could show that male victims are being identified at rates that are proportional to population-based studies, and they are receiving the support they need, that would show that the VIP and Guidelines are not discriminating against men.
 
@@ -390,22 +390,22 @@ Iain Fergusson
 
 [^39]: ICCPR General Comment 31 -- para. 19
 
-[^41]: [Establishing a Violence Intervention Programme (VIP) Health New Zealand](https://www.tewhatuora.govt.nz/health-services-and-programmes/family-violence-and-sexual-violence/establishing-a-violence-intervention-programme-vip)
+[^40]: [Establishing a Violence Intervention Programme (VIP) Health New Zealand](https://www.tewhatuora.govt.nz/health-services-and-programmes/family-violence-and-sexual-violence/establishing-a-violence-intervention-programme-vip)
 
-[^42]: *Guide to Establishing a Violence Intervention Programme Policy* from: [Establishing a Violence Intervention Programme (VIP) Health New Zealand](https://www.tewhatuora.govt.nz/health-services-and-programmes/family-violence-and-sexual-violence/establishing-a-violence-intervention-programme-vip)
+[^41]: *Guide to Establishing a Violence Intervention Programme Policy* from: [Establishing a Violence Intervention Programme (VIP) Health New Zealand](https://www.tewhatuora.govt.nz/health-services-and-programmes/family-violence-and-sexual-violence/establishing-a-violence-intervention-programme-vip)
 
-[^43]: ICESCR General Comment 20, para. 13
+[^42]: ICESCR General Comment 20, para. 13
 
-[^44]: Machado, A., Mesquita, C., & Matos, M. (2024). Brief report on a systematic review of the experiences of male victims of intimate partner violence as help-seekers. *Journal of Aggression, Maltreatment & Trauma,33*(1), 109-122.
+[^43]: Machado, A., Mesquita, C., & Matos, M. (2024). Brief report on a systematic review of the experiences of male victims of intimate partner violence as help-seekers. *Journal of Aggression, Maltreatment & Trauma,33*(1), 109-122.
 
-[^45]: Moore, T. (2021). Suggestions to improve outcomes for male victims of domestic abuse: a review of the literature. *SN Social Sciences,1*(10), 252.
+[^44]: Moore, T. (2021). Suggestions to improve outcomes for male victims of domestic abuse: a review of the literature. *SN Social Sciences,1*(10), 252.
 
-[^46]: Higgins, D., Manhire, K., & Marshall, B. (2015). Prevalence of intimate partner violence disclosed during routine screening in a large general practice. The Journal of Primary Health Care, 7(2),102-108.
+[^45]: Higgins, D., Manhire, K., & Marshall, B. (2015). Prevalence of intimate partner violence disclosed during routine screening in a large general practice. The Journal of Primary Health Care, 7(2),102-108.
 
-[^47]: Some of these figures are calculated from the data presented in the paper.
+[^46]: Some of these figures are calculated from the data presented in the paper.
 
-[^48]: Data from Cycle 5 of NZCVS are used because lifetime data are not readily available for later cycles.
+[^47]: Data from Cycle 5 of NZCVS are used because lifetime data are not readily available for later cycles.
 
-[^49]: Minsitry of Health. *Family Violence Intervention Guidelines -- Child and Partner Abuse*. 2002
+[^48]: Minsitry of Health. *Family Violence Intervention Guidelines -- Child and Partner Abuse*. 2002
 
-[^50]: ICESCR General Comment 20, para. 40
+[^49]: ICESCR General Comment 20, para. 40
