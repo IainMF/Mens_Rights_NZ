@@ -103,6 +103,11 @@ Women with degrees outnumber men with degrees. The gap between women and men is 
 Among 15-29 year olds, there are more men than women with no qualification, and more women than men with a degree.
 ![[Highest Qualification-crop.svg]]
 ![[Ratio of teachers.svg]]
+## Teacher bias
+[Do teacher and classroom characteristics affect the way in which girls and boys are graded?](https://www.tandfonline.com/doi/full/10.1080/01425692.2022.2122942)
+
+Also OECD study
+
 ## Globally
 https://np.reddit.com/r/LeftWingMaleAdvocates/comments/1fww4tp/more_boys_are_now_out_of_school_globally_than/
 
