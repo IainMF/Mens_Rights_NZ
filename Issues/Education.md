@@ -52,7 +52,7 @@ Secondary school boys are over-represented in the lowest achievers and under-rep
 > “For female school leavers in 2019, NCEA Level 2 attainment (81%) was higher than for their male counterparts (76%). **This may indicate the importance of literacy for overall performance in NCEA**”[^9]
 
 ![[NCEA + UE attainment.svg]]
-
+![[Issues/Highest qualification 87-97.svg]]
 
 | 2024 Leavers' Attainment | Boys % | Girls % |
 | ------------------------ | :------: | :-------: |
