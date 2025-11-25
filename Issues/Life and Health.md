@@ -35,7 +35,17 @@ Health services must be of good quality.
 ## Equality & Non-discrimination
 Article 2 and 3 of ICESCR prohibit discrimination against men, including in the right to health. 
 
-> States have a special obligation … to prevent any discrimination on internationally prohibited grounds in the provision of health care and health services, especially with respect to the core obligations of the right to health.[^6]
+> States have a special obligation … to prevent any discrimination on internationally prohibited grounds in the provision of health care and health services, especially with respect to the core obligations of the right to health. Inappropriate health resource allocation can lead to discrimination that may not be overt.[^6]
+
+> **Gender perspective**
+> 20. The Committee recommends that States integrate a gender perspective in their health-related policies, planning, programmes and research in order to promote better health for both women and men. A gender-based approach recognizes that biological and sociocultural factors play a significant role in influencing the health of men and
+women. The disaggregation of health and socio-economic data according to sex is essential for identifying and remedying inequalities in health.
+
+### Children
+See also CRC
+> Implementation of the principle of non-discrimination requires that girls, as well as boys, have equal access to adequate nutrition, safe environments, and physical as well as mental health services.[^7]
+
+
 
 
 ---
@@ -72,3 +82,5 @@ Citation: Ministry of Health. 2022. *Sudden Unexpected Death in Infancy: An anal
 [^5]: ICESCR General Comment 14, paragraph 15.
 
 [^6]: ICESCR General Comment 14, paragraph 19.
+
+[^7]: ICESCR General Comment 14, paragraph 22.
