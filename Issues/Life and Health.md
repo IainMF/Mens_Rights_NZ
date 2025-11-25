@@ -12,10 +12,10 @@ More men than women die in each age group, until age 80.[^1]
 ## The right to health
  Article 12 of the International Covenant on Economic, Social and Cultural Rights affirms men's right to the highest attainable standard of health.
 
-> #### Article 12
+>  **Article 12**
 > 1. The States Parties to the present Covenant recognize the right of everyone to the enjoyment of the highest attainable standard of physical and mental health.
 > 2. The steps to be taken by the States Parties to the present Covenant to achieve the full realization of this right shall include those necessary for:
-	> 	- a) The provision for the reduction of the stillbirth-rate and of infant mortality and for the healthy development of the child;
+	- a) The provision for the reduction of the stillbirth-rate and of infant mortality and for the healthy development of the child;
 > - b) The improvement of all aspects of environmental and industrial hygiene;
 > - c) The prevention, treatment and control of epidemic, endemic, occupational and other diseases;
 > - d) The creation of conditions which would assure to all medical service and medical attention in the event of sickness.
@@ -26,7 +26,7 @@ Although the government has the obligation to ensure men and boys have the highe
 
 ## Obligations
 
-> The right to health, like all human rights, imposes three types or levels of obligations on States parties: the obligations to *respect*, *protect* and *fulfil*. In turn, the obligation to *fulfil* contains obligations to facilitate, provide and promote. The obligation to *respect* requires States to refrain from interfering directly or indirectly with the enjoyment of the right to health. The obligation to *protect* requires States to take measures that prevent third parties from interfering with article 12 guarantees. Finally, the obligation to *fulfil* requires States to adopt appropriate legislative, administrative, budgetary, judicial, promotional and other measures towards the full realization of the right to health.[^12]
+> The right to health, like all human rights, imposes three types or levels of obligations on States parties: the obligations to *respect*, *protect* and *fulfil*. In turn, the obligation to *fulfil* contains obligations to facilitate, provide and promote. The obligation to *respect* requires States to refrain from interfering directly or indirectly with the enjoyment of the right to health. The obligation to *protect* requires States to take measures that prevent third parties from interfering with article 12 guarantees. Finally, the obligation to *fulfil* requires States to adopt appropriate legislative, administrative, budgetary, judicial, promotional and other measures towards the full realization of the right to health.[^4]
 
 ### Respect
 Respecting rights means not violating rights. In reagrd to the right to health:
@@ -69,9 +69,7 @@ The obligation to fulfil (promote) the right to health requires States to undert
 
 
 
-
-
-The right to health obligates the government to ensure health care is *available*, *accessible*, *acceptable*, and of good *quality*.[^4]
+The right to health obligates the government to ensure health care is *available*, *accessible*, *acceptable*, and of good *quality*.[^5]
 
 ### Availability
  
@@ -83,21 +81,21 @@ Health services must be acceptable to everyone, including men and boys. Services
 ### Quality
 Health services must be of good quality.
 
- Article 12.2 (b) requires the government to ensure workplace safety as best possible and to discourage harmful uses of alcohol and drugs.[^5] 
+ Article 12.2 (b) requires the government to ensure workplace safety as best possible and to discourage harmful uses of alcohol and drugs.[^6] 
 
 ## Equality & Non-discrimination
 Article 2 and 3 of ICESCR prohibit discrimination against men, including in the right to health. 
 
-> States have a special obligation … to prevent any discrimination on internationally prohibited grounds in the provision of health care and health services, especially with respect to the core obligations of the right to health. Inappropriate health resource allocation can lead to discrimination that may not be overt.[^6]
+> States have a special obligation … to prevent any discrimination on internationally prohibited grounds in the provision of health care and health services, especially with respect to the core obligations of the right to health. Inappropriate health resource allocation can lead to discrimination that may not be overt.[^7]
 
-Non-discrimination in the right to health is an immediate obligation.[^11]
+Non-discrimination in the right to health is an immediate obligation.[^8]
 
 Non-discrimination is a 'core obligation'
-> To ensure the right of access to health facilities, goods and services on a non-discriminatory basis, especially for vulnerable or marginalized groups;[^13]
+> To ensure the right of access to health facilities, goods and services on a non-discriminatory basis, especially for vulnerable or marginalized groups;[^9]
 
-> (e) To ensure equitable distribution of all health facilities, goods and services;[^13]
+> (e) To ensure equitable distribution of all health facilities, goods and services;[^9]
 
-> The formulation and implementation of ==national health strategies== and plans of action should respect, inter alia, the principles of ==non-discrimination== and people’s participation.[^14]
+> The formulation and implementation of ==national health strategies== and plans of action should respect, inter alia, the principles of ==non-discrimination== and people’s participation.[^10]
 
 > **Gender perspective**
 > 20. The Committee recommends that States integrate a gender perspective in their health-related policies, planning, programmes and research in order to promote better health for both women and men. A gender-based approach recognizes that biological and sociocultural factors play a significant role in influencing the health of men and
@@ -105,15 +103,15 @@ women. The disaggregation of health and socio-economic data according to sex is 
 
 ### Children
 See also CRC
-> Implementation of the principle of non-discrimination requires that girls, as well as boys, have equal access to adequate nutrition, safe environments, and physical as well as mental health services. There is a need to adopt effective and appropriate measures to abolish harmful traditional practices affecting the health of children, ==particularly girls==, including early marriage, female genital mutilation, preferential feeding and care of male children. Children with disabilities should be given the opportunity to enjoy a fulfilling and decent life and to participate within their community.[^7]
+> Implementation of the principle of non-discrimination requires that girls, as well as boys, have equal access to adequate nutrition, safe environments, and physical as well as mental health services. There is a need to adopt effective and appropriate measures to abolish harmful traditional practices affecting the health of children, ==particularly girls==, including early marriage, female genital mutilation, preferential feeding and care of male children. Children with disabilities should be given the opportunity to enjoy a fulfilling and decent life and to participate within their community.[^11]
 
-> In all policies and programmes aimed at guaranteeing the right to health of children and adolescents their best interests shall be a primary consideration.[^8]
+> In all policies and programmes aimed at guaranteeing the right to health of children and adolescents their best interests shall be a primary consideration.[^12]
 
 ## Limitations
-The right to health should not be used as an excuse to violate other rights. If violations of other rights are necessary to protect the public health, they measures must be proportional and time-limited.[^9]
+The right to health should not be used as an excuse to violate other rights. If violations of other rights are necessary to protect the public health, they measures must be proportional and time-limited.[^13]
 
 ## Progressive realisation
-Limited resources mean that the right to health cannot be realised immediately, therefore states have an obligation to progressively realise the right to health. States must take deliberate and concrete steps to the full realisation of the right to health.[^10]
+Limited resources mean that the right to health cannot be realised immediately, therefore states have an obligation to progressively realise the right to health. States must take deliberate and concrete steps to the full realisation of the right to health.[^14]
 
 ## Violations
 see ICESCR General Comment 14 paragraph 46 onward
@@ -148,24 +146,25 @@ Citation: Ministry of Health. 2022. *Sudden Unexpected Death in Infancy: An anal
 
 [^3]: ICESCR General Comment 14, paragraph 9.
 
-[^4]: ICESCR General Comment 14, paragraph 12.
+[^4]: ICESCR General Comment 14, paragraph 33
 
-[^5]: ICESCR General Comment 14, paragraph 15.
+[^5]: ICESCR General Comment 14, paragraph 12.
 
-[^6]: ICESCR General Comment 14, paragraph 19.
+[^6]: ICESCR General Comment 14, paragraph 15.
 
-[^7]: ICESCR General Comment 14, paragraph 22.
+[^7]: ICESCR General Comment 14, paragraph 19.
 
-[^8]: ICESCR General Comment 14, paragraph 24.
+[^8]: ICESCR General Comment 14, paragraph 30
 
-[^9]: ICESCR General Comment 14, paragraph 28 & 29.
+[^9]:  ICESCR General Comment 14, paragraph 43
 
-[^10]: ICESCR General Comment 14, paragraph 30
+[^10]:  ICESCR General Comment 14, paragraph 54
 
-[^11]: ICESCR General Comment 14, paragraph 30
+[^11]: ICESCR General Comment 14, paragraph 22.
 
-[^12]: ICESCR General Comment 14, paragraph 33
+[^12]: ICESCR General Comment 14, paragraph 24.
 
-[^13]:  ICESCR General Comment 14, paragraph 43
+[^13]: ICESCR General Comment 14, paragraph 28 & 29.
 
-[^14]:  ICESCR General Comment 14, paragraph 54
+[^14]: ICESCR General Comment 14, paragraph 30
+
