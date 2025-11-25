@@ -30,7 +30,13 @@ Health services must be acceptable to everyone, including men and boys. Services
 ### Quality
 Health services must be of good quality.
 
- 
+ Article 12.2 (b) requires the government to ensure workplace safety as best possible and to discourage harmful uses of alcohol and drugs.[^5] 
+
+## Equality & Non-discrimination
+Article 2 and 3 of ICESCR prohibit discrimination against men, including in the right to health. 
+
+> States have a special obligation … to prevent any discrimination on internationally prohibited grounds in the provision of health care and health services, especially with respect to the core obligations of the right to health.[^6]
+
 
 ---
 
@@ -62,3 +68,7 @@ Citation: Ministry of Health. 2022. *Sudden Unexpected Death in Infancy: An anal
 [^3]: ICESCR General Comment 14, paragraph 9.
 
 [^4]: ICESCR General Comment 14, paragraph 12.
+
+[^5]: ICESCR General Comment 14, paragraph 15.
+
+[^6]: ICESCR General Comment 14, paragraph 19.
