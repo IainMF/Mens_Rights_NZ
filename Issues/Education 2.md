@@ -12,6 +12,49 @@ Angelique Praat
 
 April 1999
 
+# Summary
+
+## BACKGROUND
+This paper has been prepared in response to recent concerns about the educational outcomes of male students in New Zealand. Information held by the Ministry of Education regarding the achievement, subject choice and participation of male and female students in the compulsory school sector has been drawn together in order to assess whether the education of males is at risk. Explanations of gender differences have not been entered into, rather this paper identifies potential areas of concern to be addressed in a later literature review dealing specifically with theories and explanations of gender differences in achievement and participation. The particular focus of this paper is participation and achievement in English, mathematics and science.
+
+## LIMITATIONS OF THE DATA
+While the analysis contained within this paper permits some tentative conclusions about the education of male and female students to be reached, these conclusions should be viewed in light of the limitations of the available data. Specifically the data reviewed are derived from a range of sources which differ on a number of dimensions including:
+
+- the reason for the data collection;
+- the age of the data;
+- the sample used;
+- the extent to which items relate to the curriculum (current and past);
+- the type of study (cross-sectional or time series);
+- the form of assessment used in the studies.
+
+In particular, achievement in senior school exams should be examined in the light of participation in each subject. At years 12 and 13, achievement indices do not reflect the ability of all males and females at that level, but represent only a subset of students who have deliberately selected each subject.
+
+Clearly the studies informing the conclusions of this paper are not strictly comparable; however taken as a whole they do indicate areas of concern.
+
+## KEY FINDINGS
+Several indices were used to gauge students’ participation in or engagement with the compulsory school sector. Suspension data from 1996/1997 indicates that male students made up almost three-quarters of the two percent of students who were suspended.
+
+The trends for retention of students at school beyond school leaving age (16 years) showed similar patterns for males and females from 1986 to 1998, with retention rates for male students being typically slightly below that for female students. In terms of retention, the education of male students does not seem to be at a substantially greater risk than that of female students. Of greater concern is the low proportion of both male and female Māori students participating in school beyond school leaving age (although the proportion is increasing).
+
+The number of students leaving school with no formal qualifications has fallen since 1987. In 1997, 19.8% of male school leavers left school with no qualifications, while the figure for female students in 1997 was 15.3%. Given the small difference between the male and female figures on this (crude) indicator of participation/achievement, it would seem this issue concerns all students rather than just males or females.
+
+The proportion of Year 11 male and female students participating in School Certificate Examinations was very similar between 1995 and 1997 (upwards of 80% of those taking nationally recognised subjects). A slightly higher proportion of Year 12 females than males participated in Sixth Form Certificate from 1995-1997, although participation rates for both genders were reasonably high at 74% and above.
+
+Stereotypical gender differences in subject selection continued to be evident in the relative rankings of the ten most popular subjects for School Certificate (1986-1997), Sixth Form Certificate (1988-1997) and Bursary examinations (1990-1997). Workshop technology and technical drawing/graphics featured in the top ten choices for male students but not female students at School Certificate level, while female students continued to select home economics and typing the most. More marked gender differentiation was evident in Sixth Form Certificate with greater proportions of male students taking science- and mathematics-based subjects while female students opted for humanities-based subjects. This trend continued into Bursary, with the exception of biology, which was the one science subject relatively popular with female students in Sixth Form Certificate and Bursary examinations.
+
+In terms of achievement, female students outperformed male students on almost all indices related to language and literacy throughout their school career. However, available time-series data on achievement in secondary school examinations shows that the performance of males has not declined over time; rather the differences in achievement favouring females have been a consistent feature of the achievement data of recent years.
+
+The evidence with respect to gender differences in mathematics is equivocal, making conclusions difficult. The more recent (post 1990) cross-sectional studies in the primary and early secondary school seem to indicate that there are either no gender differences in the early years of schooling or that there are differences favouring female students. However, cross-sectional studies of students at school leaving age show male students significantly outperformed female students in tests of mathematical literacy. This gender difference favouring males is also evident in time-series analysis of School Certificate mathematics, and Bursary mathematics with statistics, but is not a feature of Bursary mathematics with calculus. The anomaly between the findings of cross-sectional studies of school leavers and time-series analysis of Bursary mathematics with calculus may be explained by the different nature of the samples used in these studies; cross-sectional studies use a random selection of students across the ability spectrum, while Bursary samples are self-selected, possibly reflecting the superior ability of an elite group of students.
+
+With respect to the question of whether the performance of male students in mathematics has declined over time in relation to female students, time-series analyses of senior school examinations show that there has been no marked decline over time in the achievement of either gender in School Certificate and Bursary exams. Mathematics performance in Sixth Form Certificate has apparently declined for both males and females over time. In short, the gender differences that exist in mathematics have been consistent over recent years.
+
+The evidence regarding gender differences in science is also equivocal. Recent studies of science in primary and early secondary school have found either no gender differences in science performance or significant gender differences favouring males. Cross-sectional studies of students’ science literacy at school leaving age have found that males score better than females, while time-series data show differential subject specific results. The relative position of male students compared to female students with respect to science achievement in secondary school examinations has remained fairly static in recent years. Approximately equal proportions of males and females attained the top grades in School Certificate Science, while in Sixth Form Certificate females outperformed males in all sciences. In Bursary biology and physics, slightly higher proportions of females attained grade B or above, while in chemistry higher proportions of males attained grade B or above. As stated above, achievement results in senior school examinations should be considered in the light of students’ voluntary participation in these subjects.
+
+## CONCLUSION
+While there are areas where particular concern for male students is warranted, for example levels of suspensions and their participation and achievement in English, the data presented in this report suggest that any differences in the relative participation and performance of male and female students in the compulsory school sector are not new. Male students’ performance has not declined over time; extant gender differences have been a consistent feature of participation and achievement statistics since the late 1980s and early 1990s. That these differences continue to feature in educational indices is a cause of concern in itself.
+
+However as both genders display particular areas of weakness, support should be directed to both genders, rather than one or the other, in order to raise overall student achievement.
+
 
 | Year | Male 16 | Male 17 | Male 18 | Female 16 | Female 17 | Female 18 | All 16 | All 17 | All 18 |
 |------|---------|---------|---------|-----------|-----------|-----------|--------|--------|--------|
