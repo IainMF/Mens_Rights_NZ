@@ -37,13 +37,24 @@ Article 2 and 3 of ICESCR prohibit discrimination against men, including in the 
 
 > States have a special obligation … to prevent any discrimination on internationally prohibited grounds in the provision of health care and health services, especially with respect to the core obligations of the right to health. Inappropriate health resource allocation can lead to discrimination that may not be overt.[^6]
 
+Non-discrimination in the right to health is an immediate obligation.[^11]
+
 > **Gender perspective**
 > 20. The Committee recommends that States integrate a gender perspective in their health-related policies, planning, programmes and research in order to promote better health for both women and men. A gender-based approach recognizes that biological and sociocultural factors play a significant role in influencing the health of men and
 women. The disaggregation of health and socio-economic data according to sex is essential for identifying and remedying inequalities in health.
 
 ### Children
 See also CRC
-> Implementation of the principle of non-discrimination requires that girls, as well as boys, have equal access to adequate nutrition, safe environments, and physical as well as mental health services.[^7]
+> Implementation of the principle of non-discrimination requires that girls, as well as boys, have equal access to adequate nutrition, safe environments, and physical as well as mental health services. There is a need to adopt effective and appropriate measures to abolish harmful traditional practices affecting the health of children, ==particularly girls==, including early marriage, female genital mutilation, preferential feeding and care of male children. Children with disabilities should be given the opportunity to enjoy a fulfilling and decent life and to participate within their community.[^7]
+
+> In all policies and programmes aimed at guaranteeing the right to health of children and adolescents their best interests shall be a primary consideration.[^8]
+
+## Limitations
+The right to health should not be used as an excuse to violate other rights. If violations of other rights are necessary to protect the public health, they measures must be proportional and time-limited.[^9]
+
+## Progressive realisation
+Limited resources mean that the right to health cannot be realised immediately, therefore states have an obligation to progressively realise the right to health. States must take deliberate and concrete steps to the full realisation of the right to health.[^10]
+
 
 
 
@@ -84,3 +95,14 @@ Citation: Ministry of Health. 2022. *Sudden Unexpected Death in Infancy: An anal
 [^6]: ICESCR General Comment 14, paragraph 19.
 
 [^7]: ICESCR General Comment 14, paragraph 22.
+
+[^8]: ICESCR General Comment 14, paragraph 24.
+
+[^9]: ICESCR General Comment 14, paragraph 28 & 29.
+
+[^10]: ICESCR General Comment 14, paragraph 30
+
+[^11]: ICESCR General Comment 14, paragraph 30
+
+
+
