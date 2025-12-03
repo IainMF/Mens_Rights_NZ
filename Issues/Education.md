@@ -9,6 +9,8 @@ description: Issues for men's and boys' education in New Zealand
 
 New Zealand has accepted recommendations to reduce inequities in the education system[^1] however boys and men are behind at all levels of education. Historically, boys had an advantage in education; however girls started performing better than boys as early as 1985.[^2]
 
+![[Highest qualification 87-97.svg]]
+
 ## Pre school
 
 The Growing Up in New Zealand (GUiNZ) assessed literacy skills of 4.5 year-olds using tools that measure letter naming speed and the ability to write their name in a recognisable way. More boys (22%) than girls (16%) are in the at-risk category for naming letters. Fewer boys(41%) than girls (68%) could write their name.[^3]

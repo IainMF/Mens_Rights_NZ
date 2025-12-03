@@ -72,9 +72,9 @@ However as both genders display particular areas of weakness, support should be 
 | 1997 | 80.9    | 57.7    | 16.2    | 86.6      | 62.6      | 14.1      | 83.7   | 60.1   | 15.2   |
 | 1998 | 83.6    | 59.2    | 17.0    | 88.6      | 65.2      | 15.2      | 86.0   | 62.1   | 16.1   |
 
-**Table 15. Estimated Proportion of all students staying on at school by age 1986 - 1998**
+### **Table 15. Estimated Proportion of all students staying on at school by age 1986 - 1998**
 
-**Table 16. Estimated Proportion of Māori students staying on at school by age 1986 - 1998**
+### **Table 16. Estimated Proportion of Māori students staying on at school by age 1986 - 1998**
 
 | Year | Māori Male 16 | Māori Male 17 | Māori Male 18 | Māori Female 16 | Māori Female 17 | Māori Female 18 | All Māori 16 | All Māori 17 | All Māori 18 |
 |------|---------------|---------------|---------------|-----------------|-----------------|-----------------|--------------|--------------|--------------|
@@ -92,7 +92,7 @@ However as both genders display particular areas of weakness, support should be 
 | 1997 | 60.6          | 38.2          | 11.3          | 68.0            | 40.3            | 8.9             | 64.3         | 39.2         | 10.1         |
 | 1998 | 67.2          | 40.0          | 12.7          | 74.8            | 43.2            | 10.5            | 71.0         | 41.6         | 11.6         |
 
-**Table 17. Estimated Proportion of Pacific students staying on at school by age 1996 - 1998**
+### **Table 17. Estimated Proportion of Pacific students staying on at school by age 1996 - 1998**
 
 | Year | Pacific Islands Male 16 | Pacific Islands Male 17 | Pacific Islands Male 18 | Pacific Islands Female 16 | Pacific Islands Female 17 | Pacific Islands Female 18 | All Pacific Islands 16 | All Pacific Islands 17 | All Pacific Islands 18 |
 |------|--------------------------|---------------------------|---------------------------|-----------------------------|-----------------------------|-----------------------------|--------------------------|---------------------------|---------------------------|
@@ -100,7 +100,7 @@ However as both genders display particular areas of weakness, support should be 
 | 1997 | 81.8                     | 58.7                      | 25.4                      | 87.5                        | 62.5                        | 22.2                        | 84.6                     | 60.6                      | 23.7                      |
 | 1998 | 83.5                     | 62.0                      | 27.6                      | 80.8                        | 66.8                        | 20.1                        | 82.2                     | 64.4                      | 23.8                      |
 
-**Table 21. Ten most popular subjects for School Certificate – Males 1986-1997**  
+### **Table 21. Ten most popular subjects for School Certificate – Males 1986-1997**  
 (Percentage of total male School Certificate candidates taking each subject)
 
 | Subject                  | 1986 | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
@@ -122,7 +122,7 @@ However as both genders display particular areas of weakness, support should be 
 \# Workshop Technology not offered 1994–
 
 
-**Table 22. Ten most popular subjects for School Certificate – Females 1986–1997**  
+### **Table 22. Ten most popular subjects for School Certificate – Females 1986–1997**  
 (Percentage of total female School Certificate candidates taking each subject)
 
 | Subject           | 1986  | 1987  | 1988  | 1989  | 1990  | 1991  | 1992  | 1993  | 1994  | 1995  | 1996  | 1997  |
@@ -139,7 +139,7 @@ However as both genders display particular areas of weakness, support should be 
 | Home Economics    | 15.4  | 15.1  | 15.2  | 13.3  | 14.9  | 14.4  | 13.3  | 13.5  | 13.3  | 12.6  | 14.5  | 12.3  |
 | **Total Females** | 30030 | 30187 | 30632 | 30421 | 30457 | 31866 | 32088 | 31544 | 31623 | 30936 | 30929 | 30734 |
 
-**Table 23. Percentage of all students gaining grade A, B or C for School Certificate English 1992–1997**
+### **Table 23. Percentage of all students gaining grade A, B or C for School Certificate English 1992–1997**
 
 | Grade | Gender | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
 |-------|--------|------|------|------|------|------|------|
@@ -166,7 +166,7 @@ All figures are percentages (%).
 All figures are percentages (%).
 
 
-**Table 25. Percentage of Pacific students gaining grade A, B or C for School Certificate English 1992–1997**
+### **Table 25. Percentage of Pacific students gaining grade A, B or C for School Certificate English 1992–1997**
 
 | Grade | Gender | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
 |-------|--------|------|------|------|------|------|------|
@@ -179,7 +179,7 @@ All figures are percentages (%).
 
 All figures are percentages (%).
 
-**Table 26. Percentage of all students gaining grade A, B or C for School Certificate Mathematics 1992–1997**
+### **Table 26. Percentage of all students gaining grade A, B or C for School Certificate Mathematics 1992–1997**
 
 | Grade | Gender | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
 |-------|--------|------|------|------|------|------|------|
@@ -192,7 +192,7 @@ All figures are percentages (%).
 
 All figures are percentages (%).
 
-**Table 27. Percentage of Māori students gaining grade A, B or C for School Certificate Mathematics 1992–1997**
+### **Table 27. Percentage of Māori students gaining grade A, B or C for School Certificate Mathematics 1992–1997**
 
 | Grade | Gender | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
 |-------|--------|------|------|------|------|------|------|
@@ -204,8 +204,7 @@ All figures are percentages (%).
 |       | Female | 15.6 | 17.9 | 21.1 | 19.6 | 20.2 | 22.8 |
 
 All figures are percentages (%).
-
-**Table 28. Percentage of Pacific students gaining grade A, B or C for School Certificate Mathematics 1992–1997**
+### **Table 28. Percentage of Pacific students gaining grade A, B or C for School Certificate Mathematics 1992–1997**
 
 | Grade | Gender | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
 |-------|--------|------|------|------|------|------|------|
@@ -218,7 +217,7 @@ All figures are percentages (%).
 
 All figures are percentages (%).
 
-**Table 29. Percentage of all students gaining grade A, B or C for School Certificate Science 1992–1997**
+### **Table 29. Percentage of all students gaining grade A, B or C for School Certificate Science 1992–1997**
 
 | Grade | Gender | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
 |-------|--------|------|------|------|------|------|------|
@@ -231,7 +230,7 @@ All figures are percentages (%).
 
 All figures are percentages (%).
 
-**Table 30. Percentage of Māori students gaining grade A, B or C for School Certificate Science 1992–1997**
+### **Table 30. Percentage of Māori students gaining grade A, B or C for School Certificate Science 1992–1997**
 
 | Grade | Gender | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
 |-------|--------|------|------|------|------|------|------|
@@ -244,7 +243,7 @@ All figures are percentages (%).
 
 All figures are percentages (%).
 
-**Table 31. Percentage of Pacific students gaining grade A, B or C for School Certificate Science 1992–1997**
+### **Table 31. Percentage of Pacific students gaining grade A, B or C for School Certificate Science 1992–1997**
 
 | Grade | Gender | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
 |-------|--------|------|------|------|------|------|------|
@@ -257,7 +256,7 @@ All figures are percentages (%).
 
 All figures are percentages (%).
 
-**Table 32. Ten most popular subjects for year 4 Sixth Form Certificate – Males 1988–1997**  
+### **Table 32. Ten most popular subjects for year 4 Sixth Form Certificate – Males 1988–1997**  
 (Percentage of total male Sixth Form Certificate candidates taking each subject)
 
 | Subject              | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
@@ -279,7 +278,7 @@ All figures are percentages (%).
 All figures except the “Total Males” row are percentages (%).  
 “–” indicates the subject was not in the top ten that year.
 
-**Table 33. Ten most popular subjects for year 4 Sixth Form Certificate – Females 1988–1997**  
+### **Table 33. Ten most popular subjects for year 4 Sixth Form Certificate – Females 1988–1997**  
 (Percentage of total female Sixth Form Certificate candidates taking each subject)
 
 | Subject            | 1988  | 1989  | 1990  | 1991  | 1992  | 1993  | 1994  | 1995  | 1996  | 1997  |
@@ -304,7 +303,7 @@ All figures except the “Total Males” row are percentages (%).
 All figures except the “Total Females” row are percentages (%).  
 “–” indicates the subject was not in the top ten that year.
 
-**Table 34. Percentage of All Year 4 Sixth Form Certificate candidates gaining grades A and above in English, Maths and Science 1988–1997**
+### **Table 34. Percentage of All Year 4 Sixth Form Certificate candidates gaining grades A and above in English, Maths and Science 1988–1997**
 
 | Subject         | Gender  | 1988         | 1989         | 1990         | 1991         | 1992         | 1993         | 1994         | 1995         | 1996         | 1997         |              |
 | --------------- | ------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -323,7 +322,7 @@ All figures except the “Total Females” row are percentages (%).
 
 Note: Each cell shows **percentage** followed by **absolute number (n)** in parentheses.
 
-**Table 34. Percentage of All Year 4 Sixth Form Certificate candidates gaining grades A and above in English, Maths and Science 1988–1997**  
+### **Table 34. Percentage of All Year 4 Sixth Form Certificate candidates gaining grades A and above in English, Maths and Science 1988–1997**  
 (Percentages only)
 
 | Subject         | Gender  | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
@@ -341,7 +340,7 @@ Note: Each cell shows **percentage** followed by **absolute number (n)** in pare
 | **Total**       | Males   | 38.3 | 36.7 | 39.4 | 37.0 | 41.6 | 37.1 | 36.9 | 37.0 | 35.8 | 36.3 |
 |                 | Females | 42.0 | 41.4 | 42.7 | 41.6 | 37.1 | 36.9 | 37.0 | 35.8 | 36.3 | 41.5 |
 
-**Table 35. Māori Year 4 Sixth Form Certificate candidates gaining grades A and above in English, Maths and Sciences 1988–1997**  
+### **Table 35. Māori Year 4 Sixth Form Certificate candidates gaining grades A and above in English, Maths and Sciences 1988–1997**  
 (Percentage and absolute number n)
 
 | Subject            | Gender  | 1988       | 1989       | 1990       | 1991       | 1992       | 1993       | 1994       | 1995       | 1996       | 1997       |
@@ -359,7 +358,7 @@ Note: Each cell shows **percentage** followed by **absolute number (n)** in pare
 | **Total of all subjects** | Males   | 24.2 (222) | 24.5 (253) | 24.2 (240) | 23.2 (245) | 20.9 (382) | 19.6 (354) | 13.2 (240) | 11.1 (193) | 13.8 (234) | 18.5 (329) |
 |                    | Females | 26.7 (323) | 27.5 (334) | 27.2 (356) | 26.2 (354) | 24.4 (496) | 24.1 (521) | 17.2 (377) | 15.0 (317) | 17.0 (348) | 21.9 (452) |
 
-**Table 35. Māori Year 4 Sixth Form Certificate candidates gaining grades A and above in English, Maths and Sciences 1988–1997**  
+### **Table 35. Māori Year 4 Sixth Form Certificate candidates gaining grades A and above in English, Maths and Sciences 1988–1997**  
 (Percentages only)
 
 | Subject            | Gender  | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
@@ -379,7 +378,7 @@ Note: Each cell shows **percentage** followed by **absolute number (n)** in pare
 
 All figures are percentages (%).
 
-**Table 36. Pacific Year 4 Sixth Form Certificate grades 4 and above in English, Maths and Sciences 1988–1997**
+### **Table 36. Pacific Year 4 Sixth Form Certificate grades 4 and above in English, Maths and Sciences 1988–1997**
 
 Blurry source image - could not read.
 
@@ -403,7 +402,7 @@ Ten most popular subjects as percentage of total number sitting – **males**
 All figures are percentages (%).  
 “–” indicates the subject was not in the top ten that year.
 
-**Table 38. New Zealand University Bursaries/Entrance Scholarship Examinations 1990–1997**  
+### **Table 38. New Zealand University Bursaries/Entrance Scholarship Examinations 1990–1997**  
 Ten most popular subjects as percentage of total number sitting – **females**
 
 | Subject                  | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
@@ -425,7 +424,7 @@ All figures are percentages (%).
 “–” indicates the subject was not in the top ten that year.  
 “0” appears in the original table for years when the subject dropped out of the top ten.
 
-**Table 42. Highest qualification of school leavers by gender 1987–1997**  
+### **Table 42. Highest qualification of school leavers by gender 1987–1997**  
 (Percentages)
 
 | Highest Qualification            | Gender | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 |
