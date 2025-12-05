@@ -7,9 +7,10 @@ description: Issues for men's and boys' education in New Zealand
 
 ## Right to education
 
-New Zealand has accepted recommendations to reduce inequities in the education system[^1] however boys and men are behind at all levels of education. Historically, boys had an advantage in education; however girls started performing better than boys as early as 1985.[^2]
+New Zealand has accepted recommendations to reduce inequities in the education system[^1] however boys and men are behind at all levels of education. Historically, boys had an advantage in education; however girls started performing better than boys as early as 1985.[^2] From 1987 to 1997 girls outpaced boys in gaining 7th form qualifications, while boys remained the majority of those with no high school qualification.
 
-![[Highest qualification 87-97.svg]]
+![[Issues/Highest qualification 87-97.svg]]
+
 
 ## Pre school
 
