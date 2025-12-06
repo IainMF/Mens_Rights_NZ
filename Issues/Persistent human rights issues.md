@@ -19,3 +19,6 @@ Men have shorter life-expectancy than women.
 ### Women and children first
 
 ## Homicide
+
+## Gendercide
+For example, targeting on 'fighting-age men' in armed conflict, whether they are combatants or not.
