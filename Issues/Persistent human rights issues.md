@@ -1,3 +1,9 @@
+---
+title: Persistent human rights issues
+description: The human rights issues for men and boys that are long-term, persistent issues.
+---
+
+
 > [!tip] This page is a work in progress
 
 Some of the human rights issues men and boys face are long-term, persistent issues.
