@@ -26,6 +26,8 @@ Men have shorter life-expectancy than women.
 ### Women and children first
 
 ## Homicide
+Worldwide, most homicide vcitms are male.
+
 ![[Deaths from assault(ratio) 1948-2021.svg]]
 ## Gendercide
 For example, targeting on 'fighting-age men' in armed conflict, whether they are combatants or not.
