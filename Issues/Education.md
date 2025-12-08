@@ -13,6 +13,16 @@ Historically, boys had an advantage in education; however girls started performi
 
 ![[Issues/Highest qualification 87-97.svg]]
 
+> The existence of a gender gap in New Zealand schools is well established. This is reflected in the NECA results. Females on average scored 10% higher in their results over males in the 2004 and 2005. This disparity occurred consistently through level 1, 2 and 3 and from year 11 to year 13.[^13]
+
+
+| NCEA 2005                         | Male  | Female |
+| --------------------------------- | :-----: | :------: |
+| Met level 1 literacy requirements | 68.4% | 77.2%  |
+| Gained level 1 in year 11         | 51.7% | 61.7%  |
+| Gained level 2 in year 12         | 55.4% | 65.7%  |
+| Gained level 3 in year 13         | 44.6% | 56.4%  |
+
 ## Pre school
 
 The Growing Up in New Zealand (GUiNZ) assessed literacy skills of 4.5 year-olds using tools that measure letter naming speed and the ability to write their name in a recognisable way. More boys (22%) than girls (16%) are in the at-risk category for naming letters. Fewer boys(41%) than girls (68%) could write their name.[^7]
@@ -50,11 +60,9 @@ The National Monitoring Study of Student Achievement shows the difference in ave
 
 Secondary school students work towards the National Certificate of Educational Achievement (NCEA). NCEA has three levels of certificate, depending on the difficulty of the standards. Overall achievement rates for students are increasing but boys lag behind girls at all NCEA levels. Fewer boys attain NCEA in the expected year of schooling (e.g. level 1 in year 11) and fewer boys attain each NCEA level before they leave school. The largest gap is for NCEA level 3. In 2016 60.3% girls achieved level 3 while only 47.7% of boys did. A 12.6 percentage point difference.
 
-
-
 Secondary school boys are over-represented in the lowest achievers and under-represented in the highest achievers, compared to girls. This has been consistent for at least a decade
 
-> “For female school leavers in 2019, NCEA Level 2 attainment (81%) was higher than for their male counterparts (76%). **This may indicate the importance of literacy for overall performance in NCEA**”[^13]
+> “For female school leavers in 2019, NCEA Level 2 attainment (81%) was higher than for their male counterparts (76%). **This may indicate the importance of literacy for overall performance in NCEA**”[^14]
 
 ![[NCEA + UE attainment.svg]]
 
@@ -82,13 +90,13 @@ There are fewer boys than girls who are the top performers in reading. For scien
 
 #### Dropping out, suspensions and expulsions
 
-Secondary Schools have four levels of consequences for bad behaviour. Stand-downs (least severe), suspensions, exclusion and expulsion (most severe). In 2016, boys received 3 times as many stand downs and suspensions, 3.3 times as many exclusions and 3.6 times as many expulsions, compared to girls. Fewer boys than girls stay in school until 17 (81.0% vs 86.3%). [^14]
+Secondary Schools have four levels of consequences for bad behaviour. Stand-downs (least severe), suspensions, exclusion and expulsion (most severe). In 2016, boys received 3 times as many stand downs and suspensions, 3.3 times as many exclusions and 3.6 times as many expulsions, compared to girls. Fewer boys than girls stay in school until 17 (81.0% vs 86.3%). [^15]
 
-There is evidence that receiving a suspension increases the chance of imprisonment later in life, this is described as the *school-to-prison* pipeline.[^15] [^16] Therefore, behaviour problems should be seen as an opportunity help and support boys. 
+There is evidence that receiving a suspension increases the chance of imprisonment later in life, this is described as the *school-to-prison* pipeline.[^16] [^17] Therefore, behaviour problems should be seen as an opportunity help and support boys. 
 
 ### Tertiary education
 
-In 2015 8.5% of men and 11.0% of women were enrolled in tertiary education. Fewer men are completing their tertiary education, compared to women. At tertiary level only 4 out 10 people who gain tertiary certificates, diplomas, or bachelor degrees and above are men. Overall participation in tertiary education has grown but so has the gap between men and women. A large disparity exists between the number of men (2.8%) and women (4.2%) studying a bachelor’s degree. The result of the increased participation and completion of tertiary education by women has led to women with bachelor’s degrees outnumbering men since 2006.[^17]
+In 2015 8.5% of men and 11.0% of women were enrolled in tertiary education. Fewer men are completing their tertiary education, compared to women. At tertiary level only 4 out 10 people who gain tertiary certificates, diplomas, or bachelor degrees and above are men. Overall participation in tertiary education has grown but so has the gap between men and women. A large disparity exists between the number of men (2.8%) and women (4.2%) studying a bachelor’s degree. The result of the increased participation and completion of tertiary education by women has led to women with bachelor’s degrees outnumbering men since 2006.[^18]
 ![[School leavers destination.svg]]
 Men are under-represented at University.
 
@@ -218,12 +226,15 @@ UNESCO offers this rationale for why boys' education is important:
 
 [^12]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 14
 
-[^13]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 16
+[^13]: Salvatore Gargiulo - Principal Sabbatical Report Focus: The Performance of Boys
 
-[^14]: Education Counts [https://www.educationcounts.govt.nz/](https://www.educationcounts.govt.nz/)
+[^14]: Ministry of Education – [How our education system is performing for literacy](https://assets.education.govt.nz/public/Literacy-and-Maths-strategy-development-in-2021/How-our-education-system-is-performing-for-Literacy.pdf): Progress and achievement of New Zealand learners in English medium settings – 2021 – Page 16
 
-[^15]: Hemez, P., Brent, J. J., & Mowen, T. J. (2020). [Exploring the school-to-prison pipeline: How school suspensions influence incarceration during young adulthood](https://pmc.ncbi.nlm.nih.gov/articles/PMC8277150/). _Youth violence and juvenile justice_, _18_(3), 235-255.
+[^15]: Education Counts [https://www.educationcounts.govt.nz/](https://www.educationcounts.govt.nz/)
 
-[^16]: Kent, H., Kirby, A., Hogarth, L., Leckie, G., Cornish, R., & Williams, H. (2023). [[|School to prison pipelines: Associations between school exclusion, neurodisability and age of first conviction in male prisoners]]. _Forensic Science International: Mind and Law_, _4_, 100123.
-[^17]: Education Counts [https://www.educationcounts.govt.nz/](https://www.educationcounts.govt.nz/)
+[^16]: Hemez, P., Brent, J. J., & Mowen, T. J. (2020). [Exploring the school-to-prison pipeline: How school suspensions influence incarceration during young adulthood](https://pmc.ncbi.nlm.nih.gov/articles/PMC8277150/). _Youth violence and juvenile justice_, _18_(3), 235-255.
+
+[^17]: Kent, H., Kirby, A., Hogarth, L., Leckie, G., Cornish, R., & Williams, H. (2023). [[|School to prison pipelines: Associations between school exclusion, neurodisability and age of first conviction in male prisoners]]. _Forensic Science International: Mind and Law_, _4_, 100123.
+
+[^18]: Education Counts [https://www.educationcounts.govt.nz/](https://www.educationcounts.govt.nz/)
 
