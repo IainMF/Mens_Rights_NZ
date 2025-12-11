@@ -13,7 +13,7 @@ There are also human rights issues that predominately affect men, for example, m
 ## Government obligations
 Human rights obligations are divided into three broad categories. Respect, protect, and fulfil. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice. This includes considering “factors that impede” men’s enjoyment of their rights and the removal of those obstacles.
 
-## Unique human rights issues
+## Unique human rights issues for men and boys
 * [[Discrimination/discrimination|Discrimination]]
 * Circumcision
 * Paternity uncertainty and men's reproductive rights
@@ -24,5 +24,8 @@ Human rights obligations are divided into three broad categories. Respect, prote
 - Workplace injuries and death
 - Homelessness
 - Violence and homicide
+- [[Issues/Education|Education]]
+## Issue that affect men and boys in unique ways or have unique challenges
+- Domestic violence
 
 
