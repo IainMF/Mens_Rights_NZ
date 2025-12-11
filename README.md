@@ -16,8 +16,10 @@ Human rights obligations are divided into three broad categories. Respect, prote
 ## Unique human rights issues
 * [[Discrimination/discrimination|Discrimination]]
 
-## Issues that predominatley affect men and boys
+## Issues that predominately affect men and boys
 
-
+- Suicide
+- Workplace injuries and death
+- Homelessness
 
 
