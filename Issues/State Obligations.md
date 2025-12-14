@@ -3,7 +3,7 @@ title: Government obligations to men and boys
 description: Details of government human rights obligations to men and boys.
 ---
 
-# The need for identify state obligations to men and boys
+## The need for identify state obligations to men and boys
 
 Men and boys have the same human rights as women and girls. The *International Covenant on Civil and Political Rights* and the *International Covenant on Economic, Social and Cultural Rights* require ratifying States to eliminate discrimination based on sex, and ensure equal enjoyment of rights between women and men.
 
