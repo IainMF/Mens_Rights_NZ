@@ -42,10 +42,15 @@ https://malesuicideresearch.com/resources/
 
 
 [^1]: Health New Zealand Te Whatu Ora -- [The Mortality Collection](https://www.tewhatuora.govt.nz/for-health-professionals/data-and-statistics/nz-health-statistics/national-collections-and-surveys/collections/mortality-collection)
+
 [^2]: Ministry of Health. 2006. *New Zealand Suicide Trends: Mortality 1921–2003, hospitalisations for intentional self-harm 1978–2004*. Monitoring Report No 10. Wellington: Ministry of Health.
+
 [^3]: ICCPR General Comment 36 -- paragraph 9
+
 [^4]: ICCPR General Comment 36 -- paragraph 25
+
 [^5]: https://www.health.govt.nz/system/files/2025-09/suicide-prevention-action-plan-2025-2029-v2.pdf
+
 [^6]: Almaliah-Rauscher S, Ettinger N, Levi-Belz Y, Gvion Y. ["Will you treat me? I'm suicidal!" The effect of patient gender, suicidal severity, and therapist characteristics on the therapist's likelihood to treat a hypothetical suicidal patient](https://pubmed.ncbi.nlm.nih.gov/31989723/). Clin Psychol Psychother. 2020 May;27(3):278-287. doi: 10.1002/cpp.2426. Epub 2020 Feb 3. PMID: 31989723.
-[^7]: The National Confidential Inquiry into Suicide and Safety in Mental Health (NCISH). [Suicide by middle-aged
-men](https://documents.manchester.ac.uk/display.aspx?DocID=55305). 2021. The University of Manchester.
+
+[^7]: The National Confidential Inquiry into Suicide and Safety in Mental Health (NCISH). [Suicide by middle-aged men](https://documents.manchester.ac.uk/display.aspx?DocID=55305). 2021. The University of Manchester.
