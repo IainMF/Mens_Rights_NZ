@@ -40,7 +40,7 @@ Although the *International Covenant on Civil and Political Rights* does not def
 
 > \[T\]he Committee believes that the term "discrimination" as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on any ground such as race, colour, sex, \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^6]
 
-The Covenant prohibits States from discriminating towards men, and requires States to protect men from discrimination. "All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level---national, regional or local---are in a position to engage the responsibility of the State Party."[^7]
+The Covenant prohibits States from discriminating towards men, and requires States to protect men from discrimination. "All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party."[^7]
 
 Article 26 requires States' laws to guarantee that men have equal and effective protection against discrimination. It requires States to prohibit discrimination against men in law and in fact. This applies to all fields regulated and protected by public authorities. All legislation adopted by the State must not discriminate against men.[^8] If a State's laws do not align with the Covenant, the State must change its laws.[^9]
 
@@ -206,19 +206,19 @@ Basic Principles on the Use of Force and Firearms by Law Enforcement Officials -
 
 ### Death penalty
 
-> .2 --- In countries which have not abolished the death penalty, sentence of death may be imposed only for the most serious crimes in accordance with the law in force at the
+> .2 - In countries which have not abolished the death penalty, sentence of death may be imposed only for the most serious crimes in accordance with the law in force at the
 > time of the commission of the crime and not contrary to the provisions of the present
 > Covenant and to the Convention on the Prevention and Punishment of the Crime of
 > Genocide. This penalty can only be carried out pursuant to a final judgement rendered
 > by a competent court.
 
-> .4 --- Anyone sentenced to death shall have the right to seek pardon or commutation of the
+> .4 - Anyone sentenced to death shall have the right to seek pardon or commutation of the
 > sentence. Amnesty, pardon or commutation of the sentence of death may be granted
 > in all cases.
 >
-> .5 --- Sentence of death shall not be imposed for crimes committed by persons below eighteen years of age and shall not be carried out on pregnant women.
+> .5 - Sentence of death shall not be imposed for crimes committed by persons below eighteen years of age and shall not be carried out on pregnant women.
 >
-> .6 --- Nothing in this article shall be invoked to delay or to prevent the abolition of capital punishment by any State Party to the present Covenant.
+> .6 - Nothing in this article shall be invoked to delay or to prevent the abolition of capital punishment by any State Party to the present Covenant.
 
 ### Military force
 
@@ -236,7 +236,7 @@ State inaction must not lead to premature deaths.
 
 Inadequate public health measures
 
-Deaths of Despair "The three disease types are drug overdose (including alcohol overdose), suicide, and alcoholic liver disease". --- from Wikipedia Disease of despair
+Deaths of Despair "The three disease types are drug overdose (including alcohol overdose), suicide, and alcoholic liver disease". - from Wikipedia Disease of despair
 
 ## Non-State actors
 
@@ -306,19 +306,15 @@ States must respect men's right to life by adopting laws to prevent State and no
 
 "States should take adequate measures, without violating their other Covenant obligations, to prevent suicides, especially among individuals in particularly vulnerable situations,i including individuals deprived of their liberty"[^44]
 
-Figure [1] shows self-harm deaths from 1948-2020.
-
-![Fatal Intentional Self Harm 1948-2020 XXX Image has wrong font](Images/Fatal intentional self harm 1948-2020.pdf)
+Figure 1 shows self-harm deaths from 1948-2020.
 
 ## Homicide
 
-Men are the majority of victims of homicide. Between 1950 and 2019 2040 men and 1197 women died from fatal assaults. Figure [2] shows 5-year fatal assaults.
-
-![5-year fatal assaults: New Zealand Mortality Collection XXX Image has wrong font](Images/5 year fatal assualts.pdf)
+Men are the majority of victims of homicide. Between 1950 and 2019 2040 men and 1197 women died from fatal assaults. Figure 2 shows 5-year fatal assaults.
 
 # Marriage and family
 
-.4 --- States Parties to the present Covenant shall take appropriate steps to ensure equality of rights and responsibilities of spouses as to marriage, during marriage and at
+.4 - States Parties to the present Covenant shall take appropriate steps to ensure equality of rights and responsibilities of spouses as to marriage, during marriage and at
 its dissolution. In the case of dissolution, provision shall be made for the necessary
 protection of any children.
 
@@ -344,12 +340,12 @@ The special measures to protect children in the International Covenant on Civil 
 
 States must protect children from discrimination based on sex.[^51]
 
-.1 --- Every child shall have, without any discrimination as to \... sex, \... the right to such measures of **protection as are required by his status as a minor**, on the part of his family, society
+.1 - Every child shall have, without any discrimination as to \... sex, \... the right to such measures of **protection as are required by his status as a minor**, on the part of his family, society
 and the State.
 
-24.2 --- Every child shall be registered immediately after birth and shall have a name.
+24.2 - Every child shall be registered immediately after birth and shall have a name.
 
-24.3 --- Every child has the right to acquire a nationality.
+24.3 - Every child has the right to acquire a nationality.
 
 > General Comment 28 -- p28. **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.** States parties should report on measures taken to ensure that girls are treated equally to boys *in education*, in feeding and in *health care*, and provide the Committee with disaggregated data in this respect. States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*.[^52]
 
@@ -369,18 +365,18 @@ scientific experimentation
 
 ## Genital mutilation recognised as a violation of article 7
 
-> General Comment 28 -- p11 ---
+> General Comment 28 -- p11 -
 > **To assess compliance with article 7 of the Covenant, as well as with article 24, which mandates special protection for children**, the Committee needs to be provided information on national laws and practice with regard to domestic and other types of violence against women, including rape. It also needs to know whether the State party gives access to safe abortion to women who have become pregnant as a result of rape. The States parties should also provide the Committee with information on measures to prevent forced abortion or forced sterilization. **In States parties where the practice of genital mutilation exists information on its extent and on measures to eliminate it should be provided**. The information provided by States parties on all these issues should include measures of protection, including legal remedies, for women whose rights under **article 7** have been violated.[^55]
 
 See also:
 
--   Concluding observations on Uganda, CCPR/CO/80/UGA, para. 10 --- FGM as a violation of (equal rights), (torture), and (equal protection of the law)
+-   Concluding observations on Uganda, CCPR/CO/80/UGA, para. 10 - FGM as a violation of (equal rights), (torture), and (equal protection of the law)
 
--   Mali, CCPR/CO/77/MLI, para. 11 --- FGM as a violation of article 3 (equal rights) and article 7 (torture)
+-   Mali, CCPR/CO/77/MLI, para. 11 - FGM as a violation of article 3 (equal rights) and article 7 (torture)
 
--   Sweden, CCPR/CO/74/SWE, para. 8; --- arts. 3, (right to life), and 7)
+-   Sweden, CCPR/CO/74/SWE, para. 8; - arts. 3, (right to life), and 7)
 
--   Yemen, CCPR/CO/84/YEM, para. 11. --- arts. 3, 6, and 7)
+-   Yemen, CCPR/CO/84/YEM, para. 11. - arts. 3, 6, and 7)
 
 # State's reporting requirements
 
