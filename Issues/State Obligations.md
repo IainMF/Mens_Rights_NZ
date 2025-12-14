@@ -11,7 +11,7 @@ States are more likely to protect and respect rights when jurisprudence explicit
 
 Charlesworth[^56] argues that male over-representation in the development and administration of international human rights law means it should be seen as "international *men's* rights law". However, male representation has not lead to men's gender-specific human rights issues being addressed in a meaningful or substantive way. For example, Stemple[^57] points out there are no human rights instruments that explicitly address sexual violence against men, and Abramson[^58] says there is discrimination against boys in the children's rights movement.
 
-The United Nations *Human Rights Committee* is responsible for receiving State reports on International Covenant on Civil and Political Rights and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of International Covenant on Civil and Political Rights. General Comment 18 details State obligations under Article 2 (non-discrimination) General Comment 28[^1] details State obligations under Article 3 (The equality of rights between men and women).
+The United Nations *Human Rights Committee* is responsible for receiving State reports on *International Covenant on Civil and Political Rights* and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of *International Covenant on Civil and Political Rights*. General Comment 18 details State obligations under Article 2 (non-discrimination) General Comment 28[^1] details State obligations under Article 3 (The equality of rights between men and women).
 
 Even though Article 3 of the Covenant requires equal enjoyment of rights for both women and men, there is no official guidance with regards to men's rights. General Comment 28 (on equal rights between women and men) focuses entirely on women. Paragraph 1 of General Comment 28 states:
 
@@ -27,11 +27,11 @@ This report looks at the obligations to men and boys in the *International Coven
 
 # State Obligations to men and boys
 
-The International Covenant on Civil and Political Rights specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
+The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
 
 ## Equality
 
-Equality is a fundamental principle of human rights. The International Covenant on Civil and Political Rights requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
+Equality is a fundamental principle of human rights. The *International Covenant on Civil and Political Rights* requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
 
 Article 3 requires states to ensure men enjoy their rights in their totality and on and equal basis with women.[^2] States are required to "take all necessary steps"[^3] to ensure men enjoy all Covenant rights, and to "take account of the factors which impede"[^4] men's equal enjoyment of their rights.
 
@@ -39,7 +39,7 @@ Article 26 requires states to ensure men are equal before the law, and have equa
 
 ## Non-discrimination
 
-Non-discrimination is a fundamental principle of human rights which is incorporated into the International Covenant on Civil and Political Rights. For example, Article 2 requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Article 20 requires states to prohibit incitement to discrimination on racial or religious grounds. Article 26 prohibits discrimination and requires States to guarantee equal and effective protection against discrimination.
+Non-discrimination is a fundamental principle of human rights which is incorporated into the *International Covenant on Civil and Political Rights*. For example, Article 2 requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Article 20 requires states to prohibit incitement to discrimination on racial or religious grounds. Article 26 prohibits discrimination and requires States to guarantee equal and effective protection against discrimination.
 
 Although the *International Covenant on Civil and Political Rights* does not define discrimination, the Human Rights Committee has clarified the meaning in General Comment 18:
 
@@ -159,7 +159,7 @@ see also General Comment 31 paragraphs 15-20
 
 # The right to life
 
-International Covenant on Civil and Political Rights .1 "Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life."
+*International Covenant on Civil and Political Rights* .1 "Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life."
 
 ## What is arbitrary?
 
@@ -339,7 +339,7 @@ States are required to adopt special measures to protect children. States must p
 
 Children are entitled to all of the civil and political rights in the Covenant.
 
-The special measures to protect children in the International Covenant on Civil and Political Rights are primarily about ensuring children have their civil and political rights. Additionally, this protection should extend to economic social and cultural measures.
+The special measures to protect children in the *International Covenant on Civil and Political Rights* are primarily about ensuring children have their civil and political rights. Additionally, this protection should extend to economic social and cultural measures.
 
 > \...For example, *every possible economic and social measure should be taken* to reduce infant mortality and to eradicate malnutrition among children and **to prevent them from being subjected to acts of violence and cruel and inhuman treatment** or from being exploited by means of forced labour or prostitution, or by their use in the illicit trafficking of narcotic drugs, or by any other means. In the cultural field, every possible measure should be taken to foster the development of their personality and to **provide them with a level of education that will enable them to enjoy the rights recognized in the Covenant**, particularly the right to freedom of opinion and expression.[^50]
 
