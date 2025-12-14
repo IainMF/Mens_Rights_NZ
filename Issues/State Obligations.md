@@ -322,13 +322,13 @@ Men are the majority of victims of homicide. Between 1950 and 2019 2040 men and 
 its dissolution. In the case of dissolution, provision shall be made for the necessary
 protection of any children.
 
-## General Comment 19 {#general-comment-19 .unnumbered}
+## General Comment 19
 
 > During marriage, the spouses should have equal rights and responsibilities in the family. This equality extends to all matters arising from their relationship, such as choice of residence, running of the household, education of the children and administration of assets. Such equality continues to be applicable to arrangements regarding legal separation or dissolution of the marriage.[^45]
 
 > Thus, **any discriminatory treatment in regard to the grounds and procedures for separation or divorce, child custody, maintenance or alimony, visiting rights or the loss or recovery of parental authority must be prohibited**, bearing in mind the paramount **interest of the children** in this connection. States parties should, in particular, include information in their reports concerning the provision made for the necessary protection of any children at the dissolution of a marriage or on the separation of the spouses.[^46]
 
-## General Comment 17 {#general-comment-17 .unnumbered}
+## General Comment 17 
 
 > \...If the marriage is dissolved, steps should be taken, keeping in view the paramount interest of the children, to give them necessary protection and, so far as is possible, to **guarantee personal relations with both parents**. \...[^47]
 
