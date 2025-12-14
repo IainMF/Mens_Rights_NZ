@@ -1,4 +1,9 @@
-## The need for identify state obligations to men and boys
+---
+title: Government obligations to men and boys
+description: Details of government human rights obligations to men and boys.
+---
+
+# The need for identify state obligations to men and boys
 
 Men and boys have the same human rights as women and girls. The *International Covenant on Civil and Political Rights* and the *International Covenant on Economic, Social and Cultural Rights* require ratifying States to eliminate discrimination based on sex, and ensure equal enjoyment of rights between women and men.
 
@@ -20,11 +25,11 @@ If States are to meet their obligation of non-discrimination on the basis of sex
 
 This report looks at the obligations to men and boys in the *International Covenant on Civil and Political Rights*.
 
-## State Obligations to men and boys
+# State Obligations to men and boys
 
 The International Covenant on Civil and Political Rights specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
 
-### Equality
+## Equality
 
 Equality is a fundamental principle of human rights. The International Covenant on Civil and Political Rights requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
 
@@ -32,7 +37,7 @@ Article 3 requires states to ensure men enjoy their rights in their totality and
 
 Article 26 requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^5] requires equality before courts and tribunals. requires equal participation in public life.
 
-### Non-discrimination
+## Non-discrimination
 
 Non-discrimination is a fundamental principle of human rights which is incorporated into the International Covenant on Civil and Political Rights. For example, Article 2 requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Article 20 requires states to prohibit incitement to discrimination on racial or religious grounds. Article 26 prohibits discrimination and requires States to guarantee equal and effective protection against discrimination.
 
@@ -46,13 +51,13 @@ Article 26 requires States' laws to guarantee that men have equal and effective 
 
 States are required to ensure equal protection for boys and girls[^10], and that children are free from discrimination.[^11]
 
-## Take necessary steps
+# Take necessary steps
 
 States must "take the necessary steps"[^12] to provide all of the rights in the Covenant to men, without discrimination. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State.".[^13] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^14]
 
-### What steps are necessary?
+## What steps are necessary?
 
-### Ending discrimination against men
+## Ending discrimination against men
 
 Ending discrimination against men in the public and private sector is a necessary step.[^15]
 
@@ -62,7 +67,7 @@ Ending discrimination requires analysis of laws and policies to identify any"dis
 
 Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^18] States may be able to justify differential treatment of men if it is reasonable, objective,[^19] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^20]
 
-### Protecting men from discrimination
+## Protecting men from discrimination
 
 Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^21] and by "public authorities, by the community, or by private persons or bodies".[^22]
 
@@ -89,7 +94,7 @@ The application of protection mechanisms to prevent discrimination must be appli
 
 3.  BORA Section 7 -- not identifying discrimination against men in the law.
 
-### Address discrimination against men
+## Address discrimination against men
 
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^24]
 
@@ -99,12 +104,12 @@ States that permit discrimination against men or fail "to exercise due diligence
 
 States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^27]
 
-#### remedy
+### remedy
 
 > Article 2, paragraph 3, requires that in addition to effective protection of Covenant rights States Parties must ensure that individuals also have accessible and effective remedies to vindicate those rights\...
 > Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^28]
 
-##### Monitoring
+#### Monitoring
 
 the application of laws and policies is necessary to protect men from discrimination.
 
@@ -112,19 +117,19 @@ The Committee wants to know about discrimination *in fact*.
 
 1.  Collecting sex disaggregated data (see CEDAW General recommendation 9)
 
-##### Educating
+#### Educating
 
 State and non-State actors
 
 1.  to ensure State actors understand and that measures that prohibit discrimination and ensure non-discrimination apply to men as well as women. ensure their actions reflect this.
 
-##### Removal of obstacles
+#### Removal of obstacles
 
 that impair men's enjoyment of their rights is necessary. "States parties should take account of the factors which impede the equal enjoyment by women and men of each right specified in the Covenant"[^29]
 
 responding to complaints about discrimination and providing appropriate remedy
 
-### Reporting discrimination
+## Reporting discrimination
 
 The Human Rights Committee asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men in fact. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^30]
 
@@ -148,37 +153,37 @@ The Human Rights Committee asks States to include discrimination against men in 
 
 see also General Comment 31 paragraphs 15-20
 
-### Acting in good faith
+## Acting in good faith
 
 > **General Comment 31, Paragraph 3:** Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.
 
-## The right to life
+# The right to life
 
 International Covenant on Civil and Political Rights .1 "Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life."
 
-### What is arbitrary?
+## What is arbitrary?
 
 > The notion of "arbitrariness" is not to be fully equated with "against the law", but must be interpreted more broadly to include elements of inappropriateness, injustice, lack of predictability and due process of law, as well as elements of reasonableness, necessity and proportionality.[^31]
 
-#### Equality
+### Equality
 
 States must "ensure the equal right of men and women to the enjoyment" of the right to life.[^32]
 
 See: General Comment No. 28 for more on Article 3 requirements.
 
-#### Discrimination
+### Discrimination
 
 States must respect and protect the right to life "without distinction of any kind".[^33] Deprivation of life based on discrimination is necessarily arbitrary in nature. Therefore, States must equally protect men's right to life and provide "effective guarantees against all forms of discrimination"[^34] that may lead to loss of life.
 
 Discrimination, in this case, is "any distinction, exclusion, restriction or preference"[^35] that impairs men's right to life.
 
-### States' actions
+## States' actions
 
 State actors must not engage in actions that lead to premature deaths, or can reasonable be expected to lead to premature death.
 
 This applies to all human-beings, so States must not cause premature deaths in other countries.
 
-#### Police use of force
+### Police use of force
 
 Men make up the majority of people killed by Police, and who die in Police custody. "States parties are expected to take all necessary measures to prevent arbitrary deprivation of life by their law enforcement officials".[^36] States must minimise the risk to men who are in contact with the Police through adequate legislation, procedures, and training. States must provide suitable equipment to allow officers to use the minimum force necessary.
 
@@ -186,11 +191,11 @@ Police must not base decisions to use lethal force on sex or any other prohibite
 
 States must ensure the Police and other law enforcement agents respect men's right to life.
 
-##### Police must take care
+#### Police must take care
 
 to ensure the welfare of men who they have arrested or detained. For example, by preventing suicides of men in custody.
 
-##### Use of lethal force:
+#### Use of lethal force:
 
 > The use of potentially lethal force for law enforcement purposes is an extreme measure that should be resorted to only when strictly necessary in order to protect life or prevent serious injury from an imminent threat. It cannot be used, for example, in order to prevent the escape from custody of a suspected criminal or a convict who does not pose a serious and imminent threat to the lives or bodily integrity of others. The intentional taking of life by any means is permissible only if it is strictly necessary in order to protect life from an imminent threat.[^37]
 
@@ -202,9 +207,9 @@ Code of Conduct for Law Enforcement Officials -- Adopted by General Assembly res
 
 Basic Principles on the Use of Force and Firearms by Law Enforcement Officials -- Adopted by the Eighth United Nations Congress on the Prevention of Crime and the Treatment of Offenders, Havana, Cuba, 27 August to 7 September 1990
 
-#### Deaths in prison or other detention (eg psychiatric wards)
+### Deaths in prison or other detention (eg psychiatric wards)
 
-#### Death penalty
+### Death penalty
 
 > .2 - In countries which have not abolished the death penalty, sentence of death may be imposed only for the most serious crimes in accordance with the law in force at the
 > time of the commission of the crime and not contrary to the provisions of the present
@@ -220,17 +225,17 @@ Basic Principles on the Use of Force and Firearms by Law Enforcement Officials -
 >
 > .6 - Nothing in this article shall be invoked to delay or to prevent the abolition of capital punishment by any State Party to the present Covenant.
 
-#### Military force
+### Military force
 
 Such as declaring all fighting-age men as combatants.
 
 Conscription. Male-only conscription puts men in danger while protecting women. This is a distinction based on sex, rather than ability.
 
-#### Genocide
+### Genocide
 
-#### Androcide
+### Androcide
 
-### States' inaction
+## States' inaction
 
 State inaction must not lead to premature deaths.
 
@@ -238,11 +243,11 @@ Inadequate public health measures
 
 Deaths of Despair "The three disease types are drug overdose (including alcohol overdose), suicide, and alcoholic liver disease". - from Wikipedia Disease of despair
 
-### Non-State actors
+## Non-State actors
 
 States must prevent non-state actors from causing premature death.
 
-### General Conditions
+## General Conditions
 
 States have an obligation to prevent premature deaths. They also have an obligation to ensure men have equal enjoyment of their rights. Men face more preventable deaths than women.
 
@@ -292,43 +297,43 @@ The right to life means that States must:
 
 States must respect men's right to life by adopting laws to prevent State and non-state actors from taking men's lives. States must also ensure men have their right to life in practice, by addressing the causes that lead to men's loss of life. For example, poor workplace safety, or inadequate health care systems.
 
-### Avoidable Mortality
+## Avoidable Mortality
 
 > **Preventable mortality rates were 2.5 times higher among men than among women across OECD countries** (185 per 100 000 population for men compared with 73 for women). Similarly, mortality rates from treatable causes were about 36 women, with a rate of 86 per 100 000 population for men compared with 63 for women. These gender gaps are explained by higher mortality rates among men, which are in part linked to different exposure to risk factors such as tobacco smoking (see indicator "Main causes of mortality" and Chapter 4 for an in-depth analysis of risk factors for health).[^43]
 
-### Loneliness
+## Loneliness
 
 [The Conversation - loneliness](https://theconversation.com/is-loneliness-really-as-damaging-to-your-health-as-smoking-15-cigarettes-a-day-204959)
 
 [Social Isolation](https://en.wikipedia.org/wiki/Social_isolation)
 
-### Suicide
+## Suicide
 
 "States should take adequate measures, without violating their other Covenant obligations, to prevent suicides, especially among individuals in particularly vulnerable situations,i including individuals deprived of their liberty"[^44]
 
 Figure 1 shows self-harm deaths from 1948-2020.
 
-### Homicide
+## Homicide
 
-Men are the majority of victims of homicide. Between 1950 and 2019 2040 men and 1197 women died from fatal assaults. Figure 2 shows 5-year fatal assaults.
+Men are the majority of victims of homicide. Between 1950 and 2019 2040 men and 1197 women died from fatal assaults. Figure 2] shows 5-year fatal assaults.
 
-## Marriage and family
+# Marriage and family
 
 .4 - States Parties to the present Covenant shall take appropriate steps to ensure equality of rights and responsibilities of spouses as to marriage, during marriage and at
 its dissolution. In the case of dissolution, provision shall be made for the necessary
 protection of any children.
 
-### General Comment 19
+## General Comment 19
 
 > During marriage, the spouses should have equal rights and responsibilities in the family. This equality extends to all matters arising from their relationship, such as choice of residence, running of the household, education of the children and administration of assets. Such equality continues to be applicable to arrangements regarding legal separation or dissolution of the marriage.[^45]
 
 > Thus, **any discriminatory treatment in regard to the grounds and procedures for separation or divorce, child custody, maintenance or alimony, visiting rights or the loss or recovery of parental authority must be prohibited**, bearing in mind the paramount **interest of the children** in this connection. States parties should, in particular, include information in their reports concerning the provision made for the necessary protection of any children at the dissolution of a marriage or on the separation of the spouses.[^46]
 
-### General Comment 17 
+## General Comment 17 
 
 > \...If the marriage is dissolved, steps should be taken, keeping in view the paramount interest of the children, to give them necessary protection and, so far as is possible, to **guarantee personal relations with both parents**. \...[^47]
 
-## Children's rights
+# Children's rights
 
 States are required to adopt special measures to protect children. States must protect girls and boys equally[^48] and without discrimination.[^49]
 
@@ -349,11 +354,11 @@ and the State.
 
 > General Comment 28 -- p28. **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.** States parties should report on measures taken to ensure that girls are treated equally to boys *in education*, in feeding and in *health care*, and provide the Committee with disaggregated data in this respect. States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*.[^52]
 
-### General comment 17
+## General comment 17
 
 > Article 24 of the International Covenant on Civil and Political Rights recognizes the right of every child, without any discrimination, to receive from his family, society and the State the protection required by his status as a minor. **Consequently, the implementation of this provision entails the adoption of special measures to protect children**, in addition to the measures that States are required to take under article 2 **to ensure that everyone enjoys the rights provided for in the Covenant**. The reports submitted by States parties often seem to underestimate this obligation and supply inadequate information on the way in which **children are afforded enjoyment of their right to a special protection**.[^53]
 
-### Circumcision
+## Circumcision
 
 States must protect girls and boys equally. "States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*."[^54]
 
@@ -363,7 +368,7 @@ Article 7
 No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment. In particular, no one shall be subjected without his free consent to medical or
 scientific experimentation
 
-### Genital mutilation recognised as a violation of article 7
+## Genital mutilation recognised as a violation of article 7
 
 > General Comment 28 -- p11 -
 > **To assess compliance with article 7 of the Covenant, as well as with article 24, which mandates special protection for children**, the Committee needs to be provided information on national laws and practice with regard to domestic and other types of violence against women, including rape. It also needs to know whether the State party gives access to safe abortion to women who have become pregnant as a result of rape. The States parties should also provide the Committee with information on measures to prevent forced abortion or forced sterilization. **In States parties where the practice of genital mutilation exists information on its extent and on measures to eliminate it should be provided**. The information provided by States parties on all these issues should include measures of protection, including legal remedies, for women whose rights under **article 7** have been violated.[^55]
@@ -378,7 +383,7 @@ See also:
 
 -   Yemen, CCPR/CO/84/YEM, para. 11. - arts. 3, 6, and 7)
 
-## State's reporting requirements
+# State's reporting requirements
 
 Many General comments asks States to report specific things. Find out what they are regarding men and boys and include it here.
 
