@@ -117,6 +117,8 @@ Limited resources mean that the right to health cannot be realised immediately, 
 see ICESCR General Comment 14 paragraph 46 onward
 
 
+> **Preventable mortality rates were 2.5 times higher among men than among women across OECD countries** (185 per 100 000 population for men compared with 73 for women). Similarly, mortality rates from treatable causes were about 36 women, with a rate of 86 per 100 000 population for men compared with 63 for women. These gender gaps are explained by higher mortality rates among men, which are in part linked to different exposure to risk factors such as tobacco smoking (see indicator "Main causes of mortality" and Chapter 4 for an in-depth analysis of risk factors for health).[^15]
+
 
 ---
 ## In New Zealand
@@ -168,3 +170,4 @@ Citation: Ministry of Health. 2022. *Sudden Unexpected Death in Infancy: An anal
 
 [^14]: ICESCR General Comment 14, paragraph 30
 
+[^15]:  Source: OECD (2021), [Health at a Glance 2021: OECD Indicators](https://www.oecd.org/health/health-at-a-glance/), OECD Publishing, Paris, doi.org/10.1787/ae3016b9-en.https://www.oecd-ilibrary.org/
