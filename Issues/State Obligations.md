@@ -17,9 +17,7 @@ Although Article 3 of the ICCPR requires equal enjoyment of rights for both wom
 
 > The Committee has decided to update its general comment on article 3 of the Covenant and to replace general comment No. 4 (thirteenth session, 1981), in the light of the experience it has gathered in its activities over the last 20 years. **The present revision seeks to take account of the important impact of this article on the enjoyment by women of the human rights protected under the Covenant.**
 
-Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* issues has issued twenty-seven General Comments, including General Comment 16, which concerns Article 3 if ICECSR (equal rights between women and men) and General Comment 20, regarding Article 2 (non-discrimination). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognisies that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men."[^60]
-
-
+Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* has issued twenty-seven General Comments, including General Comment 16, which concerns Article 3 (equal rights between women and men) and General Comment 20, regarding Article 2 (non-discrimination). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognisies that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men."[^60]
 
 Additionally, States have a number of other instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
 
@@ -28,8 +26,6 @@ Although, men and boys have the same human rights as women and girls, similar gu
 Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^5]
 
 If States are to meet their obligations of equality and non-discrimination on the basis of sex, it is necessary to explicitly identify States' obligations to men and boys.
-
-This report looks at the obligations to men and boys in the *International Covenant on Civil and Political Rights*.
 
 ## Government Obligations to men and boys
 
@@ -46,14 +42,15 @@ The ICCPR requires States to "take the necessary steps"[^16] to provide men thei
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^61] The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for progressive realisation of these rights. However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of the Covenant's rights.
 
-
-
 ### What steps are necessary?
-- Recognition of men's rights on equal terms with women
+#### Recognition of their obligations to men and boys
+ If States are to meet their human rights obligations, they must recognise that this includes obligations to men and boys. 
+
+Treating men's rights on equal terms with women's rights.
 
 
 
-### Equality
+##### Equality
 
 Equality is a fundamental principle of human rights. The *International Covenant on Civil and Political Rights* requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
 
