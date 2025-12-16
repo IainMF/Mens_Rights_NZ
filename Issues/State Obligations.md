@@ -5,17 +5,21 @@ description: Details of government human rights obligations to men and boys.
 > [!tip] This page is a work in progress
 
 
-A state's human rights obligations are divided into three broad categories. Respect, protect, and fulfil. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice. This includes considering “factors that impede” men’s enjoyment of their rights and the removal of those obstacles.
+A State's human rights obligations are divided into three broad categories. Respect, protect, and fulfil. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice. This includes considering “factors that impede” men’s enjoyment of their rights and the removal of those obstacles.
 
 ## The need for identify state obligations to men and boys
 
 Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. 
 
-The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations under Article 2 (non-discrimination) and General Comment 28[^1] details State obligations under Article 3 ( equal rights between men and women).
+The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations under Article 2 (non-discrimination) and General Comment 28[^1] details State obligations under Article 3 (equal rights between men and women).
 
 Although Article 3 of the ICCPR requires equal enjoyment of rights for both women and men, there is no official guidance with regards to men's rights. General Comment 28 focuses entirely on women. Paragraph 1 states:
 
 > The Committee has decided to update its general comment on article 3 of the Covenant and to replace general comment No. 4 (thirteenth session, 1981), in the light of the experience it has gathered in its activities over the last 20 years. **The present revision seeks to take account of the important impact of this article on the enjoyment by women of the human rights protected under the Covenant.**
+
+Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* issues has issued twenty-seven General Comments, including General Comment 16, which concerns Article 3 if ICECSR (equal rights between women and men) and General Comment 20, regarding Article 2 (non-discrimination). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognisies that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men."[^60]
+
+
 
 Additionally, States have a number of other instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
 
@@ -38,9 +42,17 @@ A state's obligations to men and boys involve all parts of the government and pu
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^11]
 ## Take necessary steps
 
-States must "take the necessary steps"[^16] to provide all of the rights in the Covenant to men, without discrimination. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State.".[^17] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^18]
+The ICCPR requires States to "take the necessary steps"[^16] to provide men their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^17] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^18]
+
+Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^61] The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for progressive realisation of these rights. However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of the Covenant's rights.
+
+
 
 ### What steps are necessary?
+- Recognition of men's rights on equal terms with women
+
+
+
 ### Equality
 
 Equality is a fundamental principle of human rights. The *International Covenant on Civil and Political Rights* requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
@@ -402,111 +414,114 @@ Many General comments asks States to report specific things. Find out what they 
 [^4]: Bruce Abramson. Juvenile justice: *The “unwanted child”: Why the potential of the convention on the rights of the child is not being realized, and what we can do about it’*. Youth Crime and Juvenile Justice. Los Angeles: Oxford, 3, 2009.
 
 [^5]: United Nations. *Women’s right are human rights*, 2014.
-[^6]: General Comment 28 -- paragraph 2
 
-[^7]: General Comment 28 -- paragraph 4
+[^6]: ICCPR General Comment 28 -- paragraph 2
 
-[^8]: General Comment 28 -- paragraph 6
+[^7]: ICCPR General Comment 28 -- paragraph 4
 
-[^9]: General Comment 31 -- paragraph 13
+[^8]: ICCPR General Comment 28 -- paragraph 6
 
-[^10]: General Comment 18 -- paragraph 7
+[^9]: ICCPR General Comment 31 -- paragraph 13
 
-[^11]: General Comment 31 -- Paragraph 4
+[^10]: ICCPR General Comment 18 -- paragraph 7
 
-[^12]: General Comment 18 -- Paragraph 12
+[^11]: ICCPR General Comment 31 -- Paragraph 4
 
-[^13]: General Comment 31 -- Paragraph 13
+[^12]: ICCPR General Comment 18 -- Paragraph 12
 
-[^14]: General Comment 28 -- paragraph 28
+[^13]: ICCPR General Comment 31 -- Paragraph 13
 
-[^15]: General Comment 17 - paragraph 5
+[^14]: ICCPR General Comment 28 -- paragraph 28
+
+[^15]: ICCPR General Comment 17 - paragraph 5
 
 [^16]: International Covenant on Civil and Political Rights -- Article 2.2
 
-[^17]: General Comment 31 -- Paragraph 14
+[^17]: ICCPR General Comment 31 -- Paragraph 14
 
-[^18]: General Comment 31 -- Paragraph 7
+[^18]: ICCPR General Comment 31 -- Paragraph 7
 
-[^19]: General Comment 28 -- Paragraph 4
+[^19]: ICCPR General Comment 28 -- Paragraph 4
 
-[^20]: General Comment 18 -- Paragraph 7
+[^20]: ICCPR General Comment 18 -- Paragraph 7
 
-[^21]: General Comment 28 -- paragraph 31
+[^21]: ICCPR General Comment 28 -- paragraph 31
 
-[^22]: General Comment 31 -- Paragraph 13
+[^22]: ICCPR General Comment 31 -- Paragraph 13
 
-[^23]: General Comment 18 -- Paragraph 13
+[^23]: ICCPR General Comment 18 -- Paragraph 13
 
-[^24]: General Comment 31 -- Paragraph 6
+[^24]: ICCPR General Comment 31 -- Paragraph 6
 
-[^25]: General Comment 18 -- paragraph 12
+[^25]: ICCPR General Comment 18 -- paragraph 12
 
-[^26]: General Comment 18 -- paragraph 9
+[^26]: ICCPR General Comment 18 -- paragraph 9
 
-[^27]: Article 26
+[^27]: ICCPR Article 26
 
-[^28]: General Comment 18 -- Paragraph 5
+[^28]: ICCPR General Comment 18 -- Paragraph 5
 
-[^29]: General Comment 31 -- Paragraph 8
+[^29]: ICCPR General Comment 31 -- Paragraph 8
 
-[^30]: General Comment 31 -- Paragraph 8
+[^30]: ICCPR General Comment 31 -- Paragraph 8
 
-[^31]: General Comment 18 -- Paragraph 10
+[^31]: ICCPR General Comment 18 -- Paragraph 10
 
-[^32]: General Comment 31 -- Paragraph 15
+[^32]: ICCPR General Comment 31 -- Paragraph 15
 
-[^33]: General Comment 28 -- paragraph 6
+[^33]: ICCPR General Comment 28 -- paragraph 6
 
-[^34]: General Comment 18 -- Paragraph 9
+[^34]: ICCPR General Comment 18 -- Paragraph 9
 
-[^35]: General Comment 36 -- paragraph 12
+[^35]: ICCPR General Comment 36 -- paragraph 12
 
 [^36]: ICCPR Article 3
 
-[^37]: General Comment 36 -- paragraph 61
+[^37]: ICCPR General Comment 36 -- paragraph 61
 
-[^38]: General Comment 36 -- paragraph 61
+[^38]: ICCPR General Comment 36 -- paragraph 61
 
-[^39]: General Comment 18 -- paragraph 7
+[^39]: ICCPR General Comment 18 -- paragraph 7
 
-[^40]: General Comment 36 -- paragraph 13
+[^40]: ICCPR General Comment 36 -- paragraph 13
 
-[^41]: General Comment 36 -- paragraph 12
+[^41]: ICCPR General Comment 36 -- paragraph 12
 
-[^42]: General Comment 36 -- paragraph 13
+[^42]: ICCPR General Comment 36 -- paragraph 13
 
-[^43]: General Comment 36 -- paragraph 61
+[^43]: ICCPR General Comment 36 -- paragraph 61
 
-[^44]: General Comment 36 -- paragraph 3
+[^44]: ICCPR General Comment 36 -- paragraph 3
 
-[^45]: General Comment 36 -- paragraph 6
+[^45]: ICCPR General Comment 36 -- paragraph 6
 
-[^46]: General Comment 36 -- paragraph 61
+[^46]: ICCPR General Comment 36 -- paragraph 61
 
 [^47]: https://www.oecd-ilibrary.org/
 
-[^48]: General Comment 36 -- paragraph 9
+[^48]: ICCPR General Comment 36 -- paragraph 9
 
-[^49]: General Comment 19 -- paragraph 8
+[^49]: ICCPR General Comment 19 -- paragraph 8
 
-[^50]: General Comment 19 -- paragraph 9
+[^50]: ICCPR General Comment 19 -- paragraph 9
 
-[^51]: General Comment 17 -- paragraph 6
+[^51]: ICCPR General Comment 17 -- paragraph 6
 
-[^52]: General Comment 28 -- paragraph 28
+[^52]: ICCPR General Comment 28 -- paragraph 28
 
-[^53]: Article 24.1
+[^53]: ICCPR Article 24.1
 
-[^54]: General Comment 17 -- paragraph 3
+[^54]: ICCPR General Comment 17 -- paragraph 3
 
-[^55]: General Comment 17 -- paragrpah 5
+[^55]: ICCPR General Comment 17 -- paragraph 5
 
-[^56]: General Comment 28 -- paragraph 28
+[^56]: ICCPR General Comment 28 -- paragraph 28
 
-[^57]: General Comment 17 -- paragraph 1
+[^57]: ICCPR General Comment 17 -- paragraph 1
 
-[^58]: General Comment 28 -- paragraph 28
+[^58]: ICCPR General Comment 28 -- paragraph 28
 
-[^59]: General Comment 28 -- paragraph 11
+[^59]: ICCPR General Comment 28 -- paragraph 11
 
+[^60]:  ICESCR General Comment 20 -- paragraph 20
+[^61]: ICESCR Article 2.1
