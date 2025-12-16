@@ -42,6 +42,10 @@ The ICCPR requires States to "take the necessary steps"[^16] to provide men thei
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^61] The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for progressive realisation of these rights. However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of the Covenant's rights.
 
+### Specific obligations
+Article 3 requires equal enjoyment of rights for men and women
+
+
 ### What steps are necessary?
 #### Recognition of their obligations to men and boys
  If States are to meet their human rights obligations, they must recognise that this includes obligations to men and boys. 
