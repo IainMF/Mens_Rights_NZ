@@ -3,11 +3,15 @@ title: Government obligations to men and boys
 description: Details of government human rights obligations to men and boys.
 ---
 > [!tip] This page is a work in progress
+
+
+A state's human rights obligations are divided into three broad categories. Respect, protect, and fulfil. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice. This includes considering “factors that impede” men’s enjoyment of their rights and the removal of those obstacles.
+
 ## The need for identify state obligations to men and boys
 
-Men and boys have the same human rights as women and girls. The *International Covenant on Civil and Political Rights (ICCPR)* and the *International Covenant on Economic, Social and Cultural Rights (ICECSR)* require that ratifying States eliminate discrimination based on sex, and ensure equal enjoyment of rights between women and men.
+Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. 
 
-Governments are more likely to protect and respect rights when human rights jurisprudence explicitly identify how to protect and respect those rights. The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations under Article 2 (non-discrimination) and General Comment 28[^1] details State obligations under Article 3 ( equal rights between men and women).
+The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations under Article 2 (non-discrimination) and General Comment 28[^1] details State obligations under Article 3 ( equal rights between men and women).
 
 Although Article 3 of the ICCPR requires equal enjoyment of rights for both women and men, there is no official guidance with regards to men's rights. General Comment 28 focuses entirely on women. Paragraph 1 states:
 
@@ -15,7 +19,7 @@ Although Article 3 of the ICCPR requires equal enjoyment of rights for both wom
 
 Additionally, States have a number of other instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
 
-Unfortunately, similar guidance for protecting and respecting men's rights is lacking. Charlesworth[^2] argues that male over-representation in the development and administration of international human rights law means it should be seen as "international *men's* rights law". However, male representation has not lead to men's gender-specific human rights issues being addressed in a meaningful or substantive way. For example, Stemple[^3] points out there are no human rights instruments that explicitly address sexual violence against men, and Abramson[^4] says there is discrimination against boys in the children's rights movement.
+Although, men and boys have the same human rights as women and girls, similar guidance for protecting and respecting men's rights is lacking. Commentators have argued that explicitly recognising men's rights is not necessary. For example,  Charlesworth[^2] argues that male over-representation in the development and administration of international human rights law means that human rights already accounts for men's rights by default. However, male representation has not lead to men's gender-specific human rights issues being addressed in a meaningful or substantive way. For example, Stemple[^3] points out there are no human rights instruments that explicitly address sexual violence against men, and Abramson[^4] says there is discrimination against boys in the children's rights movement.
 
 Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^5]
 
