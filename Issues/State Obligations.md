@@ -47,6 +47,8 @@ The ICCPR requires States to "take the necessary steps"[^16] to provide men thei
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^61] The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for progressive realisation of these rights. However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of the Covenant's rights.
 
+> The obligation to fulfil requires States parties **to take steps** to ensure that **in practice**, men and women enjoy their economic, social and cultural rights on a basis of equality. ICESCR GC 16 - p21
+
 ### Specific obligations
 Article 3 of both the ICCPR and ICESCR require States to ensure equal enjoyment of rights for men and for women.
 
@@ -82,10 +84,19 @@ Treating men's rights on equal terms with women's rights.
 
 > 19.	The obligation to protect requires States parties to take steps aimed directly at the **elimination of prejudices**, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.  ICESCR GC 16 - p19
 
+> 22.	Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires **addressing gender-based social and cultural prejudices**, providing for **equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life. ICESCR GC 16 - p22
+
+
+
 
 
 #### Education
 >  These steps include ... the **education of the population and of State officials in human rights** - ICCPR GC 28 - p 3
+
+> - To conduct human rights education and training programmes for judges and public officials 
+> - To conduct awareness-raising and training programmes on equality for workers involved in the realization of economic, social and cultural rights at the grass-roots level
+> -To integrate, in formal and non-formal education, the principle of the equal right of men and women to the enjoyment of economic, social and cultural rights, and to promote equal participation of men and women, boys and girls, in schools and other education programmes ICECSR GC 16 - p21
+
 
 
 #### Adjusting legislation and policy
@@ -105,7 +116,12 @@ Treating men's rights on equal terms with women's rights.
 
 > The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved, such differentiation is legitimate. ICECSR GC 16 - p15
 
-#### Reporting
+> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources; ICESCR GC 16 - p21
+
+#### Monitoring and Reporting
+
+> To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls ICESCR GC 16 - p21
+
 
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them. ICCPR GC 28 - p 3
 
@@ -134,6 +150,10 @@ The Human Rights Committee asks States to include discrimination against men in 
 ##### Marriage and family
 
 .4 - States Parties to the present Covenant shall take appropriate steps to ensure equality of rights and responsibilities of spouses as to marriage, during marriage and at its dissolution. In the case of dissolution, provision shall be made for the necessary protection of any children.
+
+> Finally, the State party should reduce the constraints faced by men and women in reconciling professional and family responsibilities by promoting adequate policies for childcare and care of dependent family member ICESCR GC 16 - p24
+
+> ... paternity leave for men ICESCR GC 16 - p26
 
 ###### General Comment 19
 
@@ -219,6 +239,13 @@ Equality is a fundamental principle of human rights. The *International Covenant
 Article 3 requires states to ensure men enjoy their rights in their totality and on and equal basis with women.[^6] States are required to "take all necessary steps"[^7] to ensure men enjoy all Covenant rights, and to "take account of the factors which impede"[^8] men's equal enjoyment of their rights.
 
 Article 26 requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^9] requires equality before courts and tribunals. requires equal participation in public life.
+#### Representation in decision making
+> To promote equal participation of men and women in development planning, decision-making and in the benefits of development and all programmes related to the realization of economic, social and cultural rights. ICESCR GC 16- p21
+
+
+#### Remedy
+> - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
+> - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized  men and women; ICECSR GC 16 - p21
 
 ### Non-discrimination
 
