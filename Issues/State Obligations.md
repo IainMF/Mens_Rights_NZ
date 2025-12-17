@@ -1,3 +1,4 @@
+
 ---
 title: Government obligations to men and boys
 description: Details of government human rights obligations to men and boys.
@@ -11,9 +12,9 @@ A State's human rights obligations are divided into three broad categories. Resp
 
 Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. 
 
-The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations under Article 2 (non-discrimination) and General Comment 28[^1] details State obligations under Article 3 (equal rights between men and women).
+The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations under Article 2 (non-discrimination) and General Comment 28[^1] details State obligations under Article 3 (equal rights between men and women).
 
-Although Article 3 of the ICCPR requires equal enjoyment of rights for both women and men, there is no official guidance with regards to men's rights. General Comment 28 focuses entirely on women. Paragraph 1 states:
+Although Article 3 of the ICCPR requires equal enjoyment of rights for both women and men, there is no official guidance with regards to men's rights. General Comment 28 focuses entirely on women. Paragraph 1 states:
 
 > The Committee has decided to update its general comment on article 3 of the Covenant and to replace general comment No. 4 (thirteenth session, 1981), in the light of the experience it has gathered in its activities over the last 20 years. **The present revision seeks to take account of the important impact of this article on the enjoyment by women of the human rights protected under the Covenant.**
 
@@ -29,13 +30,20 @@ If States are to meet their obligations of equality and non-discrimination on th
 
 ## Government Obligations to men and boys
 
+
+
 The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
+
+ > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^63] *Emphasis added*
+
 
 ### Which parts of government?
 
 A state's obligations to men and boys involve all parts of the government and public authorities.
 
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^11]
+
+
 ## Take necessary steps
 
 The ICCPR requires States to "take the necessary steps"[^16] to provide men their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^17] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^18]
@@ -43,7 +51,11 @@ The ICCPR requires States to "take the necessary steps"[^16] to provide men thei
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^61] The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for progressive realisation of these rights. However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of the Covenant's rights.
 
 ### Specific obligations
-Article 3 requires equal enjoyment of rights for men and women
+Article 3 of both the ICCPR and ICESCR require States to ensure equal enjoyment of rights for men and for women.
+
+> Article 3 implies that all human beings should enjoy the rights provided for in the Covenant, on an equal basis and in their totality.  The full effect of this provision is impaired whenever any person is denied the full and equal enjoyment of any right.  Consequently, States should ensure to men and women equally the enjoyment of all rights provided for in the Covenant.[^62]
+
+> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights. -ICCPR GC 28 - p 4
 
 
 ### What steps are necessary?
@@ -51,6 +63,13 @@ Article 3 requires equal enjoyment of rights for men and women
  If States are to meet their human rights obligations, they must recognise that this includes obligations to men and boys. 
 
 Treating men's rights on equal terms with women's rights.
+
+
+> These steps include the **removal of obstacles** to the equal enjoyment of such rights, the **education of the population and of State officials in human rights**, and the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.  States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them. ICCPR GC 28 - p 3
+
+> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the **prohibition of discrimination** on the ground of sex, to put an **end to discriminatory actions**, both in the public and the private sector, which impair the equal enjoyment of rights. ICCPR GC 28 - p 4
+
+> States parties should **ensure that traditional, historical, religious or cultural attitudes are not used to justify violations** of women’s right to equality before the law and to equal enjoyment of all Covenant rights. States parties should **furnish appropriate information on those aspects of tradition, history, cultural practices and religious attitudes which jeopardize, or may jeopardize, compliance with article 3**, and indicate what measures they have taken or intend to take to overcome such factors.  ICCPR GC 28 - p 4
 
 
 
@@ -525,4 +544,10 @@ Many General comments asks States to report specific things. Find out what they 
 [^59]: ICCPR General Comment 28 -- paragraph 11
 
 [^60]:  ICESCR General Comment 20 -- paragraph 20
+
 [^61]: ICESCR Article 2.1
+
+[^62]: ICCPR General Comment 28 -- paragraph 2
+
+[^63]: ICCPR General Comment 28 -- paragraph 3
+
