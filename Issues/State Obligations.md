@@ -78,15 +78,23 @@ Treating men's rights on equal terms with women's rights.
 ##### Factors which impede
 > In order to fulfil the obligation set forth in article 3, States parties should take account of the factors which impede the equal enjoyment by women and men of each right specified in the Covenant.  ICCPR GC 28 - p 6
 
+##### Stereotypes
+
+> 19.	The obligation to protect requires States parties to take steps aimed directly at the **elimination of prejudices**, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.  ICESCR GC 16 - p19
+
+
+
 #### Education
 >  These steps include ... the **education of the population and of State officials in human rights** - ICCPR GC 28 - p 3
 
 
-#### Adjusting legislation
+#### Adjusting legislation and policy
 
 > These steps include ... the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.  ICCPR GC 28 - p 3
 
 > 31. ... Laws which impose more severe penalties on women than on men for adultery or other offences also violate the requirement of equal treatment. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.
+
+> .  Respecting the right obliges States parties **not to adopt, and to repeal laws and rescind, policies, administrative measures and programmes that do not conform with the right protected by article 3**.  In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. ICESCR GC 16 - p18
 
 
 
@@ -94,6 +102,8 @@ Treating men's rights on equal terms with women's rights.
 >  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women. ICCPR GC 28 - p 3
 
 > The Committee also wishes to point out that the **principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant**. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant. ICCPR GC 18 - p10
+
+> The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved, such differentiation is legitimate. ICECSR GC 16 - p15
 
 #### Reporting
 
@@ -197,6 +207,10 @@ See also:
 > 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
 
 > While article 2 limits the scope of the rights to be protected against discrimination to those provided for in the Covenant, article 26 does not specify such limitations. That is to say, article 26 provides that **all persons are equal before the law and are entitled to equal protection of the law without discrimination**, and that the law shall **guarantee to all persons equal and effective protection against discrimination** on any of the enumerated grounds. In the view of the Committee, article 26 does not merely duplicate the guarantee already provided for in article 2 but provides in itself an autonomous right. It prohibits discrimination in law or in fact in any field regulated and protected by public authorities. Article 26 is therefore concerned with the obligations imposed on States parties in regard to their legislation and the application thereof. **Thus, when legislation is adopted by a State party, it must comply with the requirement of article 26 that its content should not be discriminatory.** In other words, the application of the principle of non discrimination contained in article 26 is not limited to those rights which are provided for in the Covenant. ICCPR GC 18 - p12
+
+> 3.	Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**. ICESCR GC 16 - p3
+
+> 20.	States parties have an obligation to monitor and regulate the conduct of non-State actors to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized. ICESCR GC 16 - p20
 
 ##### Equality
 
