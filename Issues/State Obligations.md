@@ -76,6 +76,7 @@ Treating men's rights on equal terms with women's rights.
 #### Removal of obstacles
 > These steps include the **removal of obstacles** to the equal enjoyment of such rights - ICCPR GC 28 - p 3
 
+> The implementation of article 3, in relation to article 12, requires at a minimum the **removal of legal and other obstacles that prevent men and women from accessing and benefiting from health care on a basis of equality**.  This includes, inter alia, addressing the ways in which gender roles affect access to determinants of health, such as water and food; the removal of legal restrictions on reproductive health provisions; the prohibition of female genital mutilation; and the provision of adequate training for health-care workers to deal with women’s health issues. ICESCR GC 16 - p29
 
 ##### Factors which impede
 > In order to fulfil the obligation set forth in article 3, States parties should take account of the factors which impede the equal enjoyment by women and men of each right specified in the Covenant.  ICCPR GC 28 - p 6
@@ -97,6 +98,9 @@ Treating men's rights on equal terms with women's rights.
 > - To conduct awareness-raising and training programmes on equality for workers involved in the realization of economic, social and cultural rights at the grass-roots level
 > -To integrate, in formal and non-formal education, the principle of the equal right of men and women to the enjoyment of economic, social and cultural rights, and to promote equal participation of men and women, boys and girls, in schools and other education programmes ICECSR GC 16 - p21
 
+> ... States parties should ensure, in particular through information and awareness-raising campaigns, that families desist from giving preferential treatment to boys when sending their children to school, and **that curricula promote equality and non-discrimination**.ICESCR GC 16 - p30
+
+
 
 
 #### Adjusting legislation and policy
@@ -107,6 +111,7 @@ Treating men's rights on equal terms with women's rights.
 
 > .  Respecting the right obliges States parties **not to adopt, and to repeal laws and rescind, policies, administrative measures and programmes that do not conform with the right protected by article 3**.  In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. ICESCR GC 16 - p18
 
+> 34.	States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant. ICESCR GC 16 - p34
 
 
 #### Positive measures
@@ -125,6 +130,9 @@ Treating men's rights on equal terms with women's rights.
 
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them. ICCPR GC 28 - p 3
 
+>  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights. ICESCR GC 16 - p33
+
+> 34.	States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant. ICESCR GC 16 - p34
 
 See guidelines for reporting on CCPR regarding requirement to report on article 3
 
@@ -145,7 +153,7 @@ The Human Rights Committee asks States to include discrimination against men in 
 
 > Such steps may take the form of legislative, administrative or other measures, but it is a **positive duty** of States parties to **make certain that spouses have equal rights as required by the Covenant**. ICCPR GC 18 - p 5
 
-
+> 27.	Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and boys and girls should be protected equally from practices that promote child marriage, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality.  States parties must take appropriate measures to eliminate violence against men and women and act with due diligence to prevent, investigate, mediate, punish and redress acts of violence against them by private actors. ICECSR GC 16 - p27
 
 ##### Marriage and family
 
@@ -246,6 +254,18 @@ Article 26 requires states to ensure men are equal before the law, and have equa
 #### Remedy
 > - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
 > - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized  men and women; ICECSR GC 16 - p21
+
+#### Address violence
+
+> 27.	Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, **to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage**; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and **boys and girls should be protected equally from practices that promote child marriage**, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  **Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality**.  States parties **must take appropriate measures to eliminate violence against men and women** and act with **due diligence** to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.  ICESCR GC 16 - p27
+
+#### National Plan of Action
+
+> ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights** ICESCR GC 16 - p32
+>  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights. ICESCR GC 16 - p33
+
+
+
 
 ### Non-discrimination
 
