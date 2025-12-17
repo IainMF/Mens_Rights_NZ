@@ -113,6 +113,8 @@ Treating men's rights on equal terms with women's rights.
 
 > 34.	States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant. ICESCR GC 16 - p34
 
+> ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.  ICESCR GC 16 - p41
+
 
 #### Positive measures
 >  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women. ICCPR GC 28 - p 3
@@ -122,6 +124,10 @@ Treating men's rights on equal terms with women's rights.
 > The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved, such differentiation is legitimate. ICECSR GC 16 - p15
 
 > To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources; ICESCR GC 16 - p21
+
+> 32. The adoption of temporary special measures may be necessary to accelerate the equal enjoyment by women of all economic, social and cultural rights and to improve the de facto position of women.  Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women.ICECSR GC 16 - p35
+
+> 36.	States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved. ICECSR GC 16 - p36
 
 #### Monitoring and Reporting
 
@@ -133,6 +139,10 @@ Treating men's rights on equal terms with women's rights.
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights. ICESCR GC 16 - p33
 
 > 34.	States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant. ICESCR GC 16 - p34
+
+> National policies and strategies should identify appropriate indicators and benchmarks on the right to equal enjoyment by men and women of economic, social and cultural rights in order to effectively monitor the implementation by the State party of its obligations under the Covenant in this regard.  Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate.  ICESCR GC 16 - p39
+
+> ... Failure to adopt, implement and **monitor** effects of laws, policies and programmes to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.  ICESCR GC 16 - p41
 
 See guidelines for reporting on CCPR regarding requirement to report on article 3
 
@@ -248,12 +258,16 @@ Article 3 requires states to ensure men enjoy their rights in their totality and
 
 Article 26 requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^9] requires equality before courts and tribunals. requires equal participation in public life.
 #### Representation in decision making
-> To promote equal participation of men and women in development planning, decision-making and in the benefits of development and all programmes related to the realization of economic, social and cultural rights. ICESCR GC 16- p21
+> To promote equal participation of men and women in development planning, decision-making and in the benefits of development and all programmes related to the realization of economic, social and cultural rights. ICESCR GC 16 - p21
+> 
+> 37.	The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant. ICESCR GC 16 - p 37
 
 
 #### Remedy
 > - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
 > - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized  men and women; ICECSR GC 16 - p21
+
+> National policies and strategies should provide for the establishment of effective mechanisms and institutions where they do not exist, including administrative authorities, ombudsmen and other national human rights institutions, courts and tribunals.  These institutions should **investigate and address alleged violations relating to article 3** and provide remedies for such violations.  States parties, for their part, should ensure that such remedies are effectively implemented. ICECSR GC 16 - p38
 
 #### Address violence
 
@@ -264,7 +278,8 @@ Article 26 requires states to ensure men are equal before the law, and have equa
 > ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights** ICESCR GC 16 - p32
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights. ICESCR GC 16 - p33
 
-
+#### No Retrogression
+> The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3. ICESCR GC 16 - p42
 
 
 ### Non-discrimination
