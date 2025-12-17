@@ -72,19 +72,30 @@ Treating men's rights on equal terms with women's rights.
 > States parties should **ensure that traditional, historical, religious or cultural attitudes are not used to justify violations** of women’s right to equality before the law and to equal enjoyment of all Covenant rights. States parties should **furnish appropriate information on those aspects of tradition, history, cultural practices and religious attitudes which jeopardize, or may jeopardize, compliance with article 3**, and indicate what measures they have taken or intend to take to overcome such factors.  ICCPR GC 28 - p 4
 
 #### Removal of obstacles
+> These steps include the **removal of obstacles** to the equal enjoyment of such rights - ICCPR GC 28 - p 3
+
 
 ##### Factors which impede
 > In order to fulfil the obligation set forth in article 3, States parties should take account of the factors which impede the equal enjoyment by women and men of each right specified in the Covenant.  ICCPR GC 28 - p 6
 
 #### Education
+>  These steps include ... the **education of the population and of State officials in human rights** - ICCPR GC 28 - p 3
+
 
 #### Adjusting legislation
+
+> These steps include ... the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.  ICCPR GC 28 - p 3
 
 > 31. ... Laws which impose more severe penalties on women than on men for adultery or other offences also violate the requirement of equal treatment. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.
 
 #### Positive measures
+>  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women. ICCPR GC 28 - p 3
+
 
 #### Reporting
+
+> States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them. ICCPR GC 28 - p 3
+
 
 See guidelines for reporting on CCPR regarding requirement to report on article 3
 
