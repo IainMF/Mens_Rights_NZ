@@ -91,6 +91,7 @@ Treating men's rights on equal terms with women's rights.
 #### Positive measures
 >  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women. ICCPR GC 28 - p 3
 
+> The Committee also wishes to point out that the **principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant**. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant. ICCPR GC 18 - p10
 
 #### Reporting
 
@@ -103,14 +104,20 @@ See CCPR General Comment No. 28 for reporting requirements
 
 ##### Reporting discrimination
 
-The Human Rights Committee asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men in fact. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^34]
+The Human Rights Committee asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^34]
+
+
 
 #### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
 
 #### Ensure marriage equality
-> 23.	States are required to treat men and women equally in regard to marriage in accordance with article 23, which has been elaborated further by general comment No. 19 (1990).  Men and women have the right to enter into marriage only with their free and full consent, and States have an obligation to protect the enjoyment of this right on an equal basis.
+> 23.	States are required to treat men and women equally in regard to marriage in accordance with article 23, which has been elaborated further by general comment No. 19 (1990).  Men and women have the right to enter into marriage only with their free and full consent, and States have an obligation to protect the enjoyment of this right on an equal basis. ICCPR GC 28 - p 23
 
-> 25.	To fulfil their obligations under article 23, paragraph 4, States parties must **ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children**, the children’s religious and moral education, the capacity to transmit to children the parent’s nationality, and the ownership or administration of property, whether common property or property in the sole ownership of either spouse.  
+> 25.	To fulfil their obligations under article 23, paragraph 4, States parties must **ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children**, the children’s religious and moral education, the capacity to transmit to children the parent’s nationality, and the ownership or administration of property, whether common property or property in the sole ownership of either spouse.  ICCPR GC 28 - p 25
+
+> Such steps may take the form of legislative, administrative or other measures, but it is a **positive duty** of States parties to **make certain that spouses have equal rights as required by the Covenant**. ICCPR GC 18 - p 5
+
+
 
 ##### Marriage and family
 
@@ -127,7 +134,12 @@ The Human Rights Committee asks States to include discrimination against men in 
 > \...If the marriage is dissolved, steps should be taken, keeping in view the paramount interest of the children, to give them necessary protection and, so far as is possible, to **guarantee personal relations with both parents**. \...[^51]
 
 #### Equal protection of boys
-> 28.	The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children. 
+> 28.	The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children. ICCPR GC 28 - p 28
+
+> In relation to children, article 24 provides that all children, **without any discrimination** as to race, colour, sex, language, religion, national or social origin, property or birth, have the right to such measures of **protection as are required by their status as minors**, on the part of their family, society and the State. ICCPR GC 18 - p5
+
+
+
 
 ##### Children's rights
 
