@@ -89,12 +89,12 @@ International human rights treaty bodies have identified several 'necessary step
 
 > States parties should **ensure that traditional, historical, religious or cultural attitudes are not used to justify violations** of women’s right to equality before the law and to equal enjoyment of all Covenant rights. States parties should **furnish appropriate information on those aspects of tradition, history, cultural practices and religious attitudes which jeopardize, or may jeopardize, compliance with article 3**, and indicate what measures they have taken or intend to take to overcome such factors. [^25] 
 
-#### Removal of obstacles
+### Removal of obstacles
 States must take into account the 'factors that impede'[^28] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^26] [^27] Naturally, this means identifying these obstacles. 
 
 See **monitor and report**, and **plan of action**
 
-##### Stereotypes
+#### Stereotypes
 States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle for their enjoyment of their rights.[^31] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^29]
 
 This logically includes the idea that men's rights are less important than women;s rights.
@@ -105,13 +105,14 @@ This logically includes the idea that men's rights are less important than women
 > The obligation to protect requires States parties to take steps aimed directly at the elimination of prejudices, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.[^32]
 
 
-#### Education
+### Education
 States must educate the population and state officials about men's human rights.[^33] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys.
 
 It is especially important for State officials who are in a position to violate human rights, such as police officers, and judges. 
 
 
-##### Awareness raising
+#### Public education and  Awareness raising
+States have an obligation to educate the public about their human rights. 
 
 > - To conduct human rights education and training programmes for judges and public officials 
 > - To conduct awareness-raising and training programmes on equality for workers involved in the realization of economic, social and cultural rights at the grass-roots level
@@ -121,7 +122,7 @@ It is especially important for State officials who are in a position to violate 
 
 > the State should conduct human rights education and training programmes for public officials and make such training available to judges and candidates for judicial appointments. Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^36]
 
-#### Adjusting legislation and policy
+### Adjusting legislation and policy
 
 > These steps include ... the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.[^37]
 
@@ -135,7 +136,7 @@ It is especially important for State officials who are in a position to violate 
 
 > Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights.[^41]
 
-#### Positive measures
+### Positive measures
 >  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.[^42]
 
 > The Committee also wishes to point out that the **principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant**. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^43]
@@ -148,7 +149,7 @@ It is especially important for State officials who are in a position to violate 
 
 > States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^47]
 
-#### Monitoring and Reporting
+### Monitoring and Reporting
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls[^48]
 
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them.[^49]
@@ -171,7 +172,7 @@ See CCPR General Comment No. 28 for reporting requirements
 
 The Human Rights Committee asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^55]
 
-#### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
+
 
 #### Ensure marriage equality
 > States are required to treat men and women equally in regard to marriage in accordance with article 23, which has been elaborated further by general comment No. 19 (1990).  Men and women have the right to enter into marriage only with their free and full consent, and States have an obligation to protect the enjoyment of this right on an equal basis.[^56] 
@@ -629,5 +630,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjI2NTcwNl19
+eyJoaXN0b3J5IjpbNDc5Mjk5NjE5XX0=
 -->
