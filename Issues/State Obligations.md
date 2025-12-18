@@ -101,8 +101,6 @@ States have an obligation to address stereotypes and prejudices against men and 
 
 > Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires **addressing gender-based social and cultural prejudices**, providing for **equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.[^30]
 
-
-
 > The obligation to protect requires States parties to take steps aimed directly at the elimination of prejudices, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.[^32]
 
 
@@ -629,5 +627,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE4MzAyNjRdfQ==
+eyJoaXN0b3J5IjpbLTYxNDQ4ODA5Ml19
 -->
