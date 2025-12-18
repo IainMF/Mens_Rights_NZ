@@ -128,14 +128,13 @@ School curricular should include education on equality and non-discrimination. S
 > the State should conduct human rights education and training programmes for public officials and make such training available to judges and candidates for judicial appointments. Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^36]
 
 ### Adjusting legislation and policy
-States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified. The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective" protection from discrimination in the law. Laws must not discriminate against men and boys.
+States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^37] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective" protection from discrimination in the law. Laws must not discriminate against men and boys.
 
 States must review their legislation, policy and programmes periodically to ensure they do not violate men's right to equality and non-discrimination.
 
 Additionally, State should take into account the effect of supposedly gender-neutral laws and policy to ensure they do not have the effect of disadvantaging or discriminating against men and boys.
 
-
-> These steps include ... the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.[^37]
+> In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^38]
 
 > ... Laws which impose more severe penalties on women than on men for adultery or other offences also violate the requirement of equal treatment. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.
 
@@ -148,6 +147,7 @@ Additionally, State should take into account the effect of supposedly gender-neu
 > Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights.[^41]
 
 ### Positive measures
+
 >  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.[^42]
 
 > The Committee also wishes to point out that the **principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant**. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^43]
@@ -161,6 +161,8 @@ Additionally, State should take into account the effect of supposedly gender-neu
 > States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^47]
 
 ### Monitoring and Reporting
+States have an obligation to monitor and report o
+
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls[^48]
 
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them.[^49]
@@ -641,5 +643,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDY1NDk3Ml19
+eyJoaXN0b3J5IjpbLTcyMjU5MzM0Nl19
 -->
