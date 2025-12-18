@@ -664,32 +664,3 @@ see also General Comment 31 paragraphs 15-20
 
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
-[^119]: ICCPR General Comment 28 -- paragraph 6
-
-[^120]: ICCPR General Comment 36 -- paragraph 12
-
-[^121]: ICCPR Article 3
-
-[^122]: ICCPR General Comment 36 -- paragraph 61
-
-[^123]: ICCPR General Comment 36 -- paragraph 61
-
-[^124]: ICCPR General Comment 18 -- paragraph 7
-
-[^125]: ICCPR General Comment 36 -- paragraph 13
-
-[^126]: ICCPR General Comment 36 -- paragraph 12
-
-[^127]: ICCPR General Comment 36 -- paragraph 13
-
-[^128]: ICCPR General Comment 36 -- paragraph 61
-
-[^129]: ICCPR General Comment 36 -- paragraph 3
-
-[^130]: ICCPR General Comment 36 -- paragraph 6
-
-[^131]: ICCPR General Comment 36 -- paragraph 61
-
-[^132]: https://www.oecd-ilibrary.org/
-
-[^133]: ICCPR General Comment 36 -- paragraph 9
