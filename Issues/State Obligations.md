@@ -59,6 +59,15 @@ Likewise, the ICESCR requires States to take steps "by all appropriate means" ac
 
 > The obligation to fulfil requires States parties **to take steps** to ensure that **in practice**, men and women enjoy their economic, social and cultural rights on a basis of equality. ICESCR GC 16 - p21
 
+#### Conduct and result
+States have an obligation to behave (conduct themselves) in a way that promotes and supports human rights, as well as, an obligation to produce human rights results.
+The obligation of conduct refers to 'taking steps'.
+
+> Article 2 is of particular importance to a full understanding of the Covenant and must be seen as having a dynamic relationship with all of the other provisions of the Covenant. It describes the nature of the general legal obligations undertaken by States parties to the Covenant. Those obligations include both what may be termed (following the work of the International Law Commission) **obligations of conduct and obligations of result**. While great emphasis has sometimes been placed on the difference between the formulations used in this provision and that contained in the equivalent article 2 of the International Covenant on Civil and Political Rights, it is not always recognized that there are also significant similarities. In particular, while the Covenant provides for progressive realization and acknowledges the constraints due to the limits of available resources, it also imposes various obligations which are of immediate effect. Of these, two are of particular importance in understanding the precise nature of States parties obligations. One of these, which is dealt with in a separate general comment, and which is to be considered by the Committee at its sixth session, is the “undertaking to guarantee” that relevant rights “will be exercised without discrimination...”. ICECSR GC 3 - p1
+
+#### Progressive realistion
+> The principal obligation of result reflected in article 2 (1) is to take steps “with a view to achieving progressively the full realization of the rights recognized” in the Covenant. The  term  “progressive  realization”  is  often  used  to  describe  the  intent  of this  phrase. The  concept  of  progressive  realization  constitutes  a  recognition  of  the fact  that  full  realization  of  all  economic,  social  and  cultural  rights  will  generally  not be  able  to  be  achieved  in  a  short  period  of  time. ... Nevertheless, the fact that realization over time, or in other words progressively, is foreseen under the Covenant should not be misinterpreted as depriving the obligation of all meaningful content. It is on the one hand a necessary flexibility device, reflecting the realities of the real world and the difficulties involved for any country in ensuring full realization of economic, social and cultural rights. On the other hand, the phrase must be read in the light of the overall objective, indeed the raison d’être, of the Covenant which is to establish clear obligations for States parties in respect of the full realization of the rights in question. It thus imposes **an obligation to move as expeditiously and effectively as possible towards that goal**.  ICESCR GC 3 - p9
+
 ### Specific obligations
 Article 3 of both the ICCPR and ICESCR require States to ensure equal enjoyment of rights for men and for women.
 
@@ -156,6 +165,8 @@ Treating men's rights on equal terms with women's rights.
 > National policies and strategies should identify appropriate indicators and benchmarks on the right to equal enjoyment by men and women of economic, social and cultural rights in order to effectively monitor the implementation by the State party of its obligations under the Covenant in this regard.  Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate.  ICESCR GC 16 - p39
 
 > ... Failure to adopt, implement and **monitor** effects of laws, policies and programmes to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.  ICESCR GC 16 - p41
+
+> States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination ICESCR GC 20 - p41
 
 See guidelines for reporting on CCPR regarding requirement to report on article 3
 
@@ -286,6 +297,10 @@ Article 26 requires states to ensure men are equal before the law, and have equa
 
 > National policies and strategies should provide for the establishment of effective mechanisms and institutions where they do not exist, including administrative authorities, ombudsmen and other national human rights institutions, courts and tribunals.  These institutions should **investigate and address alleged violations relating to article 3** and provide remedies for such violations.  States parties, for their part, should ensure that such remedies are effectively implemented. ICECSR GC 16 - p38
 
+> National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights. ICECSR GC 20 - p40
+
+> Among the measures which might be considered appropriate, in addition to legislation, is the provision of judicial remedies with respect to rights which may, in accordance with the national legal system, be considered justiciable. The Committee notes, for example, that the enjoyment of the rights recognized, without discrimination, will often be appropriately promoted, in part, through the provision of judicial or other effective remedies. Indeed, those States parties which are also parties to the International Covenant on Civil and Political Rights are already obligated (by virtue of articles 2 (paras. 1 and 3), 3 and 26) of that Covenant to ensure that any person whose rights or freedoms (including the right to equality and non-discrimination) recognized in that Covenant are violated, “shall have an effective remedy” (art. 2 (3) (a)). In addition, there are a number of other provisions in the International Covenant on Economic, Social and Cultural Rights, including articles 3, 7 (a) (i), 8, 10 (3), 13 (2) (a), (3) and (4) and 15 (3) which would seem to be capable of immediate application by judicial and other organs in many national legal systems. Any suggestion that the provisions indicated are inherently non-self-executing would seem to be difficult to sustain. ICESCR GC 3 - p5
+
 #### Address violence
 
 > 27.	Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, **to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage**; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and **boys and girls should be protected equally from practices that promote child marriage**, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  **Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality**.  States parties **must take appropriate measures to eliminate violence against men and women** and act with **due diligence** to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.  ICESCR GC 16 - p27
@@ -299,8 +314,13 @@ Article 26 requires states to ensure men are equal before the law, and have equa
 > States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  
 private actors in the area of Covenant rights. Such policies, plans and strategies should address all groups distinguished by the prohibited grounds and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality. ICECSR GC 20 - p38
 
+> National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination ICESCR GC 20 - p41
+
 #### No Retrogression
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3. ICESCR GC 16 - p42
+
+> Moreover, any deliberately retrogressive measures in that regard would require the most careful consideration and would need to be fully justified by reference to the totality of the rights provided for in the Covenant and in the context of the full use of the maximum available resources. ICESCR GC 3 - p 9
+> 
 
 
 ### Non-discrimination
@@ -327,8 +347,12 @@ Ending discrimination requires analysis of laws and policies to identify any "di
 
 > "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^21]
 
+
+
 Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^22] States may be able to justify differential treatment of men if it is reasonable, objective,[^23] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^24]
 
+#### Systemic discrimination
+>  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice. ICECSR GC 20 - p39
 
 ##### Promote
 >  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women ICESCR GC 16 - footnote 11
