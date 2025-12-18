@@ -7,6 +7,7 @@ description: Details of government human rights obligations to men and boys.
 
 A State's human rights obligations are divided into three broad categories. Respect, protect, and fulfil. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
 
+> The obligation to fulfil further contains duties to provide, promote and facilitate. ICESCR GC 16 - p17
 
 
 ## The need for identify state obligations to men and boys
@@ -42,6 +43,8 @@ Likewise, the *International Covenant on Economic, Cultural and Social Rights*, 
 > The essence of article 3 of ICESCR is that the rights set forth in the Covenant are to be enjoyed by men and women on a basis of equality, a concept that carries substantive meaning.  While expressions of formal equality may be found in constitutional provisions, legislation and policies of Governments, article 3 also mandates the equal enjoyment of the rights in the Covenant for men and women in practice. ICESCR GC 16 - p6 
 
 >  Article 3 requires States to undertake to ensure the equal right of men and women to enjoy the Covenant rights ICESCR GC 20 - p4
+
+> Article 3 sets **a non-derogable standard** for compliance with the obligations of States parties as set out in articles 6 through 15 of ICESCR ICESCR GC 16 - p 17
 
 
 ### Which parts of government?
@@ -107,6 +110,8 @@ Treating men's rights on equal terms with women's rights.
 > 22.	Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires **addressing gender-based social and cultural prejudices**, providing for **equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life. ICESCR GC 16 - p22
 
 > Since the adoption of the Covenant, the notion of the prohibited ground “sex” has evolved considerably to cover not only physiological characteristics but also the social construction of **gender stereotypes, prejudices and expected roles**, which have **created obstacles** to the equal fulfilment of economic, social and cultural rights. Thus, the refusal to hire a woman, on the ground that she might become pregnant, or the allocation of low-level or part‑time jobs to women based on the stereotypical assumption that, for example, they are unwilling to commit as much time to their work as men, constitutes discrimination. Refusal to grant paternity leave may also amount to discrimination against men. ICECSR GC 20 - p20
+
+> The obligation to protect requires States parties to take steps aimed directly at the elimination of prejudices, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.   ICESCR GC 16 - p 19
 
 
 #### Education
