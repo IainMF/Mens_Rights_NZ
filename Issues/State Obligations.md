@@ -97,9 +97,8 @@ See **monitor and report**, and **plan of action**
 ##### Stereotypes
 States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle for their enjoyment of their rights. 
 
-Predujiceds custom, or practce
+States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^29]
 
-> The obligation to protect requires States parties to take steps aimed directly at the **elimination of prejudices**, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.[^29]
 
 > Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires **addressing gender-based social and cultural prejudices**, providing for **equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.[^30]
 
@@ -631,5 +630,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMTk3OTVdfQ==
+eyJoaXN0b3J5IjpbLTg0NDEyOTU1Ml19
 -->
