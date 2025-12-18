@@ -97,6 +97,7 @@ See **monitor and report**, and **plan of action**
 ##### Stereotypes
 States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle for their enjoyment of their rights.[^31] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^29]
 
+This logically includes the idea that men's rights are less important than women;s rights.
 
 
 > Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires **addressing gender-based social and cultural prejudices**, providing for **equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.[^30]
@@ -105,11 +106,9 @@ States have an obligation to address stereotypes and prejudices against men and 
 
 
 #### Education
-States must educate the population and state officials about men's human rights.
+States must educate the population and state officials about men's human rights.[^33] State officials are responsible for enacting the State's human rights obligations and therefore, must know the obligations to men and boys.
 
-State officials are responsible for enacting the State's human rights obligations and therefore, must know the obligations to men and boys.
-
->  These steps include ... the **education of the population and of State officials in human rights**[^33]
+##### Awareness raising
 
 > - To conduct human rights education and training programmes for judges and public officials 
 > - To conduct awareness-raising and training programmes on equality for workers involved in the realization of economic, social and cultural rights at the grass-roots level
@@ -627,5 +626,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDQ4ODA5Ml19
+eyJoaXN0b3J5IjpbLTE3MTQwNzA2NTNdfQ==
 -->
