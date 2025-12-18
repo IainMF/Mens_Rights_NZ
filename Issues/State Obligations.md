@@ -4,35 +4,35 @@ description: Details of government human rights obligations to men and boys.
 ---
 > [!tip] This page is a work in progress
 
+New Zealand has ratified both the *International Convenant on Civil and Political Rights* (ICCPR) and the *International Covenant of Economic, Cultural and Social Rights* (ICESCR).
 
 A State's human rights obligations under international treaties are divided into three broad categories. *Respect*, *protect*, and *fulfil*. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
 
 > The obligation to fulfil further contains duties to provide, promote and facilitate.[^1]
 
-
 ## The need for identify state obligations to men and boys
 
-Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. 
+Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Unfortunately, there is little jurisprudence and guidance for men's rights.
 
-The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations under Article 2 (non-discrimination) and General Comment 28[^2] details State obligations under Article 3 (equal rights between men and women).
+The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations of non-discrimination under Article 2  and General Comment 28[^2] details State obligations to ensure equal rights between men and women (Article 3).
 
 Although Article 3 of the ICCPR requires equal enjoyment of rights for both women and men, there is no official guidance with regards to men's rights. General Comment 28 focuses entirely on women. Paragraph 1 states:
 
 > The Committee has decided to update its general comment on article 3 of the Covenant and to replace general comment No. 4 (thirteenth session, 1981), in the light of the experience it has gathered in its activities over the last 20 years. **The present revision seeks to take account of the important impact of this article on the enjoyment by women of the human rights protected under the Covenant.**
 
-Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* has issued twenty-seven General Comments, including General Comment 16, which concerns Article 3 (equal rights between women and men) and General Comment 20, regarding Article 2 (non-discrimination). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognisies that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men."[^3]
+Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* has issued twenty-seven General Comments relating the the ICESCR, including General Comment 16, on  equal rights between women and men(Article 3) and General Comment 20, on non-discrimination(Article 2). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognisies that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men",[^3] but discussions of sex/gender discrimiantion focus on women.
 
 Additionally, States have a number of other instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
 
 Although, men and boys have the same human rights as women and girls, similar guidance for protecting and respecting men's rights is lacking. Commentators have argued that explicitly recognising men's rights is not necessary. For example,  Charlesworth[^4] argues that male over-representation in the development and administration of international human rights law means that human rights already accounts for men's rights by default. However, male representation has not lead to men's gender-specific human rights issues being addressed in a meaningful or substantive way. For example, Stemple[^5] points out there are no human rights instruments that explicitly address sexual violence against men, and Abramson[^6] says there is discrimination against boys in the children's rights movement.
 
-Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^7]
-
 If States are to meet their obligations of equality and non-discrimination on the basis of sex, it is necessary to explicitly identify States' obligations to men and boys.
 
-## Government Obligations to men and boys
+Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^7]
 
-The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
+## Government obligations to men and boys
+
+States that have ratified internation human rights treaties have agreed to be legally bound by them. The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
 
  > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^8] *Emphasis added*
 
@@ -44,23 +44,29 @@ Likewise, the *International Covenant on Economic, Cultural and Social Rights*, 
 
 >  Article 3 requires States to undertake to ensure the equal right of men and women to enjoy the Covenant rights [^11]
 
-> Article 3 sets **a non-derogable standard** for compliance with the obligations of States parties as set out in articles 6 through 15 of ICESCR [^12]
+#### Non-derogable standard
 
+Human rights treaties allow States to resitict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are   [derogable](https://en.wikipedia.org/wiki/Derogability). Provisions in human rights treaties of non-discrimiantion and equality between men and women are  not derogable. 
+
+> Article 3 sets **a non-derogable standard** for compliance with the obligations of States parties as set out in articles 6 through 15 of ICESCR [^12]
 
 ### Which parts of government?
 
-A state's obligations to men and boys involve all parts of the government and public authorities.
+A state's obligations to men and boys involve all parts of the government and public authorities. 
 
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^13]
 
 
 ## Take necessary steps
+A State's obligations under human rights treaties require them to act to fulfil these obligations. The ICCPR requires States to "take the necessary steps"[^14] to provide men their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^15] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^16]
 
-The ICCPR requires States to "take the necessary steps"[^14] to provide men their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^15] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^16]
-
-Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^17] The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for progressive realisation of these rights. However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of the Covenant's rights.
+Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^17] 
 
 > The obligation to fulfil requires States parties **to take steps** to ensure that **in practice**, men and women enjoy their economic, social and cultural rights on a basis of equality. [^18]
+
+#### Progressive realistion
+The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights. However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of the Covenant's rights.
+> The  concept  of  progressive  realization  constitutes  a  recognition  of  the fact  that  full  realization  of  all  economic,  social  and  cultural  rights  will  generally  not be  able  to  be  achieved  in  a  short  period  of  time. ... Nevertheless, the fact that realization over time, or in other words progressively, is foreseen under the Covenant should not be misinterpreted as depriving the obligation of all meaningful content. It is on the one hand a necessary flexibility device, reflecting the realities of the real world and the difficulties involved for any country in ensuring full realization of economic, social and cultural rights. On the other hand, the phrase must be read in the light of the overall objective, indeed the raison d’être, of the Covenant which is to establish clear obligations for States parties in respect of the full realization of the rights in question. It thus imposes **an obligation to move as expeditiously and effectively as possible towards that goal**.[^20]
 
 #### Conduct and result
 States have an obligation to behave (conduct themselves) in a way that promotes and supports human rights, as well as, an obligation to produce human rights results.
@@ -68,8 +74,7 @@ The obligation of conduct refers to 'taking steps'.
 
 > Article 2 is of particular importance to a full understanding of the Covenant and must be seen as having a dynamic relationship with all of the other provisions of the Covenant. It describes the nature of the general legal obligations undertaken by States parties to the Covenant. Those obligations include both what may be termed (following the work of the International Law Commission) **obligations of conduct and obligations of result**. While great emphasis has sometimes been placed on the difference between the formulations used in this provision and that contained in the equivalent article 2 of the International Covenant on Civil and Political Rights, it is not always recognized that there are also significant similarities. In particular, while the Covenant provides for progressive realization and acknowledges the constraints due to the limits of available resources, it also imposes various obligations which are of immediate effect. Of these, two are of particular importance in understanding the precise nature of States parties obligations. One of these, which is dealt with in a separate general comment, and which is to be considered by the Committee at its sixth session, is the “undertaking to guarantee” that relevant rights “will be exercised without discrimination...”. [^19]
 
-#### Progressive realistion
-> The principal obligation of result reflected in article 2 (1) is to take steps “with a view to achieving progressively the full realization of the rights recognized” in the Covenant. The  term  “progressive  realization”  is  often  used  to  describe  the  intent  of this  phrase. The  concept  of  progressive  realization  constitutes  a  recognition  of  the fact  that  full  realization  of  all  economic,  social  and  cultural  rights  will  generally  not be  able  to  be  achieved  in  a  short  period  of  time. ... Nevertheless, the fact that realization over time, or in other words progressively, is foreseen under the Covenant should not be misinterpreted as depriving the obligation of all meaningful content. It is on the one hand a necessary flexibility device, reflecting the realities of the real world and the difficulties involved for any country in ensuring full realization of economic, social and cultural rights. On the other hand, the phrase must be read in the light of the overall objective, indeed the raison d’être, of the Covenant which is to establish clear obligations for States parties in respect of the full realization of the rights in question. It thus imposes **an obligation to move as expeditiously and effectively as possible towards that goal**.[^20]
+
 
 ### Specific obligations
 Article 3 of both the ICCPR and ICESCR require States to ensure equal enjoyment of rights for men and for women.
