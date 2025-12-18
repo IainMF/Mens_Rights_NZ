@@ -5,7 +5,9 @@ description: Details of government human rights obligations to men and boys.
 > [!tip] This page is a work in progress
 
 
-A State's human rights obligations are divided into three broad categories. Respect, protect, and fulfil. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice. This includes considering “factors that impede” men’s enjoyment of their rights and the removal of those obstacles.
+A State's human rights obligations are divided into three broad categories. Respect, protect, and fulfil. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
+
+
 
 ## The need for identify state obligations to men and boys
 
@@ -32,6 +34,14 @@ If States are to meet their obligations of equality and non-discrimination on th
 The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
 
  > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^63] *Emphasis added*
+
+Likewise, the *International Covenant on Economic, Cultural and Social Rights*, recognises the rights of men and boys in Articles 2 and 3. These articles require States to ensure both men and women enjoy their covenant rights equally  *in practice*.
+
+> Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing... ICESCR GC 16 - p3 
+
+> The essence of article 3 of ICESCR is that the rights set forth in the Covenant are to be enjoyed by men and women on a basis of equality, a concept that carries substantive meaning.  While expressions of formal equality may be found in constitutional provisions, legislation and policies of Governments, article 3 also mandates the equal enjoyment of the rights in the Covenant for men and women in practice. ICESCR GC 16 - p6 
+
+>  Article 3 requires States to undertake to ensure the equal right of men and women to enjoy the Covenant rights ICESCR GC 20 - p4
 
 
 ### Which parts of government?
@@ -87,8 +97,7 @@ Treating men's rights on equal terms with women's rights.
 
 > 22.	Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires **addressing gender-based social and cultural prejudices**, providing for **equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life. ICESCR GC 16 - p22
 
-
-
+> Since the adoption of the Covenant, the notion of the prohibited ground “sex” has evolved considerably to cover not only physiological characteristics but also the social construction of **gender stereotypes, prejudices and expected roles**, which have **created obstacles** to the equal fulfilment of economic, social and cultural rights. Thus, the refusal to hire a woman, on the ground that she might become pregnant, or the allocation of low-level or part‑time jobs to women based on the stereotypical assumption that, for example, they are unwilling to commit as much time to their work as men, constitutes discrimination. Refusal to grant paternity leave may also amount to discrimination against men. ICECSR GC 20 - p20
 
 
 #### Education
@@ -100,6 +109,7 @@ Treating men's rights on equal terms with women's rights.
 
 > ... States parties should ensure, in particular through information and awareness-raising campaigns, that families desist from giving preferential treatment to boys when sending their children to school, and **that curricula promote equality and non-discrimination**.ICESCR GC 16 - p30
 
+> the State should conduct human rights education and training programmes for public officials and make such training available to judges and candidates for judicial appointments. Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society ICESCR GC 20 - p38
 
 
 
@@ -114,6 +124,9 @@ Treating men's rights on equal terms with women's rights.
 > 34.	States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant. ICESCR GC 16 - p34
 
 > ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.  ICESCR GC 16 - p41
+
+> Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights. ICECSR GC 20 - p37
+
 
 
 #### Positive measures
@@ -250,6 +263,10 @@ See also:
 
 > 20.	States parties have an obligation to monitor and regulate the conduct of non-State actors to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized. ICESCR GC 16 - p20
 
+> Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above. ICECSR GC 20 - p37
+
+> States parties should also adopt appropriate **preventive measures to avoid the emergence of new marginalized groups**. ICECSR GC 20 - p38
+
 ##### Equality
 
 Equality is a fundamental principle of human rights. The *International Covenant on Civil and Political Rights* requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
@@ -278,6 +295,10 @@ Article 26 requires states to ensure men are equal before the law, and have equa
 > ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights** ICESCR GC 16 - p32
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights. ICESCR GC 16 - p33
 
+
+> States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  
+private actors in the area of Covenant rights. Such policies, plans and strategies should address all groups distinguished by the prohibited grounds and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality. ICECSR GC 20 - p38
+
 #### No Retrogression
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3. ICESCR GC 16 - p42
 
@@ -302,11 +323,15 @@ States are required to ensure equal protection for boys and girls[^14], and that
 
 Ending discrimination against men in the public and private sector is a necessary step.[^19]
 
-Ending discrimination requires analysis of laws and policies to identify any"distinction, exclusion, restriction or preference"[^20] that impairs men's enjoyment or exercise of their rights.
+Ending discrimination requires analysis of laws and policies to identify any "distinction, exclusion, restriction or preference"[^20] that impairs men's enjoyment or exercise of their rights.
 
 > "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^21]
 
 Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^22] States may be able to justify differential treatment of men if it is reasonable, objective,[^23] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^24]
+
+
+##### Promote
+>  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women ICESCR GC 16 - footnote 11
 
 ### Protecting men from discrimination
 
@@ -365,24 +390,6 @@ responding to complaints about discrimination and providing appropriate remedy
 
 
 
-
-> From wikipedia
->
-> (Articles 6 -- 27) lists the rights themselves. These include rights to:
->
-> -   physical integrity, in the form of the right to life and freedom from torture and slavery (Articles 6, 7, and 8);
->
-> -   liberty and security of the person, in the form of freedom from [arbitrary arrest and detention](https://en.wikipedia.org/wiki/Arbitrary_arrest_and_detention) and the right to *[habeas corpus](https://en.wikipedia.org/wiki/Habeas_corpus)* (Articles 9 -- 11);
->
-> -   procedural fairness in law, in the form of rights to due process, a [fair and impartial trial](https://en.wikipedia.org/wiki/Right_to_a_fair_trial), the [presumption of innocence](https://en.wikipedia.org/wiki/Presumption_of_innocence), and recognition as a person before the law (Articles 14, 15, and 16);
->
-> -   individual liberty, in the form of the freedoms of movement, thought, conscience and religion, speech, association and assembly, family rights, the right to a nationality, and the [right to privacy](https://en.wikipedia.org/wiki/Right_to_privacy) (Articles 12, 13, 17 -- 24);
->
-> -   prohibition by law of any [propaganda](https://en.wikipedia.org/wiki/Propaganda) for war as well as any advocacy of national or religious hatred that constitutes [incitement](https://en.wikipedia.org/wiki/Incitement) to discrimination, hostility or violence (Article 20);
->
-> -   political participation, including the right to the [right to vote](https://en.wikipedia.org/wiki/Right_to_vote) (Article 25);
->
-> -   Non-discrimination, [minority rights](https://en.wikipedia.org/wiki/Minority_rights) and [equality before the law](https://en.wikipedia.org/wiki/Equality_before_the_law) (Articles 26 and 27)
 
 see also General Comment 31 paragraphs 15-20
 
