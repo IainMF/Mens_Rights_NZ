@@ -364,6 +364,9 @@ Gender analysis must be performed in a way that is *able to* and *effective at* 
 
 ### Protecting men from discrimination
 
+> 20.	States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized ICESCR GC 16 - p20
+
+
 Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^25] and by "public authorities, by the community, or by private persons or bodies".[^26]
 
 A State's protection of men from discrimination must be "equal and effective".[^27]
