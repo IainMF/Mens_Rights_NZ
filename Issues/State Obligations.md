@@ -161,7 +161,9 @@ Additionally, State should take into account the effect of supposedly gender-neu
 > States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^47]
 
 ### Monitoring and Reporting
-States have an obligation to monitor and report o
+States have an obligation to monitor and report on their implementation of the human rights treaties they have ratified. 
+
+Particularly, Artlce 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men adn women. 
 
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls[^48]
 
@@ -643,5 +645,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjU5MzM0Nl19
+eyJoaXN0b3J5IjpbMTgzNjAxODY5MV19
 -->
