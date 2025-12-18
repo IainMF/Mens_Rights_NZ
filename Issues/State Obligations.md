@@ -80,7 +80,7 @@ States are required to take the necessary steps to ensure men enjoy their human 
 
 It is insufficient for States to recognise disparities and disadvantages for men and boys without recognising the human rights obligations to address those disparities or disadvantages. For example, a State may recognise that suicide is a human rights issues that affects people's right to life, and they may recognise that men have a higher rate of suicide than women, but fail to recognise that they have an obligation to address men's higher suicide rate to ensure men equally enjoy their right to life with women.
 
-States must not assume that men's human rights are magically taken care of somehow. They must be proactive in identifying men's human rights issues and their obligations 
+States must not assume that men's human rights are magically taken care of somehow. They must be proactive in identifying men's and boys' human rights issues and their obligations in response.
 
 International human rights treaty bodies have identified several 'necessary steps'.
 > These steps include the **removal of obstacles** to the equal enjoyment of such rights, the **education of the population and of State officials in human rights**, and the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.  States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them.[^23]
@@ -90,9 +90,9 @@ International human rights treaty bodies have identified several 'necessary step
 > States parties should **ensure that traditional, historical, religious or cultural attitudes are not used to justify violations** of women’s right to equality before the law and to equal enjoyment of all Covenant rights. States parties should **furnish appropriate information on those aspects of tradition, history, cultural practices and religious attitudes which jeopardize, or may jeopardize, compliance with article 3**, and indicate what measures they have taken or intend to take to overcome such factors. [^25] 
 
 #### Removal of obstacles
-States must take into account the 'factors that impede'[^28] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^26] [^27]
+States must take into account the 'factors that impede'[^28] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^26] [^27] Naturally, this means identifying these obstacles. 
 
-This naturally means identifying these obstacles. See **monitor and report**, and **plan of action**
+See **monitor and report**, and **plan of action**
 
 ##### Stereotypes
 States have an obligation to address stereotypes and prejudices that affect men's enjoyment of their rights.
@@ -629,5 +629,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMjQ3MDQ5XX0=
+eyJoaXN0b3J5IjpbLTgxNjc5MjYyNF19
 -->
