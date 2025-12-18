@@ -4,7 +4,7 @@ description: Details of government human rights obligations to men and boys.
 ---
 > [!tip] This page is a work in progress
 
-New Zealand has ratified both the *International Convenant on Civil and Political Rights* (ICCPR) and the *International Covenant of Economic, Cultural and Social Rights* (ICESCR).
+New Zealand has ratified both the *International Covenant on Civil and Political Rights* (ICCPR) and the *International Covenant of Economic, Cultural and Social Rights* (ICESCR).
 
 A State's human rights obligations under international treaties are divided into three broad categories. *Respect*, *protect*, and *fulfil*. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
 
@@ -19,7 +19,7 @@ Although Article 3 of the ICCPR requires equal enjoyment of rights for both wome
 
 > The Committee has decided to update its general comment on article 3 of the Covenant and to replace general comment No. 4 (thirteenth session, 1981), in the light of the experience it has gathered in its activities over the last 20 years. **The present revision seeks to take account of the important impact of this article on the enjoyment by women of the human rights protected under the Covenant.**
 
-Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* has issued twenty-seven General Comments relating the the ICESCR, including General Comment 16, on  equal rights between women and men(Article 3) and General Comment 20, on non-discrimination(Article 2). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognisies that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men",[^3] but discussions of sex/gender discrimiantion focus on women.
+Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* has issued twenty-seven General Comments relating the the ICESCR, including General Comment 16, on  equal rights between women and men(Article 3) and General Comment 20, on non-discrimination(Article 2). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognises that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men",[^3] but discussions of sex/gender discrimination focus on women.
 
 Additionally, States have a number of other instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
 
@@ -42,7 +42,7 @@ Likewise, the *International Covenant on Economic, Cultural and Social Rights*, 
 >  Article 3 requires States to undertake to ensure the equal right of men and women to enjoy the Covenant rights [^11]
 
 #### Non-derogable standard
-Human rights treaties allow States to resitict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are   [derogable](https://en.wikipedia.org/wiki/Derogability). Provisions in human rights treaties of non-discrimiantion and equality between men and women are  not derogable. 
+Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are   [derogable](https://en.wikipedia.org/wiki/Derogability). Provisions in human rights treaties of non-discrimination and equality between men and women are  not derogable. 
 > Article 3 sets **a non-derogable standard** for compliance with the obligations of States parties as set out in articles 6 through 15 of ICESCR [^12]
 
 ### Which parts of government?
@@ -56,7 +56,7 @@ Likewise, the ICESCR requires States to take steps "by all appropriate means" ac
 
 > The obligation to fulfil requires States parties **to take steps** to ensure that **in practice**, men and women enjoy their economic, social and cultural rights on a basis of equality. [^18]
 
-### Progressive realistion
+### Progressive realisation
 The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights. However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of the Covenant's rights.
 > The  concept  of  progressive  realization  constitutes  a  recognition  of  the fact  that  full  realization  of  all  economic,  social  and  cultural  rights  will  generally  not be  able  to  be  achieved  in  a  short  period  of  time. ... Nevertheless, the fact that realization over time, or in other words progressively, is foreseen under the Covenant should not be misinterpreted as depriving the obligation of all meaningful content. It is on the one hand a necessary flexibility device, reflecting the realities of the real world and the difficulties involved for any country in ensuring full realization of economic, social and cultural rights. On the other hand, the phrase must be read in the light of the overall objective, indeed the raison d’être, of the Covenant which is to establish clear obligations for States parties in respect of the full realization of the rights in question. It thus imposes **an obligation to move as expeditiously and effectively as possible towards that goal**.[^20]
 
@@ -86,7 +86,7 @@ International human rights treaty bodies have identified several 'necessary step
 > States parties should **ensure that traditional, historical, religious or cultural attitudes are not used to justify violations** of women’s right to equality before the law and to equal enjoyment of all Covenant rights. States parties should **furnish appropriate information on those aspects of tradition, history, cultural practices and religious attitudes which jeopardize, or may jeopardize, compliance with article 3**, and indicate what measures they have taken or intend to take to overcome such factors. [^25] 
 
 #### Removal of obstacles
-States must take into account the 'factors that impede'[^28]   men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^26] [^27]
+States must take into account the 'factors that impede'[^28] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^26] [^27]
 
 This naturally means identifying these obstacles. See **monitor and report**, and **plan of action**
 
@@ -103,7 +103,9 @@ States have an obligation to address stereotypes and prejudices that affect men'
 
 
 #### Education
-States must educate the population and state officals about men's human rights.
+States must educate the population and state officials about men's human rights.
+
+State officials are responsible for enacting the State's human rights obligations and therefore, must know the obligations to men and boys.
 
 >  These steps include ... the **education of the population and of State officials in human rights**[^33]
 
@@ -269,6 +271,8 @@ Article 3 requires states to ensure men enjoy their rights in their totality and
 
 Article 26 requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^83] requires equality before courts and tribunals. requires equal participation in public life.
 #### Representation in decision making
+States must ensure that men are represented in decision making. This is not limited to having men present, but must ensure that men's needs and human rights are considered so that men benefit from the decisions that are made.
+
 > To promote equal participation of men and women in development planning, decision-making and in the benefits of development and all programmes related to the realization of economic, social and cultural rights.[^84]
 > 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^85]
