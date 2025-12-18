@@ -116,7 +116,8 @@ It is especially important for State officials who are in a position to violate 
 #### Public education and  Awareness raising
 States have an obligation to educate the public about their human rights. 
 
-School ciricular
+School curricular should include education on equality and non-discrimination. Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
+
 
 > - To conduct human rights education and training programmes for judges and public officials 
 > - To conduct awareness-raising and training programmes on equality for workers involved in the realization of economic, social and cultural rights at the grass-roots level
@@ -634,5 +635,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTg1MDQ5OF19
+eyJoaXN0b3J5IjpbLTkzOTIxMjEzMV19
 -->
