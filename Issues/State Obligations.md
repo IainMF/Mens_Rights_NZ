@@ -237,7 +237,7 @@ States must protect children from discrimination based on sex.[^70]
 
 24.3 - Every child has the right to acquire a nationality.
 
-> General Comment 28 -- p28. **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.** States parties should report on measures taken to ensure that girls are treated equally to boys *in education*, in feeding and in *health care*, and provide the Committee with disaggregated data in this respect. States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*.[^71]
+> General Comment 28 -- para. 28. **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.** States parties should report on measures taken to ensure that girls are treated equally to boys *in education*, in feeding and in *health care*, and provide the Committee with disaggregated data in this respect. States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*.[^71]
 
 ##### General comment 17
 
@@ -255,7 +255,7 @@ scientific experimentation
 
 ##### Genital mutilation recognised as a violation of article 7
 
-> General Comment 28 -- p11 -
+> General Comment 28 -- para. 11 -
 > **To assess compliance with article 7 of the Covenant, as well as with article 24, which mandates special protection for children**, the Committee needs to be provided information on national laws and practice with regard to domestic and other types of violence against women, including rape. It also needs to know whether the State party gives access to safe abortion to women who have become pregnant as a result of rape. The States parties should also provide the Committee with information on measures to prevent forced abortion or forced sterilization. **In States parties where the practice of genital mutilation exists information on its extent and on measures to eliminate it should be provided**. The information provided by States parties on all these issues should include measures of protection, including legal remedies, for women whose rights under **article 7** have been violated.[^74]
 
 See also:
@@ -428,7 +428,8 @@ see also General Comment 31 paragraphs 15-20
 
 
 
-[^1]: ICESCR GC 16 - p17
+[^1]: ICESCR General Comment 16 - para. 17
+
 [^2]: General Comment 28 replaces General Comment 4
 
 [^3]:  ICESCR General Comment 20 -- paragraph 20
@@ -443,13 +444,13 @@ see also General Comment 31 paragraphs 15-20
 
 [^8]: ICCPR General Comment 28 -- paragraph 3
 
-[^9]: ICESCR GC 16 - p3 
+[^9]: ICESCR General Comment 16 - para. 3 
 
-[^10]: ICESCR GC 16 - p6
+[^10]: ICESCR General Comment 16 - para. 6
 
-[^11]: ICESCR GC 20 - p4
+[^11]: ICESCR General Comment 20 - para. 4
 
-[^12]: ICESCR GC 16 - p 17
+[^12]: ICESCR General Comment 16 - para. 17
 
 [^13]: ICCPR General Comment 31 -- Paragraph 4
 
@@ -461,93 +462,93 @@ see also General Comment 31 paragraphs 15-20
 
 [^17]: ICESCR Article 2.1
 
-[^18]: ICESCR GC 16 - p21
+[^18]: ICESCR General Comment 16 - para. 21
 
-[^19]: ICECSR GC 3 - p1
+[^19]: ICECSR General Comment 3 - para. 1
 
-[^20]: ICESCR GC 3 - p9
+[^20]: ICESCR General Comment 3 - para. 9
 
 [^21]: ICCPR General Comment 28 -- paragraph 2
 
-[^22]: ICCPR GC 28 - p 4
+[^22]: ICCPR General Comment 28 - para. 4
 
-[^23]: ICCPR GC 28 - p 3
+[^23]: ICCPR General Comment 28 - para. 3
 
-[^24]: ICCPR GC 28 - p 4
+[^24]: ICCPR General Comment 28 - para. 4
 
-[^25]: ICCPR GC 28 - p 4
+[^25]: ICCPR General Comment 28 - para. 4
 
-[^26]: ICCPR GC 28 - p 3
+[^26]: ICCPR General Comment 28 - para. 3
 
-[^27]: ICESCR GC 16 - p29
+[^27]: ICESCR General Comment 16 - para. 29
 
-[^28]: ICCPR GC 28 - p 6
+[^28]: ICCPR General Comment 28 - para. 6
 
-[^29]: ICESCR GC 16 - p19
+[^29]: ICESCR General Comment 16 - para. 19
 
-[^30]: ICESCR GC 16 - p19
+[^30]: ICESCR General Comment 16 - para. 19
 
-[^31]: ICECSR GC 20 - p20
+[^31]: ICECSR General Comment 20 - para. 20
 
-[^32]: ICESCR GC 16 - p 19
+[^32]: ICESCR General Comment 16 - para. 19
 
-[^33]: ICCPR GC 28 - p 3
+[^33]: ICCPR General Comment 28 - para. 3
 
-[^34]: ICECSR GC 16 - p21
+[^34]: ICECSR General Comment 16 - para. 21
 
-[^35]: ICESCR GC 16 - p30
+[^35]: ICESCR General Comment 16 - para. 30
 
-[^36]: ICESCR GC 20 - p38
+[^36]: ICESCR General Comment 20 - para. 38
 
-[^37]: ICCPR GC 28 - p 3
+[^37]: ICCPR General Comment 28 - para. 3
 
-[^38]: ICESCR GC 16 - p18
+[^38]: ICESCR General Comment 16 - para. 18
 
-[^39]: ICESCR GC 16 - p34
+[^39]: ICESCR General Comment 16 - para. 34
 
-[^40]: ICESCR GC 16 - p41
+[^40]: ICESCR General Comment 16 - para. 41
 
-[^41]: ICECSR GC 20 - p37
+[^41]: ICECSR General Comment 20 - para. 37
 
-[^42]: ICCPR GC 28 - p 3
+[^42]: ICCPR General Comment 28 - para. 3
 
-[^43]: ICCPR GC 18 - p10
+[^43]: ICCPR General Comment 18 - para. 10
 
-[^44]: ICECSR GC 16 - p15
+[^44]: ICECSR General Comment 16 - para. 15
 
-[^45]: ICESCR GC 16 - p21
+[^45]: ICESCR General Comment 16 - para. 21
 
-[^46]: ICECSR GC 16 - p35
+[^46]: ICECSR General Comment 16 - para. 35
 
-[^47]: ICECSR GC 16 - p36
+[^47]: ICECSR General Comment 16 - para. 36
 
-[^48]: ICESCR GC 16 - p21
+[^48]: ICESCR General Comment 16 - para. 21
 
-[^49]: ICCPR GC 28 - p 3
+[^49]: ICCPR General Comment 28 - para. 3
 
-[^50]: ICESCR GC 16 - p33
+[^50]: ICESCR General Comment 16 - para. 33
 
-[^51]: ICESCR GC 16 - p34
+[^51]: ICESCR General Comment 16 - para. 34
 
-[^52]: ICESCR GC 16 - p39
+[^52]: ICESCR General Comment 16 - para. 39
 
-[^53]: ICESCR GC 16 - p41
+[^53]: ICESCR General Comment 16 - para. 41
 
-[^54]: ICESCR GC 20 - p41
+[^54]: ICESCR General Comment 20 - para. 41
 
 [^55]: ICCPR General Comment 18 -- Paragraph 9
 
-[^56]: ICCPR GC 28 - p 23
+[^56]: ICCPR General Comment 28 - para. 23
 
-[^57]: ICCPR GC 28 - p 25
+[^57]: ICCPR General Comment 28 - para. 25
 
-[^58]: ICCPR GC 28 - p 25
+[^58]: ICCPR General Comment 28 - para. 25
 
-[^59]: ICECSR GC 16 - p27
+[^59]: ICECSR General Comment 16 - para. 27
 
-[^60]: ICECSR GC 16 - p27
+[^60]: ICECSR General Comment 16 - para. 27
 
-[^61]: ICESCR GC 16 - p26
+[^61]: ICESCR General Comment 16 - para. 26
 
 [^62]: ICCPR General Comment 19 -- paragraph 8
 
@@ -555,9 +556,9 @@ see also General Comment 31 paragraphs 15-20
 
 [^64]: ICCPR General Comment 17 -- paragraph 6
 
-[^65]: ICESCR GC 16 - p26
+[^65]: ICESCR General Comment 16 - para. 26
 
-[^66]: ICESCR GC 16 - p26
+[^66]: ICESCR General Comment 16 - para. 26
 
 [^67]: ICCPR General Comment 28 -- paragraph 28
 
@@ -575,15 +576,15 @@ see also General Comment 31 paragraphs 15-20
 
 [^74]: ICCPR General Comment 28 -- paragraph 11
 
-[^75]: ICCPR GC 18 - p12
+[^75]: ICCPR General Comment 18 - para. 12
 
-[^76]: ICESCR GC 16 - p3
+[^76]: ICESCR General Comment 16 - para. 3
 
-[^77]: ICESCR GC 16 - p20
+[^77]: ICESCR General Comment 16 - para. 20
 
-[^78]: ICECSR GC 20 - p37
+[^78]: ICECSR General Comment 20 - para. 37
 
-[^79]: ICECSR GC 20 - p38
+[^79]: ICECSR General Comment 20 - para. 38
 
 [^80]: ICCPR General Comment 28 -- paragraph 2
 
@@ -593,31 +594,31 @@ see also General Comment 31 paragraphs 15-20
 
 [^83]: ICCPR General Comment 31 -- paragraph 13
 
-[^84]: ICESCR GC 16 - p21
+[^84]: ICESCR General Comment 16 - para. 21
 
-[^85]: ICESCR GC 16 - p 37
+[^85]: ICESCR General Comment 16 - para. 37
 
-[^86]: ICECSR GC 16 - p21
+[^86]: ICECSR General Comment 16 - para. 21
 
-[^87]: ICECSR GC 16 - p38
+[^87]: ICECSR General Comment 16 - para. 38
 
-[^88]: ICECSR GC 20 - p40
+[^88]: ICECSR General Comment 20 - para. 40
 
-[^89]: ICESCR GC 3 - p5
+[^89]: ICESCR General Comment 3 - para. 5
 
-[^90]: ICESCR GC 16 - p27
+[^90]: ICESCR General Comment 16 - para. 27
 
-[^91]: ICESCR GC 16 - p32
+[^91]: ICESCR General Comment 16 - para. 32
 
-[^92]: ICESCR GC 16 - p33
+[^92]: ICESCR General Comment 16 - para. 33
 
-[^93]: ICECSR GC 20 - p38
+[^93]: ICECSR General Comment 20 - para. 38
 
-[^94]: ICESCR GC 20 - p41
+[^94]: ICESCR General Comment 20 - para. 41
 
-[^95]: ICESCR GC 16 - p42
+[^95]: ICESCR General Comment 16 - para. 42
 
-[^96]: ICESCR GC 3 - p 9
+[^96]: ICESCR General Comment 3 - para. 9
 
 [^97]: ICCPR General Comment 18 -- paragraph 7
 
@@ -641,11 +642,11 @@ see also General Comment 31 paragraphs 15-20
 
 [^107]: ICCPR General Comment 31 -- Paragraph 6
 
-[^108]: ICECSR GC 20 - p39
+[^108]: ICECSR General Comment 20 - para. 39
 
-[^109]: ICESCR GC 16 - footnote 11
+[^109]: ICESCR General Comment 16 - footnote 11
 
-[^110]: ICESCR GC 16 - p20
+[^110]: ICESCR General Comment 16 - para. 20
 
 [^111]: ICCPR General Comment 18 -- paragraph 12
 
