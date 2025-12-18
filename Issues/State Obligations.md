@@ -5,7 +5,7 @@ description: Details of government human rights obligations to men and boys.
 > [!tip] This page is a work in progress
 
 
-A State's human rights obligations are divided into three broad categories. Respect, protect, and fulfil. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
+A State's human rights obligations under international treaties are divided into three broad categories. *Respect*, *protect*, and *fulfil*. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
 
 > The obligation to fulfil further contains duties to provide, promote and facilitate. [^1]
 
