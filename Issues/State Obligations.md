@@ -78,7 +78,7 @@ Article 3 of both the ICCPR and ICESCR require States to ensure equal enjoyment 
 ## What steps are necessary?
 States are required to take the necessary steps to ensure men enjoy their human rights. The primary step required is for a State to recognise its obligations to men and boys and treat these obligations as equally important as its obligations to women and girls.
 
-It is insufficient for States to recognise disparities and disadvantages for men and boys without recognising the human rights obligations to address those disparities or disadvantages. For example, men have a higher rate of suicide
+It is insufficient for States to recognise disparities and disadvantages for men and boys without recognising the human rights obligations to address those disparities or disadvantages. For example, men have a higher rate of suicide than women, and may be reported as a human rights issue, but a State must recognise that it has an obligtions to address men's higher rate of suicide.
 
 
 
@@ -630,5 +630,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzY3Mjg4OV19
+eyJoaXN0b3J5IjpbMTkyNTkwMzYwNV19
 -->
