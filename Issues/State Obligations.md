@@ -78,6 +78,9 @@ Article 3 of both the ICCPR and ICESCR require States to ensure equal enjoyment 
 ## What steps are necessary?
 States are required to take the necessary steps to ensure men enjoy their human rights. The primary step required is for a State to regognise its obligations to men and boys and treat them as equally important as its obligations to women and girls.
 
+
+
+
 International human rights treaty bodies have identified several 'necessary steps'.
 > These steps include the **removal of obstacles** to the equal enjoyment of such rights, the **education of the population and of State officials in human rights**, and the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.  States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them.[^23]
 
@@ -625,5 +628,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTUwNzc3N119
+eyJoaXN0b3J5IjpbLTkzNDkxNzEzMV19
 -->
