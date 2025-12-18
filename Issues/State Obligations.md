@@ -106,7 +106,7 @@ This logically includes the idea that men's rights are less important than women
 
 
 #### Education
-States must educate the population and state officials about men's human rights.[^33] State officials are responsible for enacting the State's human rights obligations and therefore, must know the obligations to men and boys.
+States must educate the population and state officials about men's human rights.[^33] State officials are responsible for enacting the State's human rights obligations and, therefore, must know their obligations to men and boys.
 
 ##### Awareness raising
 
@@ -626,5 +626,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQwNzA2NTNdfQ==
+eyJoaXN0b3J5IjpbMTM3NDMwOTkwNF19
 -->
