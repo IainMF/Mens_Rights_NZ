@@ -95,14 +95,13 @@ States must take into account the 'factors that impede'[^28] men's enjoyment of 
 See **monitor and report**, and **plan of action**
 
 ##### Stereotypes
-States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle for their enjoyment of their rights. 
+States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle for their enjoyment of their rights.[^31] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^29]
 
-States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^29]
 
 
 > Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires **addressing gender-based social and cultural prejudices**, providing for **equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.[^30]
 
-> Since the adoption of the Covenant, the notion of the prohibited ground “sex” has evolved considerably to cover not only physiological characteristics but also the social construction of **gender stereotypes, prejudices and expected roles**, which have **created obstacles** to the equal fulfilment of economic, social and cultural rights. Thus, the refusal to hire a woman, on the ground that she might become pregnant, or the allocation of low-level or part‑time jobs to women based on the stereotypical assumption that, for example, they are unwilling to commit as much time to their work as men, constitutes discrimination. Refusal to grant paternity leave may also amount to discrimination against men.[^31]
+
 
 > The obligation to protect requires States parties to take steps aimed directly at the elimination of prejudices, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.[^32]
 
@@ -630,5 +629,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDEyOTU1Ml19
+eyJoaXN0b3J5IjpbLTIwNTE4MzAyNjRdfQ==
 -->
