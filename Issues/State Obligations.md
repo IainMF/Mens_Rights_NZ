@@ -132,7 +132,7 @@ States have an obligation to ensure their legislation is aligned with the intern
 
 States must review their legislation, policy and programmes periodically to ensure they do not violate men's right to equality and non-discrimination.
 
-Additionally, State should take into account the effct of supposedly gender-nutral laws and poicy to ensure they do not 
+Additionally, State should take into account the effect of supposedly gender-neutral laws and policy to ensure they do not have the effect of disadvantaging or discriminating against men and boys.
 
 
 > These steps include ... the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.[^37]
@@ -641,5 +641,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njc2MTUzNl19
+eyJoaXN0b3J5IjpbMTkzMDY1NDk3Ml19
 -->
