@@ -163,7 +163,7 @@ Additionally, State should take into account the effect of supposedly gender-neu
 ### Monitoring and Reporting
 States have an obligation to monitor and report on their implementation of the human rights treaties they have ratified. 
 
-Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. Articel 3 
+Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has done in all of it's re
 
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls[^48]
 
@@ -645,5 +645,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAxMjUzNzVdfQ==
+eyJoaXN0b3J5IjpbMTg0NTMwMTI3Nl19
 -->
