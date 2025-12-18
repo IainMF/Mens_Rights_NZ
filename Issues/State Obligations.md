@@ -95,7 +95,7 @@ States must take into account the 'factors that impede'[^28] men's enjoyment of 
 See **monitor and report**, and **plan of action**
 
 ##### Stereotypes
-Stereotypes and prejudices against men and boys are an obstacle for their enjoyment of their rights. Therefore, States have an obligation to address stereotypes and prejudices that affect men's enjoyment of their rights.
+States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle for their enjoyment of their rights.
 
 > The obligation to protect requires States parties to take steps aimed directly at the **elimination of prejudices**, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.[^29]
 
@@ -629,5 +629,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkwODIzM119
+eyJoaXN0b3J5IjpbODY2Mjc4MzYxXX0=
 -->
