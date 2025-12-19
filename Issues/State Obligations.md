@@ -175,7 +175,7 @@ Achieving equal enjoyment of rights between women and men requires thoroughly un
 see also General Comment 31 paragraphs 15-20??
 
 #### Gender sensitive
-A State's monitoring of men's human rights must be be effective.[^125] able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
+A State's human rights monitoring must be be effective.[^125] It must be able to detect how human rights issues affect women and men differently in order to reveal inequalities and discrimination. That is, monitoring must be gender-sensitive. 
 
 The *Manual on Human Rights Monitoring*[^48] says a gender perspective ensures that all violations against women and men are recognised and accounted for:
 
@@ -688,6 +688,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MTMyNzYzLC0xOTE5MDAwNDI3LDE2Mj
-M5MDgxNiwtMTE0NzgxMDIzNiwtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbMTM1MDg3MTIzNSwtMTkxOTAwMDQyNywxNj
+IzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
 -->
