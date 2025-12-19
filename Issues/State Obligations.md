@@ -161,6 +161,9 @@ Additionally, State should take into account the effect of supposedly gender-neu
 > States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^47]
 
 ### Monitoring and Reporting
+
+see also General Comment 31 paragraphs 15-20??
+
 States have an obligation to monitor and report on their implementation of the human rights treaties they have ratified. 
 
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has done in all of it's reports. 
@@ -370,15 +373,14 @@ States are required to ensure equal protection for boys and girls[^100], and tha
 
 ### Ending discrimination against men
 
-Ending discrimination against men in the public and private sector is a necessary step.[^102]
-
-Ending discrimination requires analysis of laws and policies to identify any "distinction, exclusion, restriction or preference"[^103] that impairs men's enjoyment or exercise of their rights.
+Ending discrimination against men in the public and private sector is a necessary step.[^102] Ending discrimination requires analysis of laws and policies to identify any "distinction, exclusion, restriction or preference"[^103] that impairs men's enjoyment or exercise of their rights.
 
 > "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^104]
 
 Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^105] States may be able to justify differential treatment of men if it is reasonable, objective,[^106] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^107]
 
 #### Systemic discrimination
+
 >  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^108]
 
 ##### Promote
@@ -421,19 +423,6 @@ States that permit discrimination against men or fail "to exercise due diligence
 
 States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^117]
 
-
-
-
-##### Monitoring
-the application of laws and policies is necessary to protect men from discrimination.
-
-The Committee wants to know about discrimination *in fact*.
-
-1.  Collecting sex disaggregated data (see CEDAW General recommendation 9)
-
-responding to complaints about discrimination and providing appropriate remedy
-
-see also General Comment 31 paragraphs 15-20
 
 
 [^1]: ICESCR General Comment 16 - para. 17
@@ -677,5 +666,5 @@ see also General Comment 31 paragraphs 15-20
 [^120]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI1MzY2MzFdfQ==
+eyJoaXN0b3J5IjpbODUzNTgwMDM0XX0=
 -->
