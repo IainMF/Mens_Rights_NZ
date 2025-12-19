@@ -310,19 +310,21 @@ See also:
 
 Equality is a fundamental principle of human rights. The *International Covenant on Civil and Political Rights* requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
 
-Article 3 requires states to ensure men enjoy their rights in their totality and on and equal basis with women.[^80] States are required to "take all necessary steps"[^81] to ensure men enjoy all Covenant rights, and to "take account of the factors which impede"[^82] men's equal enjoyment of their rights.
+ICCPR Article 3 requires states to ensure men enjoy their rights in their totality and on and equal basis with women.[^80] States are required to "take all necessary steps"[^81] to ensure men enjoy all Covenant rights, and to "take account of the factors which impede"[^82] men's equal enjoyment of their rights.
 
 Article 26 of ICCPR requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^83] requires equality before courts and tribunals. requires equal participation in public life.
 
 ### Representation in decision making
 States must ensure that men are represented in decision making. This is not limited to having men present, but must ensure that men's needs and human rights are considered so that men benefit from the decisions that are made.
 
-> To promote equal participation of men and women in development planning, decision-making and in the benefits of development and all programmes related to the realization of economic, social and cultural rights.[^84]
+> To promote equal participation of men and women in development planning, decision-making and in the **benefits** of development and all programmes related to the realization of economic, social and cultural rights.[^84]
 > 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^85]
 
 
 ### Remedy
+States have an obligation to provide remedy to men and boys whose rights have been violated.
+
 > - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
 > - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized  men and women;[^86]
 
@@ -673,5 +675,5 @@ see also General Comment 31 paragraphs 15-20
 [^120]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTkzOTM4MzldfQ==
+eyJoaXN0b3J5IjpbLTEwMTIzNDI0OTFdfQ==
 -->
