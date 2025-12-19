@@ -156,9 +156,11 @@ Additionally, State should take into account the effect of supposedly gender-neu
 International human rights treaties require States  to monitor and report on their implementation of those treaties.
 > The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights[^123] 
 
+Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, like New Zealand's reports has previously done in all of it's reports. 
+
 Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
-Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has done in all of it's reports. 
+
 
 States are require to report on discrimination against men, both formal and substantive.
 
@@ -666,7 +668,8 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 
+[^123]: ICCPR Article 40.1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxNzcyOTI3LC0xMTQ3ODEwMjM2LC03OD
-k0MTI1NDddfQ==
+eyJoaXN0b3J5IjpbLTE2Nzk2NDQ0MDMsLTExNDc4MTAyMzYsLT
+c4OTQxMjU0N119
 -->
