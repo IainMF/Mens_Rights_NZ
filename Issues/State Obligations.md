@@ -175,15 +175,20 @@ Achieving equal enjoyment of rights between women and men requires thoroughly un
 see also General Comment 31 paragraphs 15-20??
 
 #### Gender sensitive
-A State's human rights monitoring must be be effective.[^125] To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. The *Manual on Human Rights Monitoring*[^48] recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
+A State's human rights monitoring must be be effective.[^125] To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
 
-> Integrating a gender perspective in human rights monitoring is a process to ensure that all violations against men and women of all ages and sections of society are recognized and accounted for. It is also a strategy for making women's as well as men's experiences and concerns an integral dimension of the design and implementation of the monitoring cycle. It helps to better understand the causes and types of human rights violations and, hence, the measures required for prevention and protection. 
+> A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^49]
+
+
+The *Manual on Human Rights Monitoring* recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
+
+> Integrating a gender perspective in human rights monitoring is a process to ensure that all violations against men and women of all ages and sections of society are recognized and accounted for. It is also a strategy for making women's as well as men's experiences and concerns an integral dimension of the design and implementation of the monitoring cycle. It helps to better understand the causes and types of human rights violations and, hence, the measures required for prevention and protection.[^48]
 
 The *Manual* emphasises that human rights monitoring requires a proactive attitude and that differences in men's human rights should be made visible. 
 
 > Integrating gender implies a **proactive** attitude of looking at and analysing how situations affect women, girls, men and boys differently. It is also about making such differences **visible** throughout the monitoring cycle. *Emphasis in original*
 
-> A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^49]
+
 
 State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"
 
@@ -686,6 +691,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTMwNzUyLC0xOTE5MDAwNDI3LDE2Mj
-M5MDgxNiwtMTE0NzgxMDIzNiwtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbLTEyOTAzMTA3MTAsLTE5MTkwMDA0MjcsMT
+YyMzkwODE2LC0xMTQ3ODEwMjM2LC03ODk0MTI1NDddfQ==
 -->
