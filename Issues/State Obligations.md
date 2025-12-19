@@ -62,6 +62,8 @@ Likewise, the ICESCR requires States to take steps "by all appropriate means" ac
 
 > The obligation to fulfil requires States parties **to take steps** to ensure that **in practice**, men and women enjoy their economic, social and cultural rights on a basis of equality. [^17]
 
+> The principle of equality between men and women is fundamental to the enjoyment of each of the specific rights enumerated in the Covenant.  Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.  
+
 ### Progressive realisation
 The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights. 
 > The  concept  of  progressive  realization  constitutes  a  recognition  of  the fact  that  full  realization  of  all  economic,  social  and  cultural  rights  will  generally  not be  able  to  be  achieved  in  a  short  period  of  time. ... Nevertheless, the fact that realization over time, or in other words progressively, is foreseen under the Covenant should not be misinterpreted as depriving the obligation of all meaningful content. It is on the one hand a necessary flexibility device, reflecting the realities of the real world and the difficulties involved for any country in ensuring full realization of economic, social and cultural rights. On the other hand, the phrase must be read in the light of the overall objective, indeed the raison d’être, of the Covenant which is to establish clear obligations for States parties in respect of the full realization of the rights in question. It thus imposes **an obligation to move as expeditiously and effectively as possible towards that goal**.[^18]
@@ -664,6 +666,8 @@ States are also required to "take affirmative action in order to diminish or eli
 [^120]: ICCPR General Comment 18 -- Paragraph 10
 
 [^121]: ICESCR General Comment 3 -- Paragraph 2
+
+[^122]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODczNTMyNywtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbLTQwNjQzNjg1MywtNzg5NDEyNTQ3XX0=
 -->
