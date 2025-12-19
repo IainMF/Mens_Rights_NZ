@@ -40,9 +40,10 @@ Likewise, the *International Covenant on Economic, Cultural and Social Rights*, 
 
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing... [^8]
 
-The equally enjoyment of rights requires 
-
+States are require to ensure equally enjoy their rights *in practice*. 
 > The essence of article 3 of ICESCR is that the rights set forth in the Covenant are to be enjoyed by men and women on a basis of equality, a concept that carries substantive meaning.  While expressions of formal equality may be found in constitutional provisions, legislation and policies of Governments, article 3 also mandates the equal enjoyment of the rights in the Covenant for men and women in practice.[^9]
+
+Failure to ensure men equally enjoy their rights is a violation of the ICESCR.
 
 > The principle of equality between men and women is fundamental to the enjoyment of each of the specific rights enumerated in the Covenant.  Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.[^122] 
 
@@ -669,5 +670,5 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mzk0MTMzNywtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
 -->
