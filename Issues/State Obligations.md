@@ -179,6 +179,7 @@ A State's human rights monitoring must be be effective.[^125] To reveal inequali
 
 > A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^49]
 
+> Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^125]
 
 The *Manual on Human Rights Monitoring* recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
 
@@ -188,13 +189,11 @@ The *Manual* emphasises that human rights monitoring requires a proactive attitu
 
 > Integrating gender implies a **proactive** attitude of looking at and analysing how situations affect women, girls, men and boys differently. It is also about making such differences **visible** throughout the monitoring cycle. *Emphasis in original*
 
-> National policies and strategies should identify appropriate indicators and benchmarks on the right to equal enjoyment by men and women of economic, social and cultural rights in order to **effectively monitor** the implementation by the State party of its obligations under the Covenant in this regard.  Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate
-
 State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"
 
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls[^50]
 
-> States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them.[^51]
+> States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^51]
 
 
 
@@ -688,6 +687,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NzQyODQzLC0xOTE5MDAwNDI3LDE2Mj
+eyJoaXN0b3J5IjpbNzY4ODAyMDI0LC0xOTE5MDAwNDI3LDE2Mj
 M5MDgxNiwtMTE0NzgxMDIzNiwtNzg5NDEyNTQ3XX0=
 -->
