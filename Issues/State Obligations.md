@@ -27,7 +27,7 @@ Although, men and boys have the same human rights as women and girls, similar gu
 
 If States are to meet their obligations of equality and non-discrimination on the basis of sex, it is necessary to explicitly identify States' obligations to men and boys.
 
-Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^7]
+
 
 ## Government obligations to men and boys
 States that have ratified internation human rights treaties have agreed to be legally bound by them. The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
@@ -171,6 +171,8 @@ Particularly, States should monitor and report on their compliance with Article 
 States are require to report on discrimination against men, both formal and substantive.
 
 State's reports must include sex-disaggregated data.
+
+Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^7]
 
 #### Gender sensitive
 A State's monitoring must be gender-sensitive. That is, able to detect how human rights issues affect women and men differently. The *Manual on Human Rights Monitoring*[^120] says a gender perspective ensures that all violations against women and men are recognised and accounted for:
@@ -667,5 +669,5 @@ States are also required to "take affirmative action in order to diminish or eli
 [^120]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM4MDgwMzgsODUzNTgwMDM0XX0=
+eyJoaXN0b3J5IjpbLTIxMDA1MjAwMiw4NTM1ODAwMzRdfQ==
 -->
