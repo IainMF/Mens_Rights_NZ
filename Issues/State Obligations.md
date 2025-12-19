@@ -156,19 +156,21 @@ Additionally, State should take into account the effect of supposedly gender-neu
 International human rights treaties require States  to monitor and report on their implementation of those treaties.
 > The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights[^123] 
 
-Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, like New Zealand's reports has previously done in all of it's reports. 
+Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, like New Zealand's has in their reports. 
 
-Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
-
-
-
-States are require to report on discrimination against men, both formal and substantive.
+States are required to report on discrimination against men, both formal and substantive.
 
 State's reports must include sex-disaggregated data.
 
 Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^47]
 
 see also General Comment 31 paragraphs 15-20??
+
+#### Right to information
+Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
+
+
+
 
 #### Gender sensitive
 A State's monitoring must be gender-sensitive. That is, able to detect how human rights issues affect women and men differently. The *Manual on Human Rights Monitoring*[^48] says a gender perspective ensures that all violations against women and men are recognised and accounted for:
@@ -670,6 +672,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^123]: ICCPR Article 40.1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk2NDQ0MDMsLTExNDc4MTAyMzYsLT
-c4OTQxMjU0N119
+eyJoaXN0b3J5IjpbMTYyMzkwODE2LC0xMTQ3ODEwMjM2LC03OD
+k0MTI1NDddfQ==
 -->
