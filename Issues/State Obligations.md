@@ -169,6 +169,9 @@ States are require to report on discrimination against men, both formal and subs
 
 State's reports must include sex-disaggregated data.
 
+
+
+
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls[^48]
 
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them.[^49]
@@ -655,5 +658,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM2ODAwNjldfQ==
+eyJoaXN0b3J5IjpbNzYyOTU1M119
 -->
