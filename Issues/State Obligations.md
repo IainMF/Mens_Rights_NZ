@@ -156,7 +156,7 @@ Additionally, State should take into account the effect of supposedly gender-neu
 International human rights treaties require States  to monitor and report on their implementation of those treaties.
 > The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights[^123] 
 
-Monitoring must be effective.[^126]
+
 
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, like New Zealand's has in their reports. 
 
@@ -175,7 +175,7 @@ Achieving equal enjoyment of rights between women and men requires thoroughly un
 see also General Comment 31 paragraphs 15-20??
 
 #### Gender sensitive
-A State's monitoring must be able to detect how human rights issues affect women and men differently. That is, it must be gender-sensitive. 
+A State's monitoring of men's human rights must be be effective.[^125] able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
 
 The *Manual on Human Rights Monitoring*[^48] says a gender perspective ensures that all violations against women and men are recognised and accounted for:
 
@@ -688,6 +688,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY5MzY1OSwtMTkxOTAwMDQyNywxNj
-IzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
+eyJoaXN0b3J5IjpbMjU5MTMyNzYzLC0xOTE5MDAwNDI3LDE2Mj
+M5MDgxNiwtMTE0NzgxMDIzNiwtNzg5NDEyNTQ3XX0=
 -->
