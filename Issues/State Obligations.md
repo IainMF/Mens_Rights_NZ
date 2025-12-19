@@ -61,7 +61,7 @@ Likewise, the ICESCR requires States to take steps "by all appropriate means" ac
 The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights. 
 > The  concept  of  progressive  realization  constitutes  a  recognition  of  the fact  that  full  realization  of  all  economic,  social  and  cultural  rights  will  generally  not be  able  to  be  achieved  in  a  short  period  of  time. ... Nevertheless, the fact that realization over time, or in other words progressively, is foreseen under the Covenant should not be misinterpreted as depriving the obligation of all meaningful content. It is on the one hand a necessary flexibility device, reflecting the realities of the real world and the difficulties involved for any country in ensuring full realization of economic, social and cultural rights. On the other hand, the phrase must be read in the light of the overall objective, indeed the raison d’être, of the Covenant which is to establish clear obligations for States parties in respect of the full realization of the rights in question. It thus imposes **an obligation to move as expeditiously and effectively as possible towards that goal**.[^18]
 
-Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  "the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"[^19]  against men and boys. The other is to take 
+Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  "the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"[^19]  against men and boys. The other is to take "deliberate, concrete and targeted as clearly as possible towards" meeting 
 
 
 
@@ -668,5 +668,5 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^121]: ICESCR General Comment 3 -- Paragraph 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM3NzAwOTUsLTc4OTQxMjU0N119
+eyJoaXN0b3J5IjpbLTc3NjUyODE3NCwtNzg5NDEyNTQ3XX0=
 -->
