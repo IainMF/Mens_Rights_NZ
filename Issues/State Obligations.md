@@ -51,7 +51,7 @@ A state's obligations to men and boys involve all parts of the government and pu
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^12]
 
 ## Take necessary steps
-A State's obligations under human rights treaties require them to act to fulfil these obligations. The ICCPR requires States to "take the necessary steps"[^13] to provide men their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^14] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^15]
+A State's obligations under human rights treaties require them to act to fulfil these obligations. The ICCPR requires States to "take the necessary steps"[^13] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^14] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^15]
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^16] 
 
@@ -666,5 +666,5 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^120]: ICCPR General Comment 18 -- Paragraph 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODg4MTIxMl19
+eyJoaXN0b3J5IjpbLTExNzQ0MDU2OTBdfQ==
 -->
