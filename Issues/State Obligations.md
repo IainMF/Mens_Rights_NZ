@@ -30,8 +30,6 @@ Although, men and boys have the same human rights as women and girls, similar gu
 
 If States are to meet their obligations of equality and non-discrimination on the basis of sex, it is necessary to explicitly identify States' obligations to men and boys.
 
-
-
 ## Government obligations to men and boys
 States that have ratified international human rights treaties have agreed to be legally bound by them. The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
  > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^7] *Emphasis added*
@@ -60,8 +58,6 @@ A State's obligations under human rights treaties require them to act to fulfil 
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^16] 
 
-
-
 ### Progressive realisation
 The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights. 
 > The  concept  of  progressive  realization  constitutes  a  recognition  of  the fact  that  full  realization  of  all  economic,  social  and  cultural  rights  will  generally  not be  able  to  be  achieved  in  a  short  period  of  time. ... Nevertheless, the fact that realization over time, or in other words progressively, is foreseen under the Covenant should not be misinterpreted as depriving the obligation of all meaningful content. It is on the one hand a necessary flexibility device, reflecting the realities of the real world and the difficulties involved for any country in ensuring full realization of economic, social and cultural rights. On the other hand, the phrase must be read in the light of the overall objective, indeed the raison d’être, of the Covenant which is to establish clear obligations for States parties in respect of the full realization of the rights in question. It thus imposes **an obligation to move as expeditiously and effectively as possible towards that goal**.[^18]
@@ -78,8 +74,10 @@ It is insufficient for States to recognise disparities and disadvantages for men
 
 States must not assume that men's human rights are magically taken care of somehow. They must be proactive in identifying men's and boys' human rights issues and their obligations in response.
 
-International human rights treaty bodies have identified several 'necessary steps'.
-> These steps include the **removal of obstacles** to the equal enjoyment of such rights, the **education of the population and of State officials in human rights**, and the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.  States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them.[^22]
+International human rights treaty bodies have identified several 'necessary steps', for example:
+
+- removal of obstacles
+- education of the population and of State officials in human rights**, and the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.  States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them.[^22]
 
 > States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the **prohibition of discrimination** on the ground of sex, to put an **end to discriminatory actions**, both in the public and the private sector, which impair the equal enjoyment of rights.[^23]
 
@@ -667,6 +665,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDg2NDI1OSwtMTE0NzgxMDIzNiwtNz
-g5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbLTE2MTc2MjM2MzAsLTExNDc4MTAyMzYsLT
+c4OTQxMjU0N119
 -->
