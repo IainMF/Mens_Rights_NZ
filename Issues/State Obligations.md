@@ -1,6 +1,7 @@
 ---
 title: Government obligations to men and boys
 description: Details of government human rights obligations to men and boys.
+date: 2025-12-20
 ---
 > [!tip] This page is a work in progress
 
@@ -30,7 +31,7 @@ If States are to meet their obligations of equality and non-discrimination on th
 
 
 ## Government obligations to men and boys
-States that have ratified internation human rights treaties have agreed to be legally bound by them. The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
+States that have ratified international human rights treaties have agreed to be legally bound by them. The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
  > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^7] *Emphasis added*
 
 Likewise, the *International Covenant on Economic, Cultural and Social Rights*, recognises the rights of men and boys in Articles 2 and 3. These articles require States to ensure both men and women enjoy their covenant rights equally  *in practice*.
@@ -42,7 +43,7 @@ Likewise, the *International Covenant on Economic, Cultural and Social Rights*, 
 >  Article 3 requires States to undertake to ensure the equal right of men and women to enjoy the Covenant rights [^10]
 
 #### Non-derogable standard
-Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are   [derogable](https://en.wikipedia.org/wiki/Derogability). Provisions in human rights treaties of non-discrimination and equality between men and women are  not derogable. 
+Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are [derogable](https://en.wikipedia.org/wiki/Derogability). Provisions in human rights treaties of non-discrimination and equality between men and women are  not derogable. 
 > Article 3 sets **a non-derogable standard** for compliance with the obligations of States parties as set out in articles 6 through 15 of ICESCR [^11]
 
 ### Which parts of government?
@@ -97,8 +98,7 @@ See **monitor and report**, and **plan of action**
 #### Stereotypes
 States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle for their enjoyment of their rights.[^28] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^29]
 
-This logically includes the idea that men's rights are less important than women;s rights.
-
+This logically includes the idea that men's rights are less important than women's rights.
 
 
 > Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires **addressing gender-based social and cultural prejudices**, providing for **equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.[^30]
