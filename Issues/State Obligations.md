@@ -153,7 +153,8 @@ Additionally, State should take into account the effect of supposedly gender-neu
 
 ### Monitoring and Reporting
 
-International Human rights treaties require States  to monitor and report on their implementation of the treaties they have ratified. 
+International human rights treaties require States  to monitor and report on their implementation of those treaties.
+> The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights[^123] 
 
 Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
@@ -664,7 +665,8 @@ States are also required to "take affirmative action in order to diminish or eli
 [^121]: ICESCR General Comment 3 -- Paragraph 2
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTU5MzA1MiwtMTE0NzgxMDIzNiwtNz
-g5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbOTkxNzcyOTI3LC0xMTQ3ODEwMjM2LC03OD
+k0MTI1NDddfQ==
 -->
