@@ -87,7 +87,7 @@ States must take into account the 'factors that impede'[^25] men's enjoyment of 
 See **monitor and report**, and **plan of action**
 
 #### Stereotypes
-States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle for their enjoyment of their rights.[^28] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^29]
+States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^28] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^29]
 
 This logically includes the idea that men's rights are less important than women's rights.
 
@@ -105,7 +105,7 @@ It is especially important for State officials who are in a position to violate 
 
 
 #### Public education and  Awareness raising
-States have an obligation to educate the public about their human rights. 
+States have an obligation to educate the public, including men and boys, about their human rights. 
 
 School curricular should include education on equality and non-discrimination. Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
 
@@ -663,6 +663,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAzMDQ5MjAsLTExNDc4MTAyMzYsLT
-c4OTQxMjU0N119
+eyJoaXN0b3J5IjpbODUxNjEwMzcyLC0xMTQ3ODEwMjM2LC03OD
+k0MTI1NDddfQ==
 -->
