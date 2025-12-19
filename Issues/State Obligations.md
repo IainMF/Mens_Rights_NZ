@@ -63,12 +63,6 @@ The ICESCR recognises that the  realisation of economic, cultural and social rig
 
 Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  "the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"[^19]  against men and boys. The other is to take steps that are "deliberate, concrete and targeted as clearly as possible towards" meeting the Covenant's obligations to men and boys.[^121]
 
-### Specific obligations
-Article 3 of both the ICCPR and ICESCR require States to ensure equal enjoyment of rights for men and for women.
-> Article 3 implies that all human beings should enjoy the rights provided for in the Covenant, on an equal basis and in their totality.  The full effect of this provision is impaired whenever any person is denied the full and equal enjoyment of any right.  Consequently, States should ensure to men and women equally the enjoyment of all rights provided for in the Covenant.[^20]
-
-> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^21]
-
 ### Acting in good faith
 > **General Comment 31, Paragraph 3:** Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.
 
@@ -310,6 +304,8 @@ See also:
 > Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^84]
 
 > States parties should also adopt appropriate **preventive measures to avoid the emergence of new marginalized groups**.[^85]
+
+> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^21]
 
 ##### Equality
 
@@ -664,5 +660,5 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^121]: ICESCR General Comment 3 -- Paragraph 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NDM4MTA2LC03ODk0MTI1NDddfQ==
+eyJoaXN0b3J5IjpbLTExMjE5NjQ2MTgsLTc4OTQxMjU0N119
 -->
