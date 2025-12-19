@@ -160,17 +160,17 @@ Particularly, States should monitor and report on their compliance with Article 
 
 States are required to report on discrimination against men, both formal and substantive.
 
-> States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^]
+The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^57]
+
+
+
+> States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^124]
 
 State's reports must include sex-disaggregated data.
 
 Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^47]
 
 see also General Comment 31 paragraphs 15-20??
-
-#### Right to information
-Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
-
 
 
 
@@ -205,9 +205,12 @@ See **guidelines for reporting on CCPR** regarding requirement to report on arti
 
 See CCPR General Comment No. 28 for reporting requirements
 
-##### Reporting discrimination
+#### Right to information
+Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
-The Human Rights Committee asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^57]
+
+
+
 
 ### National Plan of Action
 > ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights**[^58]
@@ -676,6 +679,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^124]:  ICECSR General Comment 20 - para. 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5Mzg4MDc2LDE2MjM5MDgxNiwtMTE0Nz
+eyJoaXN0b3J5IjpbMTA1NDczNjUxLDE2MjM5MDgxNiwtMTE0Nz
 gxMDIzNiwtNzg5NDEyNTQ3XX0=
 -->
