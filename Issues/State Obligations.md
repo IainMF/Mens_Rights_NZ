@@ -225,6 +225,8 @@ International human rights treaties require States to treat men and women equall
 > \...If the marriage is dissolved, steps should be taken, keeping in view the paramount interest of the children, to give them necessary protection and, so far as is possible, to **guarantee personal relations with both parents**. \...[^64]
 
 ### Equal protection of boys
+States have a special duty to protect children. This duty must be carried out equally for boys and girls.
+
 > The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children.[^65]
 
 > In relation to children, article 24 provides that all children, **without any discrimination** as to race, colour, sex, language, religion, national or social origin, property or birth, have the right to such measures of **protection as are required by their status as minors**, on the part of their family, society and the State.[^66]
@@ -653,5 +655,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA5NDg2OTNdfQ==
+eyJoaXN0b3J5IjpbLTE2MDM2ODAwNjldfQ==
 -->
