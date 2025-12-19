@@ -58,12 +58,14 @@ Likewise, the ICESCR requires States to take steps "by all appropriate means" ac
 > The obligation to fulfil requires States parties **to take steps** to ensure that **in practice**, men and women enjoy their economic, social and cultural rights on a basis of equality. [^17]
 
 ### Progressive realisation
-The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights. However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of their Covenant's rights.
+The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights. 
 > The  concept  of  progressive  realization  constitutes  a  recognition  of  the fact  that  full  realization  of  all  economic,  social  and  cultural  rights  will  generally  not be  able  to  be  achieved  in  a  short  period  of  time. ... Nevertheless, the fact that realization over time, or in other words progressively, is foreseen under the Covenant should not be misinterpreted as depriving the obligation of all meaningful content. It is on the one hand a necessary flexibility device, reflecting the realities of the real world and the difficulties involved for any country in ensuring full realization of economic, social and cultural rights. On the other hand, the phrase must be read in the light of the overall objective, indeed the raison d’être, of the Covenant which is to establish clear obligations for States parties in respect of the full realization of the rights in question. It thus imposes **an obligation to move as expeditiously and effectively as possible towards that goal**.[^18]
 
+Progressive realisation does not 
 
+> ... In particular, while the Covenant provides for progressive realization and acknowledges the constraints due to the limits of available resources, it also imposes various obligations which are of immediate effect. Of these, two are of particular importance in understanding the precise nature of States parties obligations. One of these, which is dealt with in a separate general comment, and which is to be considered by the Committee at its sixth session, is the “undertaking to guarantee” that relevant rights “will be exercised without discrimination...”. [^19]
 
-> Article 2 is of particular importance to a full understanding of the Covenant and must be seen as having a dynamic relationship with all of the other provisions of the Covenant. It describes the nature of the general legal obligations undertaken by States parties to the Covenant. Those obligations include both what may be termed (following the work of the International Law Commission) **obligations of conduct and obligations of result**. While great emphasis has sometimes been placed on the difference between the formulations used in this provision and that contained in the equivalent article 2 of the International Covenant on Civil and Political Rights, it is not always recognized that there are also significant similarities. In particular, while the Covenant provides for progressive realization and acknowledges the constraints due to the limits of available resources, it also imposes various obligations which are of immediate effect. Of these, two are of particular importance in understanding the precise nature of States parties obligations. One of these, which is dealt with in a separate general comment, and which is to be considered by the Committee at its sixth session, is the “undertaking to guarantee” that relevant rights “will be exercised without discrimination...”. [^19]
+However, "deliberate, concrete and targeted" steps must be taken to achieve men's equal enjoyment of their Covenant's rights.
 > ... Thus while the full realization of the relevant rights may be achieved progressively, steps towards that goal must be taken within a reasonably short time after the Covenant’s entry into force for the States concerned. Such steps should be deliberate, concrete and targeted as clearly as possible towards meeting the obligations recognized in the Covenant.[^121]
 
 ### Specific obligations
@@ -667,5 +669,5 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^121]: ICESCR General Comment 3 -- Paragraph 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzU5NzYzNywtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbNjE1ODc4NzE4LC03ODk0MTI1NDddfQ==
 -->
