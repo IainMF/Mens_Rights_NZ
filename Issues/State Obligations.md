@@ -77,9 +77,9 @@ States must not assume that men's human rights are magically taken care of someh
 International human rights treaty bodies have identified several 'necessary steps', for example:
 
 - the removal of obstacles that prevent men from enjoying their rights
-- education of the population and State officials
-- adjustment of domestic legislation to conform with human rights treaties[^22]
-- prohibition of discrimination against men adn boys[^23]
+- the education of the population and State officials
+- the adjustment of domestic legislation to conform with human rights treaties[^22]
+- the prohibition of discrimination against men adn boys[^23]
 
 ### Removal of obstacles
 States must take into account the 'factors that impede'[^25] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^26] [^27] Naturally, this means identifying these obstacles. 
@@ -663,6 +663,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1NzI5ODUsLTExNDc4MTAyMzYsLTc4OT
-QxMjU0N119
+eyJoaXN0b3J5IjpbLTEyMDAzMDQ5MjAsLTExNDc4MTAyMzYsLT
+c4OTQxMjU0N119
 -->
