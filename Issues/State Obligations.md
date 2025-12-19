@@ -36,11 +36,13 @@ If States are to meet their obligations of equality and non-discrimination on th
 States that have ratified international human rights treaties have agreed to be legally bound by them. The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
  > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^7] *Emphasis added*
 
-Likewise, the *International Covenant on Economic, Cultural and Social Rights*, recognises the rights of men and boys in Articles 2 and 3. These articles require States to ensure both men and women enjoy their covenant rights equally  *in practice*.
+Likewise, the *International Covenant on Economic, Cultural and Social Rights*, recognises the rights of men and boys in Articles 2 and 3. These articles require States to ensure both men and women equally enjoy their covenant rights.
 
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing... [^8]
 
-> The essence of article 3 of ICESCR is that the rights set forth in the Covenant are to be enjoyed by men and women on a basis of equality, a concept that carries substantive meaning.  While expressions of formal equality may be found in constitutional provisions, legislation and policies of Governments, article 3 also mandates the equal enjoyment of the rights in the Covenant for men and women in practice. [^9]
+The equally enjoyment of rights requires 
+
+> The essence of article 3 of ICESCR is that the rights set forth in the Covenant are to be enjoyed by men and women on a basis of equality, a concept that carries substantive meaning.  While expressions of formal equality may be found in constitutional provisions, legislation and policies of Governments, article 3 also mandates the equal enjoyment of the rights in the Covenant for men and women in practice.[^9]
 
 > The principle of equality between men and women is fundamental to the enjoyment of each of the specific rights enumerated in the Covenant.  Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.[^122] 
 
@@ -667,5 +669,5 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTM4Mzg1MiwtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbLTc0Mzk0MTMzNywtNzg5NDEyNTQ3XX0=
 -->
