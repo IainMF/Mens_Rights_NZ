@@ -240,7 +240,7 @@ International human rights treaties require States to treat men and women equall
 ### Equal protection of boys
 States have a special duty to protect children. This duty must be carried out equally for boys and girls.
 
-> The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children.[^65]
+> **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.**  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children.[^65]
 
 > In relation to children, article 24 provides that all children, **without any discrimination** as to race, colour, sex, language, religion, national or social origin, property or birth, have the right to such measures of **protection as are required by their status as minors**, on the part of their family, society and the State.[^66]
 
@@ -312,7 +312,8 @@ Equality is a fundamental principle of human rights. The *International Covenant
 
 Article 3 requires states to ensure men enjoy their rights in their totality and on and equal basis with women.[^80] States are required to "take all necessary steps"[^81] to ensure men enjoy all Covenant rights, and to "take account of the factors which impede"[^82] men's equal enjoyment of their rights.
 
-Article 26 requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^83] requires equality before courts and tribunals. requires equal participation in public life.
+Article 26 of ICCPR requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^83] requires equality before courts and tribunals. requires equal participation in public life.
+
 ### Representation in decision making
 States must ensure that men are represented in decision making. This is not limited to having men present, but must ensure that men's needs and human rights are considered so that men benefit from the decisions that are made.
 
@@ -672,5 +673,5 @@ see also General Comment 31 paragraphs 15-20
 [^120]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDAzNzM4MjNdfQ==
+eyJoaXN0b3J5IjpbLTIxMTkzOTM4MzldfQ==
 -->
