@@ -174,6 +174,7 @@ see also General Comment 31 paragraphs 15-20??
 
 
 
+
 #### Gender sensitive
 A State's monitoring must be gender-sensitive. That is, able to detect how human rights issues affect women and men differently. The *Manual on Human Rights Monitoring*[^48] says a gender perspective ensures that all violations against women and men are recognised and accounted for:
 
@@ -199,11 +200,14 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 > ... Failure to adopt, implement and **monitor** effects of laws, policies and programmes to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^55]
 
-> States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^56]
+
 
 See **guidelines for reporting on CCPR** regarding requirement to report on article 3
 
 See CCPR General Comment No. 28 for reporting requirements
+
+#### Indicators and benchmarks
+> States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^56]
 
 #### Right to information
 Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
@@ -679,6 +683,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^124]:  ICECSR General Comment 20 - para. 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTkwMDA0MjcsMTYyMzkwODE2LC0xMT
-Q3ODEwMjM2LC03ODk0MTI1NDddfQ==
+eyJoaXN0b3J5IjpbLTM4OTMxOTIwNiwtMTkxOTAwMDQyNywxNj
+IzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
 -->
