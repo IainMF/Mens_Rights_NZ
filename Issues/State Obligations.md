@@ -153,8 +153,6 @@ Additionally, State should take into account the effect of supposedly gender-neu
 
 ### Monitoring and Reporting
 
-see also General Comment 31 paragraphs 15-20??
-
 States have an obligation to monitor and report on their implementation of the human rights treaties they have ratified. 
 
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has done in all of it's reports. 
@@ -164,6 +162,8 @@ States are require to report on discrimination against men, both formal and subs
 State's reports must include sex-disaggregated data.
 
 Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^47]
+
+see also General Comment 31 paragraphs 15-20??
 
 #### Gender sensitive
 A State's monitoring must be gender-sensitive. That is, able to detect how human rights issues affect women and men differently. The *Manual on Human Rights Monitoring*[^48] says a gender perspective ensures that all violations against women and men are recognised and accounted for:
@@ -663,6 +663,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNjEwMzcyLC0xMTQ3ODEwMjM2LC03OD
+eyJoaXN0b3J5IjpbMTkzNDI3MDc2LC0xMTQ3ODEwMjM2LC03OD
 k0MTI1NDddfQ==
 -->
