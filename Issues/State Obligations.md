@@ -42,7 +42,7 @@ Likewise, the *International Covenant on Economic, Cultural and Social Rights*, 
 
 > The essence of article 3 of ICESCR is that the rights set forth in the Covenant are to be enjoyed by men and women on a basis of equality, a concept that carries substantive meaning.  While expressions of formal equality may be found in constitutional provisions, legislation and policies of Governments, article 3 also mandates the equal enjoyment of the rights in the Covenant for men and women in practice. [^9]
 
->  Article 3 requires States to undertake to ensure the equal right of men and women to enjoy the Covenant rights [^10]
+> The principle of equality between men and women is fundamental to the enjoyment of each of the specific rights enumerated in the Covenant.  Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.[^122] 
 
 ### Non-derogable standard
 Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are [derogable](https://en.wikipedia.org/wiki/Derogability). Provisions in human rights treaties of non-discrimination and equality between men and women are  not derogable. 
@@ -61,8 +61,6 @@ A State's obligations under human rights treaties require them to act to fulfil 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^16] 
 
 > The obligation to fulfil requires States parties **to take steps** to ensure that **in practice**, men and women enjoy their economic, social and cultural rights on a basis of equality. [^17]
-
-> The principle of equality between men and women is fundamental to the enjoyment of each of the specific rights enumerated in the Covenant.  Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.[^122] 
 
 ### Progressive realisation
 The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights. 
@@ -669,5 +667,5 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzAxNDU0NCwtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbLTgwNTM4Mzg1MiwtNzg5NDEyNTQ3XX0=
 -->
