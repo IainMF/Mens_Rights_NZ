@@ -387,7 +387,7 @@ Gender analysis must be performed in a way that is *able to* and *effective at* 
 >  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^109]
 
 ### Protecting men from discrimination
-> 20.	States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^110]
+> States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^110]
 
 Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^111] and by "public authorities, by the community, or by private persons or bodies".[^112]
 
@@ -396,6 +396,7 @@ A State's protection of men from discrimination must be "equal and effective".[^
 Men must have the same legal protection from discrimination as women. In some situations protection is not equal, for example, equal pay legislation often does not protect men from pay discrimination. While historically pay discrimination exclusively affected women, the law must equally protect men from pay discrimination.
 
 Protection mechanisms must be **effective** at protecting men from discrimination.
+
 These are measures to protect women from discrimination that do not exist for men.
 
 1.  Minister for women
@@ -666,5 +667,5 @@ States are also required to "take affirmative action in order to diminish or eli
 [^120]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNTgwMDM0XX0=
+eyJoaXN0b3J5IjpbLTIxNDM4MDgwMzgsODUzNTgwMDM0XX0=
 -->
