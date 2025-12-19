@@ -76,12 +76,10 @@ States must not assume that men's human rights are magically taken care of someh
 
 International human rights treaty bodies have identified several 'necessary steps', for example:
 
-- removal of obstacles
-- education of the population and of State officials in human rights**, and the **adjustment of domestic legislation** so as to give effect to the undertakings set forth in the Covenant.  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.  States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, what progress has been made, what difficulties are encountered and what steps are being taken to overcome them.[^22]
-
-> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the **prohibition of discrimination** on the ground of sex, to put an **end to discriminatory actions**, both in the public and the private sector, which impair the equal enjoyment of rights.[^23]
-
-> States parties should **ensure that traditional, historical, religious or cultural attitudes are not used to justify violations** of women’s right to equality before the law and to equal enjoyment of all Covenant rights. States parties should **furnish appropriate information on those aspects of tradition, history, cultural practices and religious attitudes which jeopardize, or may jeopardize, compliance with article 3**, and indicate what measures they have taken or intend to take to overcome such factors. [^24] 
+- the removal of obstacles that prevent men from enjoying their rights
+- education of the population and State officials
+- adjustment of domestic legislation to conform with human rights treaties[^22]
+- prohibition of discrimination against men adn boys[^23]
 
 ### Removal of obstacles
 States must take into account the 'factors that impede'[^25] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^26] [^27] Naturally, this means identifying these obstacles. 
@@ -665,6 +663,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc2MjM2MzAsLTExNDc4MTAyMzYsLT
-c4OTQxMjU0N119
+eyJoaXN0b3J5IjpbNjg1NzI5ODUsLTExNDc4MTAyMzYsLTc4OT
+QxMjU0N119
 -->
