@@ -76,7 +76,7 @@ Article 3 of both the ICCPR and ICESCR require States to ensure equal enjoyment 
 > **General Comment 31, Paragraph 3:** Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.
 
 ## What steps are necessary?
-States are required to take the necessary steps to ensure men enjoy their human rights. The primary step required is for a State to recognise its obligations to men and boys and treat these obligations as equally important as its obligations to women and girls.
+States are required to take the necessary steps to ensure men enjoy their human rights. The primary step required is for a State to **recognise its obligations to men and boys** and treat these obligations as equally important as its obligations to women and girls.
 
 It is insufficient for States to recognise disparities and disadvantages for men and boys without recognising the human rights obligations to address those disparities or disadvantages. For example, a State may recognise that suicide is a human rights issues that affects people's right to life, and they may recognise that men have a higher rate of suicide than women, but fail to recognise that they have an obligation to address men's higher suicide rate to ensure men equally enjoy their right to life with women.
 
@@ -669,5 +669,6 @@ States are also required to "take affirmative action in order to diminish or eli
 [^120]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA1MjAwMiw4NTM1ODAwMzRdfQ==
+eyJoaXN0b3J5IjpbMTIzNzAwMDIyMiwtMjEwMDUyMDAyLDg1Mz
+U4MDAzNF19
 -->
