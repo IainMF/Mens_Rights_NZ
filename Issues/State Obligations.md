@@ -174,7 +174,7 @@ A State's monitoring must be gender-sensitive. That is, able to detect how human
 
 > Integrating a gender perspective in human rights monitoring is a process to ensure that all violations against men and women of all ages and sections of society are recognized and accounted for. It is also a strategy for making women's as well as men's experiences and concerns an integral dimension of the design and implementation of the monitoring cycle. It helps to better understand the causes and types of human rights violations and, hence, the measures required for prevention and protection.
 
-The *Manual* emphasises that human rights mon
+The *Manual* emphasises that human rights monitoring requires a proactive attitude and that differences in men's human rights should be made visible. 
 
 > Integrating gender implies a **proactive** attitude of looking at and analysing how situations affect women, girls, men and boys differently. It is also about making such differences **visible** throughout the monitoring cycle. *Emphasis in original*
 
@@ -671,5 +671,5 @@ see also General Comment 31 paragraphs 15-20
 [^120]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU4NzUwMDhdfQ==
+eyJoaXN0b3J5IjpbNTU0NTk2OTg0XX0=
 -->
