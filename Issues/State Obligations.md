@@ -196,21 +196,12 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^51]
 
-
-> National policies and strategies should identify appropriate indicators and benchmarks on the right to equal enjoyment by men and women of economic, social and cultural rights in order to effectively monitor the implementation by the State party of its obligations under the Covenant in this regard.  Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate.[^54]
-
-> ... Failure to adopt, implement and **monitor** effects of laws, policies and programmes to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^55]
-
-
-
 See **guidelines for reporting on CCPR** regarding requirement to report on article 3
 
 See CCPR General Comment No. 28 for reporting requirements
 
 #### Indicators and benchmarks
 > States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^56]
-
-
 
 #### Right to information
 Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
@@ -685,6 +676,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjU3NjE0OCwtMTkxOTAwMDQyNywxNj
+eyJoaXN0b3J5IjpbLTQzODMyMTY0MSwtMTkxOTAwMDQyNywxNj
 IzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
 -->
