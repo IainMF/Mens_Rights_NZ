@@ -160,6 +160,8 @@ Particularly, States should monitor and report on their compliance with Article 
 
 States are required to report on discrimination against men, both formal and substantive.
 
+> States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^]
+
 State's reports must include sex-disaggregated data.
 
 Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^47]
@@ -671,7 +673,9 @@ States are also required to "take affirmative action in order to diminish or eli
 [^122]: ICESCR General Comment 16 -- Paragraph 41
 
 [^123]: ICCPR Article 40.1
+
+[^124]:  ICECSR General Comment 20 - para. 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzkwODE2LC0xMTQ3ODEwMjM2LC03OD
-k0MTI1NDddfQ==
+eyJoaXN0b3J5IjpbNjM5Mzg4MDc2LDE2MjM5MDgxNiwtMTE0Nz
+gxMDIzNiwtNzg5NDEyNTQ3XX0=
 -->
