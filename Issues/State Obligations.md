@@ -165,9 +165,9 @@ States have an obligation to monitor and report on their implementation of the h
 
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has done in all of it's reports. 
 
-States are require to report on discrimination agianst men.
+States are require to report on discrimination against men, both formal and substantive.
 
-Reporting must include sex-disaggregated data
+State's reports must include sex-disaggregated data.
 
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls[^48]
 
@@ -194,6 +194,8 @@ The Human Rights Committee asks States to include discrimination against men in 
 
 
 ### Ensure marriage equality
+International human rights treaties require staes to treat men adn women equally in terms of marra
+
 > States are required to treat men and women equally in regard to marriage in accordance with article 23, which has been elaborated further by general comment No. 19 (1990).  Men and women have the right to enter into marriage only with their free and full consent, and States have an obligation to protect the enjoyment of this right on an equal basis.[^56] 
 
 > To fulfil their obligations under article 23, paragraph 4, States parties must **ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children**, the children’s religious and moral education, the capacity to transmit to children the parent’s nationality, and the ownership or administration of property, whether common property or property in the sole ownership of either spouse.[^57] 
@@ -649,5 +651,5 @@ see also General Comment 31 paragraphs 15-20
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MTAzODkwXX0=
+eyJoaXN0b3J5IjpbMTMwMDE3MDI5OF19
 -->
