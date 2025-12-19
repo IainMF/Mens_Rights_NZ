@@ -175,7 +175,7 @@ A State's monitoring must be gender-sensitive. That is, able to detect how human
 
 > Integrating gender implies a **proactive** attitude of looking at and analysing how situations affect women, girls, men and boys differently. It is also about making such differences **visible** throughout the monitoring cycle. *Emphasis in original*
 
-"A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations."[
+> A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^119]
 
 
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls[^48]
@@ -663,6 +663,8 @@ see also General Comment 31 paragraphs 15-20
 
 [^118]: ICCPR General Comment 31 -- Paragraph 15
 
+[^119]: United Nations. *Integrating a Gender Perspective into Human Rights Investigations: Guidance and Practice*. United Nations, 2018.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMjkyNjY4XX0=
+eyJoaXN0b3J5IjpbMjk4MDQ5ODk1XX0=
 -->
