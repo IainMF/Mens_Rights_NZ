@@ -16,7 +16,9 @@ Governments are more likely to protect and respect rights when human rights guid
 
 The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations of non-discrimination under Article 2  and General Comment 28[^2] details State obligations to ensure equal rights between men and women (Article 3).
 
-Although Article 3 of the ICCPR requires equal enjoyment of rights for both women and men, there is no official guidance with regards to men's rights. General Comment 28 focuses entirely on women. Paragraph 1 states:
+> Article 3 implies that all human beings should enjoy the rights provided for in the Covenant, on an equal basis and in their totality.  The full effect of this provision is impaired whenever any person is denied the full and equal enjoyment of any right.  Consequently, States should ensure to men and women equally the enjoyment of all rights provided for in the Covenant.[^20]
+
+Although Article 3 of the ICCPR requires equal enjoyment of rights for both women and men, General Comment 28 focuses entirely on women; there is no official guidance from the *Human Rights Committee* regarding to men's rights. 
 
 > The Committee has decided to update its general comment on article 3 of the Covenant and to replace general comment No. 4 (thirteenth session, 1981), in the light of the experience it has gathered in its activities over the last 20 years. **The present revision seeks to take account of the important impact of this article on the enjoyment by women of the human rights protected under the Covenant.**
 
@@ -660,5 +662,5 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^121]: ICESCR General Comment 3 -- Paragraph 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE5NjQ2MTgsLTc4OTQxMjU0N119
+eyJoaXN0b3J5IjpbMTQxMDgwNTUzNCwtNzg5NDEyNTQ3XX0=
 -->
