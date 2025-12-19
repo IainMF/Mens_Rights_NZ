@@ -172,11 +172,10 @@ Achieving equal enjoyment of rights between women and men requires thoroughly un
 
 see also General Comment 31 paragraphs 15-20??
 
-
-
-
 #### Gender sensitive
-A State's monitoring must be gender-sensitive. That is, able to detect how human rights issues affect women and men differently. The *Manual on Human Rights Monitoring*[^48] says a gender perspective ensures that all violations against women and men are recognised and accounted for:
+A State's monitoring must be able to detect how human rights issues affect women and men differently. It must also be effective That is, it must be gender-sensitive. 
+
+The *Manual on Human Rights Monitoring*[^48] says a gender perspective ensures that all violations against women and men are recognised and accounted for:
 
 > Integrating a gender perspective in human rights monitoring is a process to ensure that all violations against men and women of all ages and sections of society are recognized and accounted for. It is also a strategy for making women's as well as men's experiences and concerns an integral dimension of the design and implementation of the monitoring cycle. It helps to better understand the causes and types of human rights violations and, hence, the measures required for prevention and protection. 
 
@@ -208,6 +207,8 @@ See CCPR General Comment No. 28 for reporting requirements
 
 #### Indicators and benchmarks
 > States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^56]
+
+> National policies and strategies should identify appropriate indicators and benchmarks on the right to equal enjoyment by men and women of economic, social and cultural rights in order to **effectively monitor** the implementation by the State party of its obligations under the Covenant in this regard.  Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate
 
 #### Right to information
 Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
@@ -683,6 +684,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^124]:  ICECSR General Comment 20 - para. 41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTMxOTIwNiwtMTkxOTAwMDQyNywxNj
+eyJoaXN0b3J5IjpbMTM5MjAyODc3NSwtMTkxOTAwMDQyNywxNj
 IzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
 -->
