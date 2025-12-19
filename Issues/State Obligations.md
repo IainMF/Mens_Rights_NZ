@@ -168,8 +168,9 @@ Particularly, States should monitor and report on their compliance with Article 
 States are require to report on discrimination against men, both formal and substantive.
 
 State's reports must include sex-disaggregated data.
+
 #### Gender sensitive
-A State's monitoring must be gender-sensitive. That is, able to detect how human rights issues affect women and men differently. The *Manual on Human Rights Monitoring* says a gender perspective ensures that all violations against women and men are recognised and accounted for:
+A State's monitoring must be gender-sensitive. That is, able to detect how human rights issues affect women and men differently. The *Manual on Human Rights Monitoring*[^120] says a gender perspective ensures that all violations against women and men are recognised and accounted for:
 
 > Integrating a gender perspective in human rights monitoring is a process to ensure that all violations against men and women of all ages and sections of society are recognized and accounted for. It is also a strategy for making women's as well as men's experiences and concerns an integral dimension of the design and implementation of the monitoring cycle. It helps to better understand the causes and types of human rights violations and, hence, the measures required for prevention and protection.
 
@@ -665,6 +666,8 @@ see also General Comment 31 paragraphs 15-20
 
 [^119]: United Nations. *Integrating a Gender Perspective into Human Rights Investigations: Guidance and Practice*. United Nations, 2018.
 
+[^120]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4MDQ5ODk1XX0=
+eyJoaXN0b3J5IjpbLTIwNDE4MDI1ODRdfQ==
 -->
