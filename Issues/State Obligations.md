@@ -44,13 +44,16 @@ Likewise, the *International Covenant on Economic, Cultural and Social Rights*, 
 
 >  Article 3 requires States to undertake to ensure the equal right of men and women to enjoy the Covenant rights [^10]
 
-#### Non-derogable standard
+### Non-derogable standard
 Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are [derogable](https://en.wikipedia.org/wiki/Derogability). Provisions in human rights treaties of non-discrimination and equality between men and women are  not derogable. 
 > Article 3 sets **a non-derogable standard** for compliance with the obligations of States parties as set out in articles 6 through 15 of ICESCR [^11]
 
 ### Which parts of government?
 A state's obligations to men and boys involve all parts of the government and public authorities. 
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^12]
+
+### Acting in good faith
+> **General Comment 31, Paragraph 3:** Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.
 
 ## Take necessary steps
 A State's obligations under human rights treaties require them to act to fulfil these obligations. The ICCPR requires States to "take the necessary steps"[^13] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^14] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^15]
@@ -65,8 +68,8 @@ The ICESCR recognises that the  realisation of economic, cultural and social rig
 
 Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  "the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"[^19]  against men and boys. The other is to take steps that are "deliberate, concrete and targeted as clearly as possible towards" meeting the Covenant's obligations to men and boys.[^121]
 
-### Acting in good faith
-> **General Comment 31, Paragraph 3:** Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.
+
+
 
 ## What steps are necessary?
 States are required to take the necessary steps to ensure men enjoy their human rights. The most important steps required are for a State to **recognise its obligations to men and boys** and **treat these obligations as equally important** as its obligations to women and girls.
@@ -662,5 +665,5 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^121]: ICESCR General Comment 3 -- Paragraph 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDgwNTUzNCwtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbLTk5ODczNTMyNywtNzg5NDEyNTQ3XX0=
 -->
