@@ -180,6 +180,7 @@ The *Manual* emphasises that human rights monitoring requires a proactive attitu
 
 > A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^119]
 
+State's monitoring should ensure that polices designed to ensure equality between men adn women do not have  "unintended adverse effects"
 
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls[^48]
 
@@ -671,5 +672,5 @@ see also General Comment 31 paragraphs 15-20
 [^120]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0NTk2OTg0XX0=
+eyJoaXN0b3J5IjpbLTEzNDQ4MzM0N119
 -->
