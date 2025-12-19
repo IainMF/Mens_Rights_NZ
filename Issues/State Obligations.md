@@ -133,9 +133,9 @@ Additionally, State should take into account the effect of supposedly gender-neu
 
 > States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^38]
 
-> ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^39]
-
 > Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights.[^40]
+
+> States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^53]
 
 ### Positive measures
 
@@ -157,7 +157,6 @@ International human rights treaties require States  to monitor and report on the
 > The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights[^123] 
 
 
-
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, like New Zealand's has in their reports. 
 
 States are required to report on discrimination against men, both formal and substantive.
@@ -171,6 +170,8 @@ The *Human Rights Committee* asks States to include discrimination against men i
 State's reports must include sex-disaggregated data. 
 
 Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^47]
+
+> ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^39]
 
 see also General Comment 31 paragraphs 15-20??
 
@@ -195,9 +196,6 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^51]
 
-
-
-> States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^53]
 
 > National policies and strategies should identify appropriate indicators and benchmarks on the right to equal enjoyment by men and women of economic, social and cultural rights in order to effectively monitor the implementation by the State party of its obligations under the Covenant in this regard.  Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate.[^54]
 
@@ -687,6 +685,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4ODAyMDI0LC0xOTE5MDAwNDI3LDE2Mj
-M5MDgxNiwtMTE0NzgxMDIzNiwtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbMTYxNjU3NjE0OCwtMTkxOTAwMDQyNywxNj
+IzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
 -->
