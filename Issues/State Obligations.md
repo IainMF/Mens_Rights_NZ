@@ -288,7 +288,7 @@ For example, Article 2 if the ICCPR requires States to ensure all the rights in 
 
 Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
 
-A State's protection of men from discrimination must be "equal and effective".[^79]
+Importantly, States must protect men from discrimination equally with women, and that protection must be effective.
 
 Men must have the same legal protection from discrimination as women. In some situations protection is not equal, for example, equal pay legislation often does not protect men from pay discrimination. While historically pay discrimination exclusively affected women, the law must equally protect men from pay discrimination.
 
@@ -652,5 +652,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MDU5OTkwLDQ2MDY1OTddfQ==
+eyJoaXN0b3J5IjpbODYzNTA3NzM0LDQ2MDY1OTddfQ==
 -->
