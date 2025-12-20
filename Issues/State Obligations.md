@@ -228,7 +228,7 @@ States should have a *National Plan of Action* for human rights which includes
 > National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^61]
 
 ### Ensure marriage equality
-International human rights treaties require States to treat men and women equally in family matters.
+International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children. ICCPR Article 23.4
 
 > Such steps may take the form of legislative, administrative or other measures, but it is a **positive duty** of States parties to **make certain that spouses have equal rights as required by the Covenant**.[^62]
 
@@ -688,8 +688,8 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTk2MDA2NCwyOTYyNDMwMzcsMTEwND
-c3Mjg3LC0xMjU4MjIxMzAwLC00MzgzMjE2NDEsLTE5MTkwMDA0
-MjcsMTYyMzkwODE2LC0xMTQ3ODEwMjM2LC03ODk0MTI1NDddfQ
-==
+eyJoaXN0b3J5IjpbLTIwOTQ4NDUyNjYsMjk2MjQzMDM3LDExMD
+Q3NzI4NywtMTI1ODIyMTMwMCwtNDM4MzIxNjQxLC0xOTE5MDAw
+NDI3LDE2MjM5MDgxNiwtMTE0NzgxMDIzNiwtNzg5NDEyNTQ3XX
+0=
 -->
