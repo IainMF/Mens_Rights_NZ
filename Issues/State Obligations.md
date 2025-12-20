@@ -276,7 +276,10 @@ States must protect children from discrimination based on sex.[^74]
 > Article 24 of the International Covenant on Civil and Political Rights recognizes the right of every child, without any discrimination, to receive from his family, society and the State the protection required by his status as a minor. **Consequently, the implementation of this provision entails the adoption of special measures to protect children**, in addition to the measures that States are required to take under article 2 **to ensure that everyone enjoys the rights provided for in the Covenant**. The reports submitted by States parties often seem to underestimate this obligation and supply inadequate information on the way in which **children are afforded enjoyment of their right to a special protection**.[^76]
 
 
-### Protection from discrimination
+### Non-discrimination
+States are required to abstian from discrimianti
+
+
 ICCPR Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
 
 A State's protection of men from discrimination must be "equal and effective".[^79]
@@ -299,7 +302,7 @@ Protection mechanisms must be **effective** at protecting men from discriminatio
 
 > States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^85]
 
-### Non-discrimination
+#### Non-discrimination
 
 Non-discrimination is a fundamental principle of human rights which is incorporated into the *International Covenant on Civil and Political Rights*. For example, Article 2 requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Article 20 requires states to prohibit incitement to discrimination on racial or religious grounds. Article 26 prohibits discrimination and requires States to guarantee equal and effective protection against discrimination.
 
@@ -313,7 +316,7 @@ Article 26 requires States' laws to guarantee that men have equal and effective 
 
 States are required to ensure equal protection for boys and girls[^103], and that children are free from discrimination.[^104]
 
-### Ending discrimination against men
+#### Ending discrimination against men
 
 Ending discrimination against men in the public and private sector is a necessary step.[^105] Ending discrimination requires analysis of laws and policies to identify any "distinction, exclusion, restriction or preference"[^106] that impairs men's enjoyment or exercise of their rights.
 
@@ -328,7 +331,7 @@ Gender analysis must be performed in a way that is *able to* and *effective at* 
 ##### Promote
 >  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^112]
 
-### Protecting men from discrimination
+#### Protecting men from discrimination
 > States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^113]
 
 
@@ -345,8 +348,8 @@ The application of protection mechanisms to prevent discrimination must be appli
 2.  Gender Analysis -- administered by Ministry for Women.
 3.  BORA Section 7 -- not identifying discrimination against men in the law.
 
-### Address discrimination against men
-Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^114]
+#### Address discrimination against men
+Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^114]
 
 > the positive obligations on States Parties to ensure Covenant rights will only be fully discharged if individuals are protected by the State, not just against violations of Covenant rights by its agents, but also against acts committed by private persons or entities that would impair the enjoyment of Covenant rights[^115]
 
@@ -652,5 +655,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTgxNjczNyw0NjA2NTk3XX0=
+eyJoaXN0b3J5IjpbLTk1Nzk3Njc1OCw0NjA2NTk3XX0=
 -->
