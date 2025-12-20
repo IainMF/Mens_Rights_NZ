@@ -279,12 +279,9 @@ States must protect children from discrimination based on sex.[^74]
 
 
 ### Non-discrimination
-Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys.
+Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys. For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Discrimination against men and boys in international human rights law...
 
-For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Discrimination in international human rights law;
-
->  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on any ground such as race, colour, sex, \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^100]
-
+>  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on ... sex \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^100]
 
 Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
 
@@ -292,7 +289,6 @@ Importantly, States must protect men from discrimination equally with women, and
 
 Men must have the same legal protection from discrimination as women. In some situations protection is not equal, for example, equal pay legislation often does not protect men from pay discrimination. While historically pay discrimination exclusively affected women, the law must equally protect men from pay discrimination.
 
-Protection mechanisms must be **effective** at protecting men from discrimination.
 
 > 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
 
@@ -652,5 +648,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNTA3NzM0LDQ2MDY1OTddfQ==
+eyJoaXN0b3J5IjpbLTEyMjM0NDMzNDgsNDYwNjU5N119
 -->
