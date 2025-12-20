@@ -281,6 +281,14 @@ States must protect children from discrimination based on sex.[^76]
 
 
 ### Protection from discrimination
+ICCPR Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^114] and by "public authorities, by the community, or by private persons or bodies".[^115]
+
+A State's protection of men from discrimination must be "equal and effective".[^116]
+
+Men must have the same legal protection from discrimination as women. In some situations protection is not equal, for example, equal pay legislation often does not protect men from pay discrimination. While historically pay discrimination exclusively affected women, the law must equally protect men from pay discrimination.
+
+Protection mechanisms must be **effective** at protecting men from discrimination.
+
 > 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
 
 > While article 2 limits the scope of the rights to be protected against discrimination to those provided for in the Covenant, article 26 does not specify such limitations. That is to say, article 26 provides that **all persons are equal before the law and are entitled to equal protection of the law without discrimination**, and that the law shall **guarantee to all persons equal and effective protection against discrimination** on any of the enumerated grounds. In the view of the Committee, article 26 does not merely duplicate the guarantee already provided for in article 2 but provides in itself an autonomous right. It prohibits discrimination in law or in fact in any field regulated and protected by public authorities. Article 26 is therefore concerned with the obligations imposed on States parties in regard to their legislation and the application thereof. **Thus, when legislation is adopted by a State party, it must comply with the requirement of article 26 that its content should not be discriminatory.** In other words, the application of the principle of non discrimination contained in article 26 is not limited to those rights which are provided for in the Covenant.[^81]
@@ -369,13 +377,8 @@ Gender analysis must be performed in a way that is *able to* and *effective at* 
 ### Protecting men from discrimination
 > States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^113]
 
-Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^114] and by "public authorities, by the community, or by private persons or bodies".[^115]
 
-A State's protection of men from discrimination must be "equal and effective".[^116]
 
-Men must have the same legal protection from discrimination as women. In some situations protection is not equal, for example, equal pay legislation often does not protect men from pay discrimination. While historically pay discrimination exclusively affected women, the law must equally protect men from pay discrimination.
-
-Protection mechanisms must be **effective** at protecting men from discrimination.
 
 These are measures to protect women from discrimination that do not exist for men.
 
@@ -656,7 +659,7 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDkyNDA2MiwtMjA5NDg0NTI2NiwyOT
+eyJoaXN0b3J5IjpbLTYwOTI5MDQ4NywtMjA5NDg0NTI2NiwyOT
 YyNDMwMzcsMTEwNDc3Mjg3LC0xMjU4MjIxMzAwLC00MzgzMjE2
 NDEsLTE5MTkwMDA0MjcsMTYyMzkwODE2LC0xMTQ3ODEwMjM2LC
 03ODk0MTI1NDddfQ==
