@@ -204,7 +204,14 @@ See CCPR General Comment No. 28 for reporting requirements
 > States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^56]
 
 #### Right to information
-Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. 	Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
+Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. 
+
+> ICCPR Article 19.2
+> Everyone shall have the right to freedom of expression; this right shall include **freedom to seek, receive and impart information and ideas of all kinds**, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.
+
+
+
+Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
@@ -678,7 +685,7 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgyMjEzMDAsLTQzODMyMTY0MSwtMT
-kxOTAwMDQyNywxNjIzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQx
-MjU0N119
+eyJoaXN0b3J5IjpbODEyODYwNzkzLC0xMjU4MjIxMzAwLC00Mz
+gzMjE2NDEsLTE5MTkwMDA0MjcsMTYyMzkwODE2LC0xMTQ3ODEw
+MjM2LC03ODk0MTI1NDddfQ==
 -->
