@@ -658,9 +658,3 @@ States are also required to "take affirmative action in order to diminish or eli
 [^124]:  ICECSR General Comment 20 - para. 41
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIwNzQ0NiwtNjA5MjkwNDg3LC0yMD
-k0ODQ1MjY2LDI5NjI0MzAzNywxMTA0NzcyODcsLTEyNTgyMjEz
-MDAsLTQzODMyMTY0MSwtMTkxOTAwMDQyNywxNjIzOTA4MTYsLT
-ExNDc4MTAyMzYsLTc4OTQxMjU0N119
--->
