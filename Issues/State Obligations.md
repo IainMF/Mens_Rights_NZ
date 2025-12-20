@@ -103,7 +103,6 @@ States must educate the population and state officials about men's human rights.
 
 It is especially important for State officials who are in a position to violate human rights, such as police officers, and judges. 
 
-
 #### Public education and  Awareness raising
 States have an obligation to educate the public, including men and boys, about their human rights. 
 
@@ -162,7 +161,6 @@ Particularly, States should monitor and report on their compliance with Article 
 States are required to report on discrimination against men, both formal and substantive.
 
 The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^46]
-
 
 
 > States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^47]
@@ -337,9 +335,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 ### Address violence
 > Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, **to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage**; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and **boys and girls should be protected equally from practices that promote child marriage**, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  **Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality**.  States parties **must take appropriate measures to eliminate violence against men and women** and act with **due diligence** to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^97]
 
-
-
-
 ### No Retrogression
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^98]
 
@@ -378,24 +373,17 @@ Gender analysis must be performed in a way that is *able to* and *effective at* 
 > States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^113]
 
 
-
-
 These are measures to protect women from discrimination that do not exist for men.
 
 1.  Minister for women
-
 2.  Ministry for women
-
 3.  Women's equality strategy
-
 4.  Women's health strategy
 
 The application of protection mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender analysis and gender budgeting, may not be applied equally. People charged with protecting men and women from discrimination must understand that it applies equally to men and women.
 
 1.  Gender Budgeting -- only evaluated on impact on women, not men.
-
 2.  Gender Analysis -- administered by Ministry for Women.
-
 3.  BORA Section 7 -- not identifying discrimination against men in the law.
 
 ### Address discrimination against men
@@ -406,7 +394,6 @@ Not only must States refrain from discriminating against men, but States have a 
 States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the Covenant.[^116]
 
 States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^117]
-
 
 
 [^1]: ICESCR General Comment 16 - para. 17
