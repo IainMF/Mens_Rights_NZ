@@ -209,7 +209,7 @@ Men have a right to be informed of the States positive and negative actions (or 
 > ICCPR Article 19.2
 > Everyone shall have the right to freedom of expression; this right shall include **freedom to seek, receive and impart information and ideas of all kinds**, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.
 
-
+> Article 19, paragraph 2 embraces a **right of access to information held by public bodies**. ICCPR General Comment 34 -- paragraph 18
 
 Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
@@ -685,7 +685,7 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyODYwNzkzLC0xMjU4MjIxMzAwLC00Mz
+eyJoaXN0b3J5IjpbMTEwNDc3Mjg3LC0xMjU4MjIxMzAwLC00Mz
 gzMjE2NDEsLTE5MTkwMDA0MjcsMTYyMzkwODE2LC0xMTQ3ODEw
 MjM2LC03ODk0MTI1NDddfQ==
 -->
