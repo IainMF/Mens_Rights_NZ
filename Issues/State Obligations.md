@@ -238,15 +238,7 @@ International human rights treaties explicitly require States to treat men and w
 
 > Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and boys and girls should be protected equally from practices that promote child marriage, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality.  States parties must take appropriate measures to eliminate violence against men and women and act with due diligence to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^65]
 
-##### Marriage and family
-
-.4 - States Parties to the present Covenant shall take appropriate steps to ensure equality of rights and responsibilities of spouses as to marriage, during marriage and at its dissolution. In the case of dissolution, provision shall be made for the necessary protection of any children.
-
-> Finally, the State party should reduce the constraints faced by men and women in reconciling professional and family responsibilities by promoting adequate policies for childcare and care of dependent family member[^66]
-
-> ... paternity leave for men[^67]
-
-###### General Comment 19
+##### General Comment 19
 
 > During marriage, the spouses should have equal rights and responsibilities in the family. This equality extends to all matters arising from their relationship, such as choice of residence, running of the household, education of the children and administration of assets. Such equality continues to be applicable to arrangements regarding legal separation or dissolution of the marriage.[^68]
 
@@ -263,7 +255,7 @@ States have a special duty to protect children. This duty must be carried out eq
 
 > In relation to children, article 24 provides that all children, **without any discrimination** as to race, colour, sex, language, religion, national or social origin, property or birth, have the right to such measures of **protection as are required by their status as minors**, on the part of their family, society and the State.[^72]
 
-##### Children's rights
+#### Children's rights
 
 States are required to adopt special measures to protect children. States must protect girls and boys equally[^73] and without discrimination.[^74]
 
@@ -287,30 +279,6 @@ States must protect children from discrimination based on sex.[^76]
 
 > Article 24 of the International Covenant on Civil and Political Rights recognizes the right of every child, without any discrimination, to receive from his family, society and the State the protection required by his status as a minor. **Consequently, the implementation of this provision entails the adoption of special measures to protect children**, in addition to the measures that States are required to take under article 2 **to ensure that everyone enjoys the rights provided for in the Covenant**. The reports submitted by States parties often seem to underestimate this obligation and supply inadequate information on the way in which **children are afforded enjoyment of their right to a special protection**.[^78]
 
-##### Circumcision
-
-States must protect girls and boys equally. "States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*."[^79]
-
-This means that States should eradicate "all cultural or religious practices which jeopardize the freedom and well-being of *male* children."
-
-Article 7
-No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment. In particular, no one shall be subjected without his free consent to medical or
-scientific experimentation
-
-##### Genital mutilation recognised as a violation of article 7
-
-> General Comment 28 -- para. 11 -
-> **To assess compliance with article 7 of the Covenant, as well as with article 24, which mandates special protection for children**, the Committee needs to be provided information on national laws and practice with regard to domestic and other types of violence against women, including rape. It also needs to know whether the State party gives access to safe abortion to women who have become pregnant as a result of rape. The States parties should also provide the Committee with information on measures to prevent forced abortion or forced sterilization. **In States parties where the practice of genital mutilation exists information on its extent and on measures to eliminate it should be provided**. The information provided by States parties on all these issues should include measures of protection, including legal remedies, for women whose rights under **article 7** have been violated.[^80]
-
-See also:
-
--   Concluding observations on Uganda, CCPR/CO/80/UGA, para. 10 - FGM as a violation of (equal rights), (torture), and (equal protection of the law)
-
--   Mali, CCPR/CO/77/MLI, para. 11 - FGM as a violation of article 3 (equal rights) and article 7 (torture)
-
--   Sweden, CCPR/CO/74/SWE, para. 8; - arts. 3, (right to life), and 7)
-
--   Yemen, CCPR/CO/84/YEM, para. 11. - arts. 3, 6, and 7)
 
 ### Protection from discrimination
 > 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
@@ -688,8 +656,8 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ4NDUyNjYsMjk2MjQzMDM3LDExMD
-Q3NzI4NywtMTI1ODIyMTMwMCwtNDM4MzIxNjQxLC0xOTE5MDAw
-NDI3LDE2MjM5MDgxNiwtMTE0NzgxMDIzNiwtNzg5NDEyNTQ3XX
-0=
+eyJoaXN0b3J5IjpbLTE0MDkyNDA2MiwtMjA5NDg0NTI2NiwyOT
+YyNDMwMzcsMTEwNDc3Mjg3LC0xMjU4MjIxMzAwLC00MzgzMjE2
+NDEsLTE5MTkwMDA0MjcsMTYyMzkwODE2LC0xMTQ3ODEwMjM2LC
+03ODk0MTI1NDddfQ==
 -->
