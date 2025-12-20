@@ -281,9 +281,9 @@ Non-discrimination is a fundamental principle of human rights. International hum
 
 For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Article 20 requires states to prohibit incitement to discrimination on racial or religious grounds. Article 26 prohibits discrimination and requires States to guarantee equal and effective protection against discrimination.
 
-Although the *International Covenant on Civil and Political Rights* does not define discrimination, the Human Rights Committee has clarified the meaning in General Comment 18:
+Discrimination in international human rights law:
 
-> \[T\]he Committee believes that the term "discrimination" as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on any ground such as race, colour, sex, \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^100]
+>  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on any ground such as race, colour, sex, \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^100]
 
 The Covenant prohibits States from discriminating towards men, and requires States to protect men from discrimination.
 
@@ -660,5 +660,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDAwNzI1OCw0NjA2NTk3XX0=
+eyJoaXN0b3J5IjpbLTMzMzA4ODEzNyw0NjA2NTk3XX0=
 -->
