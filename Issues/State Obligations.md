@@ -648,3 +648,6 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^127]: ICCPR General Comment 28 -- paragraph 11
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NjM1Njk2NzVdfQ==
+-->
