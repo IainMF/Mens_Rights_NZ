@@ -279,20 +279,13 @@ States must protect children from discrimination based on sex.[^74]
 ### Non-discrimination
 Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys.
 
-For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Article 20 requires states to prohibit incitement to discrimination on racial or religious grounds. Article 26 prohibits discrimination and requires States to guarantee equal and effective protection against discrimination.
-
-Discrimination in international human rights law:
+For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Discrimination in international human rights law;
 
 >  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on any ground such as race, colour, sex, \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^100]
 
-The Covenant prohibits States from discriminating towards men, and requires States to protect men from discrimination.
-
-Article 26 requires States' laws to guarantee that men have equal and effective protection against discrimination. It requires States to prohibit discrimination against men in law and in fact. This applies to all fields regulated and protected by public authorities. All legislation adopted by the State must not discriminate against men.[^101] If a State's laws do not align with the Covenant, the State must change its laws.[^102]
+Article 26 of the ICCPR requires States' laws to guarantee that men have equal and effective protection against discrimination. It requires States to prohibit discrimination against men in law and in fact. This applies to all fields regulated and protected by public authorities. All legislation adopted by the State must not discriminate against men.[^101] If a State's laws do not align with the Covenant, the State must change its laws.[^102]
 
 States are required to ensure equal protection for boys and girls[^103], and that children are free from discrimination.[^104]
-
-
-
 
 ICCPR Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
 
@@ -660,5 +653,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzA4ODEzNyw0NjA2NTk3XX0=
+eyJoaXN0b3J5IjpbLTkyMDAyMTI3NCw0NjA2NTk3XX0=
 -->
