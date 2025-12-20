@@ -295,11 +295,6 @@ The application of protection mechanisms to prevent discrimination must be appli
 
 States also have the obligation to protect men from discrimination from non-State actors.
 
-
-
-
-
-
 > "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^107]
 
 > States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^113]
@@ -330,9 +325,6 @@ Gender analysis must be performed in a way that is *able to* and *effective at* 
 ##### Promote
 >  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^112]
 
-#### Protecting men from discrimination
-
-
 #### Address discrimination against men
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^114]
 
@@ -340,15 +332,8 @@ Not only must States refrain from discriminating against men, but States have a 
 
 States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the Covenant.[^116]
 
+##### Conditions which cause or perpetuate discrimination
 States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^117]
-
-#### Equality
-
-Equality is a fundamental principle of human rights. The *International Covenant on Civil and Political Rights* requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
-
-ICCPR Article 3 requires states to ensure men enjoy their rights in their totality and on and equal basis with women.[^86] States are required to "take all necessary steps"[^87] to ensure men enjoy all Covenant rights, and to "take account of the factors which impede"[^88] men's equal enjoyment of their rights.
-
-Article 26 of ICCPR requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^89] requires equality before courts and tribunals. requires equal participation in public life.
 
 ### Representation in decision making
 States must ensure that men are represented in decision making. This is not limited to having men present, but must ensure that men's needs and human rights are considered so that men benefit from the decisions that are made.
@@ -640,5 +625,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDYxMzQ4OCw0NjA2NTk3XX0=
+eyJoaXN0b3J5IjpbMTcyNDQwOTMwMCw0NjA2NTk3XX0=
 -->
