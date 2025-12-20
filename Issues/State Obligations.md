@@ -303,7 +303,7 @@ Protection mechanisms must be **effective** at protecting men from discriminatio
 
 > States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^21]
 
-##### Equality
+#### Equality
 
 Equality is a fundamental principle of human rights. The *International Covenant on Civil and Political Rights* requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
 
@@ -659,8 +659,8 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTI5MDQ4NywtMjA5NDg0NTI2NiwyOT
-YyNDMwMzcsMTEwNDc3Mjg3LC0xMjU4MjIxMzAwLC00MzgzMjE2
-NDEsLTE5MTkwMDA0MjcsMTYyMzkwODE2LC0xMTQ3ODEwMjM2LC
-03ODk0MTI1NDddfQ==
+eyJoaXN0b3J5IjpbLTIwMDIwNzQ0NiwtNjA5MjkwNDg3LC0yMD
+k0ODQ1MjY2LDI5NjI0MzAzNywxMTA0NzcyODcsLTEyNTgyMjEz
+MDAsLTQzODMyMTY0MSwtMTkxOTAwMDQyNywxNjIzOTA4MTYsLT
+ExNDc4MTAyMzYsLTc4OTQxMjU0N119
 -->
