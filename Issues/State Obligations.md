@@ -247,6 +247,8 @@ International human rights treaties explicitly require States to treat men and w
 ### Equal protection of boys
 States have a special duty to protect children. This duty must be carried out equally for boys and girls.
 
+States are required to ensure equal protection for boys and girls[^103], and that children are free from discrimination.[^104]
+
 > **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.**  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children.[^69]
 
 > In relation to children, article 24 provides that all children, **without any discrimination** as to race, colour, sex, language, religion, national or social origin, property or birth, have the right to such measures of **protection as are required by their status as minors**, on the part of their family, society and the State.[^70]
@@ -283,11 +285,8 @@ For example, Article 2 if the ICCPR requires States to ensure all the rights in 
 
 >  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on any ground such as race, colour, sex, \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^100]
 
-Article 26 of the ICCPR requires States' laws to guarantee that men have equal and effective protection against discrimination. It requires States to prohibit discrimination against men in law and in fact. This applies to all fields regulated and protected by public authorities. All legislation adopted by the State must not discriminate against men.[^101] If a State's laws do not align with the Covenant, the State must change its laws.[^102]
 
-States are required to ensure equal protection for boys and girls[^103], and that children are free from discrimination.[^104]
-
-ICCPR Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
+Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
 
 A State's protection of men from discrimination must be "equal and effective".[^79]
 
@@ -653,5 +652,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDAyMTI3NCw0NjA2NTk3XX0=
+eyJoaXN0b3J5IjpbNTY2MDU5OTkwLDQ2MDY1OTddfQ==
 -->
