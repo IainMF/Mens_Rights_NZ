@@ -483,6 +483,7 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^56]: ICCPR General Comment 34 -- paragraph 18
 
 [^57]: ICCPR General Comment 34 -- paragraph 19
+
 [^58]: ICESCR General Comment 16 - para. 32
 
 [^59]: ICESCR General Comment 16 - para. 33
@@ -624,7 +625,3 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^127]: ICCPR General Comment 28 -- paragraph 11
 
 [^128]: ICCPR Article 26
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNDA4MzU4LDQ2MDY1OTddfQ==
--->
