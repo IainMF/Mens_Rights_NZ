@@ -118,11 +118,9 @@ School curricular should include education on equality and non-discrimination. S
 > the State should conduct human rights education and training programmes for public officials and make such training available to judges and candidates for judicial appointments. Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^33]
 
 ### Adjusting legislation and policy
-States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^34] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^128] protection from discrimination in the law. Laws must not discriminate against men and boys.
+States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^34] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^128] protection from discrimination in the law. 
 
-States must review their legislation, policy and programmes periodically to ensure they do not violate men's right to equality and non-discrimination.
-
-Additionally, State should take into account the effect of supposedly gender-neutral laws and policy to ensure they do not have the effect of disadvantaging or discriminating against men and boys.
+States must review their legislation, policy and programmes periodically to ensure they do not violate men's right to equality and non-discrimination. Additionally, States should take into account the effect of supposedly gender-neutral laws and policy to ensure they do not have the effect of disadvantaging or discriminating against men and boys.
 
 > In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^35]
 
@@ -654,5 +652,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE4NzgxNjZdfQ==
+eyJoaXN0b3J5IjpbNDYwNjU5N119
 -->
