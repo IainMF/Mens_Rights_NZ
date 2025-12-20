@@ -207,6 +207,8 @@ See CCPR General Comment No. 28 for reporting requirements
 Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
 
+
+
 ### National Plan of Action
 > ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights**[^58]
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^59]
@@ -676,6 +678,7 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODMyMTY0MSwtMTkxOTAwMDQyNywxNj
-IzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
+eyJoaXN0b3J5IjpbNzQxNTYxMTQ3LC00MzgzMjE2NDEsLTE5MT
+kwMDA0MjcsMTYyMzkwODE2LC0xMTQ3ODEwMjM2LC03ODk0MTI1
+NDddfQ==
 -->
