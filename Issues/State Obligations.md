@@ -289,11 +289,21 @@ Discrimination against men and boys in international human rights law...
 
 Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
 
-Importantly, States must protect men from discrimination equally with women, and that protection must be effective.
+Importantly, States must protect men from discrimination equally with women, and that protection must be effective.  
+
+The application of protection mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender analysis and gender budgeting, may not be applied equally. People charged with protecting men and women from discrimination must understand that it applies equally to men and women.
 
 States also have the obligation to protect men from discrimination from non-State actors.
 
+
+
+
+
+
 > "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^107]
+
+> States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^113]
+
 
 > 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
 
@@ -321,21 +331,7 @@ Gender analysis must be performed in a way that is *able to* and *effective at* 
 >  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^112]
 
 #### Protecting men from discrimination
-> States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^113]
 
-
-These are measures to protect women from discrimination that do not exist for men.
-
-1.  Minister for women
-2.  Ministry for women
-3.  Women's equality strategy
-4.  Women's health strategy
-
-The application of protection mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender analysis and gender budgeting, may not be applied equally. People charged with protecting men and women from discrimination must understand that it applies equally to men and women.
-
-1.  Gender Budgeting -- only evaluated on impact on women, not men.
-2.  Gender Analysis -- administered by Ministry for Women.
-3.  BORA Section 7 -- not identifying discrimination against men in the law.
 
 #### Address discrimination against men
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^114]
@@ -644,5 +640,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzMzg3NzQsNDYwNjU5N119
+eyJoaXN0b3J5IjpbMTQ2NDYxMzQ4OCw0NjA2NTk3XX0=
 -->
