@@ -218,12 +218,12 @@ Therefore a State's monitoring and reporting of men's rights should be available
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
 ### National Plan of Action
-
+States should have a *National Plan of Action* for human rights which includes
 
 > ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights**[^58]
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^59]
 
-> States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  private actors in the area of Covenant rights. Such policies, plans and strategies should address all groups distinguished by the prohibited grounds and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality.[^60]
+> States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  private actors in the area of Covenant rights. Such policies, plans and strategies should address **all groups distinguished by the prohibited grounds** and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality.[^60]
 
 > National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^61]
 
@@ -688,7 +688,8 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzODA4ODM1LDI5NjI0MzAzNywxMTA0Nz
-cyODcsLTEyNTgyMjEzMDAsLTQzODMyMTY0MSwtMTkxOTAwMDQy
-NywxNjIzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
+eyJoaXN0b3J5IjpbLTk2NTk2MDA2NCwyOTYyNDMwMzcsMTEwND
+c3Mjg3LC0xMjU4MjIxMzAwLC00MzgzMjE2NDEsLTE5MTkwMDA0
+MjcsMTYyMzkwODE2LC0xMTQ3ODEwMjM2LC03ODk0MTI1NDddfQ
+==
 -->
