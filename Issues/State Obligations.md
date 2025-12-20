@@ -118,7 +118,7 @@ School curricular should include education on equality and non-discrimination. S
 > the State should conduct human rights education and training programmes for public officials and make such training available to judges and candidates for judicial appointments. Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^33]
 
 ### Adjusting legislation and policy
-States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^34] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective" protection from discrimination in the law. Laws must not discriminate against men and boys.
+States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^34] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^128] protection from discrimination in the law. Laws must not discriminate against men and boys.
 
 States must review their legislation, policy and programmes periodically to ensure they do not violate men's right to equality and non-discrimination.
 
@@ -651,6 +651,8 @@ States have an obligation to provide remedy to men and boys whose rights have be
 
 [^127]: ICCPR General Comment 28 -- paragraph 11
 
+[^128]: ICCPR Article 26
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDMxMTg2M119
+eyJoaXN0b3J5IjpbLTE4NzE4NzgxNjZdfQ==
 -->
