@@ -206,7 +206,7 @@ See CCPR General Comment No. 28 for reporting requirements
 #### Right to information
 Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
-
+CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
 
 ### National Plan of Action
@@ -678,7 +678,7 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNTYxMTQ3LC00MzgzMjE2NDEsLTE5MT
-kwMDA0MjcsMTYyMzkwODE2LC0xMTQ3ODEwMjM2LC03ODk0MTI1
-NDddfQ==
+eyJoaXN0b3J5IjpbLTIwMTM4MTE4NTIsLTQzODMyMTY0MSwtMT
+kxOTAwMDQyNywxNjIzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQx
+MjU0N119
 -->
