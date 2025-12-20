@@ -97,7 +97,62 @@ This logically includes the idea that men's rights are less important than women
 > The obligation to protect requires States parties to take steps aimed directly at the elimination of prejudices, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.[^29]
 > 
 ##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
+### Non-discrimination
+Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys. For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. 
 
+Discrimination against men and boys in international human rights law...
+
+>  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on ... sex \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^100]
+
+**See page on discrimination for more about discrimination.**
+
+Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
+
+Importantly, States must protect men from discrimination equally with women, and that protection must be effective.  
+
+The application of protection mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender analysis and gender budgeting, may not be applied equally. People charged with protecting men and women from discrimination must understand that it applies equally to men and women.
+
+States also have the obligation to protect men from discrimination from non-State actors.
+
+> "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^107]
+
+> States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^113]
+
+
+> 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
+
+> While article 2 limits the scope of the rights to be protected against discrimination to those provided for in the Covenant, article 26 does not specify such limitations. That is to say, article 26 provides that **all persons are equal before the law and are entitled to equal protection of the law without discrimination**, and that the law shall **guarantee to all persons equal and effective protection against discrimination** on any of the enumerated grounds. In the view of the Committee, article 26 does not merely duplicate the guarantee already provided for in article 2 but provides in itself an autonomous right. It prohibits discrimination in law or in fact in any field regulated and protected by public authorities. Article 26 is therefore concerned with the obligations imposed on States parties in regard to their legislation and the application thereof. **Thus, when legislation is adopted by a State party, it must comply with the requirement of article 26 that its content should not be discriminatory.** In other words, the application of the principle of non discrimination contained in article 26 is not limited to those rights which are provided for in the Covenant.[^80]
+
+> Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^81]
+
+> States parties have an obligation to monitor and regulate the conduct of non-State actors to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized.[^82]
+
+> Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^83]
+
+> States parties should also adopt appropriate **preventive measures to avoid the emergence of new marginalized groups**.[^84]
+
+> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^85]
+
+#### Ending discrimination against men
+
+Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^108] States may be able to justify differential treatment of men if it is reasonable, objective,[^109] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^110]
+
+#### Systemic discrimination
+
+>  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^111]
+
+##### Promote
+>  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^112]
+
+#### Address discrimination against men
+Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^114]
+
+> the positive obligations on States Parties to ensure Covenant rights will only be fully discharged if individuals are protected by the State, not just against violations of Covenant rights by its agents, but also against acts committed by private persons or entities that would impair the enjoyment of Covenant rights[^115]
+
+States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the Covenant.[^116]
+
+##### Conditions which cause or perpetuate discrimination
+States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^117]
 ### Education
 States must educate the population and state officials about men's human rights.[^30] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys.
 
@@ -278,62 +333,8 @@ States must protect children from discrimination based on sex.[^74]
 > Article 24 of the International Covenant on Civil and Political Rights recognizes the right of every child, without any discrimination, to receive from his family, society and the State the protection required by his status as a minor. **Consequently, the implementation of this provision entails the adoption of special measures to protect children**, in addition to the measures that States are required to take under article 2 **to ensure that everyone enjoys the rights provided for in the Covenant**. The reports submitted by States parties often seem to underestimate this obligation and supply inadequate information on the way in which **children are afforded enjoyment of their right to a special protection**.[^76]
 
 
-### Non-discrimination
-Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys. For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. 
-
-Discrimination against men and boys in international human rights law...
-
->  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on ... sex \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^100]
-
-**See page on discrimination for more about discrimination.**
-
-Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
-
-Importantly, States must protect men from discrimination equally with women, and that protection must be effective.  
-
-The application of protection mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender analysis and gender budgeting, may not be applied equally. People charged with protecting men and women from discrimination must understand that it applies equally to men and women.
-
-States also have the obligation to protect men from discrimination from non-State actors.
-
-> "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^107]
-
-> States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^113]
 
 
-> 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
-
-> While article 2 limits the scope of the rights to be protected against discrimination to those provided for in the Covenant, article 26 does not specify such limitations. That is to say, article 26 provides that **all persons are equal before the law and are entitled to equal protection of the law without discrimination**, and that the law shall **guarantee to all persons equal and effective protection against discrimination** on any of the enumerated grounds. In the view of the Committee, article 26 does not merely duplicate the guarantee already provided for in article 2 but provides in itself an autonomous right. It prohibits discrimination in law or in fact in any field regulated and protected by public authorities. Article 26 is therefore concerned with the obligations imposed on States parties in regard to their legislation and the application thereof. **Thus, when legislation is adopted by a State party, it must comply with the requirement of article 26 that its content should not be discriminatory.** In other words, the application of the principle of non discrimination contained in article 26 is not limited to those rights which are provided for in the Covenant.[^80]
-
-> Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^81]
-
-> States parties have an obligation to monitor and regulate the conduct of non-State actors to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized.[^82]
-
-> Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^83]
-
-> States parties should also adopt appropriate **preventive measures to avoid the emergence of new marginalized groups**.[^84]
-
-> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^85]
-
-#### Ending discrimination against men
-
-Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^108] States may be able to justify differential treatment of men if it is reasonable, objective,[^109] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^110]
-
-#### Systemic discrimination
-
->  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^111]
-
-##### Promote
->  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^112]
-
-#### Address discrimination against men
-Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^114]
-
-> the positive obligations on States Parties to ensure Covenant rights will only be fully discharged if individuals are protected by the State, not just against violations of Covenant rights by its agents, but also against acts committed by private persons or entities that would impair the enjoyment of Covenant rights[^115]
-
-States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the Covenant.[^116]
-
-##### Conditions which cause or perpetuate discrimination
-States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^117]
 
 ### Representation in decision making
 States must ensure that men are represented in decision making. This is not limited to having men present, but must ensure that men's needs and human rights are considered so that men benefit from the decisions that are made.
@@ -625,5 +626,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDQwOTMwMCw0NjA2NTk3XX0=
+eyJoaXN0b3J5IjpbMzUzNDA4MzU4LDQ2MDY1OTddfQ==
 -->
