@@ -211,11 +211,13 @@ Men have a right to be informed of the States positive and negative actions (or 
 
 > Article 19, paragraph 2 embraces a **right of access to information held by public bodies**. ICCPR General Comment 34 -- paragraph 18
 
-> To give effect to the right of access to information, States parties should proactively put in the public domain Government information of public interest. ICCPR General Comment 34 -- paragraph 19
+> To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**. ICCPR General Comment 34 -- paragraph 19
 
 Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
+
+
 
 
 ### National Plan of Action
@@ -687,7 +689,7 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTcyMzQ1LDExMDQ3NzI4NywtMTI1OD
+eyJoaXN0b3J5IjpbMjk2MjQzMDM3LDExMDQ3NzI4NywtMTI1OD
 IyMTMwMCwtNDM4MzIxNjQxLC0xOTE5MDAwNDI3LDE2MjM5MDgx
 NiwtMTE0NzgxMDIzNiwtNzg5NDEyNTQ3XX0=
 -->
