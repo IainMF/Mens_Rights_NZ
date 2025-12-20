@@ -124,7 +124,7 @@ States must review their legislation, policy and programmes periodically to ensu
 
 > In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^35]
 
-> ... Laws which impose more severe penalties on women than on men for adultery or other offences also violate the requirement of equal treatment. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.
+> ... Laws which impose more severe penalties on women than on men for adultery or other offences also violate the requirement of equal treatment. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination. ICCPR GC 28 - paragraph 31
 
 > Respecting the right obliges States parties **not to adopt, and to repeal laws and rescind, policies, administrative measures and programmes that do not conform with the right protected by article 3**.  In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^35]
 
@@ -652,5 +652,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNjU5N119
+eyJoaXN0b3J5IjpbMTk3NTgxNjczNyw0NjA2NTk3XX0=
 -->
