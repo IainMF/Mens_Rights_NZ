@@ -293,7 +293,7 @@ Importantly, States must protect men from discrimination equally with women, and
 
 States also have the obligation to protect men from discrimination from non-State actors.
 
-
+> "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^107]
 
 > 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
 
@@ -309,16 +309,7 @@ States also have the obligation to protect men from discrimination from non-Stat
 
 > States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^85]
 
-#### Non-discrimination
-
-
-
-
 #### Ending discrimination against men
-
-Ending discrimination against men in the public and private sector is a necessary step.[^105] Ending discrimination requires analysis of laws and policies to identify any "distinction, exclusion, restriction or preference"[^106] that impairs men's enjoyment or exercise of their rights.
-
-> "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^107]
 
 Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^108] States may be able to justify differential treatment of men if it is reasonable, objective,[^109] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^110]
 
@@ -653,5 +644,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjY1NjQ4LDQ2MDY1OTddfQ==
+eyJoaXN0b3J5IjpbOTYzMzg3NzQsNDYwNjU5N119
 -->
