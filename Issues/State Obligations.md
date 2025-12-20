@@ -291,6 +291,9 @@ Article 26 of the ICCPR requires that a State's laws "prohibit any discriminatio
 
 Importantly, States must protect men from discrimination equally with women, and that protection must be effective.
 
+States also have the obligation to protect men from discrimination from non-State actors.
+
+
 
 > 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
 
@@ -650,5 +653,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MzQyMzM4LDQ2MDY1OTddfQ==
+eyJoaXN0b3J5IjpbLTk4MjY1NjQ4LDQ2MDY1OTddfQ==
 -->
