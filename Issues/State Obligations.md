@@ -277,7 +277,9 @@ States must protect children from discrimination based on sex.[^74]
 
 
 ### Non-discrimination
-Non-discrimination is a fundamental principle of human rights which is incorporated into the *International Covenant on Civil and Political Rights*. For example, Article 2 requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Article 20 requires states to prohibit incitement to discrimination on racial or religious grounds. Article 26 prohibits discrimination and requires States to guarantee equal and effective protection against discrimination.
+Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys.
+
+For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. Article 20 requires states to prohibit incitement to discrimination on racial or religious grounds. Article 26 prohibits discrimination and requires States to guarantee equal and effective protection against discrimination.
 
 Although the *International Covenant on Civil and Political Rights* does not define discrimination, the Human Rights Committee has clarified the meaning in General Comment 18:
 
@@ -658,5 +660,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^128]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTY5MDc1OCw0NjA2NTk3XX0=
+eyJoaXN0b3J5IjpbLTc3NDAwNzI1OCw0NjA2NTk3XX0=
 -->
