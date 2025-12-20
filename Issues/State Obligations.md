@@ -209,9 +209,9 @@ Men have a right to be informed of the States positive and negative actions (or 
 > ICCPR Article 19.2
 > Everyone shall have the right to freedom of expression; this right shall include **freedom to seek, receive and impart information and ideas of all kinds**, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.
 
-> Article 19, paragraph 2 embraces a **right of access to information held by public bodies**. ICCPR General Comment 34 -- paragraph 18
+> Article 19, paragraph 2 embraces a **right of access to information held by public bodies**. [^56]
 
-> To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**. ICCPR General Comment 34 -- paragraph 19
+> To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^57]
 
 Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
@@ -220,52 +220,52 @@ CEDAW reporting provides detailed information about a State's response to their 
 ### National Plan of Action
 States should have a *National Plan of Action* for human rights which includes
 
-> ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights**[^56]
->  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^57]
+> ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights**[^58]
+>  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^59]
 
-> States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  private actors in the area of Covenant rights. Such policies, plans and strategies should address **all groups distinguished by the prohibited grounds** and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality.[^58]
+> States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  private actors in the area of Covenant rights. Such policies, plans and strategies should address **all groups distinguished by the prohibited grounds** and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality.[^60]
 
-> National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^59]
+> National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^61]
 
 ### Ensure marriage equality
 International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children. ICCPR Article 23.4
 
-> Such steps may take the form of legislative, administrative or other measures, but it is a **positive duty** of States parties to **make certain that spouses have equal rights as required by the Covenant**.[^60]
+> Such steps may take the form of legislative, administrative or other measures, but it is a **positive duty** of States parties to **make certain that spouses have equal rights as required by the Covenant**.[^62]
 
-> States are required to treat men and women equally in regard to marriage in accordance with article 23, which has been elaborated further by general comment No. 19 (1990).  Men and women have the right to enter into marriage only with their free and full consent, and States have an obligation to protect the enjoyment of this right on an equal basis.[^61] 
+> States are required to treat men and women equally in regard to marriage in accordance with article 23, which has been elaborated further by general comment No. 19 (1990).  Men and women have the right to enter into marriage only with their free and full consent, and States have an obligation to protect the enjoyment of this right on an equal basis.[^63] 
 
-> To fulfil their obligations under article 23, paragraph 4, States parties must **ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children**, the children’s religious and moral education, the capacity to transmit to children the parent’s nationality, and the ownership or administration of property, whether common property or property in the sole ownership of either spouse.[^62] 
+> To fulfil their obligations under article 23, paragraph 4, States parties must **ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children**, the children’s religious and moral education, the capacity to transmit to children the parent’s nationality, and the ownership or administration of property, whether common property or property in the sole ownership of either spouse.[^64] 
 
-> Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and boys and girls should be protected equally from practices that promote child marriage, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality.  States parties must take appropriate measures to eliminate violence against men and women and act with due diligence to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^63]
+> Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and boys and girls should be protected equally from practices that promote child marriage, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality.  States parties must take appropriate measures to eliminate violence against men and women and act with due diligence to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^65]
 
 ##### General Comment 19
 
-> During marriage, the spouses should have equal rights and responsibilities in the family. This equality extends to all matters arising from their relationship, such as choice of residence, running of the household, education of the children and administration of assets. Such equality continues to be applicable to arrangements regarding legal separation or dissolution of the marriage.[^64]
+> During marriage, the spouses should have equal rights and responsibilities in the family. This equality extends to all matters arising from their relationship, such as choice of residence, running of the household, education of the children and administration of assets. Such equality continues to be applicable to arrangements regarding legal separation or dissolution of the marriage.[^66]
 
-> Thus, **any discriminatory treatment in regard to the grounds and procedures for separation or divorce, child custody, maintenance or alimony, visiting rights or the loss or recovery of parental authority must be prohibited**, bearing in mind the paramount **interest of the children** in this connection. States parties should, in particular, include information in their reports concerning the provision made for the necessary protection of any children at the dissolution of a marriage or on the separation of the spouses.[^65]
+> Thus, **any discriminatory treatment in regard to the grounds and procedures for separation or divorce, child custody, maintenance or alimony, visiting rights or the loss or recovery of parental authority must be prohibited**, bearing in mind the paramount **interest of the children** in this connection. States parties should, in particular, include information in their reports concerning the provision made for the necessary protection of any children at the dissolution of a marriage or on the separation of the spouses.[^67]
 
 ##### General Comment 17 
 
-> \...If the marriage is dissolved, steps should be taken, keeping in view the paramount interest of the children, to give them necessary protection and, so far as is possible, to **guarantee personal relations with both parents**. \...[^66]
+> \...If the marriage is dissolved, steps should be taken, keeping in view the paramount interest of the children, to give them necessary protection and, so far as is possible, to **guarantee personal relations with both parents**. \...[^68]
 
 ### Equal protection of boys
 States have a special duty to protect children. This duty must be carried out equally for boys and girls.
 
-> **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.**  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children.[^67]
+> **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.**  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children.[^69]
 
-> In relation to children, article 24 provides that all children, **without any discrimination** as to race, colour, sex, language, religion, national or social origin, property or birth, have the right to such measures of **protection as are required by their status as minors**, on the part of their family, society and the State.[^68]
+> In relation to children, article 24 provides that all children, **without any discrimination** as to race, colour, sex, language, religion, national or social origin, property or birth, have the right to such measures of **protection as are required by their status as minors**, on the part of their family, society and the State.[^70]
 
 #### Children's rights
 
-States are required to adopt special measures to protect children. States must protect girls and boys equally[^69] and without discrimination.[^70]
+States are required to adopt special measures to protect children. States must protect girls and boys equally[^71] and without discrimination.[^72]
 
 Children are entitled to all of the civil and political rights in the Covenant.
 
 The special measures to protect children in the *International Covenant on Civil and Political Rights* are primarily about ensuring children have their civil and political rights. Additionally, this protection should extend to economic social and cultural measures.
 
-> \...For example, *every possible economic and social measure should be taken* to reduce infant mortality and to eradicate malnutrition among children and **to prevent them from being subjected to acts of violence and cruel and inhuman treatment** or from being exploited by means of forced labour or prostitution, or by their use in the illicit trafficking of narcotic drugs, or by any other means. In the cultural field, every possible measure should be taken to foster the development of their personality and to **provide them with a level of education that will enable them to enjoy the rights recognized in the Covenant**, particularly the right to freedom of opinion and expression.[^71]
+> \...For example, *every possible economic and social measure should be taken* to reduce infant mortality and to eradicate malnutrition among children and **to prevent them from being subjected to acts of violence and cruel and inhuman treatment** or from being exploited by means of forced labour or prostitution, or by their use in the illicit trafficking of narcotic drugs, or by any other means. In the cultural field, every possible measure should be taken to foster the development of their personality and to **provide them with a level of education that will enable them to enjoy the rights recognized in the Covenant**, particularly the right to freedom of opinion and expression.[^73]
 
-States must protect children from discrimination based on sex.[^72]
+States must protect children from discrimination based on sex.[^74]
 
 .1 - Every child shall have, without any discrimination as to \... sex, \... the right to such measures of **protection as are required by his status as a minor**, on the part of his family, society and the State.
 
@@ -273,17 +273,17 @@ States must protect children from discrimination based on sex.[^72]
 
 24.3 - Every child has the right to acquire a nationality.
 
-> General Comment 28 -- para. 28. **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.** States parties should report on measures taken to ensure that girls are treated equally to boys *in education*, in feeding and in *health care*, and provide the Committee with disaggregated data in this respect. States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*.[^73]
+> General Comment 28 -- para. 28. **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.** States parties should report on measures taken to ensure that girls are treated equally to boys *in education*, in feeding and in *health care*, and provide the Committee with disaggregated data in this respect. States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*.[^75]
 
 ##### General comment 17
 
-> Article 24 of the International Covenant on Civil and Political Rights recognizes the right of every child, without any discrimination, to receive from his family, society and the State the protection required by his status as a minor. **Consequently, the implementation of this provision entails the adoption of special measures to protect children**, in addition to the measures that States are required to take under article 2 **to ensure that everyone enjoys the rights provided for in the Covenant**. The reports submitted by States parties often seem to underestimate this obligation and supply inadequate information on the way in which **children are afforded enjoyment of their right to a special protection**.[^74]
+> Article 24 of the International Covenant on Civil and Political Rights recognizes the right of every child, without any discrimination, to receive from his family, society and the State the protection required by his status as a minor. **Consequently, the implementation of this provision entails the adoption of special measures to protect children**, in addition to the measures that States are required to take under article 2 **to ensure that everyone enjoys the rights provided for in the Covenant**. The reports submitted by States parties often seem to underestimate this obligation and supply inadequate information on the way in which **children are afforded enjoyment of their right to a special protection**.[^76]
 
 
 ### Protection from discrimination
-ICCPR Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^75] and by "public authorities, by the community, or by private persons or bodies".[^76]
+ICCPR Article 26 requires State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^77] and by "public authorities, by the community, or by private persons or bodies".[^78]
 
-A State's protection of men from discrimination must be "equal and effective".[^77]
+A State's protection of men from discrimination must be "equal and effective".[^79]
 
 Men must have the same legal protection from discrimination as women. In some situations protection is not equal, for example, equal pay legislation often does not protect men from pay discrimination. While historically pay discrimination exclusively affected women, the law must equally protect men from pay discrimination.
 
@@ -291,59 +291,59 @@ Protection mechanisms must be **effective** at protecting men from discriminatio
 
 > 31.	The right to equality before the law and freedom from discrimination, protected by article 26, requires States to act against discrimination by public and private agencies in all fields.
 
-> While article 2 limits the scope of the rights to be protected against discrimination to those provided for in the Covenant, article 26 does not specify such limitations. That is to say, article 26 provides that **all persons are equal before the law and are entitled to equal protection of the law without discrimination**, and that the law shall **guarantee to all persons equal and effective protection against discrimination** on any of the enumerated grounds. In the view of the Committee, article 26 does not merely duplicate the guarantee already provided for in article 2 but provides in itself an autonomous right. It prohibits discrimination in law or in fact in any field regulated and protected by public authorities. Article 26 is therefore concerned with the obligations imposed on States parties in regard to their legislation and the application thereof. **Thus, when legislation is adopted by a State party, it must comply with the requirement of article 26 that its content should not be discriminatory.** In other words, the application of the principle of non discrimination contained in article 26 is not limited to those rights which are provided for in the Covenant.[^78]
+> While article 2 limits the scope of the rights to be protected against discrimination to those provided for in the Covenant, article 26 does not specify such limitations. That is to say, article 26 provides that **all persons are equal before the law and are entitled to equal protection of the law without discrimination**, and that the law shall **guarantee to all persons equal and effective protection against discrimination** on any of the enumerated grounds. In the view of the Committee, article 26 does not merely duplicate the guarantee already provided for in article 2 but provides in itself an autonomous right. It prohibits discrimination in law or in fact in any field regulated and protected by public authorities. Article 26 is therefore concerned with the obligations imposed on States parties in regard to their legislation and the application thereof. **Thus, when legislation is adopted by a State party, it must comply with the requirement of article 26 that its content should not be discriminatory.** In other words, the application of the principle of non discrimination contained in article 26 is not limited to those rights which are provided for in the Covenant.[^80]
 
-> Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^79]
+> Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^81]
 
-> States parties have an obligation to monitor and regulate the conduct of non-State actors to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized.[^80]
+> States parties have an obligation to monitor and regulate the conduct of non-State actors to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized.[^82]
 
-> Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^81]
+> Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^83]
 
-> States parties should also adopt appropriate **preventive measures to avoid the emergence of new marginalized groups**.[^82]
+> States parties should also adopt appropriate **preventive measures to avoid the emergence of new marginalized groups**.[^84]
 
-> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^83]
+> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^85]
 
 #### Equality
 
 Equality is a fundamental principle of human rights. The *International Covenant on Civil and Political Rights* requires States to ensure men and women have equal enjoyment of their rights (Article 3), and that men are equal before the law and have equal protection of the law (Article 26).
 
-ICCPR Article 3 requires states to ensure men enjoy their rights in their totality and on and equal basis with women.[^84] States are required to "take all necessary steps"[^85] to ensure men enjoy all Covenant rights, and to "take account of the factors which impede"[^86] men's equal enjoyment of their rights.
+ICCPR Article 3 requires states to ensure men enjoy their rights in their totality and on and equal basis with women.[^86] States are required to "take all necessary steps"[^87] to ensure men enjoy all Covenant rights, and to "take account of the factors which impede"[^88] men's equal enjoyment of their rights.
 
-Article 26 of ICCPR requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^87] requires equality before courts and tribunals. requires equal participation in public life.
+Article 26 of ICCPR requires states to ensure men are equal before the law, and have equal protection of the law. States are required "to make such changes to domestic laws and practices as are necessary to ensure their conformity with the Covenant."[^89] requires equality before courts and tribunals. requires equal participation in public life.
 
 ### Representation in decision making
 States must ensure that men are represented in decision making. This is not limited to having men present, but must ensure that men's needs and human rights are considered so that men benefit from the decisions that are made.
 
-> To promote equal participation of men and women in development planning, decision-making and in the **benefits** of development and all programmes related to the realization of economic, social and cultural rights.[^88]
+> To promote equal participation of men and women in development planning, decision-making and in the **benefits** of development and all programmes related to the realization of economic, social and cultural rights.[^90]
 > 
-> The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^89]
+> The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^91]
 
 
 ### Remedy
 States have an obligation to provide remedy to men and boys whose rights have been violated.
 
 > - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
-> - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized  men and women;[^90]
+> - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized  men and women;[^92]
 
-> National policies and strategies should provide for the establishment of effective mechanisms and institutions where they do not exist, including administrative authorities, ombudsmen and other national human rights institutions, courts and tribunals.  These institutions should **investigate and address alleged violations relating to article 3** and provide remedies for such violations.  States parties, for their part, should ensure that such remedies are effectively implemented.[^91]
+> National policies and strategies should provide for the establishment of effective mechanisms and institutions where they do not exist, including administrative authorities, ombudsmen and other national human rights institutions, courts and tribunals.  These institutions should **investigate and address alleged violations relating to article 3** and provide remedies for such violations.  States parties, for their part, should ensure that such remedies are effectively implemented.[^93]
 
-> National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights.[^92]
+> National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights.[^94]
 
-> Among the measures which might be considered appropriate, in addition to legislation, is the provision of judicial remedies with respect to rights which may, in accordance with the national legal system, be considered justiciable. The Committee notes, for example, that the enjoyment of the rights recognized, without discrimination, will often be appropriately promoted, in part, through the provision of judicial or other effective remedies. Indeed, those States parties which are also parties to the International Covenant on Civil and Political Rights are already obligated (by virtue of articles 2 (paras. 1 and 3), 3 and 26) of that Covenant to ensure that any person whose rights or freedoms (including the right to equality and non-discrimination) recognized in that Covenant are violated, “shall have an effective remedy” (art. 2 (3) (a)). In addition, there are a number of other provisions in the International Covenant on Economic, Social and Cultural Rights, including articles 3, 7 (a) (i), 8, 10 (3), 13 (2) (a), (3) and (4) and 15 (3) which would seem to be capable of immediate application by judicial and other organs in many national legal systems. Any suggestion that the provisions indicated are inherently non-self-executing would seem to be difficult to sustain.[^93]
+> Among the measures which might be considered appropriate, in addition to legislation, is the provision of judicial remedies with respect to rights which may, in accordance with the national legal system, be considered justiciable. The Committee notes, for example, that the enjoyment of the rights recognized, without discrimination, will often be appropriately promoted, in part, through the provision of judicial or other effective remedies. Indeed, those States parties which are also parties to the International Covenant on Civil and Political Rights are already obligated (by virtue of articles 2 (paras. 1 and 3), 3 and 26) of that Covenant to ensure that any person whose rights or freedoms (including the right to equality and non-discrimination) recognized in that Covenant are violated, “shall have an effective remedy” (art. 2 (3) (a)). In addition, there are a number of other provisions in the International Covenant on Economic, Social and Cultural Rights, including articles 3, 7 (a) (i), 8, 10 (3), 13 (2) (a), (3) and (4) and 15 (3) which would seem to be capable of immediate application by judicial and other organs in many national legal systems. Any suggestion that the provisions indicated are inherently non-self-executing would seem to be difficult to sustain.[^95]
 #### remedy
 > Article 2, paragraph 3, requires that in addition to effective protection of Covenant rights States Parties must ensure that individuals also have accessible and effective remedies to vindicate those rights\...
-> Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^94]
+> Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^96]
 
 ### Address violence
-> Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, **to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage**; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and **boys and girls should be protected equally from practices that promote child marriage**, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  **Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality**.  States parties **must take appropriate measures to eliminate violence against men and women** and act with **due diligence** to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^95]
+> Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, **to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage**; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and **boys and girls should be protected equally from practices that promote child marriage**, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  **Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality**.  States parties **must take appropriate measures to eliminate violence against men and women** and act with **due diligence** to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^97]
 
 
 
 
 ### No Retrogression
-> The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^96]
+> The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^98]
 
-> Moreover, any deliberately retrogressive measures in that regard would require the most careful consideration and would need to be fully justified by reference to the totality of the rights provided for in the Covenant and in the context of the full use of the maximum available resources.[^97]
+> Moreover, any deliberately retrogressive measures in that regard would require the most careful consideration and would need to be fully justified by reference to the totality of the rights provided for in the Covenant and in the context of the full use of the maximum available resources.[^99]
 
 ### Non-discrimination
 
@@ -351,31 +351,31 @@ Non-discrimination is a fundamental principle of human rights which is incorpora
 
 Although the *International Covenant on Civil and Political Rights* does not define discrimination, the Human Rights Committee has clarified the meaning in General Comment 18:
 
-> \[T\]he Committee believes that the term "discrimination" as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on any ground such as race, colour, sex, \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^98]
+> \[T\]he Committee believes that the term "discrimination" as used in the Covenant should be understood to imply any distinction, exclusion, restriction or preference which is based on any ground such as race, colour, sex, \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^100]
 
 The Covenant prohibits States from discriminating towards men, and requires States to protect men from discrimination.
 
-Article 26 requires States' laws to guarantee that men have equal and effective protection against discrimination. It requires States to prohibit discrimination against men in law and in fact. This applies to all fields regulated and protected by public authorities. All legislation adopted by the State must not discriminate against men.[^99] If a State's laws do not align with the Covenant, the State must change its laws.[^100]
+Article 26 requires States' laws to guarantee that men have equal and effective protection against discrimination. It requires States to prohibit discrimination against men in law and in fact. This applies to all fields regulated and protected by public authorities. All legislation adopted by the State must not discriminate against men.[^101] If a State's laws do not align with the Covenant, the State must change its laws.[^102]
 
-States are required to ensure equal protection for boys and girls[^101], and that children are free from discrimination.[^102]
+States are required to ensure equal protection for boys and girls[^103], and that children are free from discrimination.[^104]
 
 ### Ending discrimination against men
 
-Ending discrimination against men in the public and private sector is a necessary step.[^103] Ending discrimination requires analysis of laws and policies to identify any "distinction, exclusion, restriction or preference"[^104] that impairs men's enjoyment or exercise of their rights.
+Ending discrimination against men in the public and private sector is a necessary step.[^105] Ending discrimination requires analysis of laws and policies to identify any "distinction, exclusion, restriction or preference"[^106] that impairs men's enjoyment or exercise of their rights.
 
-> "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^105]
+> "States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination\... in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services"[^107]
 
-Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^106] States may be able to justify differential treatment of men if it is reasonable, objective,[^107] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^108]
+Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^108] States may be able to justify differential treatment of men if it is reasonable, objective,[^109] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^110]
 
 #### Systemic discrimination
 
->  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^109]
+>  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^111]
 
 ##### Promote
->  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^110]
+>  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^112]
 
 ### Protecting men from discrimination
-> States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^111]
+> States parties have an obligation to **monitor and regulate the conduct of non-State actors** to ensure that they do not violate the equal right of men and women to enjoy economic, social and cultural rights.  This obligation applies, for example, in cases where public services have been partially or fully privatized[^113]
 
 
 
@@ -399,13 +399,13 @@ The application of protection mechanisms to prevent discrimination must be appli
 3.  BORA Section 7 -- not identifying discrimination against men in the law.
 
 ### Address discrimination against men
-Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^112]
+Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^114]
 
-> the positive obligations on States Parties to ensure Covenant rights will only be fully discharged if individuals are protected by the State, not just against violations of Covenant rights by its agents, but also against acts committed by private persons or entities that would impair the enjoyment of Covenant rights[^113]
+> the positive obligations on States Parties to ensure Covenant rights will only be fully discharged if individuals are protected by the State, not just against violations of Covenant rights by its agents, but also against acts committed by private persons or entities that would impair the enjoyment of Covenant rights[^115]
 
-States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the Covenant.[^114]
+States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the Covenant.[^116]
 
-States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^115]
+States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^117]
 
 
 
@@ -518,143 +518,146 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^55]: ICESCR General Comment 20 - para. 41
 
-[^56]: ICESCR General Comment 16 - para. 32
+[^56]: ICCPR General Comment 34 -- paragraph 18
 
-[^57]: ICESCR General Comment 16 - para. 33
+[^57]: ICCPR General Comment 34 -- paragraph 19
+[^58]: ICESCR General Comment 16 - para. 32
 
-[^58]: ICECSR General Comment 20 - para. 38
+[^59]: ICESCR General Comment 16 - para. 33
 
-[^59]: ICESCR General Comment 20 - para. 41
+[^60]: ICECSR General Comment 20 - para. 38
 
-[^60]: ICCPR General Comment 28 - para. 25
-
-[^61]: ICCPR General Comment 28 - para. 23
+[^61]: ICESCR General Comment 20 - para. 41
 
 [^62]: ICCPR General Comment 28 - para. 25
 
-[^63]: ICECSR General Comment 16 - para. 27
+[^63]: ICCPR General Comment 28 - para. 23
 
-[^64]: ICCPR General Comment 19 -- paragraph 8
+[^64]: ICCPR General Comment 28 - para. 25
 
-[^65]: ICCPR General Comment 19 -- paragraph 9
+[^65]: ICECSR General Comment 16 - para. 27
 
-[^66]: ICCPR General Comment 17 -- paragraph 6
+[^66]: ICCPR General Comment 19 -- paragraph 8
 
-[^67]: ICESCR General Comment 16 - para. 26
+[^67]: ICCPR General Comment 19 -- paragraph 9
 
-[^68]: ICESCR General Comment 16 - para. 26
+[^68]: ICCPR General Comment 17 -- paragraph 6
 
-[^69]: ICCPR General Comment 28 -- paragraph 28
+[^69]: ICESCR General Comment 16 - para. 26
 
-[^70]: ICCPR Article 24.1
+[^70]: ICESCR General Comment 16 - para. 26
 
-[^71]: ICCPR General Comment 17 -- paragraph 3
+[^71]: ICCPR General Comment 28 -- paragraph 28
 
-[^72]: ICCPR General Comment 17 -- paragraph 5
+[^72]: ICCPR Article 24.1
 
-[^73]: ICCPR General Comment 28 -- paragraph 28
+[^73]: ICCPR General Comment 17 -- paragraph 3
 
-[^74]: ICCPR General Comment 17 -- paragraph 1
+[^74]: ICCPR General Comment 17 -- paragraph 5
 
-[^75]: ICCPR General Comment 18 -- paragraph 12
+[^75]: ICCPR General Comment 28 -- paragraph 28
 
-[^76]: ICCPR General Comment 18 -- paragraph 9
+[^76]: ICCPR General Comment 17 -- paragraph 1
 
-[^77]: ICCPR Article 26
+[^77]: ICCPR General Comment 18 -- paragraph 12
 
-[^78]: ICCPR General Comment 18 - para. 12
+[^78]: ICCPR General Comment 18 -- paragraph 9
 
-[^79]: ICESCR General Comment 16 - para. 3
+[^79]: ICCPR Article 26
 
-[^80]: ICESCR General Comment 16 - para. 20
+[^80]: ICCPR General Comment 18 - para. 12
 
-[^81]: ICECSR General Comment 20 - para. 37
+[^81]: ICESCR General Comment 16 - para. 3
 
-[^82]: ICECSR General Comment 20 - para. 38
+[^82]: ICESCR General Comment 16 - para. 20
 
-[^83]: ICCPR General Comment 28 - para. 4
+[^83]: ICECSR General Comment 20 - para. 37
 
-[^84]: ICCPR General Comment 28 -- paragraph 2
+[^84]: ICECSR General Comment 20 - para. 38
 
-[^85]: ICCPR General Comment 28 -- paragraph 4
+[^85]: ICCPR General Comment 28 - para. 4
 
-[^86]: ICCPR General Comment 28 -- paragraph 6
+[^86]: ICCPR General Comment 28 -- paragraph 2
 
-[^87]: ICCPR General Comment 31 -- paragraph 13
+[^87]: ICCPR General Comment 28 -- paragraph 4
 
-[^88]: ICESCR General Comment 16 - para. 21
+[^88]: ICCPR General Comment 28 -- paragraph 6
 
-[^89]: ICESCR General Comment 16 - para. 37
+[^89]: ICCPR General Comment 31 -- paragraph 13
 
-[^90]: ICECSR General Comment 16 - para. 21
+[^90]: ICESCR General Comment 16 - para. 21
 
-[^91]: ICECSR General Comment 16 - para. 38
+[^91]: ICESCR General Comment 16 - para. 37
 
-[^92]: ICECSR General Comment 20 - para. 40
+[^92]: ICECSR General Comment 16 - para. 21
 
-[^93]: ICESCR General Comment 3 - para. 5
+[^93]: ICECSR General Comment 16 - para. 38
 
-[^94]: ICCPR General Comment 31 -- Paragraph 15
+[^94]: ICECSR General Comment 20 - para. 40
 
-[^95]: ICESCR General Comment 16 - para. 27
+[^95]: ICESCR General Comment 3 - para. 5
 
-[^96]: ICESCR General Comment 16 - para. 42
+[^96]: ICCPR General Comment 31 -- Paragraph 15
 
-[^97]: ICESCR General Comment 3 - para. 9
+[^97]: ICESCR General Comment 16 - para. 27
 
-[^98]: ICCPR General Comment 18 -- paragraph 7
+[^98]: ICESCR General Comment 16 - para. 42
 
-[^99]: ICCPR General Comment 18 -- Paragraph 12
+[^99]: ICESCR General Comment 3 - para. 9
 
-[^100]: ICCPR General Comment 31 -- Paragraph 13
+[^100]: ICCPR General Comment 18 -- paragraph 7
 
-[^101]: ICCPR General Comment 28 -- paragraph 28
+[^101]: ICCPR General Comment 18 -- Paragraph 12
 
-[^102]: ICCPR General Comment 17 - paragraph 5
+[^102]: ICCPR General Comment 31 -- Paragraph 13
 
-[^103]: ICCPR General Comment 28 -- Paragraph 4
+[^103]: ICCPR General Comment 28 -- paragraph 28
 
-[^104]: ICCPR General Comment 18 -- Paragraph 7
+[^104]: ICCPR General Comment 17 - paragraph 5
 
-[^105]: ICCPR General Comment 28 -- paragraph 31
+[^105]: ICCPR General Comment 28 -- Paragraph 4
 
-[^106]: ICCPR General Comment 31 -- Paragraph 13
+[^106]: ICCPR General Comment 18 -- Paragraph 7
 
-[^107]: ICCPR General Comment 18 -- Paragraph 13
+[^107]: ICCPR General Comment 28 -- paragraph 31
 
-[^108]: ICCPR General Comment 31 -- Paragraph 6
+[^108]: ICCPR General Comment 31 -- Paragraph 13
 
-[^109]: ICECSR General Comment 20 - para. 39
+[^109]: ICCPR General Comment 18 -- Paragraph 13
 
-[^110]: ICESCR General Comment 16 - footnote 11
+[^110]: ICCPR General Comment 31 -- Paragraph 6
 
-[^111]: ICESCR General Comment 16 - para. 20
+[^111]: ICECSR General Comment 20 - para. 39
 
-[^112]: ICCPR General Comment 18 -- Paragraph 5
+[^112]: ICESCR General Comment 16 - footnote 11
 
-[^113]: ICCPR General Comment 31 -- Paragraph 8
+[^113]: ICESCR General Comment 16 - para. 20
 
-[^114]: ICCPR General Comment 31 -- Paragraph 8
+[^114]: ICCPR General Comment 18 -- Paragraph 5
 
-[^115]: ICCPR General Comment 18 -- Paragraph 10
+[^115]: ICCPR General Comment 31 -- Paragraph 8
 
-[^116]: ICESCR General Comment 16 - para. 6
+[^116]: ICCPR General Comment 31 -- Paragraph 8
 
-[^117]: ICESCR General Comment 20 - para. 4
+[^117]: ICCPR General Comment 18 -- Paragraph 10
 
-[^118]: ICCPR General Comment 28 - para. 4
+[^118]: ICESCR General Comment 16 - para. 6
 
-[^119]: ICESCR General Comment 16 - para. 33
+[^119]: ICESCR General Comment 20 - para. 4
 
-[^120]: ICESCR General Comment 16 - para. 39
+[^120]: ICCPR General Comment 28 - para. 4
 
-[^121]: ICESCR General Comment 16 - para. 41
+[^121]: ICESCR General Comment 16 - para. 33
 
-[^122]: ICECSR General Comment 16 - para. 27
+[^122]: ICESCR General Comment 16 - para. 39
 
-[^123]: ICESCR General Comment 16 - para. 26
+[^123]: ICESCR General Comment 16 - para. 41
 
-[^124]: ICCPR General Comment 28 -- paragraph 28
+[^124]: ICECSR General Comment 16 - para. 27
 
-[^125]: ICCPR General Comment 28 -- paragraph 11
+[^125]: ICESCR General Comment 16 - para. 26
+
+[^126]: ICCPR General Comment 28 -- paragraph 28
+
+[^127]: ICCPR General Comment 28 -- paragraph 11
 
