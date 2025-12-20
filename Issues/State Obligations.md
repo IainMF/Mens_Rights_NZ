@@ -217,10 +217,8 @@ Therefore a State's monitoring and reporting of men's rights should be available
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
-
-
-
 ### National Plan of Action
+
 > ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights**[^58]
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^59]
 
@@ -689,7 +687,7 @@ States are also required to "take affirmative action in order to diminish or eli
 
 [^125]: ICESCR General Comment 16 -- Paragraph 39
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2MjQzMDM3LDExMDQ3NzI4NywtMTI1OD
-IyMTMwMCwtNDM4MzIxNjQxLC0xOTE5MDAwNDI3LDE2MjM5MDgx
-NiwtMTE0NzgxMDIzNiwtNzg5NDEyNTQ3XX0=
+eyJoaXN0b3J5IjpbNzk4NTIwNzI1LDI5NjI0MzAzNywxMTA0Nz
+cyODcsLTEyNTgyMjEzMDAsLTQzODMyMTY0MSwtMTkxOTAwMDQy
+NywxNjIzOTA4MTYsLTExNDc4MTAyMzYsLTc4OTQxMjU0N119
 -->
