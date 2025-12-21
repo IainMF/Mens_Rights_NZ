@@ -133,6 +133,13 @@ States also have the obligation to protect men from discrimination from non-Stat
 
 > States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.[^85]
 
+
+#### Condemn Discrimination against men
+
+States have an obligation to condemn discrimination against men.
+
+> The first obligation of States parties referred to in the chapeau of article 2 is the obligation to “condemn discrimination against women in all its forms”. ==States parties have an immediate and continuous obligation to condemn discrimination==. They are ==obliged to proclaim to their population== and the international community their ==total opposition to all forms of discrimination against women to all levels and branches of Government and their determination to bring about the elimination of discrimination against women==. The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging. CEDAW General Recommendation 28 - paragraph 15
+
 #### Ending discrimination against men
 
 Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition men's rights, or men's enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^108] States may be able to justify differential treatment of men if it is reasonable, objective,[^109] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^110]
@@ -267,6 +274,8 @@ Men have a right to be informed of the States positive and negative actions (or 
 Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
+
+> The policy must ensure that women, as individuals and groups, ==have access to information== about their rights under the Convention and ==are able to effectively promote and claim those rights==. The State party should also ensure that women are able to participate actively in the development, implementation and monitoring of the policy. To this end, resources must be devoted to ensuring ==that human rights and women’s non-governmental organizations are well-informed, adequately consulted and generally able to play an active role in the initial and subsequent development of the policy== CEDAW GR 28 -- paragraph 27
 
 ### National Plan of Action
 States should have a *National Plan of Action* for human rights which includes
