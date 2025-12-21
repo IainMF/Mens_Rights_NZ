@@ -132,6 +132,10 @@ help them; in fact, these sanctions may further alienate them from school.
 > An analysis of students’ marks in reading and mathematics reveals that while teachers generally reward girls with higher marks in both mathematics and language-of-instruction courses, after accounting for their PISA performance in these subjects, girls’ performance advantage is wider in language-of-instruction than in mathematics. This suggests both that girls may enjoy better
 marks in all subjects because of their better classroom discipline and better self-regulation, but also that teachers hold stereotypical ideas about boys’ and girls’ academic strengths and weaknesses. **Girls receive much higher-than-expected marks in language-of-instruction courses because teachers see girls as being particularly good in such subjects.** Teachers may perceive boys as being particularly good in mathematics; but because boys have less ability to self-regulate, their behaviour in class may undermine their academic performance, making this hypothesis difficult to test.
 
+...
+
+> Young boys not only tend to be less self-regulating than girls, they also tend to respond more strongly to their environment: when they are in disruptive, chaotic and disorganised settings, their capacity for self-regulation suffers (Wachs et al., 2004); when they are in classrooms with teachers who are well-organised and able to establish a good disciplinary climate, the improvement in their learning is greater than that of girls (Ponitz, et al., 2009). Boys appear to be particularly sensitive to environmental factors, while girls are comparatively less affected by a lack of discipline, disorganisation and chaos in the classroom.
+
 ## Globally
 https://np.reddit.com/r/LeftWingMaleAdvocates/comments/1fww4tp/more_boys_are_now_out_of_school_globally_than/
 
