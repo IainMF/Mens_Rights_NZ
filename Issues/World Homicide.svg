@@ -9,7 +9,7 @@
    xml:space="preserve"
    id="svg296"
    sodipodi:docname="World Homicide.svg"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,14 +25,15 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
    inkscape:zoom="1.4460395"
-   inkscape:cx="285.95346"
-   inkscape:cy="192.24924"
+   inkscape:cx="258.2917"
+   inkscape:cy="199.51046"
    inkscape:window-width="1920"
-   inkscape:window-height="1004"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
+   inkscape:window-height="974"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg296" />
+   inkscape:current-layer="svg296"
+   showguides="true" />
  
  <rect
    style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cfcfcf;fill-opacity:1;stroke:none;stroke-width:70;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:160, 79.9999, 40, 79.9999, 40, 79.9999;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke"
@@ -79,9 +80,10 @@
    fill="none"
    stroke="rgb(179,179,179)"
    stroke-linejoin="round"
-   d="M 14621.827,4992 H 1871.8262"
+   d="m 14471.826,4992 -12599.9998,0"
    id="path7"
-   style="stroke:#000000;stroke-width:10;stroke-dasharray:none;stroke-opacity:1" />
+   style="stroke:#000000;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
  <path
    fill="none"
    stroke="rgb(179,179,179)"
@@ -495,25 +497,28 @@
    stroke="rgb(0,69,134)"
    stroke-width="80"
    stroke-linejoin="round"
-   d="m 2021.8262,3709 377,-131 377,-144 377,-145 378,8 377,99 377,161 378,99 377,30 377,80 378,-108 377,-62 377,12 377,124 378,190 377,133 377,65 378,136 377,-24 377,20 378,-57 376,-45 376.9998,-44 377,89 h 378 l 377,89 h 377 l 378,44 377,177 377,178 378,89 377,-178 377,221 378,44"
+   d="m 14471.826,4859 -378,-44 -377,-221 -377,178 -378,-89 -377,-178 -377,-177 -378,-44 h -377 l -377,-89 h -378 l -377,-89 -376.9998,44 -376,45 -378,57 -377,-20 -377,24 -378,-136 -377,-65 -377,-133 -378,-190 -377,-124 -377,-12 -377,62 -378,108 -377,-80 -377,-30 -378,-99 -377,-161 -377,-99 -378,-8 -377,145 -377,144 -377,131 -352.8235,0"
    id="path180"
-   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:70;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1" />
+   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:70;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+   sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
  <path
    fill="none"
    stroke="rgb(255,66,14)"
    stroke-width="80"
    stroke-linejoin="round"
-   d="m 2021.8262,7390 377,-38 377,-41 377,-44 378,11 377,12 377,35 378,31 h 377 l 377,22 378,-7 377,-17 377,22 377,33 378,9 377,53 377,38 378,11 377,27 377,-71 378,45 376,-44 h 376.9998 l 377,44 h 378 l 377,44 h 377 378 l 377,45 h 377 l 378,44 377,-44 h 377 378"
+   d="m 1669.0027,7390 352.8235,0 377,-38 377,-41 377,-44 378,11 377,12 377,35 378,31 h 377 l 377,22 378,-7 377,-17 377,22 377,33 378,9 377,53 377,38 378,11 377,27 377,-71 378,45 376,-44 h 376.9998 l 377,44 h 378 l 377,44 h 377 378 l 377,45 h 377 l 378,44 377,-44 h 377 378"
    id="path181"
-   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:70;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:70, 70;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1" />
+   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:70;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:70, 70;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+   sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
  <path
    fill="none"
    stroke="rgb(255,211,32)"
    stroke-width="80"
    stroke-linejoin="round"
-   d="m 2021.8262,4818 377,21 377,19 377,25 378,-25 377,35 377,12 378,-20 377,21 377,-7 378,-60 377,7 377,-61 377,-10 378,117 377,-69 377,-82 378,77 377,-121 377,270 378,-205 376,119 376.9998,-37 377,-82 h 378 l 377,-91 h 377 l 378,40 377,-13 377,168 378,-94 377,10 377,210 378,43"
+   d="m 2021.8262,4818 377,21 377,19 377,25 378,-25 377,35 377,12 378,-20 377,21 377,-7 378,-60 377,7 377,-61 377,-10 378,117 377,-69 377,-82 378,77 377,-121 377,270 378,-205 376,119 376.9998,-37 377,-82 h 378 l 377,-91 h 377 l 378,40 377,-13 377,168 378,-94 377,10 377,210 378,43 308.309,0"
    id="path182"
-   style="stroke:#000000;stroke-dasharray:160, 80, 40, 80, 40, 80;stroke-dashoffset:0;stroke-opacity:1" />
+   style="stroke:#000000;stroke-dasharray:159.99999992,39.99999991,39.99999991,39.99999991,39.99999991,39.99999991;stroke-dashoffset:0;stroke-opacity:1"
+   sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
  <text
    class="SVGTextShape"
    id="text184"
@@ -762,11 +767,11 @@
  <text
    class="SVGTextShape"
    id="text259"
-   x="1097.8262"><tspan
+   x="1225.9059"><tspan
      class="TextParagraph"
      id="tspan259"><tspan
        class="TextPosition"
-       x="14721.826"
+       x="14849.906"
        y="8663"
        id="tspan258"><tspan
          font-family="'Liberation Serif', serif"
@@ -780,11 +785,11 @@
  <text
    class="SVGTextShape"
    id="text262"
-   x="1097.8262"><tspan
+   x="1225.9059"><tspan
      class="TextParagraph"
      id="tspan262"><tspan
        class="TextPosition"
-       x="14721.826"
+       x="14849.906"
        y="7775"
        id="tspan261"><tspan
          font-family="'Liberation Serif', serif"
@@ -798,11 +803,11 @@
  <text
    class="SVGTextShape"
    id="text265"
-   x="1097.8262"><tspan
+   x="1225.9059"><tspan
      class="TextParagraph"
      id="tspan265"><tspan
        class="TextPosition"
-       x="14721.826"
+       x="14849.906"
        y="6888"
        id="tspan264"><tspan
          font-family="'Liberation Serif', serif"
@@ -816,11 +821,11 @@
  <text
    class="SVGTextShape"
    id="text268"
-   x="1097.8262"><tspan
+   x="1225.9059"><tspan
      class="TextParagraph"
      id="tspan268"><tspan
        class="TextPosition"
-       x="14721.826"
+       x="14849.906"
        y="6001"
        id="tspan267"><tspan
          font-family="'Liberation Serif', serif"
@@ -834,11 +839,11 @@
  <text
    class="SVGTextShape"
    id="text271"
-   x="1097.8262"><tspan
+   x="1225.9059"><tspan
      class="TextParagraph"
      id="tspan271"><tspan
        class="TextPosition"
-       x="14721.826"
+       x="14849.906"
        y="5113"
        id="tspan270"><tspan
          font-family="'Liberation Serif', serif"
@@ -852,11 +857,11 @@
  <text
    class="SVGTextShape"
    id="text274"
-   x="1097.8262"><tspan
+   x="1225.9059"><tspan
      class="TextParagraph"
      id="tspan274"><tspan
        class="TextPosition"
-       x="14721.826"
+       x="14849.906"
        y="4227"
        id="tspan273"><tspan
          font-family="'Liberation Serif', serif"
@@ -870,11 +875,11 @@
  <text
    class="SVGTextShape"
    id="text277"
-   x="1097.8262"><tspan
+   x="1225.9059"><tspan
      class="TextParagraph"
      id="tspan277"><tspan
        class="TextPosition"
-       x="14721.826"
+       x="14849.906"
        y="3340"
        id="tspan276"><tspan
          font-family="'Liberation Serif', serif"
@@ -888,11 +893,11 @@
  <text
    class="SVGTextShape"
    id="text280"
-   x="1097.8262"><tspan
+   x="1225.9059"><tspan
      class="TextParagraph"
      id="tspan280"><tspan
        class="TextPosition"
-       x="14721.826"
+       x="14849.906"
        y="2453"
        id="tspan279"><tspan
          font-family="'Liberation Serif', serif"
