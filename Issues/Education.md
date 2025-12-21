@@ -244,7 +244,3 @@ UNESCO offers this rationale for why boys' education is important:
 [^17]: Kent, H., Kirby, A., Hogarth, L., Leckie, G., Cornish, R., & Williams, H. (2023). [[|School to prison pipelines: Associations between school exclusion, neurodisability and age of first conviction in male prisoners]]. _Forensic Science International: Mind and Law_, _4_, 100123.
 
 [^18]: Education Counts [https://www.educationcounts.govt.nz/](https://www.educationcounts.govt.nz/)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjY0MjI0NV19
--->
