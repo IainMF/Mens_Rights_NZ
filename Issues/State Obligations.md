@@ -14,7 +14,7 @@ A State's human rights obligations under international treaties are divided into
 > The obligation to fulfil further contains duties to provide, promote and facilitate.[^1]
 
 ## The need for identify state obligations to men and boys
-Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Although, men and boys have the same human rights as women and girls, guidance for protecting and respecting men's rights is lacking. States have a number of instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*. There is nothing similar for men and boys.
+Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Although, men and boys have the same human rights as women and girls, guidance for protecting and respecting men's rights is lacking compared to women's rights. States have several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*. There is nothing similar for men and boys.
 
 The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations of non-discrimination under Article 2  and General Comment 28[^2] details State obligations to ensure equal rights between men and women (Article 3).
 
@@ -642,6 +642,6 @@ States must protect children from discrimination based on sex.[^99]
 [^132]: ICESCR Article 16
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY4ODIzNjUsNjIxNzExMjQyLDE2MD
-gzMjcyNTYsLTI5MzEwODI5OF19
+eyJoaXN0b3J5IjpbMjEyODgzMDA2OSw2MjE3MTEyNDIsMTYwOD
+MyNzI1NiwtMjkzMTA4Mjk4XX0=
 -->
