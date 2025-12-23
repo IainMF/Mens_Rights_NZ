@@ -118,9 +118,8 @@ States also have the obligation to protect men from discrimination from non-Stat
 
 > Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^39]
 
-> States parties should also adopt appropriate **preventive measures to avoid the emergence of new marginalized groups**.[^40]
+Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^40] Thus, even
 
-> States parties are responsible for ensuring the equal enjoyment of rights without any discrimination.  Articles 2 and 3 mandate States parties to take all steps necessary, including the prohibition of discrimination on the ground of sex, to put an end to discriminatory actions, both in the public and the private sector, which impair the equal enjoyment of rights.
 
 
 #### Condemn Discrimination against men
@@ -627,5 +626,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjYyMDI0MSwtMjkzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbLTE3NDkyMTkyMzAsLTI5MzEwODI5OF19
 -->
