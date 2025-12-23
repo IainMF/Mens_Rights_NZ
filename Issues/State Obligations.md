@@ -106,7 +106,7 @@ Article 26 of the ICCPR requires that a State's laws "prohibit any discriminatio
 
 Importantly, States must protect men from discrimination equally with women, and that protection must be effective.  States mechanisms to prevent discrimination  must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
 
-People charged with protecting men and women from discrimination must understand that it applies equally to men and women.
+Similarly, in order to ensure equal and effective protection against discrimination to men, State officials must understand that there obligation of non-discrimination applies equally to men and women.
 
 States also have the obligation to protect men from discrimination from non-State actors.
 
@@ -634,5 +634,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDg1MzEyNCwtMjkzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbMzExNTY0NjM4LC0yOTMxMDgyOThdfQ==
 -->
