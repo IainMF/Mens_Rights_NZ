@@ -90,6 +90,9 @@ States must take into account the 'factors that impede'[^24] men's enjoyment of 
 States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^27] [^29] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^28]
 
 Logically this includes the idea that men's rights are less important than women's rights.
+
+##### Conditions which cause or perpetuate discrimination
+States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^50]
  
 ##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
 
@@ -141,8 +144,10 @@ Not only must States refrain from discriminating against men, but States have a 
 
 States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the Covenant.[^49]
 
-##### Conditions which cause or perpetuate discrimination
-States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^50]
+
+
+
+
 ### Education
 States must educate the population and state officials about men's human rights.[^51] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys.
 
@@ -621,5 +626,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjkwNDcwNCwtMjkzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbLTEyOTU0MTQyNjYsLTI5MzEwODI5OF19
 -->
