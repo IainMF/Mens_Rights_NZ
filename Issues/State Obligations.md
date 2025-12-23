@@ -89,16 +89,12 @@ States must take into account the 'factors that impede'[^24] men's enjoyment of 
 See **monitor and report**, and **plan of action**
 
 #### Stereotypes
-States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^27] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^28]
+States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^27] [^29] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^28]
 
-This logically includes the idea that men's rights are less important than women's rights.
-
-
-> Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires **addressing gender-based social and cultural prejudices**, providing for **equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.[^29]
-
-> The obligation to protect requires States parties to take steps aimed directly at the elimination of prejudices, customary and all other practices that perpetuate the notion of inferiority or superiority of either of the sexes, and stereotyped roles for men and women.[^30]
-> 
+Logically this includes the idea that men's rights are less important than women's rights.
+ 
 ##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
+
 ### Non-discrimination
 Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys. For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. 
 
@@ -640,5 +636,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzQ1MTgxOSwtMjkzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbMjEyNDU1OTE4MCwtMjkzMTA4Mjk4XX0=
 -->
