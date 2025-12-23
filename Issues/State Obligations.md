@@ -117,6 +117,9 @@ Discrimination against men and boys in international human rights law...
 
 While human rights treaties prohibit discrimination based on sex, it is understood to include gender discrimination. So both discrimination based on beliefs, assumptions, about men and women, and that based on observable sex differences is prohibited.
 
+Acts and omissions
+
+
 **See page on discrimination for more about discrimination.**
 
 Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^36] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^32] and by "public authorities, by the community, or by private persons or bodies".[^33]
@@ -136,6 +139,8 @@ States also have the obligation to protect men from discrimination from non-Stat
 
 Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^40] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
+
+> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms  of  discrimination** against women in general and against women belonging to specific  vulnerable groups in particular. CEDAW GR 28 - p.10
 
 #### Systemic discrimination
 
@@ -653,5 +658,6 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg0OTEyNzgsLTYxMjE5MDcxM119
+eyJoaXN0b3J5IjpbMjA4NDIxMDg5NCwtMTUyODQ5MTI3OCwtNj
+EyMTkwNzEzXX0=
 -->
