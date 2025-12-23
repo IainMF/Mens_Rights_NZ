@@ -264,7 +264,7 @@ Men have a right to be informed of the States positive and negative actions (or 
 
 > To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^80]
 
-Men's, and men's advocates', ability to hold the government accountable is directly related to their knowledge of men's rights issues and the government response.
+Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government response. States have an obligation to ensure men and men's advocates have acess to inforamtion
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
@@ -635,6 +635,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^132]: ICESCR Article 16
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk5MTAxMjIsMTYwODMyNzI1NiwtMj
-kzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbLTQwMjI0MDU3MiwxNjA4MzI3MjU2LC0yOT
+MxMDgyOThdfQ==
 -->
