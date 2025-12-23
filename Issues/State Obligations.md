@@ -260,16 +260,11 @@ See CCPR General Comment No. 28 for reporting requirements
 > States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^77]
 
 #### Right to information
-Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
-
-> 
-> Everyone shall have the right to freedom of expression; this right shall include **freedom to seek, receive and impart information and ideas of all kinds**, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.[^78]
-
-> Article 19, paragraph 2 embraces a **right of access to information held by public bodies**. [^79]
+Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^78] Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.[^79]
 
 > To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^80]
 
-
+Men and men's abiltiy to hold goverment to account is directly related to their a
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
@@ -640,6 +635,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^132]: ICESCR Article 16
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODkyNjMzMSwxNjA4MzI3MjU2LC0yOT
+eyJoaXN0b3J5IjpbLTU3MDEzNjUwMiwxNjA4MzI3MjU2LC0yOT
 MxMDgyOThdfQ==
 -->
