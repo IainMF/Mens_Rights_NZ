@@ -123,12 +123,6 @@ States also have the obligation to protect men from discrimination from non-Stat
 Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^40] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 
-#### Condemn Discrimination against men
-
-States have an obligation to condemn discrimination against men.
-
-> The first obligation of States parties referred to in the chapeau of article 2 is the obligation to “condemn discrimination against women in all its forms”. ==States parties have an immediate and continuous obligation to condemn discrimination==. They are ==obliged to proclaim to their population== and the international community their ==total opposition to all forms of discrimination against women to all levels and branches of Government and their determination to bring about the elimination of discrimination against women==. The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging. CEDAW General Recommendation 28 - paragraph 15
-
 
 #### Systemic discrimination
 
@@ -166,6 +160,12 @@ School curricular should include education on equality and non-discrimination. S
 > ... States parties should ensure, in particular through information and **awareness-raising campaigns**, that families desist from giving preferential treatment to boys when sending their children to school, and **that curricula promote equality and non-discrimination**.[^53]
 
 > the State should conduct human rights education and training programmes for public officials and make such training available to judges and candidates for judicial appointments. Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^54]
+
+#### Condemn Discrimination against men
+
+States have an obligation to condemn discrimination against men.
+
+> The first obligation of States parties referred to in the chapeau of article 2 is the obligation to “condemn discrimination against women in all its forms”. ==States parties have an immediate and continuous obligation to condemn discrimination==. They are ==obliged to proclaim to their population== and the international community their ==total opposition to all forms of discrimination against women to all levels and branches of Government and their determination to bring about the elimination of discrimination against women==. The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging. CEDAW General Recommendation 28 - paragraph 15
 
 ### Adjusting legislation and policy
 States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^55] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^56] protection from discrimination in the law. 
@@ -626,5 +626,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU0MTQyNjYsLTI5MzEwODI5OF19
+eyJoaXN0b3J5IjpbMTI3OTYzMDU5OCwtMjkzMTA4Mjk4XX0=
 -->
