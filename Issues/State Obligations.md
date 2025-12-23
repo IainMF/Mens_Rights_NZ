@@ -104,13 +104,12 @@ Discrimination against men and boys in international human rights law...
 
 Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^36] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^32] and by "public authorities, by the community, or by private persons or bodies".[^33]
 
-
 States must protect men from discrimination equally with women, and that protection must be effective. A State's mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
 
-#### Gender analysis
-In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis. Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of their rights, "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^42] States may be able to justify differential treatment of men if it is reasonable, objective,[^43] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^44]
-
 Similarly, in order to ensure equal and effective protection against discrimination to men, State officials must understand that the obligation to protect applies equally to men and women.
+
+#### Gender analysis
+In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis. Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^42] States may be able to justify differential treatment of men if it is reasonable, objective,[^43] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^44]
 
 States also have the obligation to protect men from discrimination from non-State actors.[^34] [^35] [^38] [^41]
 
@@ -126,8 +125,6 @@ Additionally, States need to prevent new forms of discrimination from appearing 
 States have an obligation to condemn discrimination against men.
 
 > The first obligation of States parties referred to in the chapeau of article 2 is the obligation to “condemn discrimination against women in all its forms”. ==States parties have an immediate and continuous obligation to condemn discrimination==. They are ==obliged to proclaim to their population== and the international community their ==total opposition to all forms of discrimination against women to all levels and branches of Government and their determination to bring about the elimination of discrimination against women==. The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging. CEDAW General Recommendation 28 - paragraph 15
-
-#### Ending discrimination against men
 
 
 #### Systemic discrimination
@@ -624,5 +621,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0ODc0NDYyLC0yOTMxMDgyOThdfQ==
+eyJoaXN0b3J5IjpbMTk1NjkwNDcwNCwtMjkzMTA4Mjk4XX0=
 -->
