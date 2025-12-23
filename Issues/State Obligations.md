@@ -35,7 +35,7 @@ Without explicit recognition of State's human rights obligations to men and boys
 A State's obligations to men and boys can be derived from:
 - explicit obligations to all people;
 - explicit obligations of non-discrimination and equality between men and women;
-- logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as, the ICCPR's requirement for equal and effective protection from discrimination.
+- logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as, the ICCPR's requirement for equal and effective protection from discrimination.[^112]
 
 ## Government obligations to men and boys
 States that have ratified international human rights treaties have agreed to be legally bound by them. The ICCPR specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
@@ -412,6 +412,7 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^13]: ICCPR General Comment 31 -- Paragraph 4
 
 [^14]: ICCPR General Comment 31 -- paragraph 3
+
 [^15]: International Covenant on Civil and Political Rights -- Article 2.2
 
 [^16]: ICCPR General Comment 31 -- Paragraph 14
@@ -642,5 +643,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^130]: ICCPR General Comment 28 -- paragraph 11
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk5MTg2NSwtMjkzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbLTIyMTE4NDA1NywtMjkzMTA4Mjk4XX0=
 -->
