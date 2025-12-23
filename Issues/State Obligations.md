@@ -103,6 +103,8 @@ Discrimination against men and boys in international human rights law...
 
 >  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on ... sex \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^31]
 
+While human rights treaties prohibit discrimination based on sex, it is understood to include gender discrimination. That is, discrimaintion based on 
+
 **See page on discrimination for more about discrimination.**
 
 Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^36] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^32] and by "public authorities, by the community, or by private persons or bodies".[^33]
@@ -628,5 +630,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NTkxMzQwLC0yOTMxMDgyOThdfQ==
+eyJoaXN0b3J5IjpbLTE0MDYwOTI2NjMsLTI5MzEwODI5OF19
 -->
