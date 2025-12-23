@@ -84,9 +84,7 @@ International human rights treaty bodies have identified several 'necessary step
 - the prohibition of discrimination against men adn boys[^23]
 
 ### Removal of obstacles
-States must take into account the 'factors that impede'[^24] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^25] [^26] Naturally, this means identifying these obstacles. 
-
-See **monitor and report**, and **plan of action**
+States must take into account the 'factors that impede'[^24] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^25] [^26] Logically, this means identifying these obstacles, which relates to the obligation to **monitor and report**, and create a **plan of action** (see below).
 
 #### Stereotypes
 States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^27] [^29] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^28]
@@ -636,5 +634,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDU1OTE4MCwtMjkzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbMzUwODAyMzIxLC0yOTMxMDgyOThdfQ==
 -->
