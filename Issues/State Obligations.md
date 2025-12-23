@@ -157,8 +157,6 @@ States that permit discrimination against men or fail "to exercise due diligence
 States must educate the population and state officials about men's human rights.[^51] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to violate human rights, such as police officers, and judges. 
 
 
-
-
 #### Public education and  Awareness raising
 States have an obligation to educate the public, including men and boys, about their human rights. 
 
@@ -215,9 +213,7 @@ States must review their legislation, policy and programmes periodically to ensu
 
 ### Monitoring and Reporting
 
-International human rights treaties require States  to monitor and report on their implementation of those treaties.
-> The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights[^67] 
-
+International human rights treaties require States to monitor and report on their implementation of those treaties.[^67] 
 
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, like New Zealand's has in their reports. 
 
@@ -641,6 +637,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODQ1OTM2MSwxNjA4MzI3MjU2LC0yOT
+eyJoaXN0b3J5IjpbMjA4MjgwNjM1MiwxNjA4MzI3MjU2LC0yOT
 MxMDgyOThdfQ==
 -->
