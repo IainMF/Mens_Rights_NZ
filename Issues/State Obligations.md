@@ -14,7 +14,9 @@ A State's human rights obligations under international treaties are divided into
 > The obligation to fulfil further contains duties to provide, promote and facilitate.[^1]
 
 ## The need for identify state obligations to men and boys
-Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Unfortunately, there is little jurisprudence and guidance for men's rights.
+Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Although, men and boys have the same human rights as women and girls, guidance for protecting and respecting men's rights is lacking. States have a number of instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*. There is nothing similar for men and boys.
+
+Unfortunately, there is little jurisprudence and guidance for men's rights.
 
 The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations of non-discrimination under Article 2  and General Comment 28[^2] details State obligations to ensure equal rights between men and women (Article 3).
 
@@ -28,7 +30,7 @@ Similarly, the United Nations *Committee on Economic, Social and Cultural Rights
 
 Other treaties support men's right to equality and non-discrimination but explicit guidance is lacking. Article 2 of the *Convention on the Rights of the Child* prohibits discrimination based on sex and Article 3 of the *Convention on the Rights of Persons with Disabilities* affirms the principle of equality between men and women.
 
-Although, men and boys have the same human rights as women and girls, guidance for protecting and respecting men's rights is lacking. States have a number of instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*. There is nothing similar for men and boys.
+
 
 Commentators have argued that explicitly recognising men's rights is not necessary. For example,  Charlesworth[^5] argues that male over-representation in the development and administration of international human rights law means that human rights already accounts for men's rights by default. However, male representation has not lead to men's gender-specific human rights issues being addressed in a meaningful or substantive way. For example, Stemple[^6] points out there are no human rights instruments that explicitly address sexual violence against men, and Abramson[^7] says there is discrimination against boys in the children's rights movement.
 
@@ -644,5 +646,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^130]: ICCPR General Comment 28 -- paragraph 11
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzEwODI5OF19
+eyJoaXN0b3J5IjpbLTI2NzAzNzQ0MiwtMjkzMTA4Mjk4XX0=
 -->
