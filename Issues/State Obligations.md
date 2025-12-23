@@ -156,6 +156,9 @@ States that permit discrimination against men or fail "to exercise due diligence
 ### Education
 States must educate the population and state officials about men's human rights.[^51] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to violate human rights, such as police officers, and judges. 
 
+
+
+
 #### Public education and  Awareness raising
 States have an obligation to educate the public, including men and boys, about their human rights. 
 
@@ -638,6 +641,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDI1MTczLDE2MDgzMjcyNTYsLTI5Mz
-EwODI5OF19
+eyJoaXN0b3J5IjpbLTcwODQ1OTM2MSwxNjA4MzI3MjU2LC0yOT
+MxMDgyOThdfQ==
 -->
