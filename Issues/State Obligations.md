@@ -146,6 +146,9 @@ Additionally, States need to prevent new forms of discrimination from appearing 
 
 > States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms  of  discrimination** against women in general and against women belonging to specific  vulnerable groups in particular. CEDAW GR 28 - p.10
 
+#### Direct and direct discrimination
+> States  parties  shall  ensure  that  there  is  neither  direct  nor  indirect  discrimination  against  women.  Direct  discrimination  against  women  constitutes  different  treatment  explicitly  based  on  grounds  of  sex  and  gender  differences.  Indirect  discrimination  against  women  occurs  when  a  law,  policy,  programme  or  practice  appears  to  be  neutral  in  so  far  as  it  relates  to  men  and  women,  but  has  a  discriminatory  effect  in  practice  on  women  because  pre-existing  inequalities  are  not  addressed  by  the  apparently  neutral  measure.  Moreover,  indirect  discrimination  can  exacerbate  existing  inequalities  owing  to  a  failure  to  recognize  structural  and  historical  patterns  of  discrimination  and  unequal power relationships between women and men. CEDAW GR 28 - p.16
+
 #### Systemic discrimination
 
 Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by 15 to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. 
@@ -662,6 +665,6 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1OTkzNzUsNDcwNzY1ODIxLC0xNTI4ND
-kxMjc4LC02MTIxOTA3MTNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTExOTY1OTYsNDcwNzY1ODIxLC0xNT
+I4NDkxMjc4LC02MTIxOTA3MTNdfQ==
 -->
