@@ -309,7 +309,7 @@ States should have a *National Plan of Action* for human rights which includes
 > National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^84]
 
 
-
+> This  means  that  the  State  party  must  immediately  assess  the  de  jure  and  de  facto  situation  of  women  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  women  and  achieving  women’s  substantive  equality  with  men. CEDAW GR 28 - p.24
 
 
 
@@ -669,6 +669,6 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzUwMzg2LDQ3MDc2NTgyMSwtMTUyOD
-Q5MTI3OCwtNjEyMTkwNzEzXX0=
+eyJoaXN0b3J5IjpbLTEyNDI0MTg1MjcsLTI5NzUwMzg2LDQ3MD
+c2NTgyMSwtMTUyODQ5MTI3OCwtNjEyMTkwNzEzXX0=
 -->
