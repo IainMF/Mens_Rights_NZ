@@ -94,6 +94,12 @@ Logically this includes the idea that men's rights are less important than women
 ##### Conditions which cause or perpetuate discrimination
 States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^50]
  
+#### Recognition of existing disadvantage
+ 
+ In order for states to meet their obligations to men and boys they must re
+ 
+ 
+
 ##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
 
 ### Non-discrimination
@@ -641,5 +647,5 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjE5MDcxM119
+eyJoaXN0b3J5IjpbMTUwODI3MDI2NSwtNjEyMTkwNzEzXX0=
 -->
