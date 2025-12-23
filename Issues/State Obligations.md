@@ -98,7 +98,9 @@ States are also required to "take affirmative action in order to diminish or eli
  
  In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys. CEDAW GR 28 - p5
 
-Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities face by men may be discrimination.
+Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities face by men may be discrimination. XXX sources
+
+
 
 
  
@@ -651,5 +653,5 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDY4Njk3NCwtNjEyMTkwNzEzXX0=
+eyJoaXN0b3J5IjpbLTE1Mjg0OTEyNzgsLTYxMjE5MDcxM119
 -->
