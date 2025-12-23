@@ -213,9 +213,7 @@ States must review their legislation, policy and programmes periodically to ensu
 
 ### Monitoring and Reporting
 
-International human rights treaties require States to monitor and report on their implementation of those treaties.[^67] 
-
-Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, like New Zealand's has in their reports. 
+International human rights treaties require States to monitor and report on their implementation of those treaties.[^67] [^132] Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. 
 
 States are required to report on discrimination against men, both formal and substantive.
 
@@ -636,7 +634,9 @@ States have an obligation to provide remedy to men and boys whose rights have be
 
 [^131]: ICCPR Article 26
 
+[^132]: ICESCR Article 16
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjgwNjM1MiwxNjA4MzI3MjU2LC0yOT
-MxMDgyOThdfQ==
+eyJoaXN0b3J5IjpbODk4ODA4MTY5LDE2MDgzMjcyNTYsLTI5Mz
+EwODI5OF19
 -->
