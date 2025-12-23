@@ -213,7 +213,10 @@ States must review their legislation, policy and programmes periodically to ensu
 
 ### Monitoring and Reporting
 
-International human rights treaties require States to monitor and report on their implementation of those treaties.[^67] [^132] Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. 
+International human rights treaties require States to monitor and report on their implementation of those treaties.[^67] [^132] Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See **Complaint to MoJ Regarding NZ reporting**
+
+
+
 
 States are required to report on discrimination against men, both formal and substantive.
 
@@ -257,7 +260,7 @@ See CCPR General Comment No. 28 for reporting requirements
 > States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^77]
 
 #### Right to information
-Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. 
+Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights. Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
 
 > 
 > Everyone shall have the right to freedom of expression; this right shall include **freedom to seek, receive and impart information and ideas of all kinds**, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.[^78]
@@ -266,7 +269,7 @@ Men have a right to be informed of the States positive and negative actions (or 
 
 > To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^80]
 
-Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.
+
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
@@ -637,6 +640,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^132]: ICESCR Article 16
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4ODA4MTY5LDE2MDgzMjcyNTYsLTI5Mz
-EwODI5OF19
+eyJoaXN0b3J5IjpbLTc3ODkyNjMzMSwxNjA4MzI3MjU2LC0yOT
+MxMDgyOThdfQ==
 -->
