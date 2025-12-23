@@ -104,7 +104,7 @@ Discrimination against men and boys in international human rights law...
 
 Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^32] and by "public authorities, by the community, or by private persons or bodies".[^33]
 
-Importantly, States must protect men from discrimination equally with women, and that protection must be effective.  States mechanisms to prevent discrimination  must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
+States must protect men from discrimination equally with women, and that protection must be effective. A State's mechanisms to prevent discrimination  must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
 
 Similarly, in order to ensure equal and effective protection against discrimination to men, State officials must understand that the obligation to protect applies equally to men and women.
 
@@ -634,5 +634,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE2NjUyMTcsLTI5MzEwODI5OF19
+eyJoaXN0b3J5IjpbLTE3MTU0MzAwNjgsLTI5MzEwODI5OF19
 -->
