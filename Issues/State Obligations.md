@@ -127,7 +127,7 @@ Additionally, States need to prevent new forms of discrimination from appearing 
 
 #### Systemic discrimination
 
-Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, 
+Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's over-representation in prison is accepted as normal, and evidence of bias and discrimination against men is dismissed or minimised.
 
 >  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^45]
 
@@ -632,6 +632,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NDUyNTUzLDE2MDgzMjcyNTYsLTI5Mz
-EwODI5OF19
+eyJoaXN0b3J5IjpbLTE2NDk5NTIyODksMTYwODMyNzI1NiwtMj
+kzMTA4Mjk4XX0=
 -->
