@@ -640,6 +640,3 @@ States must protect children from discrimination based on sex.[^99]
 [^131]: ICCPR Article 26
 
 [^132]: ICESCR Article 16
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjE5MDcxM119
--->
