@@ -13,6 +13,8 @@ A State's human rights obligations under international treaties are divided into
 
 > The obligation to fulfil further contains duties to provide, promote and facilitate.[^1]
 
+> The  obligation  to  fulfil  encompasses  the  obligation  of  States  parties  to  facilitate  access  to  and  provide  for  the  **full  realization  of  women’s  rights**. CEDAW GR 28 - p.20
+
 ## The need for identify state obligations to men and boys
 Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Although, men and boys have the same human rights as women and girls, guidance for protecting and respecting men's rights is lacking compared to women's rights. States have several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*. There is nothing similar for men and boys.
 
@@ -667,6 +669,6 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTc5OTI1Miw0NzA3NjU4MjEsLTE1Mj
-g0OTEyNzgsLTYxMjE5MDcxM119
+eyJoaXN0b3J5IjpbLTI5NzUwMzg2LDQ3MDc2NTgyMSwtMTUyOD
+Q5MTI3OCwtNjEyMTkwNzEzXX0=
 -->
