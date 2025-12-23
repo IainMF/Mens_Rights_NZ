@@ -137,7 +137,7 @@ The New Zealand Human Rights Commission:
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. **A fair go for all? Rite tahi tätou katoa? Addressing Structural Discrimination in Public Services, HRC 2012**
 
-States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation in practice" 
+States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^45] against men. 
 
 
 >  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^45]
@@ -643,6 +643,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTE2MzMzOCwxNjA4MzI3MjU2LC0yOT
+eyJoaXN0b3J5IjpbMTQ3Mjk2MDc4MiwxNjA4MzI3MjU2LC0yOT
 MxMDgyOThdfQ==
 -->
