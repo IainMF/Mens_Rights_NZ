@@ -123,13 +123,12 @@ States also have the obligation to protect men from discrimination from non-Stat
 Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^40] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 
-
 #### Systemic discrimination
 
 >  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^45]
 
-##### Promote
->  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^46]
+
+
 
 #### Address discrimination against men
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^47]
@@ -166,6 +165,9 @@ School curricular should include education on equality and non-discrimination. S
 States have an obligation to condemn discrimination against men.
 
 > The first obligation of States parties referred to in the chapeau of article 2 is the obligation to “condemn discrimination against women in all its forms”. ==States parties have an immediate and continuous obligation to condemn discrimination==. They are ==obliged to proclaim to their population== and the international community their ==total opposition to all forms of discrimination against women to all levels and branches of Government and their determination to bring about the elimination of discrimination against women==. The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging. CEDAW General Recommendation 28 - paragraph 15
+
+##### Promote
+>  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^46]
 
 ### Adjusting legislation and policy
 States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^55] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^56] protection from discrimination in the law. 
@@ -626,5 +628,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTYzMDU5OCwtMjkzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbNzY3NTkxMzQwLC0yOTMxMDgyOThdfQ==
 -->
