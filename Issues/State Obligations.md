@@ -34,7 +34,7 @@ Commentators have argued that explicitly recognising men's rights is not necessa
 
 Without explicit recognition of State's human rights obligations to men and boys, States are unlikely to take action meet these obligations. A case of out-of-sight out-of-mind. 
 
-A State's obligations to men and boys can be derivied from their o
+A State's obligations to men and boys can be derived from their obligations to all people, logically from oblig
 
 ## Government obligations to men and boys
 States that have ratified international human rights treaties have agreed to be legally bound by them. The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
@@ -641,5 +641,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^130]: ICCPR General Comment 28 -- paragraph 11
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg5MjYyMjJdfQ==
+eyJoaXN0b3J5IjpbLTE3ODA3MTE2NTFdfQ==
 -->
