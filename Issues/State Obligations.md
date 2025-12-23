@@ -32,7 +32,9 @@ Although, men and boys have the same human rights as women and girls, guidance f
 
 Commentators have argued that explicitly recognising men's rights is not necessary. For example,  Charlesworth[^5] argues that male over-representation in the development and administration of international human rights law means that human rights already accounts for men's rights by default. However, male representation has not lead to men's gender-specific human rights issues being addressed in a meaningful or substantive way. For example, Stemple[^6] points out there are no human rights instruments that explicitly address sexual violence against men, and Abramson[^7] says there is discrimination against boys in the children's rights movement.
 
-Without explicit recognition of State's human rights obligations to men and boys, States are unlikely to take action meet these obligations. A case of out-of-sight out-of-mind.
+Without explicit recognition of State's human rights obligations to men and boys, States are unlikely to take action meet these obligations. A case of out-of-sight out-of-mind. 
+
+A State's obligations to men and boys can be derivied from their o
 
 ## Government obligations to men and boys
 States that have ratified international human rights treaties have agreed to be legally bound by them. The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
@@ -639,5 +641,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^130]: ICCPR General Comment 28 -- paragraph 11
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxOTg5NTQyXX0=
+eyJoaXN0b3J5IjpbLTE4ODg5MjYyMjJdfQ==
 -->
