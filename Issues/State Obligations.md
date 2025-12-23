@@ -74,7 +74,7 @@ States are required to take the necessary steps to ensure men enjoy their human 
 - **recognise its obligations to men and boys**; *and*
 -  **treat these obligations as equally important** as its obligations to women and girls.
 
-States must recognise disparities and disadvantages for men and boys *and also* recognise the human rights obligations to address those disparities or disadvantages. States must be proactive in identifying men's and boys' human rights issues and their obligations to respond. not assume that men's human rights are magically taken care of somehow. They must . For example, a State may recognise that suicide is a human rights issues that affects people's right to life, and they may recognise that men have a higher rate of suicide than women, but fail to recognise that they have an obligation to address men's higher suicide rate to ensure men equally enjoy their right to life with women.
+States must recognise disparities and disadvantages for men and boys *and also* recognise the human rights obligations to address those disparities or disadvantages. States must be proactive in identifying men's and boys' human rights issues and their obligations to respond. They must not assume that men's human rights are magically taken care of somehow. For example, a State may recognise that suicide is a human rights issues that affects people's right to life, and they may recognise that men have a higher rate of suicide than women, but fail to recognise that they have an obligation to address men's higher suicide rate to ensure men equally enjoy their right to life with women.
 
 International human rights treaty bodies have identified several 'necessary steps', for example:
 
@@ -640,5 +640,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTYzODQ5OSwtMjkzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbMTg1MzQ1MTgxOSwtMjkzMTA4Mjk4XX0=
 -->
