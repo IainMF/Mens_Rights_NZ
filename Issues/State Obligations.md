@@ -35,13 +35,13 @@ Without explicit recognition of State's human rights obligations to men and boys
 A State's obligations to men and boys can be derived from:
 - explicit obligations to all people;
 - explicit obligations of non-discrimination and equality between men and women;
-- logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as ICCPR Aricel 26
+- logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as, the ICCPR's requirement for equal and effective protection from discrimination.
 
 ## Government obligations to men and boys
-States that have ratified international human rights treaties have agreed to be legally bound by them. The *International Covenant on Civil and Political Rights* specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
+States that have ratified international human rights treaties have agreed to be legally bound by them. The ICCPR specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
  > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^8] *Emphasis added*
 
-Likewise, the *International Covenant on Economic, Cultural and Social Rights*, recognises the rights of men and boys in Articles 2 and 3. These articles require States to ensure both men and women equally enjoy their covenant rights.
+Likewise, the ICECSR, recognises the rights of men and boys in Articles 2 and 3. These articles require States to ensure both men and women equally enjoy their covenant rights.
 
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing... [^9]
 
@@ -642,5 +642,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^130]: ICCPR General Comment 28 -- paragraph 11
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc4NjE4OTQsLTI5MzEwODI5OF19
+eyJoaXN0b3J5IjpbLTE5MTk5MTg2NSwtMjkzMTA4Mjk4XX0=
 -->
