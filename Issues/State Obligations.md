@@ -119,6 +119,7 @@ While human rights treaties prohibit discrimination based on sex, it is understo
 
 Discrimination includes acts and omissions
 
+States also have a due diligence obligation to protect men from discrimination from non-State actors.[^34] [^35] [^38] [^41] For example, states must 
 
 **See page on discrimination for more about discrimination.**
 
@@ -131,7 +132,7 @@ Similarly, in order to ensure equal and effective protection against discriminat
 #### Gender analysis
 In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis. Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^42] States may be able to justify differential treatment of men if it is reasonable, objective,[^43] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^44]
 
-States also have the obligation to protect men from discrimination from non-State actors.[^34] [^35] [^38] [^41]
+
 
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^37]
 
@@ -658,6 +659,6 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTQwMTMyNiwtMTUyODQ5MTI3OCwtNj
+eyJoaXN0b3J5IjpbLTE0NDc2MjE0NiwtMTUyODQ5MTI3OCwtNj
 EyMTkwNzEzXX0=
 -->
