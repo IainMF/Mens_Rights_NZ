@@ -61,15 +61,12 @@ A state's obligations to men and boys involve all parts of the government and pu
 > Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^14]
 
 ## Take necessary steps
-Human rights treaties require States them to act to fulfil these obligations. The ICCPR requires States to "take the necessary steps"[^15] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^16] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^17]
+Human rights treaties require States to take steps to fulfil their obligations under the treaties. The ICCPR requires States to "take the necessary steps"[^15] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^16] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^17]
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^18] 
 
 ### Progressive realisation
-The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights. 
-> The  concept  of  progressive  realization  constitutes  a  recognition  of  the fact  that  full  realization  of  all  economic,  social  and  cultural  rights  will  generally  not be  able  to  be  achieved  in  a  short  period  of  time. ... Nevertheless, the fact that realization over time, or in other words progressively, is foreseen under the Covenant should not be misinterpreted as depriving the obligation of all meaningful content. It is on the one hand a necessary flexibility device, reflecting the realities of the real world and the difficulties involved for any country in ensuring full realization of economic, social and cultural rights. On the other hand, the phrase must be read in the light of the overall objective, indeed the raison d’être, of the Covenant which is to establish clear obligations for States parties in respect of the full realization of the rights in question. It thus imposes **an obligation to move as expeditiously and effectively as possible towards that goal**.[^19]
-
-Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  "the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"[^20]  against men and boys. The other is to take steps that are "deliberate, concrete and targeted as clearly as possible towards" meeting the Covenant's obligations to men and boys.[^21]
+The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights.[^19] Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  "the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"[^20]  against men and boys. The other is to take steps that are "deliberate, concrete and targeted as clearly as possible towards" meeting the Covenant's obligations to men and boys.[^21]
 
 
 
@@ -645,5 +642,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgyNDc1NzMsLTI5MzEwODI5OF19
+eyJoaXN0b3J5IjpbMTAxNjEyMjQyLC0yOTMxMDgyOThdfQ==
 -->
