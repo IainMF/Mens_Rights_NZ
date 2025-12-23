@@ -260,11 +260,11 @@ See CCPR General Comment No. 28 for reporting requirements
 > States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^77]
 
 #### Right to information
-Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government response. Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^78] Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.[^79]
+Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government response. Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^78]  States have an obligation to ensure men and men's advocates have access to relevant information and "are able to effectively promote and claim" their rights CEDAW GR 28 -- paragraph 27
+
+Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.[^79]
 
 > To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^80]
-
- States have an obligation to ensure men and men's advocates have access to relevant information and "are able to effectively promote and claim those rights" CEDAW GR 28 -- paragraph 27
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
@@ -635,6 +635,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^132]: ICESCR Article 16
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAwMTQ5NDUsMTYwODMyNzI1NiwtMj
-kzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbNjIxNzExMjQyLDE2MDgzMjcyNTYsLTI5Mz
+EwODI5OF19
 -->
