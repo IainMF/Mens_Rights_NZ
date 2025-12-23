@@ -121,7 +121,8 @@ Discrimination includes acts and omissions
 
 States also have a due diligence obligation to protect men from discrimination from non-State actors.[^34] [^35] [^38] [^41] For example, states must enact laws that prohibit discrimination
 
-> Article  2  also  imposes  a  due  diligence  obligation  on  States  parties  to  prevent  discrimination  by  private  actors.  In  some  cases,  a  private  actor’s  acts or  omission of  acts  may be attributed  to  the State  under  international law. States parties  are  thus  obliged  to  ensure  that  private  actors  do  not  engage  in  discrimination  against  women  as  defined  in  the  Convention.  The  appropriate  measures  that  States  parties  are  obliged  to  take  include  the  regulation  of  the  activities  of  private  actors  with  regard  to  education,  employment  and  health  policies  and  practices,  working  conditions  and  work standards,  and  other  areas  in  which  private  actors  provide  services  or  facilities,  such  as  banking and housing. CEDAW GR 28 - p.13
+> Article  2  also  imposes  a  due  diligence  obligation  on  States  parties  to  prevent  discrimination  by  private  actors.  In  some  cases,  a  private  actor’s  acts or  omission of  acts  may be attributed  to  the State  under  international law. **States parties  are  thus  obliged  to  ensure  that  private  actors  do  not  engage  in  discrimination  against  women  as  defined  in  the  Convention.**  The  appropriate  measures  that  States  parties  are  obliged  to  take  include  the  regulation  of  the  activities  of  private  actors  with  regard  to  education,  employment  and  health  policies  and  practices,  working  conditions  and  work standards,  and  other  areas  in  which  private  actors  provide  services  or  facilities,  such  as  banking and housing. CEDAW GR 28 - p.13
+
 
 **See page on discrimination for more about discrimination.**
 
@@ -661,6 +662,6 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwNzY1ODIxLC0xNTI4NDkxMjc4LC02MT
-IxOTA3MTNdfQ==
+eyJoaXN0b3J5IjpbNjk1OTkzNzUsNDcwNzY1ODIxLC0xNTI4ND
+kxMjc4LC02MTIxOTA3MTNdfQ==
 -->
