@@ -102,7 +102,7 @@ Discrimination against men and boys in international human rights law...
 
 **See page on discrimination for more about discrimination.**
 
-Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination". States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^32] and by "public authorities, by the community, or by private persons or bodies".[^33]
+Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^36] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^32] and by "public authorities, by the community, or by private persons or bodies".[^33]
 
 States must protect men from discrimination equally with women, and that protection must be effective. A State's mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
 
@@ -110,8 +110,6 @@ Similarly, in order to ensure equal and effective protection against discriminat
 
 States also have the obligation to protect men from discrimination from non-State actors.[^34] [^35]
 
-
-> While article 2 limits the scope of the rights to be protected against discrimination to those provided for in the Covenant, article 26 does not specify such limitations. That is to say, article 26 provides that **all persons are equal before the law and are entitled to equal protection of the law without discrimination**, and that the law shall **guarantee to all persons equal and effective protection against discrimination** on any of the enumerated grounds. In the view of the Committee, article 26 does not merely duplicate the guarantee already provided for in article 2 but provides in itself an autonomous right. It prohibits discrimination in law or in fact in any field regulated and protected by public authorities. Article 26 is therefore concerned with the obligations imposed on States parties in regard to their legislation and the application thereof. **Thus, when legislation is adopted by a State party, it must comply with the requirement of article 26 that its content should not be discriminatory.** In other words, the application of the principle of non discrimination contained in article 26 is not limited to those rights which are provided for in the Covenant.[^36]
 
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^37]
 
@@ -628,5 +626,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjA5MTY0NywtMjkzMTA4Mjk4XX0=
+eyJoaXN0b3J5IjpbLTQyNTY0MTI3NSwtMjkzMTA4Mjk4XX0=
 -->
