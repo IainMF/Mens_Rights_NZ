@@ -112,14 +112,11 @@ Similarly, in order to ensure equal and effective protection against discriminat
 
 States also have the obligation to protect men from discrimination from non-State actors.[^34] [^35] [^38] [^41]
 
-
-
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^37]
 
 > Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^39]
 
-Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^40] Thus, even
-
+Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^40] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 
 #### Condemn Discrimination against men
@@ -626,5 +623,5 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDkyMTkyMzAsLTI5MzEwODI5OF19
+eyJoaXN0b3J5IjpbMTYzMDM4NzkxMywtMjkzMTA4Mjk4XX0=
 -->
