@@ -127,13 +127,16 @@ Additionally, States need to prevent new forms of discrimination from appearing 
 
 #### Systemic discrimination
 
-Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's over-representation in prison by 15 to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed or minimised. 
+Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by 15 to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed or minimised. 
 
-> The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups. [^19]
+**See page on discrimination in the justice system for more.**
+
+
+> The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups.  ICESCR General Comment 20, paragraph 12
 
 The New Zealand Human Rights Commission:
 
-> Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. [^20]
+> Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. **A fair go for all? Rite tahi tätou katoa? Addressing Structural Discrimination in Public Services, HRC 2012**
 
 >  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against incitement to discrimination are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^45]
 
@@ -638,6 +641,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 [^131]: ICCPR Article 26
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2OTgxNzM3LDE2MDgzMjcyNTYsLTI5Mz
-EwODI5OF19
+eyJoaXN0b3J5IjpbMTY4MzQ2NTIzNiwxNjA4MzI3MjU2LC0yOT
+MxMDgyOThdfQ==
 -->
