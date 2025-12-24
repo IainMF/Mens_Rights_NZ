@@ -311,7 +311,9 @@ States should have a *National Plan of Action* for human rights which includes
 
 > This  means  that  the  State  party  must  **immediately  assess**  the  de  jure  and  de  facto  situation  of  women  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  women  and  achieving  women’s  substantive  equality  with  men. ... Such  a  policy  must  comprise  constitutional  and  legislative  guarantees,  including  an  alignment  with  legal  provisions  at  the  domestic  level  and  an  amendment  of  conflicting  legal  provisions.  It  must  also  include  other  appropriate  measures,  such  as  **comprehensive  action  plans  and  mechanisms  for  monitoring  and  implementing  them**,  which  provide  a framework  for  the  practical  realization  of the  principle  of  formal and  substantive equality of women and men. CEDAW GR 28 - p.24
 
+> **The  policy  must  be  comprehensive**  in  that  it  should  apply  to  all  fields  of  life,  including  those  which  are  not  explicitly  mentioned  in  the  text  of  the  Convention. It  must  apply  to  both  public  and  private  economic  spheres,  as  well  as  to  the  domestic  sphere,  and  ensure  that  all branches of  Government (executive, legislative and judicial branches) and all  levels  of  Government  assume  their  respective  responsibilities  for  implementation.  It  should  incorporate  the  entire  range  of  measures  that  are  appropriate  and  necessary  in  the  particular  circumstances of the State party. CEDAW GR 28 - p.25
 
+> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the rights-bearers, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.   CEDAW GR 28 - p.26
 
 
 
@@ -669,6 +671,6 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUwMDY5MDksLTI5NzUwMzg2LDQ3MD
-c2NTgyMSwtMTUyODQ5MTI3OCwtNjEyMTkwNzEzXX0=
+eyJoaXN0b3J5IjpbMTAxODQ2Nzg3NCwtMjk3NTAzODYsNDcwNz
+Y1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3MTNdfQ==
 -->
