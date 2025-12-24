@@ -705,8 +705,3 @@ States must protect children from discrimination based on sex.[^109]
 
 [^132]: ICCPR General Comment 28 -- paragraph 11
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMjc4NjgsLTgyNTg3NDI0OCwtMjk3NT
-AzODYsNDcwNzY1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3MTNd
-fQ==
--->
