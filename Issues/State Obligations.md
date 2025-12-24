@@ -59,7 +59,7 @@ Human rights treaties allow States to restrict or limit some human rights under 
 A state's obligations to men and boys involve all parts of the government and public authorities. 
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^16]
 
-Judges have an obligation to interpret laws in light of international human rights obligations and where national laws are inconsistent, to highlight these issues.
+Judges have an obligation to interpret laws in light of international human rights obligations and where national laws are inconsistent, to highlight these issues. CEDAW GR 28
 
 ### Acting in good faith
 > Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^17]
