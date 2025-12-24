@@ -61,7 +61,7 @@ Human rights treaties allow States to restrict or limit some human rights under 
 A state's obligations to men and boys involve all parts of the government and public authorities. 
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^13]
 
-Judges have an obligation
+Judges have an obligation to interpret laws in light of international human rights obligations and where national laws are inconsistent, to highlight these issues.
 
 ### Acting in good faith
 > Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^14]
@@ -345,6 +345,9 @@ States have an obligation to provide remedy to men and boys whose rights have be
 > Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^108]
 
 > Subparagraph (b) contains the obligation of States parties to ensure that legislation prohibiting discrimination and promoting equality of women and men provides appropriate remedies for women who are subjected to discrimination contrary to the Convention. This obligation requires that States parties provide reparation to women whose rights under the Convention have been violated. Without reparation the obligation to provide an appropriate remedy is not discharged. Such remedies should include different forms of reparation, such as  monetary  compensation,  restitution,  rehabilitation  and  reinstatement;  measures  of satisfaction, such as public apologies, public memorials and guarantees of non-repetition; changes in relevant laws and practices; and bringing to justice the perpetrators of violations of human rights of women. CEDAW GR 28 - p. 32
+
+
+> <![endif]--> States parties must ensure that women can invoke the principle of equality in support  of  complaints  of  acts  of  discrimination  contrary  to  the  Convention,  committed  by  public  officials  or  by  private  actors.  States  parties  must  further  ensure  that  women  have  recourse  to  affordable,  accessible  and  timely  remedies,  with  legal  aid  and  assistance  as  necessary,  to  be  settled  in  a  fair  hearing  by  a  competent  and  independent  court  or  tribunal,  where  appropriate.  Where  discrimination  against  women  also  constitutes  an  abuse  of  other  human  rights,  such  as  the  right  to  life  and  physical  integrity  in,  for  example,  cases  of  domestic  and  other  forms  of  violence,  States  parties  are  obliged  to initiate  criminal proceedings,  bring  the  perpetrator(s) to trial and impose appropriate penal sanctions. States parties should  financially support independent associations and centres providing legal resources for  women  in  their  work  to  educate  women  about  their  rights  to  equality  and  assist  them  in  pursuing remedies for discrimination.
 
 ### No Retrogression
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^110]
@@ -677,7 +680,7 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzkzOTcyMSwtODI1ODc0MjQ4LC0yOT
+eyJoaXN0b3J5IjpbMTQxMjkyODc0MywtODI1ODc0MjQ4LC0yOT
 c1MDM4Niw0NzA3NjU4MjEsLTE1Mjg0OTEyNzgsLTYxMjE5MDcx
 M119
 -->
