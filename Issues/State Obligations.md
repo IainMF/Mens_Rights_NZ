@@ -195,6 +195,7 @@ States must educate the population and state officials about men's human rights.
 
 > Fosters  wide  knowledge  about  and  support  for  its  obligations  under  the Convention (promote);  CEDAW GR 28 - p.37
 
+> Establishing  codes  of  conduct  for  public  officials  to  ensure  respect  for  the  principles of equality and non-discrimination CEDAW GR 28 - p.38
 
 #### Public education and  Awareness raising
 States have an obligation to educate the public, including men and boys, about their human rights. 
@@ -239,7 +240,7 @@ States must review their legislation, policy and programmes periodically to ensu
 > States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^60]
 
 ### Adequate resources
-> Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources** CEDA
+> Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources** CEDAW GR 28 -p.38
 
 
 ### Positive measures
@@ -695,7 +696,7 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5NDYwMjg3LC04MjU4NzQyNDgsLTI5Nz
-UwMzg2LDQ3MDc2NTgyMSwtMTUyODQ5MTI3OCwtNjEyMTkwNzEz
-XX0=
+eyJoaXN0b3J5IjpbLTE2MzYyOTM1MzUsLTgyNTg3NDI0OCwtMj
+k3NTAzODYsNDcwNzY1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3
+MTNdfQ==
 -->
