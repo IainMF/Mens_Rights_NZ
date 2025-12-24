@@ -39,6 +39,8 @@ A State's obligations to men and boys can be derived from:
 - explicit obligations of non-discrimination and equality between men and women;
 - logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as, the ICCPR's requirement for equal and effective protection from discrimination.[^131]
 
+> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.   CEDAW GR 28 - p.26
+
 ## Government obligations to men and boys
 States that have ratified international human rights treaties have agreed to be legally bound by them. The ICCPR specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
  > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^8] *Emphasis added*
@@ -313,7 +315,7 @@ States should have a *National Plan of Action* for human rights which includes
 
 > **The  policy  must  be  comprehensive**  in  that  it  should  apply  to  all  fields  of  life,  including  those  which  are  not  explicitly  mentioned  in  the  text  of  the  Convention. It  must  apply  to  both  public  and  private  economic  spheres,  as  well  as  to  the  domestic  sphere,  and  ensure  that  all branches of  Government (executive, legislative and judicial branches) and all  levels  of  Government  assume  their  respective  responsibilities  for  implementation.  It  should  incorporate  the  entire  range  of  measures  that  are  appropriate  and  necessary  in  the  particular  circumstances of the State party. CEDAW GR 28 - p.25
 
-> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the rights-bearers, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.   CEDAW GR 28 - p.26
+> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.   CEDAW GR 28 - p.26
 
 
 
@@ -671,6 +673,6 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODQ2Nzg3NCwtMjk3NTAzODYsNDcwNz
+eyJoaXN0b3J5IjpbLTgyNTg3NDI0OCwtMjk3NTAzODYsNDcwNz
 Y1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3MTNdfQ==
 -->
