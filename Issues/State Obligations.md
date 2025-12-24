@@ -352,6 +352,8 @@ States have an obligation to provide remedy to men and boys whose rights have be
 
 > States parties must ensure that women can invoke the principle of equality in support  of  complaints  of  acts  of  discrimination  contrary  to  the  Convention,  committed  by  public  officials  or  by  private  actors.  States  parties  must  further  ensure  that  women  have  recourse  to  affordable,  accessible  and  timely  remedies,  with  legal  aid  and  assistance  as  necessary,  to  be  settled  in  a  fair  hearing  by  a  competent  and  independent  court  or  tribunal,  where  appropriate.  Where  discrimination  against  women  also  constitutes  an  abuse  of  other  human  rights,  such  as  the  right  to  life  and  physical  integrity  in,  for  example,  cases  of  domestic  and  other  forms  of  violence,  States  parties  are  obliged  to initiate  criminal proceedings,  bring  the  perpetrator(s) to trial and impose appropriate penal sanctions. States parties should  financially support independent associations and centres providing legal resources for  women  in  their  work  to  educate  women  about  their  rights  to  equality  and  assist  them  in  pursuing remedies for discrimination. CEDAW GR 28 - p.34
 
+> ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies CEDAW GR 28- p.36
+
 ### No Retrogression
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^110]
 
@@ -683,7 +685,7 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDc4NzM2NywtODI1ODc0MjQ4LC0yOT
-c1MDM4Niw0NzA3NjU4MjEsLTE1Mjg0OTEyNzgsLTYxMjE5MDcx
-M119
+eyJoaXN0b3J5IjpbLTE0ODU5NzU4MDAsLTgyNTg3NDI0OCwtMj
+k3NTAzODYsNDcwNzY1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3
+MTNdfQ==
 -->
