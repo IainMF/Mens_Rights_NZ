@@ -65,7 +65,7 @@ A state's obligations to men and boys involve all parts of the government and pu
 > Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^14]
 
 ## Take necessary steps
-Human rights treaties require States to take steps to fulfil their obligations under the treaties. The ICCPR requires States to "take the necessary steps"[^15] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^16] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^17]
+Human rights treaties require States to take steps to fulfil their obligations under the treaties. The ICCPR requires States to "take the necessary steps"[^15] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^16] **CEDAW GR 28 - p.26** Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^17]
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^18] 
 
@@ -673,6 +673,7 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTg3NDI0OCwtMjk3NTAzODYsNDcwNz
-Y1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3MTNdfQ==
+eyJoaXN0b3J5IjpbLTE5NDY4OTM3NiwtODI1ODc0MjQ4LC0yOT
+c1MDM4Niw0NzA3NjU4MjEsLTE1Mjg0OTEyNzgsLTYxMjE5MDcx
+M119
 -->
