@@ -197,6 +197,9 @@ States must educate the population and state officials about men's human rights.
 
 > Establishing  codes  of  conduct  for  public  officials  to  ensure  respect  for  the  principles of equality and non-discrimination CEDAW GR 28 - p.38
 
+Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights.
+> Undertaking specific education and training programmes about the principles and provisions of the Convention directed to all Government agencies, public officials and, in particular, the legal profession and the judiciary. CEDAW GR 28 - p.38
+
 #### Public education and  Awareness raising
 States have an obligation to educate the public, including men and boys, about their human rights. 
 
@@ -696,7 +699,7 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYyOTM1MzUsLTgyNTg3NDI0OCwtMj
-k3NTAzODYsNDcwNzY1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3
-MTNdfQ==
+eyJoaXN0b3J5IjpbNzQ5MDQyMDYwLC04MjU4NzQyNDgsLTI5Nz
+UwMzg2LDQ3MDc2NTgyMSwtMTUyODQ5MTI3OCwtNjEyMTkwNzEz
+XX0=
 -->
