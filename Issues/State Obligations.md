@@ -13,7 +13,7 @@ A State's human rights obligations under international treaties are divided into
 
 > The obligation to fulfil further contains duties to provide, promote and facilitate.[^1]
 
-> The  obligation  to  fulfil  encompasses  the  obligation  of  States  parties  to  facilitate  access  to  and  provide  for  the  **full  realization  of  women’s  rights**. CEDAW GR 28 - p.20
+> The  obligation  to  fulfil  encompasses  the  obligation  of  States  parties  to  facilitate  access  to  and  provide  for  the  **full  realization  of  women’s  rights**.[^113] 
 
 ## The need for identify state obligations to men and boys
 Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Although, men and boys have the same human rights as women and girls, guidance for protecting and respecting men's rights is lacking compared to women's rights. States have several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*. There is nothing similar for men and boys.
@@ -39,7 +39,7 @@ A State's obligations to men and boys can be derived from:
 - explicit obligations of non-discrimination and equality between men and women;
 - logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as, the ICCPR's requirement for equal and effective protection from discrimination.[^8]
 
-> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.   CEDAW GR 28 - p.26
+> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^114]
 
 ## Government obligations to men and boys
 States that have ratified international human rights treaties have agreed to be legally bound by them. The ICCPR specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
@@ -67,13 +67,12 @@ Judges have an obligation to interpret laws in light of international human righ
 > Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^15]
 
 ## Take necessary steps
-Human rights treaties require States to take steps to fulfil their obligations under the treaties. The ICCPR requires States to "take the necessary steps"[^16] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^17] **CEDAW GR 28 - p.26** Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^18]
+Human rights treaties require States to take steps to fulfil their obligations under the treaties. The ICCPR requires States to "take the necessary steps"[^16] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^17] [^115] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^18]
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^19] 
 
 ### Progressive realisation
 The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights.[^20] Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  "the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"[^21]  against men and boys. The other is to take steps that are "deliberate, concrete and targeted as clearly as possible towards" meeting the Covenant's obligations to men and boys.[^22]
-
 
 ## What steps are necessary?
 States are required to take the necessary steps to ensure men enjoy their human rights. The most important steps required are for a State to:
@@ -102,15 +101,9 @@ States are also required to "take affirmative action in order to diminish or eli
  
 #### Recognition of existing disadvantage
  
- In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys. CEDAW GR 28 - p5
+ In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys. [^116] **More sources**
 
-Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities face by men may be discrimination. XXX sources
-
-
-
-
- 
- 
+Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities face by men may be discrimination. **XXX sources**
 
 ##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
 
@@ -127,10 +120,9 @@ Discrimination includes acts and omissions
 
 States also have a due diligence obligation to protect men from discrimination from non-State actors.[^33] [^34] [^35] [^36] For example, states must enact laws that prohibit discrimination
 
-> Article  2  also  imposes  a  due  diligence  obligation  on  States  parties  to  prevent  discrimination  by  private  actors.  In  some  cases,  a  private  actor’s  acts or  omission of  acts  may be attributed  to  the State  under  international law. **States parties  are  thus  obliged  to  ensure  that  private  actors  do  not  engage  in  discrimination  against  women  as  defined  in  the  Convention.**  The  appropriate  measures  that  States  parties  are  obliged  to  take  include  the  regulation  of  the  activities  of  private  actors  with  regard  to  education,  employment  and  health  policies  and  practices,  working  conditions  and  work standards,  and  other  areas  in  which  private  actors  provide  services  or  facilities,  such  as  banking and housing. CEDAW GR 28 - p.13
+> Article  2  also  imposes  a  due  diligence  obligation  on  States  parties  to  prevent  discrimination  by  private  actors.  In  some  cases,  a  private  actor’s  acts or  omission of  acts  may be attributed  to  the State  under  international law. **States parties  are  thus  obliged  to  ensure  that  private  actors  do  not  engage  in  discrimination  against  women  as  defined  in  the  Convention.**  The  appropriate  measures  that  States  parties  are  obliged  to  take  include  the  regulation  of  the  activities  of  private  actors  with  regard  to  education,  employment  and  health  policies  and  practices,  working  conditions  and  work standards,  and  other  areas  in  which  private  actors  provide  services  or  facilities,  such  as  banking and housing.[^117]
 
-> Subparagraph (d)  establishes an  obligation of States parties to abstain  from  engaging  in  any  act or  practice  of  direct  or  indirect discrimination  against  women. States  parties must  ensure that State institutions, agents, laws and policies do not directly or explicitly  discriminate  against  women.  They  must  also  ensure  that  any  laws,  policies  or  actions  that  have the effect or result of generating discrimination are abolished. CEDAW GR 28 - p.35
-
+> Subparagraph (d)  establishes an  obligation of States parties to abstain  from  engaging  in  any  act or  practice  of  direct  or  indirect discrimination  against  women. States  parties must  ensure that State institutions, agents, laws and policies do not directly or explicitly  discriminate  against  women.  They  must  also  ensure  that  any  laws,  policies  or  actions  that  have the effect or result of generating discrimination are abolished.[^118]
 
 
 **See page on discrimination for more about discrimination.**
@@ -145,7 +137,6 @@ Similarly, in order to ensure equal and effective protection against discriminat
 In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis. Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^40] States may be able to justify differential treatment of men if it is reasonable, objective,[^41] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^42]
 
 
-
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^43]
 
 > Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^44]
@@ -153,10 +144,10 @@ In order for States to protect men from discrimination, they must  collect sex d
 Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^45] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 
-> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms  of  discrimination** against women in general and against women belonging to specific  vulnerable groups in particular. CEDAW GR 28 - p.10
+> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms  of  discrimination** against women in general and against women belonging to specific  vulnerable groups in particular.[^119]
 
 #### Direct and direct discrimination
-> States  parties  shall  ensure  that  there  is  neither  direct  nor  indirect  discrimination  against  women.  Direct  discrimination  against  women  constitutes  different  treatment  explicitly  based  on  grounds  of  sex  and  gender  differences.  Indirect  discrimination  against  women  occurs  when  a  law,  policy,  programme  or  practice  appears  to  be  neutral  in  so  far  as  it  relates  to  men  and  women,  but  has  a  discriminatory  effect  in  practice  on  women  because  pre-existing  inequalities  are  not  addressed  by  the  apparently  neutral  measure.  Moreover,  indirect  discrimination  can  exacerbate  existing  inequalities  owing  to  a  failure  to  recognize  structural  and  historical  patterns  of  discrimination  and  unequal power relationships between women and men. CEDAW GR 28 - p.16
+> States  parties  shall  ensure  that  there  is  neither  direct  nor  indirect  discrimination  against  women.  Direct  discrimination  against  women  constitutes  different  treatment  explicitly  based  on  grounds  of  sex  and  gender  differences.  Indirect  discrimination  against  women  occurs  when  a  law,  policy,  programme  or  practice  appears  to  be  neutral  in  so  far  as  it  relates  to  men  and  women,  but  has  a  discriminatory  effect  in  practice  on  women  because  pre-existing  inequalities  are  not  addressed  by  the  apparently  neutral  measure.  Moreover,  indirect  discrimination  can  exacerbate  existing  inequalities  owing  to  a  failure  to  recognize  structural  and  historical  patterns  of  discrimination  and  unequal power relationships between women and men.[^120]
 
 #### Systemic discrimination
 
@@ -168,7 +159,7 @@ Systemic, or structural, discrimination is discrimination that occurs because cu
 
 The New Zealand Human Rights Commission:
 
-> Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent. **A fair go for all? Rite tahi tätou katoa? Addressing Structural Discrimination in Public Services, HRC 2012**
+> Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent.[^121]
 
 States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^46] against men. 
 
@@ -189,23 +180,24 @@ States that permit discrimination against men or fail "to exercise due diligence
 ### Education
 States must educate the population and state officials about men's human rights.[^50] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to violate human rights, such as police officers, and judges. 
 
-> States  parties  should  ensure  that  all  Government  bodies  and  organs  are  fully  aware  of  the  principles  of  equality  and  non-discrimination  on  the  basis  of  sex  and  gender  and  that  adequate  training  and  awareness-raising  programmes  are  set  up  and  carried  out in this respect. CEDAW GR 28 - p.17
+> States  parties  should  ensure  that  all  Government  bodies  and  organs  are  fully  aware  of  the  principles  of  equality  and  non-discrimination  on  the  basis  of  sex  and  gender  and  that  adequate  training  and  awareness-raising  programmes  are  set  up  and  carried  out in this respect.[^122]
 
-> promote  education  and  support  for  the  goals  of  the Convention throughout the education system and in the community CEDAW GR 28 - p.36
+> promote  education  and  support  for  the  goals  of  the Convention throughout the education system and in the community[^123] 
 
-> Fosters  wide  knowledge  about  and  support  for  its  obligations  under  the Convention (promote);  CEDAW GR 28 - p.37
+> Fosters  wide  knowledge  about  and  support  for  its  obligations  under  the Convention (promote);[^124]  
 
-> Establishing  codes  of  conduct  for  public  officials  to  ensure  respect  for  the  principles of equality and non-discrimination CEDAW GR 28 - p.38
+> Establishing  codes  of  conduct  for  public  officials  to  ensure  respect  for  the  principles of equality and non-discrimination[^125] 
 
 Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights.
-> Undertaking specific education and training programmes about the principles and provisions of the Convention directed to all Government agencies, public officials and, in particular, the legal profession and the judiciary. CEDAW GR 28 - p.38
+
+> Undertaking specific education and training programmes about the principles and provisions of the Convention directed to all Government agencies, public officials and, in particular, the legal profession and the judiciary.[^126] 
 
 #### Public education and  Awareness raising
 States have an obligation to educate the public, including men and boys, about their human rights. 
 
 School curricular should include education on equality and non-discrimination. Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
 
-> Enlisting  all  media  in  public  education  programmes  about  the  equality  of  women  and  men,  and  ensuring  in  particular  that  women  are  aware  of  their  right  to  equality  without discrimination, of the measures taken by the State party to implement the  Convention,  and  of  the  concluding  observations  by  the  Committee  on  the  reports  of  the  State party; CEDAW GR 28 - p.38
+> Enlisting  all  media  in  public  education  programmes  about  the  equality  of  women  and  men,  and  ensuring  in  particular  that  women  are  aware  of  their  right  to  equality  without discrimination, of the measures taken by the State party to implement the  Convention,  and  of  the  concluding  observations  by  the  Committee  on  the  reports  of  the  State party;[^127] 
 
 > - To conduct human rights education and training programmes for judges and public officials 
 > - To conduct awareness-raising and training programmes on equality for workers involved in the realization of economic, social and cultural rights at the grass-roots level
@@ -215,13 +207,13 @@ School curricular should include education on equality and non-discrimination. S
 
 > the State should conduct human rights education and training programmes for public officials and make such training available to judges and candidates for judicial appointments. Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^53]
 
-> encourage the work of human rights and women’s non-governmental organizations CEDAW GR 28 - p.36
+> encourage the work of human rights and women’s non-governmental organizations[^128] 
 
 #### Condemn Discrimination against men
 
 States have an obligation to condemn discrimination against men.
 
-> The first obligation of States parties referred to in the chapeau of article 2 is the obligation to “condemn discrimination against women in all its forms”. ==States parties have an immediate and continuous obligation to condemn discrimination==. They are ==obliged to proclaim to their population== and the international community their ==total opposition to all forms of discrimination against women to all levels and branches of Government and their determination to bring about the elimination of discrimination against women==. The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging. CEDAW General Recommendation 28 - paragraph 15
+> The first obligation of States parties referred to in the chapeau of article 2 is the obligation to “condemn discrimination against women in all its forms”. ==States parties have an immediate and continuous obligation to condemn discrimination==. They are ==obliged to proclaim to their population== and the international community their ==total opposition to all forms of discrimination against women to all levels and branches of Government and their determination to bring about the elimination of discrimination against women==. The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging.[^129] 
 
 ##### Promote
 >  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^54]
@@ -233,7 +225,7 @@ States must review their legislation, policy and programmes periodically to ensu
 
 > In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^57]
 
-> ... Laws which impose more severe penalties on women than on men for adultery or other offences also violate the requirement of equal treatment. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination. ICCPR GC 28 - paragraph 31
+> ... Laws which impose more severe penalties on women than on men for adultery or other offences also violate the requirement of equal treatment. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.[^130] 
 
 > Respecting the right obliges States parties **not to adopt, and to repeal laws and rescind, policies, administrative measures and programmes that do not conform with the right protected by article 3**.  In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^57]
 
@@ -244,7 +236,7 @@ States must review their legislation, policy and programmes periodically to ensu
 > States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^60]
 
 ### Adequate resources
-> Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources** CEDAW GR 28 -p.38
+> Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources**[^131] 
 
 
 ### Positive measures
@@ -264,8 +256,6 @@ States must review their legislation, policy and programmes periodically to ensu
 ### Monitoring and Reporting
 
 International human rights treaties require States to monitor and report on their implementation of those treaties.[^67] [^68] Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See **Complaint to MoJ Regarding NZ reporting**
-
-
 
 
 States are required to report on discrimination against men, both formal and substantive.
@@ -309,10 +299,10 @@ See CCPR General Comment No. 28 for reporting requirements
 #### Indicators and benchmarks
 > States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^78]
 
-> Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention CEDAW GR 28 - p.38
+> Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^132] 
 
 #### Right to information
-Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government response. Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^79]  States have an obligation to ensure men and men's advocates have access to relevant information and "are able to effectively promote and claim" their rights CEDAW GR 28 -- paragraph 27
+Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government response. Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^79]  States have an obligation to ensure men and men's advocates have access to relevant information and "are able to effectively promote and claim" their rights[^143] 
 
 Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.[^80]
 
@@ -320,7 +310,7 @@ Therefore a State's monitoring and reporting of men's rights should be available
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
-> The policy must ensure that women, as individuals and groups, ==have access to information== about their rights under the Convention and ==are able to effectively promote and claim those rights==. The State party should also ensure that women are able to participate actively in the development, implementation and monitoring of the policy. To this end, resources must be devoted to ensuring ==that human rights and women’s non-governmental organizations are well-informed, adequately consulted and generally able to play an active role in the initial and subsequent development of the policy== CEDAW GR 28 -- paragraph 27
+> The policy must ensure that women, as individuals and groups, ==have access to information== about their rights under the Convention and ==are able to effectively promote and claim those rights==. The State party should also ensure that women are able to participate actively in the development, implementation and monitoring of the policy. To this end, resources must be devoted to ensuring ==that human rights and women’s non-governmental organizations are well-informed, adequately consulted and generally able to play an active role in the initial and subsequent development of the policy== [^133]
 
 ### National Plan of Action
 States should have a *National Plan of Action* for human rights which includes
@@ -333,12 +323,11 @@ States should have a *National Plan of Action* for human rights which includes
 > National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^85]
 
 
-> This  means  that  the  State  party  must  **immediately  assess**  the  de  jure  and  de  facto  situation  of  women  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  women  and  achieving  women’s  substantive  equality  with  men. ... Such  a  policy  must  comprise  constitutional  and  legislative  guarantees,  including  an  alignment  with  legal  provisions  at  the  domestic  level  and  an  amendment  of  conflicting  legal  provisions.  It  must  also  include  other  appropriate  measures,  such  as  **comprehensive  action  plans  and  mechanisms  for  monitoring  and  implementing  them**,  which  provide  a framework  for  the  practical  realization  of the  principle  of  formal and  substantive equality of women and men. CEDAW GR 28 - p.24
+> This  means  that  the  State  party  must  **immediately  assess**  the  de  jure  and  de  facto  situation  of  women  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  women  and  achieving  women’s  substantive  equality  with  men. ... Such  a  policy  must  comprise  constitutional  and  legislative  guarantees,  including  an  alignment  with  legal  provisions  at  the  domestic  level  and  an  amendment  of  conflicting  legal  provisions.  It  must  also  include  other  appropriate  measures,  such  as  **comprehensive  action  plans  and  mechanisms  for  monitoring  and  implementing  them**,  which  provide  a framework  for  the  practical  realization  of the  principle  of  formal and  substantive equality of women and men.[^134] 
 
-> **The  policy  must  be  comprehensive**  in  that  it  should  apply  to  all  fields  of  life,  including  those  which  are  not  explicitly  mentioned  in  the  text  of  the  Convention. It  must  apply  to  both  public  and  private  economic  spheres,  as  well  as  to  the  domestic  sphere,  and  ensure  that  all branches of  Government (executive, legislative and judicial branches) and all  levels  of  Government  assume  their  respective  responsibilities  for  implementation.  It  should  incorporate  the  entire  range  of  measures  that  are  appropriate  and  necessary  in  the  particular  circumstances of the State party. CEDAW GR 28 - p.25
+> **The  policy  must  be  comprehensive**  in  that  it  should  apply  to  all  fields  of  life,  including  those  which  are  not  explicitly  mentioned  in  the  text  of  the  Convention. It  must  apply  to  both  public  and  private  economic  spheres,  as  well  as  to  the  domestic  sphere,  and  ensure  that  all branches of  Government (executive, legislative and judicial branches) and all  levels  of  Government  assume  their  respective  responsibilities  for  implementation.  It  should  incorporate  the  entire  range  of  measures  that  are  appropriate  and  necessary  in  the  particular  circumstances of the State party.[^135] 
 
-> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.   CEDAW GR 28 - p.26
-
+> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^136]   
 
 
 ### Representation in decision making
@@ -347,7 +336,6 @@ States must ensure that men are represented in decision making. This is not limi
 > To promote equal participation of men and women in development planning, decision-making and in the **benefits** of development and all programmes related to the realization of economic, social and cultural rights.[^86]
 > 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^87]
-
 
 ### Remedy
 States have an obligation to provide remedy to men and boys whose rights have been violated.
@@ -364,16 +352,16 @@ States have an obligation to provide remedy to men and boys whose rights have be
 > Article 2, paragraph 3, requires that in addition to effective protection of Covenant rights States Parties must ensure that individuals also have accessible and effective remedies to vindicate those rights\...
 > Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^92]
 
-> Subparagraph (b) contains the obligation of States parties to ensure that legislation prohibiting discrimination and promoting equality of women and men provides appropriate remedies for women who are subjected to discrimination contrary to the Convention. This obligation requires that States parties provide reparation to women whose rights under the Convention have been violated. Without reparation the obligation to provide an appropriate remedy is not discharged. Such remedies should include different forms of reparation, such as  monetary  compensation,  restitution,  rehabilitation  and  reinstatement;  measures  of satisfaction, such as public apologies, public memorials and guarantees of non-repetition; changes in relevant laws and practices; and bringing to justice the perpetrators of violations of human rights of women. CEDAW GR 28 - p. 32
+> Subparagraph (b) contains the obligation of States parties to ensure that legislation prohibiting discrimination and promoting equality of women and men provides appropriate remedies for women who are subjected to discrimination contrary to the Convention. This obligation requires that States parties provide reparation to women whose rights under the Convention have been violated. Without reparation the obligation to provide an appropriate remedy is not discharged. Such remedies should include different forms of reparation, such as  monetary  compensation,  restitution,  rehabilitation  and  reinstatement;  measures  of satisfaction, such as public apologies, public memorials and guarantees of non-repetition; changes in relevant laws and practices; and bringing to justice the perpetrators of violations of human rights of women.[^137]
 
 
-> States parties must ensure that women can invoke the principle of equality in support  of  complaints  of  acts  of  discrimination  contrary  to  the  Convention,  committed  by  public  officials  or  by  private  actors.  States  parties  must  further  ensure  that  women  have  recourse  to  affordable,  accessible  and  timely  remedies,  with  legal  aid  and  assistance  as  necessary,  to  be  settled  in  a  fair  hearing  by  a  competent  and  independent  court  or  tribunal,  where  appropriate.  Where  discrimination  against  women  also  constitutes  an  abuse  of  other  human  rights,  such  as  the  right  to  life  and  physical  integrity  in,  for  example,  cases  of  domestic  and  other  forms  of  violence,  States  parties  are  obliged  to initiate  criminal proceedings,  bring  the  perpetrator(s) to trial and impose appropriate penal sanctions. States parties should  financially support independent associations and centres providing legal resources for  women  in  their  work  to  educate  women  about  their  rights  to  equality  and  assist  them  in  pursuing remedies for discrimination. CEDAW GR 28 - p.34
+> States parties must ensure that women can invoke the principle of equality in support  of  complaints  of  acts  of  discrimination  contrary  to  the  Convention,  committed  by  public  officials  or  by  private  actors.  States  parties  must  further  ensure  that  women  have  recourse  to  affordable,  accessible  and  timely  remedies,  with  legal  aid  and  assistance  as  necessary,  to  be  settled  in  a  fair  hearing  by  a  competent  and  independent  court  or  tribunal,  where  appropriate.  Where  discrimination  against  women  also  constitutes  an  abuse  of  other  human  rights,  such  as  the  right  to  life  and  physical  integrity  in,  for  example,  cases  of  domestic  and  other  forms  of  violence,  States  parties  are  obliged  to initiate  criminal proceedings,  bring  the  perpetrator(s) to trial and impose appropriate penal sanctions. States parties should  financially support independent associations and centres providing legal resources for  women  in  their  work  to  educate  women  about  their  rights  to  equality  and  assist  them  in  pursuing remedies for discrimination.[^138] 
 
-> ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies CEDAW GR 28- p.36
+> ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies[^139] 
 
 ### Accountability
 
-> Effective  implementation  of  the  Convention  requires  that  a  State  party  be accountable to its citizens and other members of its community at both the national and international levels. In order for this accountability function to work effectively, appropriate mechanisms and institutions must be put in place.  CEDAW GR 28 - p.40
+> Effective  implementation  of  the  Convention  requires  that  a  State  party  be accountable to its citizens and other members of its community at both the national and international levels. In order for this accountability function to work effectively, appropriate mechanisms and institutions must be put in place.[^140]  
 
 ### No Retrogression
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^93]
@@ -384,7 +372,7 @@ States have an obligation to provide remedy to men and boys whose rights have be
 
 
 #### Ensure marriage equality
-International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children. ICCPR Article 23.4
+International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^141] 
 
 > Such steps may take the form of legislative, administrative or other measures, but it is a **positive duty** of States parties to **make certain that spouses have equal rights as required by the Covenant**.[^95]
 
@@ -431,7 +419,7 @@ States must protect children from discrimination based on sex.[^109]
 
 24.3 - Every child has the right to acquire a nationality.
 
-> General Comment 28 -- para. 28. **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.** States parties should report on measures taken to ensure that girls are treated equally to boys *in education*, in feeding and in *health care*, and provide the Committee with disaggregated data in this respect. States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*.[^110]
+> The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.** States parties should report on measures taken to ensure that girls are treated equally to boys *in education*, in feeding and in *health care*, and provide the Committee with disaggregated data in this respect. States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*.[^110]
 
 ##### General comment 17
 
@@ -440,12 +428,12 @@ States must protect children from discrimination based on sex.[^109]
 #### Address violence
 > Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, **to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage**; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and **boys and girls should be protected equally from practices that promote child marriage**, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  **Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality**.  States parties **must take appropriate measures to eliminate violence against men and women** and act with **due diligence** to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^112]
 
->  Discrimination  against  women  on  the basis  of  sex  and gender  comprises,  as  stated in  general recommendation No. 19 on violence against women, gender-based violence,  namely,  violence  that  is  directed  against  a  woman  because  she  is  a  woman  or  violence  that  affects  women  disproportionately.  It  is  a  form  of  discrimination  that  seriously  inhibits  women’s  ability  to  enjoy  and  exercise  their  human  rights  and  fundamental  freedoms  on  the  basis  of  equality  with  men.  It  includes  acts  that  inflict  physical,  mental  or  sexual  harm  or  suffering,  threats  of  such  acts,  coercion  and  other  deprivations  of  liberty,  the  violence  that  occurs  within  the  family  or  domestic  unit  or  within  any  other  interpersonal  relationship,  or  violence  perpetrated  or  condoned  by  the  State  or  its  agents  regardless  of  where  it  occurs.  Gender-based  violence  may  breach  specific  provisions  of  the  Convention,  regardless  of  whether  those  provisions  expressly  mention  violence.  States  parties  have  a  due  diligence  obligation to prevent, investigate, prosecute and punish such acts of gender-based violence. CEDAW GR 28 - p.19
+>  Discrimination  against  women  on  the basis  of  sex  and gender  comprises,  as  stated in  general recommendation No. 19 on violence against women, gender-based violence,  namely,  violence  that  is  directed  against  a  woman  because  she  is  a  woman  or  violence  that  affects  women  disproportionately.  It  is  a  form  of  discrimination  that  seriously  inhibits  women’s  ability  to  enjoy  and  exercise  their  human  rights  and  fundamental  freedoms  on  the  basis  of  equality  with  men.  It  includes  acts  that  inflict  physical,  mental  or  sexual  harm  or  suffering,  threats  of  such  acts,  coercion  and  other  deprivations  of  liberty,  the  violence  that  occurs  within  the  family  or  domestic  unit  or  within  any  other  interpersonal  relationship,  or  violence  perpetrated  or  condoned  by  the  State  or  its  agents  regardless  of  where  it  occurs.  Gender-based  violence  may  breach  specific  provisions  of  the  Convention,  regardless  of  whether  those  provisions  expressly  mention  violence.  States  parties  have  a  due  diligence  obligation to prevent, investigate, prosecute and punish such acts of gender-based violence.[^142] 
 
 
 
 
-[^1]: ICESCR General Comment 16 - para. 17
+[^1]: ICESCR General Comment 16 - paragraph  17
 
 [^2]: General Comment 28 replaces General Comment 4
 
@@ -463,13 +451,13 @@ States must protect children from discrimination based on sex.[^109]
 
 [^9]: ICCPR General Comment 28 -- paragraph 3
 
-[^10]: ICESCR General Comment 16 - para. 3 
+[^10]: ICESCR General Comment 16 - paragraph  3 
 
-[^11]: ICESCR General Comment 16 - para. 21
+[^11]: ICESCR General Comment 16 - paragraph  21
 
 [^12]: ICESCR General Comment 16 -- Paragraph 41
 
-[^13]: ICESCR General Comment 16 - para. 17
+[^13]: ICESCR General Comment 16 - paragraph  17
 
 [^14]: ICCPR General Comment 31 -- Paragraph 4
 
@@ -483,27 +471,27 @@ States must protect children from discrimination based on sex.[^109]
 
 [^19]: ICESCR Article 2.1
 
-[^20]: ICESCR General Comment 3 - para. 9
+[^20]: ICESCR General Comment 3 - paragraph  9
 
-[^21]: ICECSR General Comment 3 - para. 1
+[^21]: ICECSR General Comment 3 - paragraph  1
 
 [^22]: ICESCR General Comment 3 -- Paragraph 2
 
-[^23]: ICCPR General Comment 28 - para. 3
+[^23]: ICCPR General Comment 28 - paragraph  3
 
-[^24]: ICCPR General Comment 28 - para. 4
+[^24]: ICCPR General Comment 28 - paragraph  4
 
-[^25]: ICCPR General Comment 28 - para. 6
+[^25]: ICCPR General Comment 28 - paragraph  6
 
-[^26]: ICCPR General Comment 28 - para. 3
+[^26]: ICCPR General Comment 28 - paragraph  3
 
-[^27]: ICESCR General Comment 16 - para. 29
+[^27]: ICESCR General Comment 16 - paragraph  29
 
-[^28]: ICECSR General Comment 20 - para. 20
+[^28]: ICECSR General Comment 20 - paragraph  20
 
-[^29]: ICESCR General Comment 16 - para. 19
+[^29]: ICESCR General Comment 16 - paragraph  19
 
-[^30]: ICESCR General Comment 16 - para. 19
+[^30]: ICESCR General Comment 16 - paragraph  19
 
 [^31]: ICCPR General Comment 18 -- Paragraph 10
 
@@ -511,13 +499,13 @@ States must protect children from discrimination based on sex.[^109]
 
 [^33]: ICCPR General Comment 28 -- paragraph 31
 
-[^34]: ICESCR General Comment 16 - para. 20
+[^34]: ICESCR General Comment 16 - paragraph  20
 
-[^35]: ICESCR General Comment 16 - para. 20
+[^35]: ICESCR General Comment 16 - paragraph  20
 
-[^36]: ICCPR General Comment 28 - para. 4
+[^36]: ICCPR General Comment 28 - paragraph  4
 
-[^37]: ICCPR General Comment 18 - para. 12
+[^37]: ICCPR General Comment 18 - paragraph  12
 
 [^38]: ICCPR General Comment 18 -- paragraph 12
 
@@ -529,13 +517,13 @@ States must protect children from discrimination based on sex.[^109]
 
 [^42]: ICCPR General Comment 31 -- Paragraph 6
 
-[^43]: ICESCR General Comment 16 - para. 3
+[^43]: ICESCR General Comment 16 - paragraph  3
 
-[^44]: ICECSR General Comment 20 - para. 37
+[^44]: ICECSR General Comment 20 - paragraph  37
 
-[^45]: ICECSR General Comment 20 - para. 38
+[^45]: ICECSR General Comment 20 - paragraph  38
 
-[^46]: ICECSR General Comment 20 - para. 39
+[^46]: ICECSR General Comment 20 - paragraph  39
 
 [^47]: ICCPR General Comment 18 -- Paragraph 5
 
@@ -543,39 +531,39 @@ States must protect children from discrimination based on sex.[^109]
 
 [^49]: ICCPR General Comment 31 -- Paragraph 8
 
-[^50]: ICCPR General Comment 28 - para. 3
+[^50]: ICCPR General Comment 28 - paragraph  3
 
-[^51]: ICECSR General Comment 16 - para. 21
+[^51]: ICECSR General Comment 16 - paragraph  21
 
-[^52]: ICESCR General Comment 16 - para. 30
+[^52]: ICESCR General Comment 16 - paragraph  30
 
-[^53]: ICESCR General Comment 20 - para. 38
+[^53]: ICESCR General Comment 20 - paragraph  38
 
 [^54]: ICESCR General Comment 16 - footnote 11
 
-[^55]: ICCPR General Comment 28 - para. 3
+[^55]: ICCPR General Comment 28 - paragraph  3
 
 [^56]: ICCPR Article 26
 
-[^57]: ICESCR General Comment 16 - para. 18
+[^57]: ICESCR General Comment 16 - paragraph  18
 
-[^58]: ICESCR General Comment 16 - para. 34
+[^58]: ICESCR General Comment 16 - paragraph  34
 
-[^59]: ICECSR General Comment 20 - para. 37
+[^59]: ICECSR General Comment 20 - paragraph  37
 
-[^60]: ICESCR General Comment 16 - para. 34
+[^60]: ICESCR General Comment 16 - paragraph  34
 
-[^61]: ICCPR General Comment 28 - para. 3
+[^61]: ICCPR General Comment 28 - paragraph  3
 
-[^62]: ICCPR General Comment 18 - para. 10
+[^62]: ICCPR General Comment 18 - paragraph  10
 
-[^63]: ICECSR General Comment 16 - para. 15
+[^63]: ICECSR General Comment 16 - paragraph  15
 
-[^64]: ICESCR General Comment 16 - para. 21
+[^64]: ICESCR General Comment 16 - paragraph  21
 
-[^65]: ICECSR General Comment 16 - para. 35
+[^65]: ICECSR General Comment 16 - paragraph  35
 
-[^66]: ICECSR General Comment 16 - para. 36
+[^66]: ICECSR General Comment 16 - paragraph  36
 
 [^67]: ICCPR Article 40.1
 
@@ -583,11 +571,11 @@ States must protect children from discrimination based on sex.[^109]
 
 [^69]: ICCPR General Comment 18 -- Paragraph 9
 
-[^70]:  ICECSR General Comment 20 - para. 41
+[^70]:  ICECSR General Comment 20 - paragraph  41
 
 [^71]: United Nations. *Women’s right are human rights*, 2014.
 
-[^72]: ICESCR General Comment 16 - para. 41
+[^72]: ICESCR General Comment 16 - paragraph  41
 
 [^73]: ICESCR General Comment 16 -- Paragraph 39
 
@@ -595,50 +583,51 @@ States must protect children from discrimination based on sex.[^109]
 
 [^75]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
 
-[^76]: ICESCR General Comment 16 - para. 21
+[^76]: ICESCR General Comment 16 - paragraph  21
 
-[^77]: ICCPR General Comment 28 - para. 3
+[^77]: ICCPR General Comment 28 - paragraph  3
 
-[^78]: ICESCR General Comment 20 - para. 41
+[^78]: ICESCR General Comment 20 - paragraph  41
 
 [^79]: ICCPR Article 19.2
+
 [^80]: ICCPR General Comment 34 -- paragraph 18
 
 [^81]: ICCPR General Comment 34 -- paragraph 19
 
-[^82]: ICESCR General Comment 16 - para. 32
+[^82]: ICESCR General Comment 16 - paragraph  32
 
-[^83]: ICESCR General Comment 16 - para. 33
+[^83]: ICESCR General Comment 16 - paragraph  33
 
-[^84]: ICECSR General Comment 20 - para. 38
+[^84]: ICECSR General Comment 20 - paragraph  38
 
-[^85]: ICESCR General Comment 20 - para. 41
+[^85]: ICESCR General Comment 20 - paragraph  41
 
-[^86]: ICESCR General Comment 16 - para. 21
+[^86]: ICESCR General Comment 16 - paragraph  21
 
-[^87]: ICESCR General Comment 16 - para. 37
+[^87]: ICESCR General Comment 16 - paragraph  37
 
-[^88]: ICECSR General Comment 16 - para. 21
+[^88]: ICECSR General Comment 16 - paragraph  21
 
-[^89]: ICECSR General Comment 16 - para. 38
+[^89]: ICECSR General Comment 16 - paragraph  38
 
-[^90]: ICECSR General Comment 20 - para. 40
+[^90]: ICECSR General Comment 20 - paragraph  40
 
-[^91]: ICESCR General Comment 3 - para. 5
+[^91]: ICESCR General Comment 3 - paragraph  5
 
 [^92]: ICCPR General Comment 31 -- Paragraph 15
 
-[^93]: ICESCR General Comment 16 - para. 42
+[^93]: ICESCR General Comment 16 - paragraph  42
 
-[^94]: ICESCR General Comment 3 - para. 9
+[^94]: ICESCR General Comment 3 - paragraph  9
 
-[^95]: ICCPR General Comment 28 - para. 25
+[^95]: ICCPR General Comment 28 - paragraph  25
 
-[^96]: ICCPR General Comment 28 - para. 23
+[^96]: ICCPR General Comment 28 - paragraph  23
 
-[^97]: ICCPR General Comment 28 - para. 25
+[^97]: ICCPR General Comment 28 - paragraph  25
 
-[^98]: ICECSR General Comment 16 - para. 27
+[^98]: ICECSR General Comment 16 - paragraph  27
 
 [^99]: ICCPR General Comment 19 -- paragraph 8
 
@@ -650,9 +639,9 @@ States must protect children from discrimination based on sex.[^109]
 
 [^103]: ICCPR General Comment 17 - paragraph 5
 
-[^104]: ICESCR General Comment 16 - para. 26
+[^104]: ICESCR General Comment 16 - paragraph  26
 
-[^105]: ICESCR General Comment 16 - para. 26
+[^105]: ICESCR General Comment 16 - paragraph  26
 
 [^106]: ICCPR General Comment 28 -- paragraph 28
 
@@ -666,5 +655,66 @@ States must protect children from discrimination based on sex.[^109]
 
 [^111]: ICCPR General Comment 17 -- paragraph 1
 
-[^112]: ICESCR General Comment 16 - para. 27
+[^112]: ICESCR General Comment 16 - paragraph  27
 
+[^113]: CEDAW General Recommendation 28 - paragraph 20
+
+[^114]: CEDAW General Recommendation 28 - paragraph 26
+
+[^115]: CEDAW General Recommendation 28 - paragraph 26
+
+[^116]: CEDAW General Recommendation 28 - paragraph 5
+
+[^117]: CEDAW General Recommendation 28 - paragraph 13
+
+[^118]: CEDAW General Recommendation 28 - paragraph 35
+
+[^119]: CEDAW General Recommendation 28 - paragraph 10
+
+[^120]: CEDAW General Recommendation 28 - paragraph 16
+
+[^121]: New Zealand Human Rights Commission -- *A fair go for all? Rite tahi tätou katoa? Addressing Structural Discrimination in Public Services*, 2012
+
+[^122]: CEDAW General Recommendation 28 - paragraph 17
+
+[^123]: CEDAW General Recommendation 28 - paragraph 36
+
+[^124]: CEDAW General Recommendation 28 - paragraph 37
+
+[^125]: CEDAW General Recommendation 28 - paragraph 38
+
+[^126]: CEDAW General Recommendation 28 - paragraph 38
+
+[^127]: CEDAW General Recommendation 28 - paragraph 38
+
+[^128]: CEDAW General Recommendation 28 - paragraph 36
+
+[^129]: CEDAW General Recommendation 28 - paragraph 15
+
+[^130]: ICCPR GC 28 - paragraph 31
+
+[^131]: CEDAW General Recommendation 28 -paragraph 38
+
+[^132]: CEDAW General Recommendation 28 - paragraph 38
+
+[^133]: CEDAW General Recommendation 28 -- paragraph 27
+
+[^134]: CEDAW General Recommendation 28 - paragraph 24
+
+[^135]: CEDAW General Recommendation 28 - paragraph 25
+
+[^136]: CEDAW General Recommendation 28 - paragraph 26
+
+[^137]: CEDAW General Recommendation 28 - paragraph 32
+
+[^138]: CEDAW General Recommendation 28 - paragraph 34
+
+[^139]: CEDAW General Recommendation 28- paragraph 36
+
+[^140]: CEDAW General Recommendation 28 - paragraph 40
+
+[^141]: ICCPR Article 23.4
+
+[^142]: CEDAW General Recommendation 28 - paragraph 19
+
+[^143]: CEDAW GR 28 -- paragraph 27
