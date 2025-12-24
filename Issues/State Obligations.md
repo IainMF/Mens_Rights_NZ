@@ -129,6 +129,9 @@ States also have a due diligence obligation to protect men from discrimination f
 
 > Article  2  also  imposes  a  due  diligence  obligation  on  States  parties  to  prevent  discrimination  by  private  actors.  In  some  cases,  a  private  actor’s  acts or  omission of  acts  may be attributed  to  the State  under  international law. **States parties  are  thus  obliged  to  ensure  that  private  actors  do  not  engage  in  discrimination  against  women  as  defined  in  the  Convention.**  The  appropriate  measures  that  States  parties  are  obliged  to  take  include  the  regulation  of  the  activities  of  private  actors  with  regard  to  education,  employment  and  health  policies  and  practices,  working  conditions  and  work standards,  and  other  areas  in  which  private  actors  provide  services  or  facilities,  such  as  banking and housing. CEDAW GR 28 - p.13
 
+> Subparagraph (d)  establishes an  obligation of States parties to abstain  from  engaging  in  any  act or  practice  of  direct  or  indirect discrimination  against  women. States  parties must  ensure that State institutions, agents, laws and policies do not directly or explicitly  discriminate  against  women.  They  must  also  ensure  that  any  laws,  policies  or  actions  that  have the effect or result of generating discrimination are abolished. CEDAW GR 28 - p.35
+
+
 
 **See page on discrimination for more about discrimination.**
 
@@ -347,7 +350,7 @@ States have an obligation to provide remedy to men and boys whose rights have be
 > Subparagraph (b) contains the obligation of States parties to ensure that legislation prohibiting discrimination and promoting equality of women and men provides appropriate remedies for women who are subjected to discrimination contrary to the Convention. This obligation requires that States parties provide reparation to women whose rights under the Convention have been violated. Without reparation the obligation to provide an appropriate remedy is not discharged. Such remedies should include different forms of reparation, such as  monetary  compensation,  restitution,  rehabilitation  and  reinstatement;  measures  of satisfaction, such as public apologies, public memorials and guarantees of non-repetition; changes in relevant laws and practices; and bringing to justice the perpetrators of violations of human rights of women. CEDAW GR 28 - p. 32
 
 
-> <![endif]--> States parties must ensure that women can invoke the principle of equality in support  of  complaints  of  acts  of  discrimination  contrary  to  the  Convention,  committed  by  public  officials  or  by  private  actors.  States  parties  must  further  ensure  that  women  have  recourse  to  affordable,  accessible  and  timely  remedies,  with  legal  aid  and  assistance  as  necessary,  to  be  settled  in  a  fair  hearing  by  a  competent  and  independent  court  or  tribunal,  where  appropriate.  Where  discrimination  against  women  also  constitutes  an  abuse  of  other  human  rights,  such  as  the  right  to  life  and  physical  integrity  in,  for  example,  cases  of  domestic  and  other  forms  of  violence,  States  parties  are  obliged  to initiate  criminal proceedings,  bring  the  perpetrator(s) to trial and impose appropriate penal sanctions. States parties should  financially support independent associations and centres providing legal resources for  women  in  their  work  to  educate  women  about  their  rights  to  equality  and  assist  them  in  pursuing remedies for discrimination.
+> States parties must ensure that women can invoke the principle of equality in support  of  complaints  of  acts  of  discrimination  contrary  to  the  Convention,  committed  by  public  officials  or  by  private  actors.  States  parties  must  further  ensure  that  women  have  recourse  to  affordable,  accessible  and  timely  remedies,  with  legal  aid  and  assistance  as  necessary,  to  be  settled  in  a  fair  hearing  by  a  competent  and  independent  court  or  tribunal,  where  appropriate.  Where  discrimination  against  women  also  constitutes  an  abuse  of  other  human  rights,  such  as  the  right  to  life  and  physical  integrity  in,  for  example,  cases  of  domestic  and  other  forms  of  violence,  States  parties  are  obliged  to initiate  criminal proceedings,  bring  the  perpetrator(s) to trial and impose appropriate penal sanctions. States parties should  financially support independent associations and centres providing legal resources for  women  in  their  work  to  educate  women  about  their  rights  to  equality  and  assist  them  in  pursuing remedies for discrimination. CEDAW GR 28 - p.34
 
 ### No Retrogression
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^110]
@@ -680,7 +683,7 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjkyODc0MywtODI1ODc0MjQ4LC0yOT
+eyJoaXN0b3J5IjpbLTM3NDc4NzM2NywtODI1ODc0MjQ4LC0yOT
 c1MDM4Niw0NzA3NjU4MjEsLTE1Mjg0OTEyNzgsLTYxMjE5MDcx
 M119
 -->
