@@ -205,6 +205,7 @@ States have an obligation to educate the public, including men and boys, about t
 
 School curricular should include education on equality and non-discrimination. Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
 
+> Enlisting  all  media  in  public  education  programmes  about  the  equality  of  women  and  men,  and  ensuring  in  particular  that  women  are  aware  of  their  right  to  equality  without discrimination, of the measures taken by the State party to implement the  Convention,  and  of  the  concluding  observations  by  the  Committee  on  the  reports  of  the  State party; CEDAW GR 28 - p.38
 
 > - To conduct human rights education and training programmes for judges and public officials 
 > - To conduct awareness-raising and training programmes on equality for workers involved in the realization of economic, social and cultural rights at the grass-roots level
@@ -699,7 +700,7 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MDQyMDYwLC04MjU4NzQyNDgsLTI5Nz
-UwMzg2LDQ3MDc2NTgyMSwtMTUyODQ5MTI3OCwtNjEyMTkwNzEz
-XX0=
+eyJoaXN0b3J5IjpbMTc0ODM1NTQ5MywtODI1ODc0MjQ4LC0yOT
+c1MDM4Niw0NzA3NjU4MjEsLTE1Mjg0OTEyNzgsLTYxMjE5MDcx
+M119
 -->
