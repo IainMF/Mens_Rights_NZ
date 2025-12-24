@@ -371,8 +371,9 @@ States have an obligation to provide remedy to men and boys whose rights have be
 
 > ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies CEDAW GR 28- p.36
 
-accountibility
+### Accountability
 
+> Effective  implementation  of  the  Convention  requires  that  a  State  party  be accountable to its citizens and other members of its community at both the national and international levels. In order for this accountability function to work effectively, appropriate mechanisms and institutions must be put in place.  CEDAW GR 28 - p.40
 
 ### No Retrogression
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^110]
@@ -705,7 +706,7 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI3MTcwMTgsLTgyNTg3NDI0OCwtMj
-k3NTAzODYsNDcwNzY1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3
-MTNdfQ==
+eyJoaXN0b3J5IjpbMzQzMjc4NjgsLTgyNTg3NDI0OCwtMjk3NT
+AzODYsNDcwNzY1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3MTNd
+fQ==
 -->
