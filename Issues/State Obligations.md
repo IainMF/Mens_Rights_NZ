@@ -556,6 +556,7 @@ States must protect children from discrimination based on sex.[^109]
 [^55]: ICCPR General Comment 28 - para. 3
 
 [^56]: ICCPR Article 26
+
 [^57]: ICESCR General Comment 16 - para. 18
 
 [^58]: ICESCR General Comment 16 - para. 34
@@ -579,6 +580,7 @@ States must protect children from discrimination based on sex.[^109]
 [^67]: ICCPR Article 40.1
 
 [^68]: ICESCR Article 16
+
 [^69]: ICCPR General Comment 18 -- Paragraph 9
 
 [^70]:  ICECSR General Comment 20 - para. 41
@@ -588,6 +590,7 @@ States must protect children from discrimination based on sex.[^109]
 [^72]: ICESCR General Comment 16 - para. 41
 
 [^73]: ICESCR General Comment 16 -- Paragraph 39
+
 [^74]: United Nations. *Integrating a Gender Perspective into Human Rights Investigations: Guidance and Practice*. United Nations, 2018.
 
 [^75]: The Office of the High Commissioner for Human Rights. *Manual on Human Rights Monitoring (Revised edition)*. United Nations, 2011.
@@ -664,44 +667,4 @@ States must protect children from discrimination based on sex.[^109]
 [^111]: ICCPR General Comment 17 -- paragraph 1
 
 [^112]: ICESCR General Comment 16 - para. 27
-
-[^113]: ICESCR General Comment 16 - para. 19
-
-[^114]: ICCPR Article 26
-
-[^115]: ICCPR General Comment 28 -- paragraph 2
-
-[^116]: ICCPR General Comment 28 -- paragraph 4
-
-[^117]: ICCPR General Comment 28 -- paragraph 6
-
-[^118]: ICCPR General Comment 31 -- paragraph 13
-
-[^119]: ICCPR General Comment 18 -- Paragraph 12
-
-[^120]: ICCPR General Comment 31 -- Paragraph 13
-
-[^121]: ICCPR General Comment 28 -- Paragraph 4
-
-[^122]: ICCPR General Comment 18 -- Paragraph 7
-
-[^123]: ICESCR General Comment 16 - para. 6
-
-[^124]: ICESCR General Comment 20 - para. 4
-
-[^125]: ICCPR General Comment 28 - para. 4
-
-[^126]: ICESCR General Comment 16 - para. 33
-
-[^127]: ICESCR General Comment 16 - para. 39
-
-[^128]: ICESCR General Comment 16 - para. 41
-
-[^129]: ICECSR General Comment 16 - para. 27
-
-[^130]: ICESCR General Comment 16 - para. 26
-
-[^131]: ICCPR General Comment 28 -- paragraph 28
-
-[^132]: ICCPR General Comment 28 -- paragraph 11
 
