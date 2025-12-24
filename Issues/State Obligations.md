@@ -191,6 +191,8 @@ States must educate the population and state officials about men's human rights.
 
 > States  parties  should  ensure  that  all  Government  bodies  and  organs  are  fully  aware  of  the  principles  of  equality  and  non-discrimination  on  the  basis  of  sex  and  gender  and  that  adequate  training  and  awareness-raising  programmes  are  set  up  and  carried  out in this respect. CEDAW GR 28 - p.17
 
+> promote  education  and  support  for  the  goals  of  the Convention throughout the education system and in the community CEDAW GR 28 - p.36
+
 
 #### Public education and  Awareness raising
 States have an obligation to educate the public, including men and boys, about their human rights. 
@@ -205,6 +207,8 @@ School curricular should include education on equality and non-discrimination. S
 > ... States parties should ensure, in particular through information and **awareness-raising campaigns**, that families desist from giving preferential treatment to boys when sending their children to school, and **that curricula promote equality and non-discrimination**.[^53]
 
 > the State should conduct human rights education and training programmes for public officials and make such training available to judges and candidates for judicial appointments. Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^54]
+
+> encourage the work of human rights and women’s non-governmental organizations CEDAW GR 
 
 #### Condemn Discrimination against men
 
@@ -685,7 +689,7 @@ States must protect children from discrimination based on sex.[^99]
 
 [^132]: ICESCR Article 16
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU5NzU4MDAsLTgyNTg3NDI0OCwtMj
+eyJoaXN0b3J5IjpbLTExNDg5NDI1ODUsLTgyNTg3NDI0OCwtMj
 k3NTAzODYsNDcwNzY1ODIxLC0xNTI4NDkxMjc4LC02MTIxOTA3
 MTNdfQ==
 -->
