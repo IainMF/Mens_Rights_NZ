@@ -34,7 +34,7 @@ Without explicit recognition of State's human rights obligations to men and boys
 
 A State's obligations to men and boys can be derived from:
 - explicit obligations to all people;
-- explicit obligations of non-discrimination and equality between men and women;
+- explicit obligations of non-discrimination on basis of sex and equality between men and women;
 - logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as, the ICCPR's requirement for equal and effective protection from discrimination.[^8]
 
 > The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
