@@ -35,7 +35,7 @@ Without explicit recognition of State's human rights obligations to men and boys
 - explicit obligations of non-discrimination on basis of sex and equality between men and women;
 - logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as, the ICCPR's requirement for equal and effective protection from discrimination.[^8]
 
-
+Additionally, identifying State's obligations to men and boys allows men and men's advocates to evaluate a State's compliance with human rughts treaties and hold them accountable.
 
 > The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
 
@@ -723,5 +723,5 @@ States must protect children from discrimination based on sex.[^141]
 [^145]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMDc3NjExXX0=
+eyJoaXN0b3J5IjpbMTkxNjI2MDE0Ml19
 -->
