@@ -769,12 +769,9 @@ States must protect children from discrimination based on sex.[^141]
 
 [^161]: ICCPR General Comment 28 - paragraphs 10 & 28
 
-[^i62]: A HUMAN RIGHTS-BASED
-APPROACH TO DATA
-LEAVING NO ONE BEHIND IN THE 2030
-AGENDA FOR SUSTAINABLE DEVELOPMENT
+[^i62]: Office of the High Commissioner for Human Rights  *A Human Rights-based Approach to Data; Leaving No One Behind in the 2030 Agenda for Sustainable Development* -- United Nations 2018
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NjE0MzcxLC02NzA0ODc1MDMsLTIyMD
-Q3MzIxOV19
+eyJoaXN0b3J5IjpbLTYyMjQ4MDg2NywtNjcwNDg3NTAzLC0yMj
+A0NzMyMTldfQ==
 -->
