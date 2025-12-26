@@ -142,7 +142,7 @@ Similarly, in order to ensure equal and effective protection against discriminat
 #### Gender analysis
 In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis.[^159] Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^45] States may be able to justify differential treatment of men if it is reasonable, objective,[^46] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^47]
 
-
+See **Monitoring and Reporting** for more
 
 
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^48]
@@ -770,6 +770,6 @@ States must protect children from discrimination based on sex.[^141]
 [^162]:  Office of the High Commissioner for Human Rights  *A Human Rights-based Approach to Data; Leaving No One Behind in the 2030 Agenda for Sustainable Development* -- United Nations 2018
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIxNzIyODMsLTY3MDQ4NzUwMywtMj
-IwNDczMjE5XX0=
+eyJoaXN0b3J5IjpbLTQwNjU1MDA1MSwtNjcwNDg3NTAzLC0yMj
+A0NzMyMTldfQ==
 -->
