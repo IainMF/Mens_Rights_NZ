@@ -40,17 +40,14 @@ Additionally, identifying State's obligations to men and boys allows men's advoc
 > The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
 
 ## Government obligations to men and boys
-States that have ratified international human rights treaties have agreed to be legally bound by them. Multiple treaties recognise men's rights
-
-
-The ICCPR specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
+States that have ratified international human rights treaties have agreed to be legally bound by them. Multiple treaties recognise men's rights. The ICCPR recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
  > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^10] *Emphasis added*
 
 Likewise, the ICECSR, recognises the rights of men and boys in Articles 2 and 3. These articles require States to ensure both men and women equally enjoy their covenant rights.
 
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing... [^11]
 
-States are require "to take steps to ensure that in practice, men and women enjoy their economic, social and cultural rights on a basis of equality."[^12] Failure to ensure men equally enjoy their rights is a violation of the ICESCR.
+States are required "to take steps to ensure that in practice, men and women enjoy their economic, social and cultural rights on a basis of equality."[^12] Failure to ensure men equally enjoy their rights is a violation of the ICESCR.
 
 > The principle of equality between men and women is fundamental to the enjoyment of each of the specific rights enumerated in the Covenant.  Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.[^13] 
 
@@ -726,5 +723,5 @@ States must protect children from discrimination based on sex.[^141]
 [^145]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNDMzMzI4XX0=
+eyJoaXN0b3J5IjpbMTgwNzE3NzExMF19
 -->
