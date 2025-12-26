@@ -251,6 +251,8 @@ States must review their legislation, policy and programmes periodically to ensu
 
 > A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority[^165]
 
+> 
+
 > Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources**[^80] 
 
 
@@ -778,9 +780,9 @@ States must protect children from discrimination based on sex.[^141]
 
 [^164]: ICESCR General Comment 16 - paragraph 21
 
-[^165]:  ICESCR General Comment 16 - paragraph 21
+[^165]:  ICESCR General Comment 20 - paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQyMTY1NzIsLTg0NjM0MTU3NSwtNj
-cwNDg3NTAzLC0yMjA0NzMyMTldfQ==
+eyJoaXN0b3J5IjpbODUyMTEwNDAsLTg0NjM0MTU3NSwtNjcwND
+g3NTAzLC0yMjA0NzMyMTldfQ==
 -->
