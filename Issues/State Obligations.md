@@ -65,7 +65,7 @@ Judges have an obligation to interpret laws in light of international human righ
 > Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^16]
 
 ## Take necessary steps
-Human rights treaties require States to *take steps* to fulfil their obligations under the treaties. The ICCPR requires States to "take the necessary steps"[^17] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^18] [^19] Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^20]
+Human rights treaties require States to *take steps* to fulfil their obligations under the treaties. The ICCPR requires States to "take the necessary steps"[^17] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^18] [^19]  Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^20]
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^21] 
 
@@ -494,7 +494,7 @@ States must protect children from discrimination based on sex.[^141]
 
 [^18]: ICCPR General Comment 31 -- Paragraph 14
 
-[^19]: CEDAW General Recommendation 28 - paragraph 26
+[^19]: CEDAW General Recommendation 28 - paragraph 26 
 
 [^20]: ICCPR General Comment 31 -- Paragraph 7
 
@@ -785,6 +785,6 @@ States must protect children from discrimination based on sex.[^141]
 [^165]:  ICESCR General Comment 20 - paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNzc0ODEwLC04NDYzNDE1NzUsLTY3MD
+eyJoaXN0b3J5IjpbNTI1MjI3MTM4LC04NDYzNDE1NzUsLTY3MD
 Q4NzUwMywtMjIwNDczMjE5XX0=
 -->
