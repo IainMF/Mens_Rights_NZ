@@ -253,7 +253,7 @@ States must review their legislation, policy and programmes periodically to ensu
 
 > A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority[^165]
 
-> 
+> The policy must be action- and results-oriented in the sense that it should establish indicators, benchmarks and timelines, ensure **adequate resourcing for all relevant actors** and otherwise enable those actors to play their part in achieving the agreed benchmarks and goals. CEDAW GR 28 - p.28
 
 > Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources**[^80] 
 
@@ -785,6 +785,6 @@ States must protect children from discrimination based on sex.[^141]
 [^165]:  ICESCR General Comment 20 - paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzIyNTE2MywtODQ2MzQxNTc1LC02Nz
-A0ODc1MDMsLTIyMDQ3MzIxOV19
+eyJoaXN0b3J5IjpbNjEzNzc0ODEwLC04NDYzNDE1NzUsLTY3MD
+Q4NzUwMywtMjIwNDczMjE5XX0=
 -->
