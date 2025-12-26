@@ -140,7 +140,7 @@ States must protect men from discrimination equally with women, and that protect
 Similarly, in order to ensure equal and effective protection against discrimination to men, State officials must understand that the obligation to protect applies equally to men and women.
 
 #### Gender analysis
-In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis. Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^45] States may be able to justify differential treatment of men if it is reasonable, objective,[^46] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^47]
+In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis.[^159] Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^45] States may be able to justify differential treatment of men if it is reasonable, objective,[^46] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^47]
 
 
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^48]
@@ -755,6 +755,8 @@ States must protect children from discrimination based on sex.[^141]
 
 [^158]: See also: ICESCR General Comment 20 - paragraph 7, CEDAW Article 1
 
+[^159]: ICESCR General Comment 20 - paragraph 41
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjU0ODUxOSwtMjIwNDczMjE5XX0=
+eyJoaXN0b3J5IjpbLTQ0ODc3NzY1LC0yMjA0NzMyMTldfQ==
 -->
