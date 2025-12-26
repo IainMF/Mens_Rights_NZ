@@ -35,12 +35,15 @@ Without explicit recognition of State's human rights obligations to men and boys
 - explicit obligations of non-discrimination on basis of sex and equality between men and women;
 - logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as, the ICCPR's requirement for equal and effective protection from discrimination.[^8]
 
-Additionally, identifying State's obligations to men and boys allows men and men's advocates to evaluate a State's compliance with human rughts treaties and hold them accountable.
+Additionally, identifying State's obligations to men and boys allows men's advocates to evaluate a State's compliance with human rights treaties and hold them accountable. 
 
 > The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
 
 ## Government obligations to men and boys
-States that have ratified international human rights treaties have agreed to be legally bound by them. The ICCPR specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
+States that have ratified international human rights treaties have agreed to be legally bound by them. Multiple treaties recognise men's rights
+
+
+The ICCPR specifically recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
  > The obligation to ensure to all individuals the rights recognized in the Covenant, established in articles 2 and 3 of the Covenant, requires that States parties **take all necessary steps to enable every person to enjoy those rights.**[^10] *Emphasis added*
 
 Likewise, the ICECSR, recognises the rights of men and boys in Articles 2 and 3. These articles require States to ensure both men and women equally enjoy their covenant rights.
@@ -723,5 +726,5 @@ States must protect children from discrimination based on sex.[^141]
 [^145]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjI2MDE0Ml19
+eyJoaXN0b3J5IjpbNTkzNDMzMzI4XX0=
 -->
