@@ -247,6 +247,8 @@ States must review their legislation, policy and programmes periodically to ensu
 
 > Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires addressing gender-based social and cultural prejudices, **providing for equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.  [^163]
 
+	> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources; [^164]
+
 
 
 > Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources**[^80] 
@@ -774,7 +776,9 @@ States must protect children from discrimination based on sex.[^141]
 
 [^163]: ICESCR General Comment 16 - paragraph 22
 
+[^164]: 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQxNjYwMDksLTg0NjM0MTU3NSwtNj
-cwNDg3NTAzLC0yMjA0NzMyMTldfQ==
+eyJoaXN0b3J5IjpbMTYwODg2MDA2MSwtODQ2MzQxNTc1LC02Nz
+A0ODc1MDMsLTIyMDQ3MzIxOV19
 -->
