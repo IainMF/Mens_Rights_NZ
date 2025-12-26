@@ -58,8 +58,8 @@ Human rights treaties allow States to restrict or limit some human rights under 
 A state's obligations to men and boys involve all parts of the government and public authorities. 
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^15]
 
-Judges have an obligation to interpret laws in light of international human rights obligations and where national laws are inconsistent, to highlight these issues. CEDAW GR 28 - p.33   ICCPR GC 31 - p.15
-> **Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights**. ICECSR GC 20 - p.40
+Judges have an obligation to interpret laws in light of international human rights obligations and where national laws are inconsistent, to highlight these issues. [^148] [^149] [^150] 
+> **Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights**. 
 
 ### Acting in good faith
 > Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^16]
@@ -725,6 +725,12 @@ States must protect children from discrimination based on sex.[^141]
 
 [^147]: ICCPR General Comment 18 - paragraphs 7-9
 
+[^148]: CEDAW General Recommendation 28 - paragraph 33   
+
+[^149]:  ICCPR GC 31 - p.15
+
+[^150]: ICECSR GC 20 - p.40
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTMyODAxM119
+eyJoaXN0b3J5IjpbLTEzMzUyNDM5NDVdfQ==
 -->
