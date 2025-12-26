@@ -118,19 +118,11 @@ While human rights treaties prohibit discrimination based on sex, it is understo
 
 Importantly, 
 - Discrimination against men can occur due to the *effect or result* of policy or programs impairing men's rights.
-- Discrimination includes acts and *failing to act* when it is required (omissions).
-- 
+- Discrimination includes acts and *failing to act* when it is required (omissions).[^155]
+- States also have a due diligence obligation to protect men from discrimination from non-State actors.[^36] [^37] [^38] [^39] [^40] For example, states must enact laws that prohibit discrimination.
+- Discrimination also includes incitement to discriminate and harassment.[^156] [^157] 
 
 > Subparagraph (d)  establishes an  obligation of States parties to abstain  from  engaging  in  any  act or  practice  of  direct  or  indirect discrimination  against  women. States  parties must  ensure that State institutions, agents, laws and policies do not directly or explicitly  discriminate  against  women.  They  must  also  ensure  that  any  laws,  policies  or  actions  that  have the **effect or result** of generating discrimination are abolished.[^41]
-
-
-> Under international law, a failure to act in good faith to comply with the obligation in article 2, paragraph 2, to guarantee that the rights enunciated in the Covenant will be exercised without discrimination amounts to a violation. **Covenant rights can be violated through the direct action or omission by States parties**, including through their institutions or agencies at the national and local levels.[^155] *Emphasis added*
-
-States also have a due diligence obligation to protect men from discrimination from non-State actors.[^36] [^37] [^38] [^39] [^40] For example, states must enact laws that prohibit discrimination.
-
-Incitement
-> Discrimination also includes incitement to discriminate and harassment.[^156] [^157] 
-
 
 **See page on discrimination for more about discrimination.**
 
@@ -786,6 +778,6 @@ States must protect children from discrimination based on sex.[^141]
 [^165]:  ICESCR General Comment 20 - paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzY4MTY5Myw1MjUyMjcxMzgsLTg0Nj
-M0MTU3NSwtNjcwNDg3NTAzLC0yMjA0NzMyMTldfQ==
+eyJoaXN0b3J5IjpbLTEyODMwOTA1MzUsNTI1MjI3MTM4LC04ND
+YzNDE1NzUsLTY3MDQ4NzUwMywtMjIwNDczMjE5XX0=
 -->
