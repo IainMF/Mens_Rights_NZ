@@ -99,7 +99,7 @@ States are also required to "take affirmative action in order to diminish or eli
  
  In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys. [^34] 
 
-> States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities...[^151]  **More sources**
+> States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities...[^151]
 
 Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities faced by men may be discrimination. [^152] 
 
@@ -740,5 +740,5 @@ States must protect children from discrimination based on sex.[^141]
 [^153]: ICESCR General Comment 16 - paragraph 18
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTc0NDYzNSwtMjIwNDczMjE5XX0=
+eyJoaXN0b3J5IjpbMTQ2MjY3NjMyOCwtMjIwNDczMjE5XX0=
 -->
