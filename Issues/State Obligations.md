@@ -121,10 +121,12 @@ Importantly,
 - Discrimination includes acts and *failing to act* when it is required (omissions).[^155]
 - States also have a due diligence obligation to protect men from discrimination from non-State actors.[^36] [^37] [^38] [^39] [^40] For example, states must enact laws that prohibit discrimination.
 - Discrimination also includes incitement to discriminate and harassment.[^156] [^157] 
+- Discrimaintino includes direct and indirect discrimaintion.
 
 > Subparagraph (d)  establishes an  obligation of States parties to abstain  from  engaging  in  any  act or  practice  of  direct  or  indirect discrimination  against  women. States  parties must  ensure that State institutions, agents, laws and policies do not directly or explicitly  discriminate  against  women.  They  must  also  ensure  that  any  laws,  policies  or  actions  that  have the **effect or result** of generating discrimination are abolished.[^41]
 
 **See page on discrimination for more about discrimination.**
+
 
 Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^42] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^43] and by "public authorities, by the community, or by private persons or bodies".[^44]
 
@@ -144,11 +146,9 @@ See **Monitoring and Reporting** for more
 
 Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^50] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
-
 > States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms  of  discrimination** against women in general and against women belonging to specific  vulnerable groups in particular.[^51]
 
-#### Direct and direct discrimination
-> States  parties  shall  ensure  that  there  is  neither  direct  nor  indirect  discrimination  against  women.  Direct  discrimination  against  women  constitutes  different  treatment  explicitly  based  on  grounds  of  sex  and  gender  differences.  Indirect  discrimination  against  women  occurs  when  a  law,  policy,  programme  or  practice  appears  to  be  neutral  in  so  far  as  it  relates  to  men  and  women,  but  has  a  discriminatory  effect  in  practice  on  women  because  pre-existing  inequalities  are  not  addressed  by  the  apparently  neutral  measure.  Moreover,  indirect  discrimination  can  exacerbate  existing  inequalities  owing  to  a  failure  to  recognize  structural  and  historical  patterns  of  discrimination  and  unequal power relationships between women and men.[^52]
+
 
 #### Systemic discrimination
 
@@ -778,6 +778,6 @@ States must protect children from discrimination based on sex.[^141]
 [^165]:  ICESCR General Comment 20 - paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMwOTA1MzUsNTI1MjI3MTM4LC04ND
+eyJoaXN0b3J5IjpbLTEyMTM4MzYyOTYsNTI1MjI3MTM4LC04ND
 YzNDE1NzUsLTY3MDQ4NzUwMywtMjIwNDczMjE5XX0=
 -->
