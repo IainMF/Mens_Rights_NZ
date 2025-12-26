@@ -116,7 +116,7 @@ Discrimination against men and boys in international human rights law...
 
 While human rights treaties prohibit discrimination based on sex, it is understood to include gender discrimination. So both discrimination based on beliefs, assumptions, about men and women, and that based on observable sex differences is prohibited.[^154]
 
-Importantly, discrimination can occur due to the effect or result of policy or programs impairing men's rights.
+Importantly, discrimination can occur due to the *effect or result* of policy or programs impairing men's rights.
 
 > Subparagraph (d)  establishes an  obligation of States parties to abstain  from  engaging  in  any  act or  practice  of  direct  or  indirect discrimination  against  women. States  parties must  ensure that State institutions, agents, laws and policies do not directly or explicitly  discriminate  against  women.  They  must  also  ensure  that  any  laws,  policies  or  actions  that  have the **effect or result** of generating discrimination are abolished.[^41]
 
@@ -753,6 +753,8 @@ States must protect children from discrimination based on sex.[^141]
 
 [^157]: UDHR Article 7
 
+[^158]: See also: ICESCR General Comment 20 - paragraph 7, CEDAW Article 1
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTQ2NzA0NiwtMjIwNDczMjE5XX0=
+eyJoaXN0b3J5IjpbMTM3MjU0ODUxOSwtMjIwNDczMjE5XX0=
 -->
