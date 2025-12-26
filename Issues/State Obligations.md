@@ -452,8 +452,6 @@ States must protect children from discrimination based on sex.[^141]
 
 [^2]: CEDAW General Recommendation 28 - paragraph 20
 
-
-
 [^3]: ICCPR General Comment 28 -- paragraph 2
 
 [^4]:  ICESCR General Comment 20 -- paragraph 20
@@ -567,6 +565,7 @@ States must protect children from discrimination based on sex.[^141]
 [^58]: ICCPR General Comment 28 - paragraph  3
 
 [^59]: Declaration on Human Rights Defenders - Article 15
+
 [^60]: CEDAW General Recommendation 28 - paragraph 17
 
 [^61]: CEDAW General Recommendation 28 - paragraph 36
@@ -588,6 +587,7 @@ States must protect children from discrimination based on sex.[^141]
 [^69]: CEDAW General Recommendation 28 - paragraph 36
 
 [^70]: Declaration on Human Rights Defenders - Article 14.1
+
 [^71]: CEDAW General Recommendation 28 - paragraph 15
 
 [^72]: ICESCR General Comment 16 - footnote 11
@@ -649,7 +649,9 @@ States must protect children from discrimination based on sex.[^141]
 [^100]: ICCPR Article 19.2
 
 [^101]: Declaration on Human Rights Defenders - Article 6(a)
+
 [^102]: CEDAW GR 28 -- paragraph 27
+
 [^103]: ICCPR General Comment 34 -- paragraph 18
 
 [^104]: ICCPR General Comment 34 -- paragraph 19
@@ -775,8 +777,3 @@ States must protect children from discrimination based on sex.[^141]
 [^164]: ICESCR General Comment 16 - paragraph 21
 
 [^165]:  ICESCR General Comment 20 - paragraph 13
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzA4ODg3Myw1MjUyMjcxMzgsLTg0Nj
-M0MTU3NSwtNjcwNDg3NTAzLC0yMjA0NzMyMTldfQ==
--->
