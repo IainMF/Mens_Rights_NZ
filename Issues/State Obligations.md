@@ -217,6 +217,8 @@ School curricular should include education on equality and non-discrimination. S
 
 > The State has the responsibility to take legislative, judicial, administrative or other appropriate measures to promote the understanding by all persons under its jurisdiction of their civil, political, economic, social and cultural rights.[^70]
 
+> To  this  end, resources must  be devoted to ensuring that human rights and  women’s non-governmental **organizations are well-informed, adequately consulted and generally able to play an active role** in the initial and subsequent development of the policy. CEDAW GR 28 - p.27
+
 #### Condemn Discrimination against men
 
 States have an obligation to condemn discrimination against men.
@@ -783,6 +785,6 @@ States must protect children from discrimination based on sex.[^141]
 [^165]:  ICESCR General Comment 20 - paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMTEwNDAsLTg0NjM0MTU3NSwtNjcwND
-g3NTAzLC0yMjA0NzMyMTldfQ==
+eyJoaXN0b3J5IjpbLTU4NzIyNTE2MywtODQ2MzQxNTc1LC02Nz
+A0ODc1MDMsLTIyMDQ3MzIxOV19
 -->
