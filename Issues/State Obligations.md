@@ -5,7 +5,7 @@ date: 2025-12-20
 ---
 > [!tip] This page is a work in progress
 
-When States ratify international human rights treaties they agree to be bound by them. A State's human rights obligations under international treaties are divided into three broad categories. *Respect*, *protect*, and *fulfil*. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
+When States ratify international human rights treaties they agree to be bound by them. A State's human rights obligations under these treaties are divided into three broad categories. *Respect*, *protect*, and *fulfil*. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
 
 > The obligation to fulfil further contains duties to provide, promote and facilitate.[^1]
 
@@ -723,5 +723,5 @@ States must protect children from discrimination based on sex.[^141]
 [^145]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ0NTI3MzVdfQ==
+eyJoaXN0b3J5IjpbMTI5NTc4MTc0MF19
 -->
