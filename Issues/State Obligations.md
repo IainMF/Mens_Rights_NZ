@@ -277,8 +277,6 @@ The *Human Rights Committee* asks States to include discrimination against men i
 
 State's reports must include sex-disaggregated data. 
 
-
-
 Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^91]
 
 > ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^92]
@@ -294,7 +292,7 @@ A State's human rights monitoring must be be effective.[^93] To reveal inequalit
 
 > An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between
 women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied
-to other population groups, as relevant.[^199]
+to other population groups, as relevant.[^162] 
 
 The *Manual on Human Rights Monitoring* recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
 
@@ -769,9 +767,9 @@ States must protect children from discrimination based on sex.[^141]
 
 [^161]: ICCPR General Comment 28 - paragraphs 10 & 28
 
-[^i62]: Office of the High Commissioner for Human Rights  *A Human Rights-based Approach to Data; Leaving No One Behind in the 2030 Agenda for Sustainable Development* -- United Nations 2018
+[^162]:  Office of the High Commissioner for Human Rights  *A Human Rights-based Approach to Data; Leaving No One Behind in the 2030 Agenda for Sustainable Development* -- United Nations 2018
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjQ4MDg2NywtNjcwNDg3NTAzLC0yMj
-A0NzMyMTldfQ==
+eyJoaXN0b3J5IjpbLTEzNDIxNzIyODMsLTY3MDQ4NzUwMywtMj
+IwNDczMjE5XX0=
 -->
