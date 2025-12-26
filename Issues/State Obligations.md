@@ -113,18 +113,16 @@ Non-discrimination is a fundamental principle of human rights. International hum
 Discrimination against men and boys in international human rights law...
 
 >  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on ... sex \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^35]
-Importantly, discrimaintion can occur due to the effect of policy or prgrames
-
 
 While human rights treaties prohibit discrimination based on sex, it is understood to include gender discrimination. So both discrimination based on beliefs, assumptions, about men and women, and that based on observable sex differences is prohibited.[^154]
 
+Importantly, discrimination can occur due to the effect of policy or programs impairing men's rights.
+ 
 Discrimination includes acts and failing to act when it is required (omissions).
 
 > Under international law, a failure to act in good faith to comply with the obligation in article 2, paragraph 2, to guarantee that the rights enunciated in the Covenant will be exercised without discrimination amounts to a violation. **Covenant rights can be violated through the direct action or omission by States parties**, including through their institutions or agencies at the national and local levels.[^155] *Emphasis added*
 
-States also have a due diligence obligation to protect men from discrimination from non-State actors.[^36] [^37] [^38] [^39] For example, states must enact laws that prohibit discrimination
-
-> Article  2  also  imposes  a  due  diligence  obligation  on  States  parties  to  prevent  discrimination  by  private  actors.  In  some  cases,  a  private  actor’s  acts or  omission of  acts  may be attributed  to  the State  under  international law. **States parties  are  thus  obliged  to  ensure  that  private  actors  do  not  engage  in  discrimination  against  women  as  defined  in  the  Convention.**  The  appropriate  measures  that  States  parties  are  obliged  to  take  include  the  regulation  of  the  activities  of  private  actors  with  regard  to  education,  employment  and  health  policies  and  practices,  working  conditions  and  work standards,  and  other  areas  in  which  private  actors  provide  services  or  facilities,  such  as  banking and housing.[^40]
+States also have a due diligence obligation to protect men from discrimination from non-State actors.[^36] [^37] [^38] [^39] [^40] For example, states must enact laws that prohibit discrimination.
 
 > Subparagraph (d)  establishes an  obligation of States parties to abstain  from  engaging  in  any  act or  practice  of  direct  or  indirect discrimination  against  women. States  parties must  ensure that State institutions, agents, laws and policies do not directly or explicitly  discriminate  against  women.  They  must  also  ensure  that  any  laws,  policies  or  actions  that  have the effect or result of generating discrimination are abolished.[^41]
 
@@ -748,5 +746,5 @@ States must protect children from discrimination based on sex.[^141]
 [^155]: ICESCR General Comment 20 - paragraph 14
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Njk1NjYwNCwtMjIwNDczMjE5XX0=
+eyJoaXN0b3J5IjpbLTk3NTMzOTM1LC0yMjA0NzMyMTldfQ==
 -->
