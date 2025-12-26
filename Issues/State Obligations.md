@@ -90,9 +90,7 @@ International human rights treaty bodies have identified several 'necessary step
 States must take into account the 'factors that impede'[^27] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^28] [^29] Logically, this means identifying these obstacles, which relates to the obligation to **monitor and report**, and create a **plan of action** (see below).
 
 #### Stereotypes
-States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^30] [^31] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^32]
-
-Logically this includes the idea that men's rights are less important than women's rights.
+States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^30] [^31] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^32] Logically this includes the idea that men's rights are less important than women's rights.
 
 ##### Conditions which cause or perpetuate discrimination
 States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^33]
@@ -732,5 +730,5 @@ States must protect children from discrimination based on sex.[^141]
 [^150]: ICECSR General Comment 20 - paragraph 40
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODExMzQ1NV19
+eyJoaXN0b3J5IjpbLTIyMDQ3MzIxOV19
 -->
