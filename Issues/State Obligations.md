@@ -30,10 +30,12 @@ Other treaties support men's right to equality and non-discrimination but, again
 
 Commentators have argued that explicitly recognising men's rights is not necessary. For example,  Charlesworth[^5] argues that male over-representation in the development and administration of international human rights law means that human rights already accounts for men's rights by default. However, male representation has not lead to men's gender-specific human rights issues being addressed in a meaningful or substantive way. Stemple[^6] points out there are no human rights instruments that explicitly address sexual violence against men, and Abramson[^7] says there is discrimination against boys in the children's rights movement.
 
-Without explicit recognition of State's human rights obligations to men and boys, States are unlikely to take action meet these obligations. A case of out-of-sight out-of-mind. Never-the-less, a State's obligations to men and boys can be derived from:
+Without explicit recognition of State's human rights obligations to men and boys, States are unlikely to take action meet these obligations. A case of out-of-sight out-of-mind. Despite this, a State's obligations to men and boys can be derived from:
 - explicit obligations to all people;
 - explicit obligations of non-discrimination on basis of sex and equality between men and women;
 - logically from explicitly stated obligations to women and the obligation for equality between men and women. Such as, the ICCPR's requirement for equal and effective protection from discrimination.[^8]
+
+
 
 > The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
 
@@ -721,5 +723,5 @@ States must protect children from discrimination based on sex.[^141]
 [^145]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjAzNzM5XX0=
+eyJoaXN0b3J5IjpbOTkxMDc3NjExXX0=
 -->
