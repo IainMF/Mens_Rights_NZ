@@ -294,7 +294,7 @@ A State's human rights monitoring must be be effective.[^93] To reveal inequalit
 
 > An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between
 women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied
-to other population groups, as relevant.
+to other population groups, as relevant.[^199]
 
 The *Manual on Human Rights Monitoring* recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
 
@@ -769,7 +769,12 @@ States must protect children from discrimination based on sex.[^141]
 
 [^161]: ICCPR General Comment 28 - paragraphs 10 & 28
 
+[^i62]: A HUMAN RIGHTS-BASED
+APPROACH TO DATA
+LEAVING NO ONE BEHIND IN THE 2030
+AGENDA FOR SUSTAINABLE DEVELOPMENT
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTMzNTkwNDAsLTY3MDQ4NzUwMywtMj
-IwNDczMjE5XX0=
+eyJoaXN0b3J5IjpbNzM4NjE0MzcxLC02NzA0ODc1MDMsLTIyMD
+Q3MzIxOV19
 -->
