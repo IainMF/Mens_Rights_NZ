@@ -114,7 +114,7 @@ Discrimination against men and boys in international human rights law...
 
 >  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on ... sex \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^35]
 
-While human rights treaties prohibit discrimination based on sex, it is understood to include gender discrimination. So both discrimination based on beliefs, assumptions, about men and women, and that based on observable sex differences is prohibited.
+While human rights treaties prohibit discrimination based on sex, it is understood to include gender discrimination. So both discrimination based on beliefs, assumptions, about men and women, and that based on observable sex differences is prohibited.[^154]
 
 Discrimination includes acts and omissions
 
@@ -742,5 +742,5 @@ States must protect children from discrimination based on sex.[^141]
 [^154]: ICESCR General Comment 20 - paragraph 20
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NjY3NzQ3LC0yMjA0NzMyMTldfQ==
+eyJoaXN0b3J5IjpbNjI5MDUyNjcsLTIyMDQ3MzIxOV19
 -->
