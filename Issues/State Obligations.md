@@ -26,9 +26,9 @@ Although Article 3 of the ICCPR requires equal enjoyment of rights for both wome
 
 Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* has issued twenty-seven General Comments relating the the ICESCR, including General Comment 16, on equal rights between women and men(Article 3) and General Comment 20, on non-discrimination(Article 2). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognises that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men",[^4] but discussions of sex/gender discrimination focus on women.
 
-Other treaties support men's right to equality and non-discrimination but explicit guidance is lacking. Article 2 of the *Convention on the Rights of the Child* prohibits discrimination based on sex and Article 3 of the *Convention on the Rights of Persons with Disabilities* affirms the principle of equality between men and women.
+Other treaties support men's right to equality and non-discrimination but, again, explicit guidance is lacking. Article 2 of the *Convention on the Rights of the Child* prohibits discrimination based on sex and Article 3 of the *Convention on the Rights of Persons with Disabilities* affirms the principle of equality between men and women.
 
-Commentators have argued that explicitly recognising men's rights is not necessary. For example,  Charlesworth[^5] argues that male over-representation in the development and administration of international human rights law means that human rights already accounts for men's rights by default. However, male representation has not lead to men's gender-specific human rights issues being addressed in a meaningful or substantive way. For example, Stemple[^6] points out there are no human rights instruments that explicitly address sexual violence against men, and Abramson[^7] says there is discrimination against boys in the children's rights movement.
+Commentators have argued that explicitly recognising men's rights is not necessary. For example,  Charlesworth[^5] argues that male over-representation in the development and administration of international human rights law means that human rights already accounts for men's rights by default. However, male representation has not lead to men's gender-specific human rights issues being addressed in a meaningful or substantive way. Stemple[^6] points out there are no human rights instruments that explicitly address sexual violence against men, and Abramson[^7] says there is discrimination against boys in the children's rights movement.
 
 Without explicit recognition of State's human rights obligations to men and boys, States are unlikely to take action meet these obligations. A case of out-of-sight out-of-mind. 
 
@@ -723,5 +723,5 @@ States must protect children from discrimination based on sex.[^141]
 [^145]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTIwNTA2NF19
+eyJoaXN0b3J5IjpbLTE2MjI1NzM2NDNdfQ==
 -->
