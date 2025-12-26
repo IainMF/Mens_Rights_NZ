@@ -116,7 +116,9 @@ Discrimination against men and boys in international human rights law...
 
 While human rights treaties prohibit discrimination based on sex, it is understood to include gender discrimination. So both discrimination based on beliefs, assumptions, about men and women, and that based on observable sex differences is prohibited.[^154]
 
-Discrimination includes acts and omissions[^155]
+Discrimination includes acts and omissions
+
+> Under international law, a failure to act in good faith to comply with the obligation in article 2, paragraph 2, to guarantee that the rights enunciated in the Covenant will be exercised without discrimination amounts to a violation. **Covenant rights can be violated through the direct action or omission by States parties**, including through their institutions or agencies at the national and local levels.[^155] *Emphasis added*
 
 States also have a due diligence obligation to protect men from discrimination from non-State actors.[^36] [^37] [^38] [^39] For example, states must enact laws that prohibit discrimination
 
@@ -741,8 +743,8 @@ States must protect children from discrimination based on sex.[^141]
 
 [^154]: ICESCR General Comment 20 - paragraph 20
 
-[^155]: 
+[^155]: ICESCR General Comment 20 - paragraph 14
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MDcyMzMxLC0yMjA0NzMyMTldfQ==
+eyJoaXN0b3J5IjpbMjMxNTE3MDg2LC0yMjA0NzMyMTldfQ==
 -->
