@@ -112,7 +112,7 @@ Non-discrimination is a fundamental principle of human rights. International hum
 
 Discrimination against men and boys in international human rights law...
 
->  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on ... sex \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^35]
+>  ... should be understood to imply any distinction, exclusion, restriction or preference which is based on ... sex \...and which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.[^35] [^158]
 
 While human rights treaties prohibit discrimination based on sex, it is understood to include gender discrimination. So both discrimination based on beliefs, assumptions, about men and women, and that based on observable sex differences is prohibited.[^154]
 
@@ -128,7 +128,7 @@ Discrimination includes acts and failing to act when it is required (omissions).
 States also have a due diligence obligation to protect men from discrimination from non-State actors.[^36] [^37] [^38] [^39] [^40] For example, states must enact laws that prohibit discrimination.
 
 Incitement
-> Discrimination also includes incitement to discriminate and harassment.[^156] 
+> Discrimination also includes incitement to discriminate and harassment.[^156] [^157] 
 
 
 **See page on discrimination for more about discrimination.**
@@ -751,6 +751,8 @@ States must protect children from discrimination based on sex.[^141]
 
 [^156]: ICESCR General Comment 20 - paragraph 7
 
+[^157]: UDHR Article 7
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ3MDgwNzgsLTIyMDQ3MzIxOV19
+eyJoaXN0b3J5IjpbLTkwMTQ2NzA0NiwtMjIwNDczMjE5XX0=
 -->
