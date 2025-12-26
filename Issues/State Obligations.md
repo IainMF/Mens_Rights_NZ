@@ -244,6 +244,11 @@ States must review their legislation, policy and programmes periodically to ensu
 > States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^79]
 
 ### Adequate resources
+
+> Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires addressing gender-based social and cultural prejudices, **providing for equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.  [^163]
+
+
+
 > Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources**[^80] 
 
 
@@ -767,7 +772,9 @@ States must protect children from discrimination based on sex.[^141]
 
 [^162]:  Office of the High Commissioner for Human Rights  *A Human Rights-based Approach to Data; Leaving No One Behind in the 2030 Agenda for Sustainable Development* -- United Nations 2018
 
+[^163]: ICESCR General Comment 16 - paragraph 22
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjM0MTU3NSwtNjcwNDg3NTAzLC0yMj
-A0NzMyMTldfQ==
+eyJoaXN0b3J5IjpbLTE1MzQxNjYwMDksLTg0NjM0MTU3NSwtNj
+cwNDg3NTAzLC0yMjA0NzMyMTldfQ==
 -->
