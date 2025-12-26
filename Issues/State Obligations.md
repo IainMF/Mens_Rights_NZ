@@ -143,6 +143,8 @@ Similarly, in order to ensure equal and effective protection against discriminat
 In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis.[^159] Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^45] States may be able to justify differential treatment of men if it is reasonable, objective,[^46] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^47]
 
 
+
+
 > Article 2, paragraph 2, of ICESCR provides for a guarantee of non-discrimination on the basis of sex among other grounds.  This provision, and the guarantee of equal enjoyment of rights by men and women in article 3, are integrally related and mutually reinforcing.  Moreover, **the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^48]
 
 > Adoption of legislation to address discrimination is indispensable in complying with article 2, paragraph 2. States parties are therefore encouraged to adopt specific legislation that prohibits discrimination in the field of economic, social and cultural rights. Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^49]
@@ -275,6 +277,8 @@ The *Human Rights Committee* asks States to include discrimination against men i
 
 State's reports must include sex-disaggregated data. 
 
+
+
 Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^91]
 
 > ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^92]
@@ -287,6 +291,10 @@ A State's human rights monitoring must be be effective.[^93] To reveal inequalit
 > A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^94]
 
 > Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^93]
+
+> An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between
+women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied
+to other population groups, as relevant.
 
 The *Manual on Human Rights Monitoring* recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
 
@@ -762,5 +770,6 @@ States must protect children from discrimination based on sex.[^141]
 [^161]: ICCPR General Comment 28 - paragraphs 10 & 28
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDQ4NzUwMywtMjIwNDczMjE5XX0=
+eyJoaXN0b3J5IjpbLTE2MTMzNTkwNDAsLTY3MDQ4NzUwMywtMj
+IwNDczMjE5XX0=
 -->
