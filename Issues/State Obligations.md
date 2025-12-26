@@ -249,7 +249,7 @@ States must review their legislation, policy and programmes periodically to ensu
 
 	> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources; [^164]
 
-
+> A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority[^165]
 
 > Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources**[^80] 
 
@@ -776,9 +776,11 @@ States must protect children from discrimination based on sex.[^141]
 
 [^163]: ICESCR General Comment 16 - paragraph 22
 
-[^164]: 
+[^164]: ICESCR General Comment 16 - paragraph 21
+
+[^165]:  ICESCR General Comment 16 - paragraph 21
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODg2MDA2MSwtODQ2MzQxNTc1LC02Nz
-A0ODc1MDMsLTIyMDQ3MzIxOV19
+eyJoaXN0b3J5IjpbLTExMDQyMTY1NzIsLTg0NjM0MTU3NSwtNj
+cwNDg3NTAzLC0yMjA0NzMyMTldfQ==
 -->
