@@ -5,13 +5,13 @@ date: 2025-12-20
 ---
 > [!tip] This page is a work in progress
 
-New Zealand has ratified both the *International Covenant on Civil and Political Rights* (ICCPR) and the *International Covenant of Economic, Cultural and Social Rights* (ICESCR).
-
-A State's human rights obligations under international treaties are divided into three broad categories. *Respect*, *protect*, and *fulfil*. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
+When States ratify international human rights treaties they agree to be bound by them. A State's human rights obligations under international treaties are divided into three broad categories. *Respect*, *protect*, and *fulfil*. The obligation to **respect**, means that the government must not violate the rights of men and boys. The obligation to **protect**, means that the government must put laws and policies in place to prevent violations of human rights by non-government actors. For example, laws prohibiting domestic violence. The obligation to **fulfil**, means that the government must take positive steps to ensure that men and boys enjoy their rights in practice.
 
 > The obligation to fulfil further contains duties to provide, promote and facilitate.[^1]
 
 > The  obligation  to  fulfil  encompasses  the  obligation  of  States  parties  to  facilitate  access  to  and  provide  for  the  **full  realization  of  women’s  rights**.[^2] 
+
+New Zealand has ratified both the *International Covenant on Civil and Political Rights* (ICCPR) and the *International Covenant of Economic, Cultural and Social Rights* (ICESCR).
 
 ## The need for identify state obligations to men and boys
 Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Although men and women have the same human rights, guidance for protecting and respecting men's rights is lacking compared to women's. States have several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*. There is nothing similar for men and boys.
@@ -723,5 +723,5 @@ States must protect children from discrimination based on sex.[^141]
 [^145]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDEyMzEwXX0=
+eyJoaXN0b3J5IjpbLTIxMjQ0NTI3MzVdfQ==
 -->
