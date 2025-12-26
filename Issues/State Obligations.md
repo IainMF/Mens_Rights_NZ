@@ -175,8 +175,6 @@ States have an obligation to "adopt an active approach to eliminating systemic d
 >  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against **incitement to discrimination** are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^54]
 
 
-
-
 #### Address discrimination against men
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^55]
 
@@ -770,6 +768,6 @@ States must protect children from discrimination based on sex.[^141]
 [^162]:  Office of the High Commissioner for Human Rights  *A Human Rights-based Approach to Data; Leaving No One Behind in the 2030 Agenda for Sustainable Development* -- United Nations 2018
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjU1MDA1MSwtNjcwNDg3NTAzLC0yMj
+eyJoaXN0b3J5IjpbLTg0NjM0MTU3NSwtNjcwNDg3NTAzLC0yMj
 A0NzMyMTldfQ==
 -->
