@@ -759,6 +759,8 @@ States must protect children from discrimination based on sex.[^141]
 
 [^160]: ICESCR General Comment 16 - paragraph 39
 
+[^161]: ICCPR General Comment 28 - paragraphs 10 & 28
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg1MzA1MDQsLTIyMDQ3MzIxOV19
+eyJoaXN0b3J5IjpbLTY3MDQ4NzUwMywtMjIwNDczMjE5XX0=
 -->
