@@ -97,7 +97,12 @@ States are also required to "take affirmative action in order to diminish or eli
  
 #### Recognition of existing disadvantage
  
- In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys. [^34] **More sources**
+ In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys. [^34] 
+
+> States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those experienced by women.  
+
+
+**More sources**
 
 Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities face by men may be discrimination. **XXX sources**
 
@@ -729,6 +734,8 @@ States must protect children from discrimination based on sex.[^141]
 
 [^150]: ICECSR General Comment 20 - paragraph 40
 
+[^151]: ICESCR General Comment 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDQ3MzIxOV19
+eyJoaXN0b3J5IjpbLTIwMzkzMzY4NjEsLTIyMDQ3MzIxOV19
 -->
