@@ -162,19 +162,11 @@ To address systemic discrimination against men and boys, States should:[^68]
 
 
 ### Education
-States must educate the population and state officials about men's human rights.[^72] [^73] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to severely violate human rights, such as police officers, and judges. 
+States must educate the population and state officials about men's human rights.[^72] [^73] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to severely violate human rights, such as police officers, and judges.[^78]  
 
 > States  parties  should  ensure  that  all  Government  bodies  and  organs  are  fully  aware  of  the  principles  of  equality  and  non-discrimination  on  the  basis  of  sex  and  gender  and  that  adequate  training  and  awareness-raising  programmes  are  set  up  and  carried  out in this respect.[^74]
 
-> promote  education  and  support  for  the  goals  of  the Convention throughout the education system and in the community[^75] 
-
-> Fosters  wide  knowledge  about  and  support  for  its  obligations  under  the Convention (promote);[^76]  
-
-> Establishing  codes  of  conduct  for  public  officials  to  ensure  respect  for  the  principles of equality and non-discrimination[^77] 
-
 Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights.
-
-> Undertaking specific education and training programmes about the principles and provisions of the Convention directed to all Government agencies, public officials and, in particular, the legal profession and the judiciary.[^78] 
 
 #### Public education and  Awareness raising
 States have an obligation to educate the public, including men and boys, about their human rights. 
@@ -771,6 +763,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIyNjU1NjAsMTI3NjM5MDc4OSw2Nz
-E3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbMjA3MzY2MzIyMSwxMjc2MzkwNzg5LDY3MT
+cxMjMyMV19
 -->
