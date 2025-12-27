@@ -143,7 +143,7 @@ In order for States to protect men from discrimination, they must  collect sex d
 
 See **Monitoring and Reporting** for more
 
-Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^65] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
+Additionally, States need to prevent new forms of discrimination[^86]  from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^65] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 #### Systemic discrimination
 States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^68] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^168] For example, attitudes and beliefs that elevate women's rights and devalue men's rights are considered normal and acceptable. 
@@ -183,7 +183,7 @@ Education and public awareness campaigns should support and encourage the work o
 #### Condemn Discrimination against men
 
 
-The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging.[^86] 
+> The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging.[^86] 
 
 ##### Promote
 >  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^87]
@@ -753,6 +753,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MTYzNzQ3LDEyNzYzOTA3ODksNjcxNz
-EyMzIxXX0=
+eyJoaXN0b3J5IjpbMjEwMDkzNDc5MywxMjc2MzkwNzg5LDY3MT
+cxMjMyMV19
 -->
