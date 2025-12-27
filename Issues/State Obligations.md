@@ -162,7 +162,7 @@ To address systemic discrimination against men and boys, States should:[^68]
 
 
 ### Education
-States must educate the population and state officials about men's human rights[^72] [^73]. States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination" against men and boys.[^86] 
+States must educate the population and state officials about men's human rights[^72] [^73]. States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination", and promote the elimination of all forms of discrimination** against women[^87][^86] 
 
 State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to severely violate human rights, such as police officers, and judges.[^78]  
 
@@ -180,10 +180,6 @@ School curricular should include education on equality and non-discrimination.[^
 
 Education and public awareness campaigns should support and encourage the work of men's advocates.[^83] The State should ensure men's "non-governmental organizations are well-informed, adequately consulted and generally able to play an active role in the initial and subsequent development of the policy." [^85]
 
-#### Condemn Discrimination against men
-
-
-> The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging.[^86] 
 
 ##### Promote
 >  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^87]
@@ -753,6 +749,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDkzNDc5MywxMjc2MzkwNzg5LDY3MT
+eyJoaXN0b3J5IjpbMTc3MTUzNjcwOCwxMjc2MzkwNzg5LDY3MT
 cxMjMyMV19
 -->
