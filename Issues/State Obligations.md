@@ -146,13 +146,9 @@ See **Monitoring and Reporting** for more
 Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^65] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 #### Systemic discrimination
-States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^68] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^168]  
+States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^68] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^168] For example, attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. 
 
-Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by fifteen to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. 
-
-**See page on discrimination in the justice system for more.**
-
-> The Committee has regularly found that discrimination against some groups is pervasive and persistent and deeply entrenched in social behaviour and organization, often involving unchallenged or indirect discrimination. Such systemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for some groups, and privileges for other groups.  ICESCR General Comment 20, paragraph 12
+This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by fifteen to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. **See page on discrimination in the justice system for more.**
 
 The New Zealand Human Rights Commission:
 
@@ -773,8 +769,8 @@ States must protect children from discrimination based on sex.[^161]
 
 [^167]: ICCPR General Comment 28 - paragraphs 10 & 28
 
-[^168]:
+[^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYzNTY3NDgsNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbLTIwOTY1MzI5MDYsNjcxNzEyMzIxXX0=
 -->
