@@ -143,8 +143,7 @@ Additionally, States need to prevent new forms of discrimination from appearing 
 
 
 #### Systemic discrimination
-
-Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by 15 to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. 
+Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by fifteen to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. 
 
 **See page on discrimination in the justice system for more.**
 
@@ -776,5 +775,5 @@ States must protect children from discrimination based on sex.[^161]
 [^167]: ICCPR General Comment 28 - paragraphs 10 & 28
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Nzg2NjIxMl19
+eyJoaXN0b3J5IjpbNjcxNzEyMzIxXX0=
 -->
