@@ -162,7 +162,9 @@ To address systemic discrimination against men and boys, States should:[^68]
 
 
 ### Education
-States must educate the population and state officials about men's human rights.[^72] [^73] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to severely violate human rights, such as police officers, and judges.[^78]  
+States must educate the population and state officials about men's human rights[^72] [^73]. Staes have an immediate
+
+State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to severely violate human rights, such as police officers, and judges.[^78]  
 
 > States  parties  should  ensure  that  all  Government  bodies  and  organs  are  fully  aware  of  the  principles  of  equality  and  non-discrimination  on  the  basis  of  sex  and  gender  and  that  adequate  training  and  awareness-raising  programmes  are  set  up  and  carried  out in this respect.[^74]
 
@@ -752,6 +754,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkzNzk3NjYsMTI3NjM5MDc4OSw2Nz
-E3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbMTkyMTEzNDMxNCwxMjc2MzkwNzg5LDY3MT
+cxMjMyMV19
 -->
