@@ -141,6 +141,8 @@ States that permit discrimination against men or fail "to exercise due diligence
 #### Gender analysis
 In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis.[^59] Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^60] States may be able to justify differential treatment of men if it is reasonable, objective,[^61] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^62]
 
+> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, **gender audits**, and gender-specific allocation of resources; ICESCR General Comment 16 - paragraph 21
+
 See **Monitoring and Reporting** for more
 
 Additionally, States need to prevent new forms of discrimination[^86]  from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^65] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
@@ -192,12 +194,10 @@ States must periodically review their legislation, policy and programmes to ensu
 
 ### Adequate resources
 
-States must provide adequate resources to ensure men and boys enjoy all of their human rights. Generally this means "equality in the allocation of resources"[^95] although in some situations ensuring men equally enjoy their rights with women will requi"gender-specific allocation of resources
+States must provide adequate resources to ensure men and boys enjoy all of their human rights. Generally this means "equality in the allocation of resources"[^95] although in some situations ensuring men equally enjoy their rights with women will require "gender-specific allocation of resources".[^96]
 
 Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^97]
 
-
-> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, **gender audits**, and **gender-specific allocation of resources**; [^96]
 
 > The policy must be action- and results-oriented in the sense that it should establish indicators, benchmarks and timelines, ensure **adequate resourcing for all relevant actors** and otherwise enable those actors to play their part in achieving the agreed benchmarks and goals.[^98]
 
@@ -745,6 +745,6 @@ States must protect children from discrimination based on sex.[^161]
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1MzQ0NTU4LC03MDA2ODE1NDcsMTI3Nj
-M5MDc4OSw2NzE3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbMjAwNjgwMDk3MiwtNzAwNjgxNTQ3LDEyNz
+YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
