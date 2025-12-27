@@ -176,13 +176,7 @@ School curricular should include education on equality and non-discrimination.[^
 
 >  Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^82]
 
-Education and public awareness campaigns shoul dsupport the work of men adn
-
-> encourage the work of human rights and women’s non-governmental organizations[^83] 
-
-
-
-> To  this  end, resources must  be devoted to ensuring that human rights and  women’s non-governmental **organizations are well-informed, adequately consulted and generally able to play an active role** in the initial and subsequent development of the policy. [^85]
+Education and public awareness campaigns should support and encourage the work of men's advocates.[^83] The State should ensure men's "non-governmental organizations are well-informed, adequately consulted and generally able to play an active role in the initial and subsequent development of the policy." [^85]
 
 #### Condemn Discrimination against men
 
@@ -758,6 +752,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MTczMzUxLDEyNzYzOTA3ODksNjcxNz
-EyMzIxXX0=
+eyJoaXN0b3J5IjpbLTE3NzkzNzk3NjYsMTI3NjM5MDc4OSw2Nz
+E3MTIzMjFdfQ==
 -->
