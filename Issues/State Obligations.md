@@ -213,7 +213,7 @@ States must provide adequate resources to ensure men and boys enjoy all of their
 Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^97]
 
 ### Monitoring and Reporting
-International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] 
+International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] These treaties require States to ensure men equally enjoy all of their rights with women
 
 States must monitor
 
@@ -750,6 +750,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMzUzMTE2LC03MDA2ODE1NDcsMTI3Nj
-M5MDc4OSw2NzE3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbMTExMzAzMzU3NSwtNzAwNjgxNTQ3LDEyNz
+YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
