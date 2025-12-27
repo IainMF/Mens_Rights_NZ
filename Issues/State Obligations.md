@@ -105,6 +105,8 @@ Gender neutral polices and programs that fail to take into account existing disa
 
 > In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^42] 
 
+
+
 ##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
 
 ### Non-discrimination
@@ -194,29 +196,13 @@ States must periodically review their legislation, policy and programmes to ensu
 
 ### Adequate resources
 
-States must provide adequate resources to ensure men and boys enjoy all of their human rights. Generally this means "equality in the allocation of resources"[^95] although in some situations ensuring men equally enjoy their rights with women will require "gender-specific allocation of resources".[^96]
+States must provide adequate resources to ensure men and boys enjoy all of their human rights.[^98] Generally this means "equality in the allocation of resources"[^95] although in some situations ensuring that men equally enjoy their rights with women will require "gender-specific allocation of resources".[^96]
 
 Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^97]
 
 
-> The policy must be action- and results-oriented in the sense that it should establish indicators, benchmarks and timelines, ensure **adequate resourcing for all relevant actors** and otherwise enable those actors to play their part in achieving the agreed benchmarks and goals.[^98]
-
-> Promoting  equality  of  women  through the  formulation  and implementation  of  national  plans  of  action  and  other  relevant  policies  and  programmes  in  line  with  the  Beijing  Declaration and Platform for Action, and allocating **adequate human and financial  resources**[^99] 
 
 
-### Positive measures
-
->  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.[^100]
-
-> The Committee also wishes to point out that the **principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant**. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^101]
-
-> The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved, such differentiation is legitimate.[^102]
-
-> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources;[^103]
-
-> The adoption of temporary special measures may be necessary to accelerate the equal enjoyment by women of all economic, social and cultural rights and to improve the de facto position of women.  Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women.[^104]
-
-> States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^105]
 
 ### Monitoring and Reporting
 
@@ -745,6 +731,6 @@ States must protect children from discrimination based on sex.[^161]
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjgwMDk3MiwtNzAwNjgxNTQ3LDEyNz
+eyJoaXN0b3J5IjpbLTkwMDE2NjI5NCwtNzAwNjgxNTQ3LDEyNz
 YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
