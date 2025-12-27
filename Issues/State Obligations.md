@@ -182,17 +182,15 @@ Education and public awareness campaigns should support and encourage the work o
 
 
 ### Adjusting legislation and policy
-States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^88] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^89] protection from discrimination in the law. 
+States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^88] [^94] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^89] protection from discrimination in the law. 
 
-States must review their legislation, policy and programmes periodically to ensure they do not violate men's right to equality and non-discrimination.[^91]  Additionally, States should take into account the effect of supposedly gender-neutral laws and policy to ensure they do not have the effect of disadvantaging or discriminating against men and boys.[^90]
+States must review their legislation, policy and programmes periodically to ensure they do not violate men's right to equality and non-discrimination.[^91]  [^92] Additionally, States should take into account the effect of supposedly gender-neutral laws and policy to ensure they do not have the effect of disadvantaging or discriminating against men and boys.[^90]
 
 > The obligation to respect requires States parties to refrain from discriminatory actions that directly or indirectly result in the denial of the equal right of men and women to their enjoyment of economic, social and cultural rights. Respecting the right obliges States parties **not to adopt, and to repeal laws and rescind, policies, administrative measures and programmes that do not conform with the right protected by article 3**.  In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^170] *Emphasis added*
 
-> States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^92]
-
 > Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights.[^93]
 
-> States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^94]
+
 
 ### Adequate resources
 
@@ -748,6 +746,6 @@ States must protect children from discrimination based on sex.[^161]
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE3OTc2ODEsLTcwMDY4MTU0NywxMj
+eyJoaXN0b3J5IjpbLTExMzk3MzM3NzMsLTcwMDY4MTU0NywxMj
 c2MzkwNzg5LDY3MTcxMjMyMV19
 -->
