@@ -192,10 +192,10 @@ States must periodically review their legislation, policy and programmes to ensu
 
 ### Adequate resources
 
-States must provide adequate resources to ensure men and boys enjoy all of their human rights. Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^97]
+States must provide adequate resources to ensure men and boys enjoy all of their human rights. Generally this means "equality in the allocation of resources"[^95] although in some situations ensuring men equally enjoy their rights with women will requi"gender-specific allocation of resources
 
+Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^97]
 
-> Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires addressing gender-based social and cultural prejudices, **providing for equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.  [^95]
 
 > To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, **gender audits**, and **gender-specific allocation of resources**; [^96]
 
@@ -745,6 +745,6 @@ States must protect children from discrimination based on sex.[^161]
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDY2NTU5NSwtNzAwNjgxNTQ3LDEyNz
-YzOTA3ODksNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbOTY1MzQ0NTU4LC03MDA2ODE1NDcsMTI3Nj
+M5MDc4OSw2NzE3MTIzMjFdfQ==
 -->
