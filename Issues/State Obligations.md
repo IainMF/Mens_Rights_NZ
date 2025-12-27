@@ -222,6 +222,7 @@ International human rights treaties require States to monitor and report on thei
 
 
 
+
 States are required to report on discrimination against men, both formal and substantive.
 
 The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^108]
@@ -743,6 +744,6 @@ States must protect children from discrimination based on sex.[^161]
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mzk3ODQ1NSwtNzAwNjgxNTQ3LDEyNz
+eyJoaXN0b3J5IjpbMjExNzY3MDQ4NywtNzAwNjgxNTQ3LDEyNz
 YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
