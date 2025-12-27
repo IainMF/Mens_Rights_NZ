@@ -262,7 +262,7 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^117]
 
-See **guidelines for reporting on CCPR** regarding requirement to report on article 3
+
 
 See CCPR General Comment No. 28 for reporting requirements
 
@@ -744,6 +744,6 @@ States must protect children from discrimination based on sex.[^161]
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzY3MDQ4NywtNzAwNjgxNTQ3LDEyNz
-YzOTA3ODksNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbOTY2ODA0MDQsLTcwMDY4MTU0NywxMjc2Mz
+kwNzg5LDY3MTcxMjMyMV19
 -->
