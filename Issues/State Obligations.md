@@ -171,13 +171,8 @@ Note: As there is no CEDAW equivalent, it is important that government officials
 #### Public education and  Awareness raising
 States have an obligation to educate the public about their human rights. This should include ensuring men adn boys are "aware  of  their  right  to  equality  without discrimination"[^79]
 
-School curricular should include education on equality and non-discrimination. Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
+School curricular should include education on equality and non-discrimination.[^80] Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
 
-> Enlisting  all  media  in  public  education  programmes  about  the  equality  of  women  and  men,  and  ensuring  in  particular  that  women  are  aware  of  their  right  to  equality  without discrimination, of the measures taken by the State party to implement the  Convention,  and  of  the  concluding  observations  by  the  Committee  on  the  reports  of  the  State party; 
-
-> - To conduct human rights education and training programmes for judges and public officials 
-> - To conduct awareness-raising and training programmes on equality for workers involved in the realization of economic, social and cultural rights at the grass-roots level
-> -To integrate, in formal and non-formal education, the principle of the equal right of men and women to the enjoyment of economic, social and cultural rights, and to promote equal participation of men and women, boys and girls, in schools and other education programmes[^80]
 
 > ... States parties should ensure, in particular through information and **awareness-raising campaigns**, that families desist from giving preferential treatment to boys when sending their children to school, and **that curricula promote equality and non-discrimination**.[^81]
 
@@ -763,6 +758,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk4NTc0NTcsMTI3NjM5MDc4OSw2Nz
-E3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbNDY0MzU5OTQwLDEyNzYzOTA3ODksNjcxNz
+EyMzIxXX0=
 -->
