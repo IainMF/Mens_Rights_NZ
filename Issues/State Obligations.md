@@ -181,12 +181,6 @@ School curricular should include education on equality and non-discrimination.[^
 Education and public awareness campaigns should support and encourage the work of men's advocates.[^83] The State should ensure men's "non-governmental organizations are well-informed, adequately consulted and generally able to play an active role in the initial and subsequent development of the policy." [^85]
 
 
-
-
-
-##### Promote
->  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^87]
-
 ### Adjusting legislation and policy
 States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^88] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^89] protection from discrimination in the law. 
 
@@ -752,6 +746,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTg1MDE4OCwxMjc2MzkwNzg5LDY3MT
-cxMjMyMV19
+eyJoaXN0b3J5IjpbNzg2NzY4MTU0LDEyNzYzOTA3ODksNjcxNz
+EyMzIxXX0=
 -->
