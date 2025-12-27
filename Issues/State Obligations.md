@@ -146,7 +146,7 @@ See **Monitoring and Reporting** for more
 Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^65] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 #### Systemic discrimination
-States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^68] against men. 
+States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^68] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^168]  
 
 Systemic, or structural, discrimination is discrimination that occurs because cultural attitudes that devalue men's rights, or assume men are magically taken care of, are considered normal and acceptable. This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by fifteen to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. 
 
@@ -773,6 +773,8 @@ States must protect children from discrimination based on sex.[^161]
 
 [^167]: ICCPR General Comment 28 - paragraphs 10 & 28
 
+[^168]:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzMyMzQ3OSw2NzE3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbLTEzOTYzNTY3NDgsNjcxNzEyMzIxXX0=
 -->
