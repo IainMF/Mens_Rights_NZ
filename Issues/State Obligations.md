@@ -744,11 +744,12 @@ States must protect children from discrimination based on sex.[^161]
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
 [^172]: United Nations Human Rights Committee: *Consolidated guidelines for State reports under the International Covenant on Civil and Political Rights* --
-CCPR/C/66/GUI/Rev.2 -- 26 February 2001
+CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 
-[^173]: 
+[^173]: United Nations Human Rights Committee: *Consolidated guidelines for State reports under the International Covenant on Civil and Political Rights* --
+CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ2OTA5NSwtNzAwNjgxNTQ3LDEyNz
-YzOTA3ODksNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbMTI2MzE4MzExLC03MDA2ODE1NDcsMTI3Nj
+M5MDc4OSw2NzE3MTIzMjFdfQ==
 -->
