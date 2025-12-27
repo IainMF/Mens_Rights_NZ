@@ -218,13 +218,13 @@ Insufficient resources is cannot be used as an excuse for discrimination, "unles
 
 ### Monitoring and Reporting
 
-International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See **Complaint to MoJ Regarding NZ reporting**
+International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See ** page for complaint to MoJ Regarding NZ reporting**
+
 
 
 States are required to report on discrimination against men, both formal and substantive.
 
 The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^108]
-
 
 > States parties are obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^109]
 
@@ -743,6 +743,6 @@ States must protect children from discrimination based on sex.[^161]
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4ODk4MDIxLC03MDA2ODE1NDcsMTI3Nj
-M5MDc4OSw2NzE3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbLTg5Mzk3ODQ1NSwtNzAwNjgxNTQ3LDEyNz
+YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
