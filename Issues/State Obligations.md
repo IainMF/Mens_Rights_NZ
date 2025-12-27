@@ -117,18 +117,18 @@ Discrimination against men and boys in international human rights law...
 While human rights treaties prohibit discrimination based on sex, it is understood to include gender discrimination. So both discrimination based on beliefs, assumptions, about men and women, and that based on observable sex differences is prohibited.[^45]
 
 Importantly, 
-- Discrimination against men can occur due to the *effect or result* of policy or programs impairing men's rights. It does not have to been intentional.
+- Discrimination against men can occur due to the *effect or result* of policy or programs impairing men's rights. It does not have to been intentional.[^55]
 - Discrimination includes acts and *failing to act* when it is required (omissions).[^46]
 - States also have a due diligence obligation to protect men from discrimination from non-State actors.[^47] [^48] [^49] [^50] [^51] For example, states must enact laws that prohibit discrimination.
 - Discrimination also includes incitement to discriminate and harassment.[^52] [^53] 
 - Discrimination includes direct and indirect discrimaintion.[^54]
 
-> Subparagraph (d)  establishes an  obligation of States parties to abstain  from  engaging  in  any  act or  practice  of  direct  or  indirect discrimination  against  women. States  parties must  ensure that State institutions, agents, laws and policies do not directly or explicitly  discriminate  against  women.  They  must  also  ensure  that  any  laws,  policies  or  actions  that  have the **effect or result** of generating discrimination are abolished.
-
 **See page on discrimination for more about discrimination.**
 
-
+#### Prohibition of discrimination
 Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^56] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^57] and by "public authorities, by the community, or by private persons or bodies".[^58]
+
+
 
 States must protect men from discrimination equally with women, and that protection must be effective. A State's mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
 
@@ -556,7 +556,7 @@ States must protect children from discrimination based on sex.[^161]
 
 [^54]: CEDAW General Recommendation 28 - paragraph 16
 
-[^55]: CEDAW General Recommendation 28 - paragraph 35
+[^55]: See also, CEDAW General Recommendation 28 - paragraph 35
 
 [^56]: ICCPR General Comment 18 - paragraph  12
 
@@ -781,5 +781,5 @@ States must protect children from discrimination based on sex.[^161]
 [^167]: ICCPR General Comment 28 - paragraphs 10 & 28
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjUyMjAzMl19
+eyJoaXN0b3J5IjpbMTkzNDI0NDEzOV19
 -->
