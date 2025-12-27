@@ -184,9 +184,7 @@ Education and public awareness campaigns should support and encourage the work o
 ### Adjusting legislation and policy
 States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^88] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^89] protection from discrimination in the law. 
 
-States must review their legislation, policy and programmes periodically to ensure they do not violate men's right to equality and non-discrimination.[^91]  Additionally, States should take into account the effect of supposedly gender-neutral laws and policy to ensure they do not have the effect of disadvantaging or discriminating against men and boys.
-
-> In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^90]
+States must review their legislation, policy and programmes periodically to ensure they do not violate men's right to equality and non-discrimination.[^91]  Additionally, States should take into account the effect of supposedly gender-neutral laws and policy to ensure they do not have the effect of disadvantaging or discriminating against men and boys.[^90]
 
 > Respecting the right obliges States parties **not to adopt, and to repeal laws and rescind, policies, administrative measures and programmes that do not conform with the right protected by article 3**.  In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^170]
 
@@ -200,7 +198,7 @@ States must review their legislation, policy and programmes periodically to ensu
 
 > Article 3 is a cross-cutting obligation and applies to all the rights contained in articles 6 to 15 of the Covenant.  It requires addressing gender-based social and cultural prejudices, **providing for equality in the allocation of resources**, and promoting the sharing of responsibilities in the family, community and public life.  [^95]
 
-	> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources; [^96]
+> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources; [^96]
 
 > A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority[^97]
 
@@ -750,6 +748,6 @@ States must protect children from discrimination based on sex.[^161]
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY5NjUzNDcsLTcwMDY4MTU0NywxMj
-c2MzkwNzg5LDY3MTcxMjMyMV19
+eyJoaXN0b3J5IjpbMTE5NjMxNTAwOSwtNzAwNjgxNTQ3LDEyNz
+YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
