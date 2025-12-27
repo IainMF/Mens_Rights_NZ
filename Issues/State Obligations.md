@@ -162,7 +162,7 @@ To address systemic discrimination against men and boys, States should:[^68]
 
 
 ### Education
-States must educate the population and state officials about men's human rights[^72] [^73]. States have a continuos obligation to condemn discrimination against men and boys, and "to proclaim to their population= and the international community their ==total opposition to all forms of discrimination
+States must educate the population and state officials about men's human rights[^72] [^73]. States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination" against men and boys.[^86] 
 
 State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to severely violate human rights, such as police officers, and judges.[^78]  
 
@@ -171,7 +171,7 @@ State officials are responsible for enacting the State's human rights obligation
 Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights.
 
 #### Public education and  Awareness raising
-States have an obligation to educate the public about their human rights. This should include ensuring men adn boys are "aware  of  their  right  to  equality  without discrimination"[^79]
+States have an obligation to educate the public about their human rights. This should include ensuring men and boys are "aware  of  their  right  to  equality  without discrimination"[^79]
 
 School curricular should include education on equality and non-discrimination.[^80] [^81] Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
 
@@ -182,9 +182,8 @@ Education and public awareness campaigns should support and encourage the work o
 
 #### Condemn Discrimination against men
 
-States have an obligation to condemn discrimination against men.
 
-> The first obligation of States parties referred to in the chapeau of article 2 is the obligation to “condemn discrimination against women in all its forms”. ==States parties have an immediate and continuous obligation to condemn discrimination==. They are ==obliged to proclaim to their population== and the international community their ==total opposition to all forms of discrimination against women to all levels and branches of Government and their determination to bring about the elimination of discrimination against women==. The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging.[^86] 
+The term “discrimination in all its forms” clearly obligates the State party to be vigilant in condemning all forms of discrimination, ==including forms that are not explicitly mentioned in the Convention== or that may be emerging.[^86] 
 
 ##### Promote
 >  In the present general comment, the obligation to fulfil also incorporates an obligation to **promote the elimination of all forms of discrimination** against women[^87]
@@ -754,6 +753,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMTczODkyLDEyNzYzOTA3ODksNjcxNz
+eyJoaXN0b3J5IjpbMjE2MTYzNzQ3LDEyNzYzOTA3ODksNjcxNz
 EyMzIxXX0=
 -->
