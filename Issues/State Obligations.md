@@ -154,9 +154,13 @@ The New Zealand Human Rights Commission describes structural discrimination:
 
 Systemic discrimination results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by fifteen to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. **See page on discrimination in the justice system for more.**
 
-States should use incentives to encourage people to "change their attitudes and behaviour" to men and boys so that they do not face systemic discrimination. They should raise awareness of systemic discrimination against men and boys
+To address systemic discrimination against men and boys, States should:[^68]
+- use incentives to encourage people to "change their attitudes and behaviour" to men and boys so that they do not face systemic discrimination. 
+- raise awareness of systemic discrimination against men and boys.
+-  adopt of "strict measures against incitement to discrimination".
+- 
 
->  Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against **incitement to discrimination** are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^68]
+>  Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against **incitement to discrimination** are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.
 
 
 ### Education
@@ -769,6 +773,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDQzMTcxMywxMjc2MzkwNzg5LDY3MT
-cxMjMyMV19
+eyJoaXN0b3J5IjpbLTE5NzYxMTQ1NjYsMTI3NjM5MDc4OSw2Nz
+E3MTIzMjFdfQ==
 -->
