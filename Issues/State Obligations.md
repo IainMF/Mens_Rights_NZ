@@ -154,7 +154,7 @@ The New Zealand Human Rights Commission describes structural discrimination:
 
 Systemic discrimination results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by fifteen to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. **See page on discrimination in the justice system for more.**
 
-To address systemic discrimination against men and boys, States should:[^68]
+To address systemic discrimination against men and boys, States should:[^169]
 - Use incentives to encourage people to "change their attitudes and behaviour" to men and boys so that they do not face systemic discrimination. 
 - Raise awareness of systemic discrimination against men and boys.
 -  Adopt "strict measures against incitement to discrimination".
@@ -190,7 +190,7 @@ States must review their legislation, policy and programmes periodically to ensu
 
 > ... Laws which impose more severe penalties on women than on men for adultery or other offences also violate the requirement of equal treatment. ... States parties should review their legislation and practices and take the lead in implementing all measures necessary to eliminate discrimination against women in all fields, for example by prohibiting discrimination by private actors in areas such as employment, education, political activities and the provision of accommodation, goods and services.  States parties should report on all these measures and provide information on the remedies available to victims of such discrimination.[^91] 
 
-> Respecting the right obliges States parties **not to adopt, and to repeal laws and rescind, policies, administrative measures and programmes that do not conform with the right protected by article 3**.  In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^90]
+> Respecting the right obliges States parties **not to adopt, and to repeal laws and rescind, policies, administrative measures and programmes that do not conform with the right protected by article 3**.  In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^170]
 
 > States parties should periodically **review existing legislation, policies, strategies and programmes** in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^92]
 
@@ -745,7 +745,11 @@ States must protect children from discrimination based on sex.[^161]
 
 [^168]: ICESCR General Comment 20, paragraph 12
 
+[^169]: ICECSR General Comment 20 - paragraph 39
+
+[^170]: ICESCR General Comment 16 - paragraph 18
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NzY4MTU0LDEyNzYzOTA3ODksNjcxNz
-EyMzIxXX0=
+eyJoaXN0b3J5IjpbLTExMDQ1NTIyMTMsMTI3NjM5MDc4OSw2Nz
+E3MTIzMjFdfQ==
 -->
