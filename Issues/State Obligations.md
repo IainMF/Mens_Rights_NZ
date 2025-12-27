@@ -126,9 +126,13 @@ Importantly,
 **See page on discrimination for more about discrimination.**
 
 #### Prohibition of discrimination
-Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^56] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^57] and by "public authorities, by the community, or by private persons or bodies".[^58]
+
+
+Article 26 of the ICCPR requires that a State's laws "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^56] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^57] and by "public authorities, by the community, or by private persons or bodies".[^58] [^64]
 
 > ...**the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^63]
+
+> Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.
 
 States must protect men from discrimination equally with women, and that protection must be effective. A State's mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
 
@@ -139,7 +143,7 @@ In order for States to protect men from discrimination, they must  collect sex d
 
 See **Monitoring and Reporting** for more
 
-> Such laws should aim at eliminating formal and substantive discrimination, attribute obligations to public and private actors and cover the prohibited grounds discussed above.[^64]
+
 
 Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^65] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
@@ -778,5 +782,5 @@ States must protect children from discrimination based on sex.[^161]
 [^167]: ICCPR General Comment 28 - paragraphs 10 & 28
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTMwOTAzNl19
+eyJoaXN0b3J5IjpbNzEyNzcyMzMyXX0=
 -->
