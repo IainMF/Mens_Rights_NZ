@@ -252,7 +252,7 @@ A State's human rights monitoring must be be effective.[^112] To reveal inequali
 
 > A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^113]
 
-> Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^112]
+> Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^171]
 
 > An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between
 women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied
@@ -749,7 +749,9 @@ States must protect children from discrimination based on sex.[^161]
 
 [^170]: ICESCR General Comment 16 - paragraph 18
 
+[^171]: ICESCR General Comment 16 – Paragraph 39
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ1NTIyMTMsMTI3NjM5MDc4OSw2Nz
-E3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbLTcwMDY4MTU0NywxMjc2MzkwNzg5LDY3MT
+cxMjMyMV19
 -->
