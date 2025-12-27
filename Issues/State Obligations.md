@@ -220,7 +220,7 @@ Insufficient resources is cannot be used as an excuse for discrimination, "unles
 
 International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women. States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See ** page for complaint to MoJ Regarding NZ reporting**
 
-
+States reports must include "sufficient data and statistics"[^172]
 
 
 States are required to report on discrimination against men, both formal and substantive.
@@ -743,7 +743,8 @@ States must protect children from discrimination based on sex.[^161]
 
 [^171]: ICESCR General Comment 16 – Paragraph 39
 
+[^172]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2ODA0MDQsLTcwMDY4MTU0NywxMjc2Mz
-kwNzg5LDY3MTcxMjMyMV19
+eyJoaXN0b3J5IjpbLTI2OTkyMDkwNCwtNzAwNjgxNTQ3LDEyNz
+YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
