@@ -213,12 +213,14 @@ States must provide adequate resources to ensure men and boys enjoy all of their
 Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^97]
 
 ### Monitoring and Reporting
-States must monitor their compliance with human rights treaties.
-
-
-
-
 International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] 
+
+States must monitor
+
+
+
+
+
 
 #### Reports
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women.[^173] States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See ** page for complaint to MoJ Regarding NZ reporting**
@@ -748,6 +750,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODQ5NDE5NCwtNzAwNjgxNTQ3LDEyNz
-YzOTA3ODksNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbODcwMzUzMTE2LC03MDA2ODE1NDcsMTI3Nj
+M5MDc4OSw2NzE3MTIzMjFdfQ==
 -->
