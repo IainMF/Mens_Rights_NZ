@@ -162,8 +162,6 @@ States have an obligation to "adopt an active approach to eliminating systemic d
 #### Address discrimination against men
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^69]
 
-> the positive obligations on States Parties to ensure Covenant rights will only be fully discharged if individuals are protected by the State, not just against violations of Covenant rights by its agents, but also against acts committed by private persons or entities that would impair the enjoyment of Covenant rights[^70]
-
 States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the Covenant.[^71]
 
 
@@ -775,5 +773,5 @@ States must protect children from discrimination based on sex.[^161]
 [^167]: ICCPR General Comment 28 - paragraphs 10 & 28
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbNTIxNjYzMDA4LDY3MTcxMjMyMV19
 -->
