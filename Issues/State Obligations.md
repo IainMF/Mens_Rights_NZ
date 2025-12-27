@@ -141,8 +141,6 @@ See **Monitoring and Reporting** for more
 
 Additionally, States need to prevent new forms of discrimination from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^65] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
-> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against women in general and against women belonging to specific  vulnerable groups in particular.[^66]
-
 
 #### Systemic discrimination
 
@@ -278,6 +276,8 @@ Achieving equal enjoyment of rights between women and men requires thoroughly un
 > ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^111]
 
 see also General Comment 31 paragraphs 15-20??
+
+> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against women in general and against women belonging to specific  vulnerable groups in particular.[^66]
 
 #### Gender sensitive
 A State's human rights monitoring must be be effective.[^112] To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
@@ -776,5 +776,5 @@ States must protect children from discrimination based on sex.[^161]
 [^167]: ICCPR General Comment 28 - paragraphs 10 & 28
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYyNTcxNzBdfQ==
+eyJoaXN0b3J5IjpbLTg4Nzg2NjIxMl19
 -->
