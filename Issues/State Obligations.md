@@ -213,11 +213,26 @@ States must provide adequate resources to ensure men and boys enjoy all of their
 Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^97]
 
 ### Monitoring and Reporting
-International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] These treaties require States to ensure men equally enjoy all of their rights with women
+International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] These treaties require States to ensure men equally enjoy all of their rights with women, so States must monitor men's erights.
 
-States must monitor
+#### Gender sensitive
+A State's human rights monitoring must be be effective.[^112] To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
 
+> A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^113]
 
+> Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^171]
+
+> An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^114] 
+
+The *Manual on Human Rights Monitoring* recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
+
+> Integrating a gender perspective in human rights monitoring is a process to ensure that all violations against men and women of all ages and sections of society are recognized and accounted for. It is also a strategy for making women's as well as men's experiences and concerns an integral dimension of the design and implementation of the monitoring cycle. It helps to better understand the causes and types of human rights violations and, hence, the measures required for prevention and protection.[^115]
+
+The *Manual* emphasises that human rights monitoring requires a proactive attitude and that differences in men's human rights should be made visible. 
+
+> Integrating gender implies a **proactive** attitude of looking at and analysing how situations affect women, girls, men and boys differently. It is also about making such differences **visible** throughout the monitoring cycle. *Emphasis in original*
+
+State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"[^116]
 
 
 
@@ -241,24 +256,8 @@ see also General Comment 31 paragraphs 15-20??
 
 > States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against women in general and against women belonging to specific  vulnerable groups in particular.[^66]
 
-#### Gender sensitive
-A State's human rights monitoring must be be effective.[^112] To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
 
-> A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^113]
 
-> Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^171]
-
-> An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^114] 
-
-The *Manual on Human Rights Monitoring* recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
-
-> Integrating a gender perspective in human rights monitoring is a process to ensure that all violations against men and women of all ages and sections of society are recognized and accounted for. It is also a strategy for making women's as well as men's experiences and concerns an integral dimension of the design and implementation of the monitoring cycle. It helps to better understand the causes and types of human rights violations and, hence, the measures required for prevention and protection.[^115]
-
-The *Manual* emphasises that human rights monitoring requires a proactive attitude and that differences in men's human rights should be made visible. 
-
-> Integrating gender implies a **proactive** attitude of looking at and analysing how situations affect women, girls, men and boys differently. It is also about making such differences **visible** throughout the monitoring cycle. *Emphasis in original*
-
-State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"[^116]
 
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^117]
 
@@ -750,6 +749,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzAzMzU3NSwtNzAwNjgxNTQ3LDEyNz
-YzOTA3ODksNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbLTEwMzk3NzUzODMsLTcwMDY4MTU0NywxMj
+c2MzkwNzg5LDY3MTcxMjMyMV19
 -->
