@@ -169,11 +169,11 @@ States must educate the population and state officials about men's human rights.
 Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights.
 
 #### Public education and  Awareness raising
-States have an obligation to educate the public, including men and boys, about their human rights. 
+States have an obligation to educate the public about their human rights. This should include ensuring men adn boys are "aware  of  their  right  to  equality  without discrimination"[^79]
 
 School curricular should include education on equality and non-discrimination. Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
 
-> Enlisting  all  media  in  public  education  programmes  about  the  equality  of  women  and  men,  and  ensuring  in  particular  that  women  are  aware  of  their  right  to  equality  without discrimination, of the measures taken by the State party to implement the  Convention,  and  of  the  concluding  observations  by  the  Committee  on  the  reports  of  the  State party;[^79] 
+> Enlisting  all  media  in  public  education  programmes  about  the  equality  of  women  and  men,  and  ensuring  in  particular  that  women  are  aware  of  their  right  to  equality  without discrimination, of the measures taken by the State party to implement the  Convention,  and  of  the  concluding  observations  by  the  Committee  on  the  reports  of  the  State party; 
 
 > - To conduct human rights education and training programmes for judges and public officials 
 > - To conduct awareness-raising and training programmes on equality for workers involved in the realization of economic, social and cultural rights at the grass-roots level
@@ -763,6 +763,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzY2MzIyMSwxMjc2MzkwNzg5LDY3MT
-cxMjMyMV19
+eyJoaXN0b3J5IjpbLTE0Njk4NTc0NTcsMTI3NjM5MDc4OSw2Nz
+E3MTIzMjFdfQ==
 -->
