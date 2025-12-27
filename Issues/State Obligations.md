@@ -171,16 +171,16 @@ Note: As there is no CEDAW equivalent, it is important that government officials
 #### Public education and  Awareness raising
 States have an obligation to educate the public about their human rights. This should include ensuring men adn boys are "aware  of  their  right  to  equality  without discrimination"[^79]
 
-School curricular should include education on equality and non-discrimination.[^80] Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
+School curricular should include education on equality and non-discrimination.[^80] [^81] Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
 
 
-> ... States parties should ensure, in particular through information and **awareness-raising campaigns**, that families desist from giving preferential treatment to boys when sending their children to school, and **that curricula promote equality and non-discrimination**.[^81]
+>  Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^82]
 
-> the State should conduct human rights education and training programmes for public officials and make such training available to judges and candidates for judicial appointments. Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^82]
+Education and public awareness campaigns shoul dsupport the work of men adn
 
 > encourage the work of human rights and women’s non-governmental organizations[^83] 
 
-> The State has the responsibility to take legislative, judicial, administrative or other appropriate measures to promote the understanding by all persons under its jurisdiction of their civil, political, economic, social and cultural rights.[^84]
+
 
 > To  this  end, resources must  be devoted to ensuring that human rights and  women’s non-governmental **organizations are well-informed, adequately consulted and generally able to play an active role** in the initial and subsequent development of the policy. [^85]
 
@@ -758,6 +758,6 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0MzU5OTQwLDEyNzYzOTA3ODksNjcxNz
+eyJoaXN0b3J5IjpbMjc1MTczMzUxLDEyNzYzOTA3ODksNjcxNz
 EyMzIxXX0=
 -->
