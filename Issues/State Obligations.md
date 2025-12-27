@@ -150,20 +150,16 @@ States have an obligation to "adopt an active approach to eliminating systemic d
 
 This results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent over-representation in prison by fifteen to twenty times is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. **See page on discrimination in the justice system for more.**
 
-The New Zealand Human Rights Commission:
+The New Zealand Human Rights Commission describes structural discrimination:
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent.[^67]
 
 
-
-
->  States parties must adopt an **active approach** to eliminating **systemic discrimination** and segregation in practice. Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against **incitement to discrimination** are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^68]
-
-
+>  Tackling such discrimination will usually require a comprehensive approach with a range of laws, policies and programmes, including temporary special measures. States parties should consider using incentives to encourage public and private actors to **change their attitudes and behaviour in relation to individuals and groups of individuals facing systemic discrimination**, or penalize them in case of non-compliance. Public leadership and programmes to raise awareness about systemic discrimination and the adoption of strict measures against **incitement to discrimination** are often necessary. Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups. Given the **persistent hostility towards some groups**, particular attention will need to be given to ensuring that laws and policies are **implemented by officials** and others in practice.[^68]
 
 
 ### Education
-States must educate the population and state officials about men's human rights.[^72] [^73]State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to violate human rights, such as police officers, and judges. 
+States must educate the population and state officials about men's human rights.[^72] [^73] State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to violate human rights, such as police officers, and judges. 
 
 > States  parties  should  ensure  that  all  Government  bodies  and  organs  are  fully  aware  of  the  principles  of  equality  and  non-discrimination  on  the  basis  of  sex  and  gender  and  that  adequate  training  and  awareness-raising  programmes  are  set  up  and  carried  out in this respect.[^74]
 
@@ -772,5 +768,5 @@ States must protect children from discrimination based on sex.[^161]
 [^168]: ICESCR General Comment 20, paragraph 12
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY1MzI5MDYsNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbLTIwNzM2MDEzMzEsNjcxNzEyMzIxXX0=
 -->
