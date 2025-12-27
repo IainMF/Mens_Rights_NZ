@@ -246,9 +246,7 @@ A State's human rights monitoring must be be effective.[^112] To reveal inequali
 
 > Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^171]
 
-> An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between
-women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied
-to other population groups, as relevant.[^114] 
+> An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^114] 
 
 The *Manual on Human Rights Monitoring* recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
 
@@ -750,6 +748,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Nzk0NzIxNywtNzAwNjgxNTQ3LDEyNz
-YzOTA3ODksNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbLTE1OTcyOTA4NzMsLTcwMDY4MTU0NywxMj
+c2MzkwNzg5LDY3MTcxMjMyMV19
 -->
