@@ -107,7 +107,7 @@ States are required to "take affirmative action in order to diminish or eliminat
 
 > The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^44]
 
- A State's obligation to ensure formal and substantive equality for men may require the adoption of *temporary special measures* "in order to attenuate or suppress conditions that perpetuate discrimination"[^45] These measures 
+ A State's obligation to ensure formal and substantive equality for men may require the adoption of *temporary special measures* "in order to attenuate or suppress conditions that perpetuate discrimination"[^45] These measures in favour of men are not considered discrimination against women as long as they are necessary adn "necessary to redress de facto discrimination and are terminated when de facto equality is achieved"
 
 > The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of [men] in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved, such differentiation is legitimate.[^45]
 
@@ -697,6 +697,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^161]: ICESCR General Comment 16 - paragraph  42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTQ5NzU2MCwtMTA2MTY5MjUxNSwtMj
-A4NDU2NzgxMl19
+eyJoaXN0b3J5IjpbLTE1ODE1MjU3OTAsLTEwNjE2OTI1MTUsLT
+IwODQ1Njc4MTJdfQ==
 -->
