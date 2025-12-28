@@ -217,6 +217,11 @@ International human rights treaties require States to monitor and report on thei
 
 A State's human rights monitoring must be be effective.[^112]
 
+#### Indicators and benchmarks
+> States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^118]
+
+> Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^119] 
+
 #### Gender sensitive
 To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be *gender-sensitive*. 
 
@@ -232,13 +237,10 @@ The *Manual* emphasises that human rights monitoring requires a proactive attitu
 
 State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"[^116]
 
-
-
 > An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^114] 
 
 #### Reports
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women.[^173] States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See ** page for complaint to MoJ Regarding NZ reporting**
-
 
 States reports must include "sufficient data and statistics"[^172] to allow treaty bodies to asses progress in men's equal enjoyment of their rights. That is, State's reports must include sex-disaggregated data when ever it is available or explanations for why it is not.
 
@@ -248,39 +250,22 @@ States are required to report on discrimination against men, both formal and sub
 
 > States parties are obliged to monitor **effectively** the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^109]
 
-
-
-
 > ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^111]
 
 see also General Comment 31 paragraphs 15-20??
 
 > States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against women in general and against women belonging to specific  vulnerable groups in particular.[^66]
 
-
-
-
 > States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^117]
-
-
 
 See CCPR General Comment No. 28 for reporting requirements
 
-#### Indicators and benchmarks
-> States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^118]
-
-> Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^119] 
-
 #### Right to information
-Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government response. Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^120] [^121] States have an obligation to ensure men and men's advocates have access to relevant information and "are able to effectively promote and claim" their rights[^122] 
-
-Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.[^123]
+Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government response. Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^120] [^121] States have an obligation to ensure men and men's advocates have access to relevant information and "are able to effectively promote and claim" their rights[^122] Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.[^123]
 
 > To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^124]
 
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
-
-> The policy must ensure that women, as individuals and groups, ==have access to information== about their rights under the Convention and ==are able to effectively promote and claim those rights==. The State party should also ensure that women are able to participate actively in the development, implementation and monitoring of the policy. To this end, resources must be devoted to ensuring ==that human rights and women’s non-governmental organizations are well-informed, adequately consulted and generally able to play an active role in the initial and subsequent development of the policy== [^125]
 
 ### National Plan of Action
 States should have a *National Plan of Action* for human rights which includes
@@ -750,6 +735,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzIwNjkyOSwtNzAwNjgxNTQ3LDEyNz
+eyJoaXN0b3J5IjpbMTEwNDYwMTA2MiwtNzAwNjgxNTQ3LDEyNz
 YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
