@@ -103,13 +103,10 @@ Gender neutral polices and programs that fail to take into account existing disa
 
 > In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^42] 
 
-States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^38]
+States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.
 
-##### Positive measures
+> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^44]
 
->  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.[^43]
-
-> The Committee also wishes to point out that the **principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant**. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^44]
 
 > The principles of equality and non-discrimination, by themselves, are not always sufficient to guarantee true equality.  Temporary special measures may sometimes be needed in order to bring disadvantaged or marginalized persons or groups of persons to the same substantive level as others.  Temporary special measures aim at realizing not only de jure or formal equality, but also de facto or substantive equality for men and women.  However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved, such differentiation is legitimate.[^45]
 
@@ -699,6 +696,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^161]: ICESCR General Comment 16 - paragraph  42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NjQxNjIzLC0xMDYxNjkyNTE1LC0yMD
-g0NTY3ODEyXX0=
+eyJoaXN0b3J5IjpbMTA4MzE4MTYsLTEwNjE2OTI1MTUsLTIwOD
+Q1Njc4MTJdfQ==
 -->
