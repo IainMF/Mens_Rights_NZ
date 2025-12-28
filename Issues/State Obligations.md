@@ -132,7 +132,7 @@ While human rights treaties prohibit discrimination based on sex, it is understo
 
 Importantly, 
 - Discrimination against men can occur due to the *effect or result* of policy or programs impairing men's rights. It does not have to been intentional.[^52]
-- Discrimination includes acts and *failing to act* when it is required (omissions).[^53]
+- Discrimination includes acts and *failing to act* when it is required (omissions).[^53] [^161]
 - States also have a due diligence obligation to protect men from discrimination from non-State actors.[^54] [^55] [^56] [^57] [^58] For example, states must enact laws that prohibit discrimination.
 - Discrimination also includes incitement to discriminate and harassment.[^59] [^60] 
 - Discrimination includes direct and indirect discrimaintion.[^61]
@@ -698,7 +698,9 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 [^160]: See also: CEDAW General Recommendation 28 - paragraph 25 & 39
 
+[^161]: ICESCR General Comment 16 - paragraph  42
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE2OTI1MTUsLTIwODQ1Njc4MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTE1MzMyNDkyMTMsLTEwNjE2OTI1MTUsLT
+IwODQ1Njc4MTJdfQ==
 -->
