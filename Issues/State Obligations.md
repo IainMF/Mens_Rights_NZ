@@ -286,7 +286,7 @@ States should have a *National Plan of Action* for human rights which includes
 
 
 ### Representation in decision making
-States must ensure that men are represented in decision making. This means ensuring that men's needs and human rights are considered so that men benefit from the decisions that are made.[^133]
+States must ensure that men are represented in decision making. This means ensuring that men's needs and human rights are considered so that men benefit from the decisions that are made.[^133] Simple numerical representation of men in decision making is not sufficient to ensure  their needs are taken into account. 
 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^134]
 
@@ -733,6 +733,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3ODYxMTIwLC03MDA2ODE1NDcsMTI3Nj
-M5MDc4OSw2NzE3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbLTExMzY2MjMzMDEsLTcwMDY4MTU0NywxMj
+c2MzkwNzg5LDY3MTcxMjMyMV19
 -->
