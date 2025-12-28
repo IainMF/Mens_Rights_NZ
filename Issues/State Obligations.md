@@ -218,7 +218,7 @@ International human rights treaties require States to monitor and report on thei
 A State's human rights monitoring must be be effective.[^112]
 
 #### Gender sensitive
-To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
+To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be *gender-sensitive*. 
 
 > A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^113]
 
@@ -232,7 +232,7 @@ The *Manual* emphasises that human rights monitoring requires a proactive attitu
 
 State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"[^116]
 
-> Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^171]
+
 
 > An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^114] 
 
@@ -241,6 +241,8 @@ Particularly, States should monitor and report on their compliance with Article 
 
 
 States reports must include "sufficient data and statistics"[^172] to allow treaty bodies to asses progress in men's equal enjoyment of their rights. That is, State's reports must include sex-disaggregated data when ever it is available or explanations for why it is not.
+
+> Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women[^171]
 
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^108]
 
@@ -748,6 +750,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Mjc4MDc3OSwtNzAwNjgxNTQ3LDEyNz
+eyJoaXN0b3J5IjpbLTUzNzIwNjkyOSwtNzAwNjgxNTQ3LDEyNz
 YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
