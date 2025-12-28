@@ -128,7 +128,7 @@ States have an obligation to "adopt an active approach to eliminating systemic d
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent.[^78]
 
-Systemic discrimination results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent 16x over-representation in prison[^999] is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. **See page on discrimination in the justice system for more.**
+Systemic discrimination results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent 16 times over-representation in prison is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. **See page on discrimination in the justice system for more.**
 
 To address systemic discrimination against men and boys, States should:[^79]
 - Use incentives to encourage people to "change their attitudes and behaviour" to men and boys so that they do not face systemic discrimination. 
@@ -692,10 +692,10 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 [^164]: CEDAW General Recommendation 25 - paragraph 16 
 
-[^165]: 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI5NzE5NzEsLTE4MDIzNTI1NSwtOD
+eyJoaXN0b3J5IjpbLTExNjE2MjMzNzQsLTE4MDIzNTI1NSwtOD
 U3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2
 NzgxMl19
 -->
