@@ -117,9 +117,7 @@ Similarly, in order to ensure equal and effective protection against discriminat
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example the ICCPR requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage and to provide boys the same protection as girls.[^67] States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the their human rights obligations.[^68]
 
 #### Gender analysis
-In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis.[^69] Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^70] States may be able to justify differential treatment of men if it is reasonable, objective,[^71] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^72]
-
-> To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, **gender audits**, and gender-specific allocation of resources; [^73]
+In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis.[^69] [^73] Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^70] States may be able to justify differential treatment of men if it is reasonable, objective,[^71] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^72]
 
 See **Monitoring and Reporting** for more
 
@@ -697,7 +695,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^164]: CEDAW General Recommendation 25 - paragraph 16 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDEwNTA0OCwtMTgwMjM1MjU1LC04NT
-c2NjczMzQsMTcyODU4MzIxLC0xMDYxNjkyNTE1LC0yMDg0NTY3
-ODEyXX0=
+eyJoaXN0b3J5IjpbLTEzMjA5NjY5NDgsLTE4MDIzNTI1NSwtOD
+U3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2
+NzgxMl19
 -->
