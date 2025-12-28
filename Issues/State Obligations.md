@@ -95,7 +95,7 @@ States have an obligation to address stereotypes and prejudices against men and 
 
 #### Recognition of existing disadvantage
  
- In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys. [^39] Such as, health issues including shorter life-expectancy an, bias in the justice system, poorer educational outcomes,  
+ In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys. [^39] Such as, health issues )including higher rates of amenable mortality, shorter life-expectancy and high suicide rate), bias in the justice system, poorer educational outcomes, laws that explicitly discriminate against men etc.
 
 > States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities...[^40]
 
@@ -698,6 +698,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^161]: ICESCR General Comment 16 - paragraph  42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2Nzg1NTExLC0xMDYxNjkyNTE1LC0yMD
-g0NTY3ODEyXX0=
+eyJoaXN0b3J5IjpbMTU1Mjk2OTA2MCwtMTA2MTY5MjUxNSwtMj
+A4NDU2NzgxMl19
 -->
