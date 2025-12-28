@@ -202,10 +202,8 @@ Insufficient resources is cannot be used as an excuse for discrimination, "unles
 ### Monitoring and Reporting
 International human rights treaties require States to monitor and report on their implementation of those treaties.[^103] [^104] Therefore, States must monitor men's enjoyment of their rights. This monitoring must be be *effective*.[^105]
 
-#### Indicators and benchmarks
-> States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^106]
 
-> Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^107] 
+
 
 #### Gender sensitive
 To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be *gender-sensitive*. 
@@ -223,6 +221,15 @@ The *Manual* emphasises that human rights monitoring requires a proactive attitu
 State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"[^110]
 
 > An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^111] 
+
+
+#### Indicators and benchmarks
+
+
+> States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^106]
+
+> Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^107] 
+
 
 #### Reports
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women.[^112] States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See ** page for complaint to MoJ Regarding NZ reporting**
@@ -692,7 +699,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1NzE2MjU0LC0xODAyMzUyNTUsLTg1Nz
+eyJoaXN0b3J5IjpbMjQ1NTAyMTI4LC0xODAyMzUyNTUsLTg1Nz
 Y2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1MTUsLTIwODQ1Njc4
 MTJdfQ==
 -->
