@@ -159,9 +159,9 @@ States are required to "take affirmative action in order to diminish or eliminat
 
  A State's obligation to ensure formal and substantive equality for men may require the adoption of *temporary special measures* that favour men "in order to attenuate or suppress conditions that perpetuate discrimination".[^45] These measures are not considered discrimination against women as long as they are "necessary to redress de facto discrimination and are terminated when de facto equality is achieved"[^45]
 
-> States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**. [^48]
+> States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**. [^48] *Emphasis added*
 
-Some permanent measures may be required to address men's inherent disadvantages.[^164] [^163] [^47] For example, State's have an obligation to ensure men can choose if and when they become a parent.[^162] However, men's and women's different biology means that men do not have the certainty that a child is theirs that women have. This paternity uncertainty allows a woman or the State to force a man into parenthood without his knowledge or consent. This may require some permanent measures to ensure men fully enjoy their reproductive rights.
+Some permanent measures may be required to address men's inherent disadvantages.[^164] [^163] [^47] For example, State's have an obligation to ensure men can choose if or when they become a parent.[^162] However, men's and women's different biology means that men do not have the certainty that a child is theirs that women have. This paternity uncertainty allows a woman or the State to force a man into parenthood without his knowledge or consent. This may require some permanent measures to ensure men fully enjoy their reproductive rights.
 
 ##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
 
@@ -695,7 +695,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTc3NDk3OCwtMTgwMjM1MjU1LC04NT
+eyJoaXN0b3J5IjpbMTUzMDY3NzA5OCwtMTgwMjM1MjU1LC04NT
 c2NjczMzQsMTcyODU4MzIxLC0xMDYxNjkyNTE1LC0yMDg0NTY3
 ODEyXX0=
 -->
