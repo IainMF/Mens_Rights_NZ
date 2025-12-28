@@ -108,9 +108,9 @@ Importantly,
 #### Prohibition of discrimination
 A State's laws must "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^62] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^63] and by "public authorities, by the community, or by private persons or bodies".[^64] [^65]
 
-> ...**the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality**.[^66]
+> ...the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality.[^66]
 
-States must protect men from discrimination equally with women, and that protection must be effective. A State's mechanisms to prevent discrimination must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
+States must protect men from discrimination equally with women, and that protection must be effective. A State's discrimination prevention mechanisms must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
 
 Similarly, in order to ensure equal and effective protection against discrimination to men, State officials must understand that the obligation to protect applies equally to men and women.
 
@@ -699,6 +699,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^164]: CEDAW General Recommendation 25 - paragraph 16 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDIzNTI1NSwtODU3NjY3MzM0LDE3Mj
-g1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2NzgxMl19
+eyJoaXN0b3J5IjpbMjAyODUwMjE1MCwtMTgwMjM1MjU1LC04NT
+c2NjczMzQsMTcyODU4MzIxLC0xMDYxNjkyNTE1LC0yMDg0NTY3
+ODEyXX0=
 -->
