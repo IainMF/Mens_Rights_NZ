@@ -370,8 +370,6 @@ States must protect children from discrimination based on sex.[^156]
 #### Address violence
 States have an obligation to act with due diligence to prevent, investigate, prosecute and punish violence against men and boys.
 
-> States parties must take appropriate measures to eliminate violence against men and women and act with due diligence to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^158]
-
 > Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, **to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage**; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and **boys and girls should be protected equally from practices that promote child marriage**, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  **Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality**.  States parties **must take appropriate measures to eliminate violence against men and women** and act with **due diligence** to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^158]
 
 >  Discrimination  against  women  on  the basis  of  sex  and gender  comprises,  as  stated in  general recommendation No. 19 on violence against women, gender-based violence,  namely,  violence  that  is  directed  against  a  woman  because  she  is  a  woman  or  violence  that  affects  women  disproportionately.  It  is  a  form  of  discrimination  that  seriously  inhibits  women’s  ability  to  enjoy  and  exercise  their  human  rights  and  fundamental  freedoms  on  the  basis  of  equality  with  men.  It  includes  acts  that  inflict  physical,  mental  or  sexual  harm  or  suffering,  threats  of  such  acts,  coercion  and  other  deprivations  of  liberty,  the  violence  that  occurs  within  the  family  or  domestic  unit  or  within  any  other  interpersonal  relationship,  or  violence  perpetrated  or  condoned  by  the  State  or  its  agents  regardless  of  where  it  occurs.  Gender-based  violence  may  breach  specific  provisions  of  the  Convention,  regardless  of  whether  those  provisions  expressly  mention  violence.  States  parties  have  a  due  diligence  obligation to prevent, investigate, prosecute and punish such acts of gender-based violence.[^159] 
@@ -701,6 +699,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^161]: ICESCR General Comment 16 - paragraph  42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMyNDkyMTMsLTEwNjE2OTI1MTUsLT
-IwODQ1Njc4MTJdfQ==
+eyJoaXN0b3J5IjpbNzU1Nzc2MjE5LC0xMDYxNjkyNTE1LC0yMD
+g0NTY3ODEyXX0=
 -->
