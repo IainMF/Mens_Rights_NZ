@@ -86,33 +86,8 @@ International human rights treaty bodies have identified several 'necessary step
 - the adjustment of domestic legislation to conform with human rights treaties[^30]
 - the prohibition of discrimination against men and boys[^31]
 
-### Removal of obstacles
-States must take into account the 'factors that impede'[^32] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^33] [^34] Logically, this means identifying these obstacles, which relates to the obligation to **monitor and report**, and create a **plan of action** (see below).
-
-#### Stereotypes
-States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^35] [^36] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^37] Logically this includes the idea that men's rights are less important than women's rights.
 
 
-#### Recognition of existing disadvantage
- 
- In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^39] For example, health issues (including higher rates of amenable mortality, shorter life-expectancy and high suicide rate), bias in the justice system (including longer sentences for same crime), poorer educational outcomes, laws that explicitly discriminate against men, additional barriers for men who are victims of family and sexual violence etc.
-
-> States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities...[^40]
-
-Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities faced by men may be discrimination.[^41] 
-
-> In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^42] 
-
-States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.
-
-> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^44]
-
- A State's obligation to ensure formal and substantive equality for men may require the adoption of *temporary special measures* that favour men "in order to attenuate or suppress conditions that perpetuate discrimination".[^45] These measures are not considered discrimination against women as long as they are "necessary to redress de facto discrimination and are terminated when de facto equality is achieved"[^45]
-
-Some permanent measures may be required to address men's inherent disadvantages.[^164] [^163] [^47] For example, State's have an obligation to ensure men can choose if and when they become a parent.[^162] However, men's and women's different biology means that men do not have the certainty that a child is theirs that women have. This paternity uncertainty allows a woman or the State to force a man into parenthood without his knowledge or consent. This may require some permanent measures to ensure men fully enjoy their reproductive rights.
-
-
-##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
 
 ### Non-discrimination
 Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys. For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. 
@@ -168,7 +143,35 @@ To address systemic discrimination against men and boys, States should:[^79]
 - Raise awareness of systemic discrimination against men and boys.
 -  Adopt "strict measures against incitement to discrimination".
 - Ensure that laws and polices to prevent discrimination against men and boys are implemented in practice.
+- 
+### Removal of obstacles
+States must take into account the 'factors that impede'[^32] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^33] [^34] Logically, this means identifying these obstacles, which relates to the obligation to **monitor and report**, and create a **plan of action** (see below).
 
+#### Stereotypes
+States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^35] [^36] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^37] Logically this includes the idea that men's rights are less important than women's rights.
+
+
+#### Recognition of existing disadvantage
+ 
+ In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^39] For example, health issues (including higher rates of amenable mortality, shorter life-expectancy and high suicide rate), bias in the justice system (including longer sentences for same crime), poorer educational outcomes, laws that explicitly discriminate against men, additional barriers for men who are victims of family and sexual violence etc.
+
+> States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities...[^40]
+
+Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities faced by men may be discrimination.[^41] 
+
+> In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^42] 
+
+States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.
+
+> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^44]
+
+ A State's obligation to ensure formal and substantive equality for men may require the adoption of *temporary special measures* that favour men "in order to attenuate or suppress conditions that perpetuate discrimination".[^45] These measures are not considered discrimination against women as long as they are "necessary to redress de facto discrimination and are terminated when de facto equality is achieved"[^45]
+
+> States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**. [^48]
+
+Some permanent measures may be required to address men's inherent disadvantages.[^164] [^163] [^47] For example, State's have an obligation to ensure men can choose if and when they become a parent.[^162] However, men's and women's different biology means that men do not have the certainty that a child is theirs that women have. This paternity uncertainty allows a woman or the State to force a man into parenthood without his knowledge or consent. This may require some permanent measures to ensure men fully enjoy their reproductive rights.
+
+##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
 
 ### Education
 States must educate the population and state officials about men's human rights[^80] [^81]. States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination" against men and boys, [^74] and to  "promote the elimination of all forms of discrimination"[^82] against men and boys.
@@ -698,6 +701,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^164]: CEDAW General Recommendation 25 - paragraph 16 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMxMzY0MDcsLTg1NzY2NzMzNCwxNz
+eyJoaXN0b3J5IjpbLTE1ODA2NDMzODQsLTg1NzY2NzMzNCwxNz
 I4NTgzMjEsLTEwNjE2OTI1MTUsLTIwODQ1Njc4MTJdfQ==
 -->
