@@ -195,15 +195,12 @@ States must periodically review their legislation, policy and programmes to ensu
 > Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights.[^98]
 
 ### Adequate resources
-
 States must provide adequate resources to ensure men and boys enjoy all of their human rights.[^99] Generally this means "equality in the allocation of resources"[^100] although in some situations ensuring that men equally enjoy their rights with women will require "gender-specific allocation of resources".[^101]
 
 Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^102]
 
 ### Monitoring and Reporting
-International human rights treaties require States to monitor and report on their implementation of those treaties.[^103] [^104] Therefore, States must monitor men's enjoyment of their rights.
-
-A State's human rights monitoring must be be effective.[^105]
+International human rights treaties require States to monitor and report on their implementation of those treaties.[^103] [^104] Therefore, States must monitor men's enjoyment of their rights. This monitoring must be be *effective*.[^105]
 
 #### Indicators and benchmarks
 > States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^106]
@@ -695,7 +692,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA5NTU5OTgsLTE4MDIzNTI1NSwtOD
-U3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2
-NzgxMl19
+eyJoaXN0b3J5IjpbMjg1NzE2MjU0LC0xODAyMzUyNTUsLTg1Nz
+Y2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1MTUsLTIwODQ1Njc4
+MTJdfQ==
 -->
