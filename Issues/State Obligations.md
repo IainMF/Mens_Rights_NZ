@@ -95,7 +95,7 @@ States have an obligation to address stereotypes and prejudices against men and 
 
 #### Recognition of existing disadvantage
  
- In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^39] For example, health issues (including higher rates of amenable mortality, shorter life-expectancy and high suicide rate), bias in the justice system, poorer educational outcomes, laws that explicitly discriminate against men, addition barriers for men who are victims of family and sexual violence etc.
+ In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^39] For example, health issues (including higher rates of amenable mortality, shorter life-expectancy and high suicide rate), bias in the justice system (including longer sentences for same crime), poorer educational outcomes, laws that explicitly discriminate against men, additional barriers for men who are victims of family and sexual violence etc.
 
 > States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities...[^40]
 
@@ -104,6 +104,7 @@ Gender neutral polices and programs that fail to take into account existing disa
 > In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^42] 
 
 States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^38]
+
 ##### Positive measures
 
 >  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.[^43]
@@ -698,6 +699,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^161]: ICESCR General Comment 16 - paragraph  42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjE3NzkzMCwtMTA2MTY5MjUxNSwtMj
-A4NDU2NzgxMl19
+eyJoaXN0b3J5IjpbMzA0NjQxNjIzLC0xMDYxNjkyNTE1LC0yMD
+g0NTY3ODEyXX0=
 -->
