@@ -327,7 +327,7 @@ States have an obligation to provide remedy to men and boys whose rights have be
 #### Ensure marriage equality
 International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^146] 
 
-> Such steps may take the form of legislative, administrative or other measures, but it is a **positive duty** of States parties to **make certain that spouses have equal rights as required by the Covenant**.[^147]
+> ... it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^147]
 
 > States are required to treat men and women equally in regard to marriage in accordance with article 23, which has been elaborated further by general comment No. 19 (1990).  Men and women have the right to enter into marriage only with their free and full consent, and States have an obligation to protect the enjoyment of this right on an equal basis.[^148] 
 
@@ -356,7 +356,6 @@ States are required to ensure equal protection for boys and girls[^154], and tha
 
 #### Children's rights
 
-
 Children are entitled to all of the civil and political rights in the Covenant.
 
 The special measures to protect children in the *International Covenant on Civil and Political Rights* are primarily about ensuring children have their civil and political rights. Additionally, this protection should extend to economic social and cultural measures.
@@ -371,7 +370,6 @@ States must protect children from discrimination based on sex.[^161]
 
 24.3 - Every child has the right to acquire a nationality.
 
-> The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.** States parties should report on measures taken to ensure that girls are treated equally to boys *in education*, in feeding and in *health care*, and provide the Committee with disaggregated data in this respect. States parties should eradicate, both through legislation and any other appropriate measures, *all cultural or religious practices which jeopardize the freedom and well-being of female children*.[^162]
 
 ##### General comment 17
 
@@ -736,7 +734,7 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDc0ODE1NCwxODE2MTAzNTM0LDUxMz
-gzNDQzLC03MDA2ODE1NDcsMTI3NjM5MDc4OSw2NzE3MTIzMjFd
-fQ==
+eyJoaXN0b3J5IjpbNTMxNTM0NTQ5LDE4MTYxMDM1MzQsNTEzOD
+M0NDMsLTcwMDY4MTU0NywxMjc2MzkwNzg5LDY3MTcxMjMyMV19
+
 -->
