@@ -112,7 +112,7 @@ States are required to "take affirmative action in order to diminish or eliminat
 
 > To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources;[^46]
 
-Some permanent measures may be required to address men's inherent disadvantages. For example, State's have an obligation to ensure men can choose if and when they become a parent. However, men do not have the certainty that a child is theirs that women have. This paternity uncertainty affects that men's ability allows a woman or the State can force a man into parenthood without his knowledge or consent.  This is a result of men's and women's different biology and 
+Some permanent measures may be required to address men's inherent disadvantages. For example, State's have an obligation to ensure men can choose if and when they become a parent. However, men's and women's different biology  means that men do not have the certainty that a child is theirs that women have. This paternity uncertainty affects that men's ability allows a woman or the State can force a man into parenthood without his knowledge or consent.  
 
 > The adoption of temporary special measures may be necessary to accelerate the equal enjoyment by women of all economic, social and cultural rights and to improve the de facto position of women.  Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women.[^47]
 
@@ -698,6 +698,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^161]: ICESCR General Comment 16 - paragraph  42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjM0NzI3MSwxNzI4NTgzMjEsLTEwNj
+eyJoaXN0b3J5IjpbLTUwOTQzMTM0NCwxNzI4NTgzMjEsLTEwNj
 E2OTI1MTUsLTIwODQ1Njc4MTJdfQ==
 -->
