@@ -356,7 +356,6 @@ States are required to ensure equal protection for boys and girls[^154], and tha
 
 #### Children's rights
 
-States are required to adopt special measures to protect children. States must protect girls and boys equally[^158] and without discrimination.[^159]
 
 Children are entitled to all of the civil and political rights in the Covenant.
 
@@ -737,6 +736,7 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjEwMzUzNCw1MTM4MzQ0MywtNzAwNj
-gxNTQ3LDEyNzYzOTA3ODksNjcxNzEyMzIxXX0=
+eyJoaXN0b3J5IjpbLTc2MDc0ODE1NCwxODE2MTAzNTM0LDUxMz
+gzNDQzLC03MDA2ODE1NDcsMTI3NjM5MDc4OSw2NzE3MTIzMjFd
+fQ==
 -->
