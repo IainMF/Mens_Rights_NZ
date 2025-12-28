@@ -334,16 +334,10 @@ International human rights treaties explicitly require States to treat men and w
 
 > Thus, **any discriminatory treatment in regard to the grounds and procedures for separation or divorce, child custody, maintenance or alimony, visiting rights or the loss or recovery of parental authority must be prohibited**, bearing in mind the paramount **interest of the children** in this connection. States parties should, in particular, include information in their reports concerning the provision made for the necessary protection of any children at the dissolution of a marriage or on the separation of the spouses.[^152]
 
-
-> Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and boys and girls should be protected equally from practices that promote child marriage, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality.  States parties must take appropriate measures to eliminate violence against men and women and act with due diligence to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^150]
-
-##### General Comment 19
+> \...If the marriage is dissolved, steps should be taken, keeping in view the paramount interest of the children, to give them necessary protection and, so far as is possible, to **guarantee personal relations with both parents**. \...[^153]
 
 > During marriage, the spouses should have equal rights and responsibilities in the family. This equality extends to all matters arising from their relationship, such as choice of residence, running of the household, education of the children and administration of assets. Such equality continues to be applicable to arrangements regarding legal separation or dissolution of the marriage.[^151]
 
-##### General Comment 17 
-
-> \...If the marriage is dissolved, steps should be taken, keeping in view the paramount interest of the children, to give them necessary protection and, so far as is possible, to **guarantee personal relations with both parents**. \...[^153]
 
 #### Equal protection of boys
 States have a special duty to protect children. This duty must be carried out equally for boys and girls.
@@ -369,7 +363,6 @@ States must protect children from discrimination based on sex.[^161]
 24.2 - Every child shall be registered immediately after birth and shall have a name.
 
 24.3 - Every child has the right to acquire a nationality.
-
 
 ##### General comment 17
 
@@ -734,7 +727,7 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTY0NjM5MywxODE2MTAzNTM0LDUxMz
+eyJoaXN0b3J5IjpbLTEwODM0OTg4NiwxODE2MTAzNTM0LDUxMz
 gzNDQzLC03MDA2ODE1NDcsMTI3NjM5MDc4OSw2NzE3MTIzMjFd
 fQ==
 -->
