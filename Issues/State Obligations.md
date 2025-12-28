@@ -92,9 +92,7 @@ States must take into account the 'factors that impede'[^32] men's enjoyment of 
 #### Stereotypes
 States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^35] [^36] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^37] Logically this includes the idea that men's rights are less important than women's rights.
 
-##### Conditions which cause or perpetuate discrimination
-States are also required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^38]
- 
+
 #### Recognition of existing disadvantage
  
  In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys. [^39] 
@@ -105,6 +103,7 @@ Gender neutral polices and programs that fail to take into account existing disa
 
 > In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^42] 
 
+States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^38]
 ##### Positive measures
 
 >  The State party must not only adopt measures of protection, but also **positive measures** in all areas so as to achieve the effective and equal empowerment of women.[^43]
@@ -699,6 +698,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^161]: ICESCR General Comment 16 - paragraph  42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1Nzc2MjE5LC0xMDYxNjkyNTE1LC0yMD
+eyJoaXN0b3J5IjpbNDk2MjEwOTU2LC0xMDYxNjkyNTE1LC0yMD
 g0NTY3ODEyXX0=
 -->
