@@ -112,7 +112,7 @@ States are required to "take affirmative action in order to diminish or eliminat
 
 > To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources;[^46]
 
-Some permanent measures may be required to address men's inherent disadvantages. For example, State's have an obligation to ensure men can choose if and when they become a parent. However, men's and women's different biology  means that men do not have the certainty that a child is theirs that women have. This paternity uncertainty affects that men's ability allows a woman or the State can force a man into parenthood without his knowledge or consent.  
+Some permanent measures may be required to address men's inherent disadvantages. For example, State's have an obligation to ensure men can choose if and when they become a parent.[^999] However, men's and women's different biology  means that men do not have the certainty that a child is theirs that women have. This paternity uncertainty affects that men's ability allows a woman or the State can force a man into parenthood without his knowledge or consent.  
 
 > The adoption of temporary special measures may be necessary to accelerate the equal enjoyment by women of all economic, social and cultural rights and to improve the de facto position of women.  Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women.[^47]
 
@@ -697,7 +697,9 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 [^161]: ICESCR General Comment 16 - paragraph  42
 
+[^162]: ICESCR General Comment 14 - "Reproductive  health  means  that  women  and  men  have  the  freedom  to  decide  if  and  when  to reproduce and the right to be informed and to have access to safe, effective, affordable and acceptable methods  of  family  planning  of  their  choice  as  well  as  the  right  of  access  to  appropriate  health-care services that will, for example, enable women to go safely through pregnancy and childbirth."
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTQzMTM0NCwxNzI4NTgzMjEsLTEwNj
-E2OTI1MTUsLTIwODQ1Njc4MTJdfQ==
+eyJoaXN0b3J5IjpbNzgzMDY3MjU0LDE3Mjg1ODMyMSwtMTA2MT
+Y5MjUxNSwtMjA4NDU2NzgxMl19
 -->
