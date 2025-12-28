@@ -124,9 +124,7 @@ See **Monitoring and Reporting** for more
 Additionally, States need to prevent new forms of discrimination[^74]  from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^75] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 #### Systemic discrimination
-States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^76] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^77] For example, attitudes and beliefs that consider it normal and acceptable to elevate women's rights and minimise men's rights. 
-
-The New Zealand Human Rights Commission describes structural discrimination:
+States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^76] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^77] The New Zealand Human Rights Commission describes structural discrimination:
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent.[^78]
 
@@ -695,7 +693,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^164]: CEDAW General Recommendation 25 - paragraph 16 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI1MDcxNDgsLTE4MDIzNTI1NSwtOD
-U3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2
-NzgxMl19
+eyJoaXN0b3J5IjpbMTU2OTY2OTc5LC0xODAyMzUyNTUsLTg1Nz
+Y2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1MTUsLTIwODQ1Njc4
+MTJdfQ==
 -->
