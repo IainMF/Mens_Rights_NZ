@@ -140,16 +140,16 @@ To address systemic discrimination against men and boys, States should:[^79]
 States must take into account the 'factors that impede'[^32] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^33] [^34] Logically, this means identifying these obstacles, which relates to the obligation to **monitor and report**, and create a **plan of action** (see below).
 
 #### Stereotypes
-States have an obligation to address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^35] [^36] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^37] Logically this includes the idea that men's rights are less important than women's rights.
+States must address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^35] [^36] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^37] Logically this includes the idea that men's rights are less important than women's rights.
 
 
 #### Recognition of existing disadvantage
  
- In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^39] For example, health issues (including higher rates of amenable mortality, shorter life-expectancy and high suicide rate), bias in the justice system (including longer sentences for same crime), poorer educational outcomes, laws that explicitly discriminate against men, additional barriers for men who are victims of family and sexual violence etc.
+ In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^39] For example, health issues (including higher rates of amenable mortality, shorter life-expectancy and higher suicide rate), bias in the justice system (including longer sentences for same crime), poorer educational outcomes, laws that explicitly discriminate against men, additional barriers for men who are victims of family and sexual violence etc.
 
 > States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities...[^40]
 
-Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities faced by men may be discrimination.[^41] 
+Gender neutral polices and programs that fail to take into account existing disadvantages or inequalities faced by men and boys may be discrimination.[^41] 
 
 > In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^42] 
 
@@ -695,7 +695,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE2MjMzNzQsLTE4MDIzNTI1NSwtOD
-U3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2
-NzgxMl19
+eyJoaXN0b3J5IjpbMTI5MTc3NDk3OCwtMTgwMjM1MjU1LC04NT
+c2NjczMzQsMTcyODU4MzIxLC0xMDYxNjkyNTE1LC0yMDg0NTY3
+ODEyXX0=
 -->
