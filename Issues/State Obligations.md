@@ -725,9 +725,3 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 
 [^173]: United Nations Human Rights Committee: *Consolidated guidelines for State reports under the International Covenant on Civil and Political Rights* --
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM0OTg4NiwxODE2MTAzNTM0LDUxMz
-gzNDQzLC03MDA2ODE1NDcsMTI3NjM5MDc4OSw2NzE3MTIzMjFd
-fQ==
--->
