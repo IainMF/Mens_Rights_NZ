@@ -87,8 +87,6 @@ International human rights treaty bodies have identified several 'necessary step
 - the prohibition of discrimination against men and boys[^31]
 
 
-
-
 ### Non-discrimination
 Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys. For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. 
 
@@ -103,7 +101,7 @@ Importantly,
 - Discrimination includes acts and *failing to act* when it is required (omissions).[^53] [^161]
 - States also have a due diligence obligation to protect men from discrimination from non-State actors.[^54] [^55] [^56] [^57] [^58] For example, states must enact laws that prohibit discrimination.
 - Discrimination also includes incitement to discriminate and harassment.[^59] [^60] 
-- Discrimination includes direct and indirect discrimaintion.[^61]
+- Discrimination includes direct and indirect discrimination.[^61]
 
 **See page on discrimination for more about discrimination.**
 
@@ -143,7 +141,7 @@ To address systemic discrimination against men and boys, States should:[^79]
 - Raise awareness of systemic discrimination against men and boys.
 -  Adopt "strict measures against incitement to discrimination".
 - Ensure that laws and polices to prevent discrimination against men and boys are implemented in practice.
-- 
+
 ### Removal of obstacles
 States must take into account the 'factors that impede'[^32] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^33] [^34] Logically, this means identifying these obstacles, which relates to the obligation to **monitor and report**, and create a **plan of action** (see below).
 
@@ -701,6 +699,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^164]: CEDAW General Recommendation 25 - paragraph 16 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODA2NDMzODQsLTg1NzY2NzMzNCwxNz
-I4NTgzMjEsLTEwNjE2OTI1MTUsLTIwODQ1Njc4MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDIzNTI1NSwtODU3NjY3MzM0LDE3Mj
+g1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2NzgxMl19
 -->
