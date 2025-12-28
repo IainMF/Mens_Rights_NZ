@@ -112,6 +112,8 @@ States are required to "take affirmative action in order to diminish or eliminat
 
 > To design and implement policies and programmes to give long-term effect to the economic, social and cultural rights of both men and women on the basis of equality.  These may include the adoption of temporary special measures to accelerate women’s equal enjoyment of their rights, gender audits, and gender-specific allocation of resources;[^46]
 
+Some permanent measures may be required to address men's inherent disadvantages. For example,  
+
 > The adoption of temporary special measures may be necessary to accelerate the equal enjoyment by women of all economic, social and cultural rights and to improve the de facto position of women.  Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women.[^47]
 
 > States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^48]
@@ -696,6 +698,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^161]: ICESCR General Comment 16 - paragraph  42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODU4MzIxLC0xMDYxNjkyNTE1LC0yMD
-g0NTY3ODEyXX0=
+eyJoaXN0b3J5IjpbLTEzNjM0NTQ0NTgsMTcyODU4MzIxLC0xMD
+YxNjkyNTE1LC0yMDg0NTY3ODEyXX0=
 -->
