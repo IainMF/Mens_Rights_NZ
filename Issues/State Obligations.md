@@ -55,7 +55,7 @@ States are required "to take steps to ensure that in practice, men and women enj
 Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are [derogable](https://en.wikipedia.org/wiki/Derogability). Provisions in human rights treaties of non-discrimination and equality between men and women are  not derogable. [^14] [^15] [^16]
 
 ### Which parts of government?
-A state's obligations to men and boys involve all parts of the government and public authorities. 
+A state's obligations to men and boys involve all parts of the government and public authorities. [^160]
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^17]
 
 Judges have an obligation to interpret laws in light of international human rights obligations and where national laws are inconsistent, to highlight these issues. [^18] [^19] 
@@ -696,6 +696,9 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 [^159]: CEDAW General Recommendation 28 - paragraph 19
 
+[^160]: See also: CEDAW General Recommendation 28 - paragraph 25 & 39
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ1Njc4MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjE2OTI1MTUsLTIwODQ1Njc4MTJdfQ
+==
 -->
