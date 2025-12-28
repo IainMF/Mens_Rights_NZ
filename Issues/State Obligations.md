@@ -213,14 +213,14 @@ States must provide adequate resources to ensure men and boys enjoy all of their
 Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^97]
 
 ### Monitoring and Reporting
-International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] These treaties require States to ensure men equally enjoy all of their rights with women, so States must monitor men's erights.
+International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] Therefore, States must monitor men's enjoyment of their rights.
 
 #### Gender sensitive
 A State's human rights monitoring must be be effective.[^112] To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
 
 > A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^113]
 
-> Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^171]
+
 
 > An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^114] 
 
@@ -234,7 +234,7 @@ The *Manual* emphasises that human rights monitoring requires a proactive attitu
 
 State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"[^116]
 
-
+> Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^171]
 
 
 #### Reports
@@ -749,6 +749,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk3NzUzODMsLTcwMDY4MTU0NywxMj
-c2MzkwNzg5LDY3MTcxMjMyMV19
+eyJoaXN0b3J5IjpbMjkxOTA1MTA1LC03MDA2ODE1NDcsMTI3Nj
+M5MDc4OSw2NzE3MTIzMjFdfQ==
 -->
