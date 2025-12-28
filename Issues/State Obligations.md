@@ -224,9 +224,7 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 
 #### Indicators and benchmarks
-
-
-> States parties are **obliged to monitor effectively the implementation of measures to comply with article 2, paragraph 2**, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^106]
+A State's human rights monitoring should use appropriate indicators and benchmarks[^106] to ensure men equally enjoy their right
 
 > Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^107] 
 
@@ -700,7 +698,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUzMDI1NCwtMTgwMjM1MjU1LC04NT
-c2NjczMzQsMTcyODU4MzIxLC0xMDYxNjkyNTE1LC0yMDg0NTY3
-ODEyXX0=
+eyJoaXN0b3J5IjpbMTY3NzU4ODI3MiwtMTA3NTMwMjU0LC0xOD
+AyMzUyNTUsLTg1NzY2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1
+MTUsLTIwODQ1Njc4MTJdfQ==
 -->
