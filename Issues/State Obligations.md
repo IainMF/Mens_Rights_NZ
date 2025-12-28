@@ -215,8 +215,10 @@ Insufficient resources is cannot be used as an excuse for discrimination, "unles
 ### Monitoring and Reporting
 International human rights treaties require States to monitor and report on their implementation of those treaties.[^106] [^107] Therefore, States must monitor men's enjoyment of their rights.
 
+A State's human rights monitoring must be be effective.[^112]
+
 #### Gender sensitive
-A State's human rights monitoring must be be effective.[^112] To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
+To reveal inequalities and discrimination, monitoring must be able to detect how human rights issues affect women and men differently. That is, monitoring must be gender-sensitive. 
 
 > A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^113]
 
@@ -245,7 +247,7 @@ States are required to report on discrimination against men, both formal and sub
 > States parties are obliged to monitor **effectively** the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^109]
 
 
-Achieving equal enjoyment of rights between women and men requires thoroughly understanding women's and men's experiences of discrimination and inequality. Discrimination and inequality is not static, new forms can arise, so States need to continually monitor women's and men's human rights.[^110]
+
 
 > ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^111]
 
@@ -746,6 +748,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk5MDg5MDcsLTcwMDY4MTU0NywxMj
-c2MzkwNzg5LDY3MTcxMjMyMV19
+eyJoaXN0b3J5IjpbMTM2Mjc4MDc3OSwtNzAwNjgxNTQ3LDEyNz
+YzOTA3ODksNjcxNzEyMzIxXX0=
 -->
