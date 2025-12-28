@@ -124,7 +124,7 @@ See **Monitoring and Reporting** for more
 Additionally, States need to prevent new forms of discrimination[^74]  from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^75] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 #### Systemic discrimination
-States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^76] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^77] For example, attitudes and beliefs that elevate women's rights and devalue men's rights are considered normal and acceptable. 
+States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^76] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^77] For example, Considering it normal and acceptable to elevate women's rights and minimise men's rights. 
 
 The New Zealand Human Rights Commission describes structural discrimination:
 
@@ -695,7 +695,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^164]: CEDAW General Recommendation 25 - paragraph 16 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA5NjY5NDgsLTE4MDIzNTI1NSwtOD
-U3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2
-NzgxMl19
+eyJoaXN0b3J5IjpbOTgxMjQxODE3LC0xODAyMzUyNTUsLTg1Nz
+Y2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1MTUsLTIwODQ1Njc4
+MTJdfQ==
 -->
