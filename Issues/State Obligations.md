@@ -220,10 +220,6 @@ A State's human rights monitoring must be be effective.[^112] To reveal inequali
 
 > A gender-sensitive analysis is therefore instrumental to tailoring specific and action-oriented recommendations on the responses that are needed to address human rights violations, protect victims' rights and contribute to the prevention and non-recurrence of such violations.[^113]
 
-
-
-> An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^114] 
-
 The *Manual on Human Rights Monitoring* recommends taking a *gender perspective* to ensure that all violations against women and men are recognised and accounted for:
 
 > Integrating a gender perspective in human rights monitoring is a process to ensure that all violations against men and women of all ages and sections of society are recognized and accounted for. It is also a strategy for making women's as well as men's experiences and concerns an integral dimension of the design and implementation of the monitoring cycle. It helps to better understand the causes and types of human rights violations and, hence, the measures required for prevention and protection.[^115]
@@ -236,6 +232,7 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 > Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women, where appropriate[^171]
 
+> An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^114] 
 
 #### Reports
 Particularly, States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women.[^173] States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See ** page for complaint to MoJ Regarding NZ reporting**
@@ -749,6 +746,6 @@ CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.6
 CCPR/C/66/GUI/Rev.2 -- 26 February 2001 -- paragraph C.7
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxOTA1MTA1LC03MDA2ODE1NDcsMTI3Nj
-M5MDc4OSw2NzE3MTIzMjFdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzk5MDg5MDcsLTcwMDY4MTU0NywxMj
+c2MzkwNzg5LDY3MTcxMjMyMV19
 -->
