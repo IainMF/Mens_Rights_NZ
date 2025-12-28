@@ -323,7 +323,6 @@ States have an obligation to provide remedy to men and boys whose rights have be
 > 
 ### Specific obligations
 
-
 #### Ensure marriage equality
 International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^145] 
 
@@ -698,5 +697,5 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^159]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTE1NTAzMF19
+eyJoaXN0b3J5IjpbLTIwODQ1Njc4MTJdfQ==
 -->
