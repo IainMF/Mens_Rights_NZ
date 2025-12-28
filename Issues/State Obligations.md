@@ -174,7 +174,7 @@ State officials are responsible for enacting the State's human rights obligation
 
 Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights.
 
-#### Public education and  Awareness raising
+#### Public education and awareness raising
 States have an obligation to educate the public about their human rights. This should include ensuring men and boys are "aware  of  their  right  to  equality  without discrimination"[^85]
 
 School curricular should include education on equality and non-discrimination.[^86] [^87] Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
@@ -695,7 +695,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzQ4NTg4LC0xODAyMzUyNTUsLTg1Nz
-Y2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1MTUsLTIwODQ1Njc4
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDA5NTU5OTgsLTE4MDIzNTI1NSwtOD
+U3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2
+NzgxMl19
 -->
