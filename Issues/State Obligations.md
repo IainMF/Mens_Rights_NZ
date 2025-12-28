@@ -110,9 +110,9 @@ A State's laws must "prohibit any discrimination and guarantee to all persons eq
 
 > ...the elimination of discrimination is fundamental to the enjoyment of economic, social and cultural rights on a basis of equality.[^66]
 
-States must protect men from discrimination equally with women, and that protection must be effective. A State's discrimination prevention mechanisms must be applied equally for men and women. Protection mechanisms intended to address all gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
+States must protect men from discrimination equally with women, and that protection must be effective. A State's discrimination prevention mechanisms must be applied equally for men and women. Protection mechanisms to address gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
 
-Similarly, in order to ensure equal and effective protection against discrimination to men, State officials must understand that the obligation to protect applies equally to men and women.
+Similarly, in order to ensure equal and effective protection against discrimination to men, State officials must understand that their obligation to protect everyone from discrimination applies equally to men and women and they must act accordanly. 
 
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage. requires States to provide boys the same protection as girls, without discrimination.[^67]
 
@@ -699,7 +699,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^164]: CEDAW General Recommendation 25 - paragraph 16 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODUwMjE1MCwtMTgwMjM1MjU1LC04NT
+eyJoaXN0b3J5IjpbLTgyNDM2ODk3NSwtMTgwMjM1MjU1LC04NT
 c2NjczMzQsMTcyODU4MzIxLC0xMDYxNjkyNTE1LC0yMDg0NTY3
 ODEyXX0=
 -->
