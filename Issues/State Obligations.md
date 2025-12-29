@@ -230,7 +230,9 @@ A State's human rights monitoring should use appropriate indicators and benchmar
 
 Indicators should include what step have been taken to ensure men are free from discrimination and enjoy all of their rights,  as well as the results of these steps. 
 
-
+Structure 
+process 
+outcome
 
 
 #### Reports
@@ -701,7 +703,8 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMzNDE1NTgsMTUwNTEzNDczMCwtMT
-A3NTMwMjU0LC0xODAyMzUyNTUsLTg1NzY2NzMzNCwxNzI4NTgz
-MjEsLTEwNjE2OTI1MTUsLTIwODQ1Njc4MTJdfQ==
+eyJoaXN0b3J5IjpbMTIwNzUwMzQ0OCwtMTczMzM0MTU1OCwxNT
+A1MTM0NzMwLC0xMDc1MzAyNTQsLTE4MDIzNTI1NSwtODU3NjY3
+MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMjA4NDU2NzgxMl
+19
 -->
