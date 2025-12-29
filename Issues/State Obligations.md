@@ -230,8 +230,7 @@ A State's human rights monitoring should use appropriate indicators and benchmar
 
 As non-discrimination and equality between men and women are cross-cutting human rights principles, 
 
-Indicators should include what step have been taken to ensure men are free from discrimination and enjoy all of their rights,  as well as the results of these steps. 
-
+Indicators should include the 
 Structure (commitment)
 process (effort)
 outcome (result)
@@ -705,8 +704,8 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNDA3NjM1LDEyMDc1MDM0NDgsLTE3Mz
-MzNDE1NTgsMTUwNTEzNDczMCwtMTA3NTMwMjU0LC0xODAyMzUy
-NTUsLTg1NzY2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1MTUsLT
-IwODQ1Njc4MTJdfQ==
+eyJoaXN0b3J5IjpbMjA4MDg2OTM3MCwxMjA3NTAzNDQ4LC0xNz
+MzMzQxNTU4LDE1MDUxMzQ3MzAsLTEwNzUzMDI1NCwtMTgwMjM1
+MjU1LC04NTc2NjczMzQsMTcyODU4MzIxLC0xMDYxNjkyNTE1LC
+0yMDg0NTY3ODEyXX0=
 -->
