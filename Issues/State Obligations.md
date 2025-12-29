@@ -224,7 +224,9 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 
 #### Indicators and benchmarks
-A State's human rights monitoring should use appropriate indicators and benchmarks[^106] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and legal systems in place, the efforts made to ensure men are free from discrimination and equally enjoy their rights, and the results of those efforts.
+A State's human rights monitoring should use appropriate indicators and benchmarks[^106] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and legal systems in place, the efforts made to ensure men are free from discrimination and equally enjoy their rights, and the results of those efforts.[^116]
+
+> ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^117]
 
 > Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^107] 
 
@@ -237,9 +239,7 @@ States should monitor and report on their compliance with Article 3 of both ICCP
 
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^115]
 
-> States parties are obliged to monitor **effectively** the implementation of measures to comply with article 2, paragraph 2, of the Covenant. Monitoring should assess both the steps taken and the results achieved in the elimination of discrimination. National strategies, policies and plans should use appropriate indicators and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^116]
 
-> ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^117]
 
 see also General Comment 31 paragraphs 15-20??
 
@@ -696,8 +696,8 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM5Mzg3MDQsMTIwNzUwMzQ0OCwtMT
-czMzM0MTU1OCwxNTA1MTM0NzMwLC0xMDc1MzAyNTQsLTE4MDIz
-NTI1NSwtODU3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNS
-wtMjA4NDU2NzgxMl19
+eyJoaXN0b3J5IjpbLTI4MDQ1MTY3LDEyMDc1MDM0NDgsLTE3Mz
+MzNDE1NTgsMTUwNTEzNDczMCwtMTA3NTMwMjU0LC0xODAyMzUy
+NTUsLTg1NzY2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1MTUsLT
+IwODQ1Njc4MTJdfQ==
 -->
