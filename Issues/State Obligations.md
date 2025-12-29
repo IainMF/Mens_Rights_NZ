@@ -232,9 +232,9 @@ As non-discrimination and equality between men and women are cross-cutting human
 
 Indicators should include what step have been taken to ensure men are free from discrimination and enjoy all of their rights,  as well as the results of these steps. 
 
-Structure 
-process 
-outcome
+Structure (commitment)
+process (effort)
+outcome (result)
 
 
 #### Reports
@@ -705,8 +705,8 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMzExMDQsMTIwNzUwMzQ0OCwtMTczMz
-M0MTU1OCwxNTA1MTM0NzMwLC0xMDc1MzAyNTQsLTE4MDIzNTI1
-NSwtODU3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMj
-A4NDU2NzgxMl19
+eyJoaXN0b3J5IjpbMzgzNDA3NjM1LDEyMDc1MDM0NDgsLTE3Mz
+MzNDE1NTgsMTUwNTEzNDczMCwtMTA3NTMwMjU0LC0xODAyMzUy
+NTUsLTg1NzY2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1MTUsLT
+IwODQ1Njc4MTJdfQ==
 -->
