@@ -228,7 +228,7 @@ A State's human rights monitoring should use appropriate indicators and benchmar
 
 > Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^107] 
 
-As non-discrimian
+As non-discrimination and equality between men and women are cross-cutting human rights principles, 
 
 Indicators should include what step have been taken to ensure men are free from discrimination and enjoy all of their rights,  as well as the results of these steps. 
 
@@ -238,7 +238,7 @@ outcome
 
 
 #### Reports
-States reports must include "sufficient data and statistics"[^113] to allow treaty bodies to asses progress in men's equal enjoyment of their rights. That is, State's reports must include sex-disaggregated data when ever it is available or explanations for why it is not.
+States reports must include "sufficient data and statistics"[^113] to allow treaty bodies to asses progress in men's equal enjoyment of their rights. That is, State's reports must include sex-disaggregated data when it is available or explanations for why it is not available.
 
 > Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women[^114]
 
@@ -705,8 +705,8 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzY3MjMzNSwxMjA3NTAzNDQ4LC0xNz
-MzMzQxNTU4LDE1MDUxMzQ3MzAsLTEwNzUzMDI1NCwtMTgwMjM1
-MjU1LC04NTc2NjczMzQsMTcyODU4MzIxLC0xMDYxNjkyNTE1LC
-0yMDg0NTY3ODEyXX0=
+eyJoaXN0b3J5IjpbNjQyMzExMDQsMTIwNzUwMzQ0OCwtMTczMz
+M0MTU1OCwxNTA1MTM0NzMwLC0xMDc1MzAyNTQsLTE4MDIzNTI1
+NSwtODU3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNSwtMj
+A4NDU2NzgxMl19
 -->
