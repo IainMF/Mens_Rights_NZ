@@ -228,7 +228,9 @@ A State's human rights monitoring should use appropriate indicators and benchmar
 
 > Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^107] 
 
-Indicators should include what step have been taken to ensure men are free from discrim
+Indicators should include what step have been taken to ensure men are free from discrimination and enjoy all of their rights,  as well as the results of these steps. 
+
+
 
 
 #### Reports
@@ -699,7 +701,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTIzODE5MSwxNTA1MTM0NzMwLC0xMD
-c1MzAyNTQsLTE4MDIzNTI1NSwtODU3NjY3MzM0LDE3Mjg1ODMy
-MSwtMTA2MTY5MjUxNSwtMjA4NDU2NzgxMl19
+eyJoaXN0b3J5IjpbLTE3MzMzNDE1NTgsMTUwNTEzNDczMCwtMT
+A3NTMwMjU0LC0xODAyMzUyNTUsLTg1NzY2NzMzNCwxNzI4NTgz
+MjEsLTEwNjE2OTI1MTUsLTIwODQ1Njc4MTJdfQ==
 -->
