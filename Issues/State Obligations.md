@@ -224,7 +224,7 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 
 #### Indicators and benchmarks
-A State's human rights monitoring should use appropriate indicators and benchmarks[^106] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place. For example, does the law equally protect men from discrimination? is there a 'Men's Equality Strategy'? a 'Men's Health Strategy"?, the efforts made to ensure men are free from discrimination and equally enjoy their rights, and the results of those efforts.[^116]
+A State's human rights monitoring should use appropriate indicators and benchmarks[^106] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place to protect men's rights. For example, does the law equally protect men from discrimination? Is there a 'Men's Equality Strategy'?; a 'Men's Health Strategy"? Other indicators should include the efforts made to ensure men are free from discrimination and equally enjoy their rights, such as , and the results of those efforts.[^116]
 
 
 
@@ -698,8 +698,8 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAyMzI4NiwxMjA3NTAzNDQ4LC0xNz
-MzMzQxNTU4LDE1MDUxMzQ3MzAsLTEwNzUzMDI1NCwtMTgwMjM1
-MjU1LC04NTc2NjczMzQsMTcyODU4MzIxLC0xMDYxNjkyNTE1LC
-0yMDg0NTY3ODEyXX0=
+eyJoaXN0b3J5IjpbLTE3OTg3NDgyMDAsMTIwNzUwMzQ0OCwtMT
+czMzM0MTU1OCwxNTA1MTM0NzMwLC0xMDc1MzAyNTQsLTE4MDIz
+NTI1NSwtODU3NjY3MzM0LDE3Mjg1ODMyMSwtMTA2MTY5MjUxNS
+wtMjA4NDU2NzgxMl19
 -->
