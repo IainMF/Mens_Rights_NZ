@@ -224,18 +224,17 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 
 #### Indicators and benchmarks
-A State's human rights monitoring should use appropriate indicators and benchmarks[^106] to evaluate men's enjoyment of their rights. 
+A State's human rights monitoring should use appropriate indicators and benchmarks[^106] to assess descrevaluate men's enjoyment of their rights. 
 
 > Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^107] 
 
 
 #### Reports
 States reports must include "sufficient data and statistics"[^113] to allow treaty bodies to asses progress in men's equal enjoyment of their rights. That is, State's reports must include sex-disaggregated data when ever it is available or explanations for why it is not.
+
 > Disaggregated statistics, provided within specific time frames, are necessary to measure the progressive realization of economic, social and cultural rights by men and women[^114]
 
 States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women.[^112] States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See ** page for complaint to MoJ Regarding NZ reporting**
-
-
 
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^115]
 
@@ -698,7 +697,7 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTEzNDczMCwtMTA3NTMwMjU0LC0xOD
-AyMzUyNTUsLTg1NzY2NzMzNCwxNzI4NTgzMjEsLTEwNjE2OTI1
-MTUsLTIwODQ1Njc4MTJdfQ==
+eyJoaXN0b3J5IjpbMzM1MzUzMTQzLDE1MDUxMzQ3MzAsLTEwNz
+UzMDI1NCwtMTgwMjM1MjU1LC04NTc2NjczMzQsMTcyODU4MzIx
+LC0xMDYxNjkyNTE1LC0yMDg0NTY3ODEyXX0=
 -->
