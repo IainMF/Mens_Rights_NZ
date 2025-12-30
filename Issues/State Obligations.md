@@ -690,6 +690,3 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3OTQxODAwXX0=
--->
