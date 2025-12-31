@@ -79,17 +79,17 @@ date: 2025-08-20
 16. New Zealand has not followed best practice in monitoring and reporting on human rights issues with respect to men and boys.
 #### Declaration on Human Rights Defenders 
 
-    The Declaration on Human Rights Defenders says that New Zealand has a responsibility to promote men's understanding of their rights. New Zealand's omission of men's rights under article 3 neglects this responsibility.
+The Declaration on Human Rights Defenders says that New Zealand has a responsibility to promote men's understanding of their rights. New Zealand's omission of men's rights under article 3 neglects this responsibility.
 
-    > Article 14
-    >
-    > 1.  The State has the responsibility to take legislative, judicial, administrative or other appropriate measures to promote the understanding by all persons under its jurisdiction of their civil, political, economic, social and cultural rights.
-    >
-    > 2.  Such measures shall include, inter alia:
-    >
-    >     1.  The publication and widespread availability of national laws and regulations and of applicable basic international human rights instruments;
-    >
-    >     2.  Full and equal access to international documents in the field of human rights, including the periodic reports by the State to the bodies established by the international human rights treaties to which it is a party, as well as the summary records of discussions and the official reports of these bodies.
+> Article 14
+>
+> 1.  The State has the responsibility to take legislative, judicial, administrative or other appropriate measures to promote the understanding by all persons under its jurisdiction of their civil, political, economic, social and cultural rights.
+>
+> 2.  Such measures shall include, inter alia:
+>
+>     3.  The publication and widespread availability of national laws and regulations and of applicable basic international human rights instruments;
+>
+>     4.  Full and equal access to international documents in the field of human rights, including the periodic reports by the State to the bodies established by the international human rights treaties to which it is a party, as well as the summary records of discussions and the official reports of these bodies.
 #### Manual on Human Rights Monitoring 
 
 17. The *Manual on Human Rights Monitoring*[^7] recommends using a gender perspective to ensure that all violations against women *and men* are recognised and accounted for:
@@ -152,17 +152,11 @@ date: 2025-08-20
 32. New Zealand's article 3 reporting is deficient because it does not include human rights issues for men. Specifically, the problems of New Zealand's article 3 reporting are:
 
     -   It relies on New Zealand's CEDAW reports to cover article 3. This is inadequate because article 3 includes men's human rights while the CEDAW reports do not.
-
     -   It does not provide sufficient data on men and boys for the United Nations to assess compliance with article 3;
-
     -   It does not include the factors and difficulties affecting the implementation of article 3 with regard to men and boys;
-
     -   It does not include discrimination against men in law or in fact;
-
     -   It has not been based on a review its legislation, policies, strategies and programmes to ensure they are consonant to their article 3 obligations to men and boys;
-
     -   It does not make men's human rights issues visible in the monitoring cycle;
-
     -   It is not useful for men and men's advocates.
 ## Rights violated by not reporting 
 ### The right to be free from discrimination 
@@ -268,91 +262,49 @@ date: 2025-08-20
 67. The reports should include:
 
     -   Performance of men and boys in education, including:
-
         -   Reading and literacy of primary and secondary students
-
         -   NCEA results, especially when boys are over-represented in lower attainment
-
         -   Suspensions, expulsions, and other disciplinary actions taken against students
-
         -   Years of schooling
-
         -   University enrolment and attainment
-
         -   Number of people with, and type of, degree
-
     -   The experience of men in the justice system, including:
-
         -   Police use of force more likely against men (TASERs)
-
         -   Police decisions to prosecute is often biased against men
-
         -   Sentencing disparities that give men longer sentences
-
         -   Treatment of men in prison (including fathers)
-
         -   Disparities in number of people in prison
-
     -   Men's Health
-
         -   Lack of a health strategy for men and boys
-
         -   Higher male suicide rate and prevention efforts to reduce male suicide
-
         -   Higher rates of amenable mortality among men, including injury, and efforts to reduce.
-
         -   Prostate cancer & other male-specific or male overrepresented issues
-
         -   Health spending on men's health
-
     -   Discriminatory laws, such as:
-
         -   The prohibition of FGM but not circumcision
-
         -   Male-assaults-female - Section 194 of the Crimes Act 1961
-
         -   Infanticide - Section 178 of the Crimes Act 1961
-
         -   Section 4(2) of the Adoption Act 1955
-
         -   The Pae Ora (Healthy Futures) Act 2022 requires a women's health strategy but no equivalent for men.
-
     -   Violence and support for male victims, including;
-
         -   The prevalence, incidence, and severity of violence against men, including:
-
             -   Homicides
-
             -   Assaults causing severe injury
-
         -   How many shelters and other support available for male victims of family and other violence
-
         -   How many men are accessing support
-
         -   The existence and effectiveness of public awareness campaigns for male victims, including issues like:
-
             -   Male victims not fully included in the "It's Not Okay" campaign.
-
             -   The Ministry of Health recommends that doctors do not screen males for family violence as a matter of routine.
 
     -   Systems in place to protect men's rights and their effectiveness, for example:
-
         -   BORA Section 7
-
         -   Gender analysis of cabinet papers
-
         -   Complaints of discrimination against men made to the Human Rights Commission
-
     -   Men's treatment in family matters and family court
-
     -   Difficulties and disparities in ensuring men's rights
-
         -   The system's in place to ensuring women's rights do not have an equivalent for men
-
             -   There is no minister for men, or ministry for men
-
             -   Lack of jurisprudence for men's rights such as, CEDAW, Beijing Platform for action etc.
-
         -   The misunderstanding among public servants that article 3 and gender equality is about women rather than both women and men.
 #### Education and public awareness 
 
