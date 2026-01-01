@@ -13,11 +13,11 @@ Historically, boys had an advantage in education; however girls started performi
 
 ![[Issues/Highest qualification 87-97.svg]]
 
-A report on the performance of boys from Salvatore Gargiulo in 2006 highlighted boys educational disadvantage:
+A 2006 report on the performance of boys highlighted boys educational disadvantage:
 
 > The existence of a gender gap in New Zealand schools is well established. This is reflected in the NECA results. Females on average scored 10% higher in their results over males in the 2004 and 2005. This disparity occurred consistently through level 1, 2 and 3 and from year 11 to year 13.[^7]
 
-Selected data from Gargiulo's report: 
+Selected data from the report: 
 
 | NCEA 2005                         | Male  | Female |
 | --------------------------------- | :-----: | :------: |
