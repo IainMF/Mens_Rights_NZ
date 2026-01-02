@@ -305,10 +305,13 @@ States have an obligation to provide remedy to men and boys whose rights have be
 > ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies[^144] 
 
 ### Accountability
+States must be accountbale to it 
 
 > Effective  implementation  of  the  Convention  requires  that  a  State  party  be accountable to its citizens and other members of its community at both the national and international levels. In order for this accountability function to work effectively, appropriate mechanisms and institutions must be put in place.[^145]  
 
 ### No Retrogression
+States have an obligation to prevent any retrogression in men's recognition and enjoyment of their human rights.
+
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^146]
 
 > Moreover, any deliberately retrogressive measures in that regard would require the most careful consideration and would need to be fully justified by reference to the totality of the rights provided for in the Covenant and in the context of the full use of the maximum available resources.[^147]
@@ -668,6 +671,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC0xND
-U5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbMTA1NjY1MjAyLDE0MzY5MjMyNDYsMTQ5MT
+U5NzA1MiwtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
 -->
