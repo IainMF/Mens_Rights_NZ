@@ -305,7 +305,7 @@ States have an obligation to provide remedy to men and boys whose rights have be
 > ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies[^144] 
 
 ### Accountability
-States must be accountbale to it 
+States must be accountable to it citizens, including men and men's advocatesc.
 
 > Effective  implementation  of  the  Convention  requires  that  a  State  party  be accountable to its citizens and other members of its community at both the national and international levels. In order for this accountability function to work effectively, appropriate mechanisms and institutions must be put in place.[^145]  
 
@@ -671,6 +671,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjY1MjAyLDE0MzY5MjMyNDYsMTQ5MT
-U5NzA1MiwtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
+eyJoaXN0b3J5IjpbMTg3MDk1MDM1NCwxNDM2OTIzMjQ2LDE0OT
+E1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
 -->
