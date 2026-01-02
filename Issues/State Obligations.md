@@ -253,7 +253,7 @@ see also General Comment 31 paragraphs 15-20??
 See CCPR General Comment No. 28 for reporting requirements
 
 #### Right to information
-Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government's response. Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^123] [^124] States have an obligation to ensure men and men's advocates have access to relevant information and "are able to effectively promote and claim" their rights[^125] Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.[^126]
+Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government's response. Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^123] [^124] States should ensure men and men's advocates have access to relevant information and "are able to effectively promote and claim" their rights[^125] Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.[^126]
 
 > To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^127]
 
@@ -671,6 +671,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc1NjA1OTMsMTQzNjkyMzI0NiwxND
-kxNTk3MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbNjI3NjE4NzE0LDE0MzY5MjMyNDYsMTQ5MT
+U5NzA1MiwtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
 -->
