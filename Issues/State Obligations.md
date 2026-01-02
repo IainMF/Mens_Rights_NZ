@@ -58,7 +58,7 @@ Human rights treaties allow States to restrict or limit some human rights under 
 A state's obligations to men and boys involve all parts of the government and public authorities. [^17]
 > All branches of government (executive, legislative and judicial), and other public or governmental authorities, at whatever level-national, regional or local-are in a position to engage the responsibility of the State Party.[^18]
 
-Judges have an obligation to interpret laws in light of international human rights obligations and where national laws are inconsistent, to highlight these issues. [^19] [^20] 
+Judges must interpret laws in light of international human rights obligations and where national laws are inconsistent, to highlight these issues. [^19] [^20] 
 > Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights. [^21] 
 
 ### Acting in good faith
@@ -283,10 +283,10 @@ States must ensure that men are represented in decision making. This means ensur
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^136]
 
 ### Remedy
-States have an obligation to provide remedy to men and boys whose rights have been violated.
+States must provide remedy to men and boys whose rights have been violated.
 
 > - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
-> - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized  men and women;[^137]
+> - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized men and women;[^137]
 
 > National policies and strategies should provide for the establishment of effective mechanisms and institutions where they do not exist, including administrative authorities, ombudsmen and other national human rights institutions, courts and tribunals.  These institutions should **investigate and address alleged violations relating to article 3** and provide remedies for such violations.  States parties, for their part, should ensure that such remedies are effectively implemented.[^138]
 
@@ -310,7 +310,7 @@ States must be accountable to it citizens, including men and men's advocatesc.
 > Effective  implementation  of  the  Convention  requires  that  a  State  party  be accountable to its citizens and other members of its community at both the national and international levels. In order for this accountability function to work effectively, appropriate mechanisms and institutions must be put in place.[^145]  
 
 ### No Retrogression
-States have an obligation to prevent any retrogression in men's recognition and enjoyment of their human rights.
+States must prevent any retrogression in men's recognition and enjoyment of their human rights.
 
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^146]
 
@@ -321,7 +321,7 @@ States have an obligation to prevent any retrogression in men's recognition and 
 #### Ensure marriage equality
 International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] [^153] States have a "positive duty to make certain that spouses have equal rights" and to "ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children".[^149]
 
-A states obligations to ensure men and women enjoy equal rights regarding family matters extends to separation and divorce. States have an obligation to guarantee children maintain relationships with both parents, providing this is in the interests of the child.[^152]
+A states obligations to ensure men and women enjoy equal rights regarding family matters extends to separation and divorce. States must guarantee children maintain relationships with both parents, providing this is in the interests of the child.[^152]
 
 > Thus, **any discriminatory treatment in regard to the grounds and procedures for separation or divorce, child custody, maintenance or alimony, visiting rights or the loss or recovery of parental authority must be prohibited**, bearing in mind the paramount **interest of the children** in this connection.[^151]
 
@@ -338,7 +338,7 @@ The special measures to protect children in the *International Covenant on Civil
 > \...For example, *every possible economic and social measure should be taken* to reduce infant mortality and to eradicate malnutrition among children and **to prevent them from being subjected to acts of violence and cruel and inhuman treatment** or from being exploited by means of forced labour or prostitution, or by their use in the illicit trafficking of narcotic drugs, or by any other means. In the cultural field, every possible measure should be taken to foster the development of their personality and to **provide them with a level of education that will enable them to enjoy the rights recognized in the Covenant**, particularly the right to freedom of opinion and expression.[^158]
 
 #### Address violence against men and boys
-States have an obligation to act with due diligence to prevent, investigate, prosecute and punish violence against men and boys. ICCPR GC 36 -p.7 ICCPR GC 31 p.8
+States must act with due diligence to prevent, investigate, prosecute and punish violence against men and boys. ICCPR GC 36 -p.7 ICCPR GC 31 p.8
 
 > Due diligence should be understood as an obligation of States parties... to prevent violence or violations of human rights, protect victims and witnesses from violations, investigate and punish those responsible, including private actors, and provide access to redress for human rights violations. CEDAW GR 31 - footnote 6
 
@@ -671,6 +671,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDk1MDM1NCwxNDM2OTIzMjQ2LDE0OT
-E1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTExNTc1NjA1OTMsMTQzNjkyMzI0NiwxND
+kxNTk3MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
