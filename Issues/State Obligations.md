@@ -227,7 +227,7 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 
 #### Indicators and benchmarks
-A State's human rights monitoring should use appropriate indicators and benchmarks[^113] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place to protect men's rights. For example, does the law equally protect men from discrimination? Is there a 'Men's Equality Strategy'?; a 'Men's Health Strategy"? Other indicators should include the efforts made to ensure men are free from discrimination and equally enjoy their rights, (such as programs to address boys poorer education outcomes, or men's high suicide rate), and the results of those efforts (have boys education outcomes improved? Is men's suicide rate decreasing?).[^114]
+A State's human rights monitoring should use appropriate indicators and benchmarks[^113] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place to protect men's rights. For example, does the law equally protect men from discrimination? Is there a 'Men's Equality Strategy'?; IS there a 'Men's Health Strategy"? Other indicators should include the efforts made to ensure men are free from discrimination and equally enjoy their rights, (such as programs to address boys poorer education outcomes, or men's high suicide rate), and the results of those efforts (have boys education outcomes improved? Is men's suicide rate decreasing?).[^114]
 
 > ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^115]
 
@@ -691,5 +691,5 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3OTQxODAwXX0=
+eyJoaXN0b3J5IjpbLTE2NDg2NDk5MjJdfQ==
 -->
