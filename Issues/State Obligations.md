@@ -335,7 +335,7 @@ The special measures to protect children in the *International Covenant on Civil
 > \...For example, *every possible economic and social measure should be taken* to reduce infant mortality and to eradicate malnutrition among children and **to prevent them from being subjected to acts of violence and cruel and inhuman treatment** or from being exploited by means of forced labour or prostitution, or by their use in the illicit trafficking of narcotic drugs, or by any other means. In the cultural field, every possible measure should be taken to foster the development of their personality and to **provide them with a level of education that will enable them to enjoy the rights recognized in the Covenant**, particularly the right to freedom of opinion and expression.[^158]
 
 #### Address violence against men and boys
-States have an obligation to act with due diligence to prevent, investigate, prosecute and punish violence against men and boys. ICCPR GC 36 -p.7
+States have an obligation to act with due diligence to prevent, investigate, prosecute and punish violence against men and boys. ICCPR GC 36 -p.7 ICCPR GC 31 p.8
 
 
 > Article 10, paragraph 1, of the Covenant requires that States parties recognize that the widest possible protection and assistance should be accorded to the family, and that marriage must be entered into with the free consent of the intending spouses.  Implementing article 3, in relation to article 10, requires States parties, inter alia, **to provide victims of domestic violence, who are primarily female, with access to safe housing, remedies and redress for physical, mental and emotional damage**; to ensure that men and women have an equal right to choose if, whom and when to marry - in particular, the legal age of marriage for men and women should be the same, and **boys and girls should be protected equally from practices that promote child marriage**, marriage by proxy, or coercion; and to ensure that women have equal rights to marital property and inheritance upon their husband’s death.  **Gender-based violence is a form of discrimination that inhibits the ability to enjoy rights and freedoms, including economic, social and cultural rights, on a basis of equality**.  States parties **must take appropriate measures to eliminate violence against men and women** and act with **due diligence** to prevent, investigate, mediate, punish and redress acts of violence against them by private actors.[^161]
@@ -667,6 +667,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MTQ1MzY2LDE0OTE1OTcwNTIsLTE0NT
-k3NjA5NTksLTE2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwMzcwNDUxMDUsMTQ5MTU5NzA1MiwtMT
+Q1OTc2MDk1OSwtMTY0ODY0OTkyMl19
 -->
