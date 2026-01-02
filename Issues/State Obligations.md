@@ -316,21 +316,15 @@ States have an obligation to provide remedy to men and boys whose rights have be
 ### Specific obligations
 
 #### Ensure marriage equality
-International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] States have a "positive duty to make certain that spouses have equal rights" and to "ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children".[^149]
+International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] [^153] States have a "positive duty to make certain that spouses have equal rights" and to "ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children".[^149]
 
-A states obligations to ensure men and women enjoy equal rights regarding family matters extends to separation and divorce.
+A states obligations to ensure men and women enjoy equal rights regarding family matters extends to separation and divorce. States have an obligation to guarantee children maintain relationships with both parents, providing this is in the interests of the child.[^152]
 
 > Thus, **any discriminatory treatment in regard to the grounds and procedures for separation or divorce, child custody, maintenance or alimony, visiting rights or the loss or recovery of parental authority must be prohibited**, bearing in mind the paramount **interest of the children** in this connection.[^151]
 
-States have an obligation to guarantee children maintain relationships with both parents, providing this is in the interests of the child.[^152]
-
-> During marriage, the spouses should have equal rights and responsibilities in the family. This equality extends to all matters arising from their relationship, such as choice of residence, running of the household, education of the children and administration of assets. Such equality continues to be applicable to arrangements regarding legal separation or dissolution of the marriage.[^153]
-
 
 #### Equal protection of boys
-States have a special duty to protect children. This duty must be carried out equally for boys and girls.
-
-States are required to ensure equal protection for boys and girls[^154], and that children are free from discrimination.[^155]
+States have a special duty to protect children. This duty must be carried out equally for boys and girls[^154], and that children are free from discrimination.[^155]
 
 > **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.**  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children.[^156]
 
@@ -688,6 +682,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTkxNDczOSwtMTQ1OTc2MDk1OSwtMT
-Y0ODY0OTkyMl19
+eyJoaXN0b3J5IjpbLTEzNjQ0NjU3MTQsLTE0NTk3NjA5NTksLT
+E2NDg2NDk5MjJdfQ==
 -->
