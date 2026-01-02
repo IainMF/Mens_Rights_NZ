@@ -179,11 +179,9 @@ States have an obligation to educate the public about their human rights. This s
 
 School curricular should include education on equality and non-discrimination.[^88] [^89] Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
 
-
 >  Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^90]
 
 Education and public awareness campaigns should support and encourage the work of men's advocates.[^91] The State should ensure men's "non-governmental organizations are well-informed, adequately consulted and generally able to play an active role in the initial and subsequent development of the policy." [^92]
-
 
 ### Adjusting legislation and policy
 States have an obligation to ensure their legislation is aligned with the international human rights treaties they have ratified.[^93] [^94] The ICCPR grants men and boys the right to equality under the law and equal protection of the law, as well as "equal and effective"[^95] protection from discrimination in the law. 
@@ -676,7 +674,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjI0MDI0OSwtMTY4MDE0MzYyOSwxND
+eyJoaXN0b3J5IjpbLTcwMzE3MTg2MSwtMTY4MDE0MzYyOSwxND
 M2OTIzMjQ2LDE0OTE1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2
 NDk5MjJdfQ==
 -->
