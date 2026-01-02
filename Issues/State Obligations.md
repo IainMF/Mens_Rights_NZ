@@ -316,9 +316,7 @@ States have an obligation to provide remedy to men and boys whose rights have be
 ### Specific obligations
 
 #### Ensure marriage equality
-International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] 
-
-> ... it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^149]
+International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] States have a "positive duty to make certain that spouses have equal rights".[^149]
 
 > To fulfil their obligations under article 23, paragraph 4, States parties must **ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children**, the children’s religious and moral education, the capacity to transmit to children the parent’s nationality, and the ownership or administration of property, whether common property or property in the sole ownership of either spouse.[^150] 
 
@@ -691,5 +689,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ
+==
 -->
