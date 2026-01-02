@@ -324,7 +324,7 @@ A states obligations to ensure men and women enjoy equal rights regarding family
 
 
 #### Equal protection of boys
-States have a special duty to protect children. This duty must be carried out equally for boys and girls[^154], and that children are free from discrimination.[^155]
+States have a special duty to protect children and ensure that they are free from discrimination.[^155] This duty must be carried out equally for boys and girls.[^154] 
 
 > **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.**  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children.[^156]
 
@@ -682,6 +682,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ0NjU3MTQsLTE0NTk3NjA5NTksLT
-E2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbMTIyMzc3NTg4NywtMTQ1OTc2MDk1OSwtMT
+Y0ODY0OTkyMl19
 -->
