@@ -322,7 +322,7 @@ A states obligations to ensure men and women enjoy equal rights regarding family
 
 > Thus, **any discriminatory treatment in regard to the grounds and procedures for separation or divorce, child custody, maintenance or alimony, visiting rights or the loss or recovery of parental authority must be prohibited**, bearing in mind the paramount **interest of the children** in this connection.[^151]
 
-States ahve an obligation to 
+States have an obligation to guarantee children maintain relationships with both parents, providing this is in the interests of the child.
 
 > \...If the marriage is dissolved, steps should be taken, keeping in view the paramount interest of the children, to give them necessary protection and, so far as is possible, to **guarantee personal relations with both parents**. \...[^152]
 
@@ -690,6 +690,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDA5Mjk2NywtMTQ1OTc2MDk1OSwtMT
+eyJoaXN0b3J5IjpbLTk3MDMxOTMyMywtMTQ1OTc2MDk1OSwtMT
 Y0ODY0OTkyMl19
 -->
