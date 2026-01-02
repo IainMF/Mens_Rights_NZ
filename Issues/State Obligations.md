@@ -317,6 +317,7 @@ States must prevent any retrogression in men's recognition and enjoyment of thei
 > Moreover, any deliberately retrogressive measures in that regard would require the most careful consideration and would need to be fully justified by reference to the totality of the rights provided for in the Covenant and in the context of the full use of the maximum available resources.[^147]
 > 
 ### Specific obligations
+International human rights treaties often require
 
 #### Ensure marriage equality
 International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] [^153] States have a "positive duty to make certain that spouses have equal rights" and to "ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children".[^149]
@@ -671,6 +672,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NjE4NzE0LDE0MzY5MjMyNDYsMTQ5MT
-U5NzA1MiwtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
+eyJoaXN0b3J5IjpbLTkyMTI5MTA4MCwxNDM2OTIzMjQ2LDE0OT
+E1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
 -->
