@@ -324,11 +324,7 @@ A states obligations to ensure men and women enjoy equal rights regarding family
 
 
 #### Equal protection of boys
-States have a special duty to protect children and ensure that they are free from discrimination.[^155] This duty must be carried out equally for boys and girls.[^154] 
-
-> **The obligation of States parties to protect children (art. 24) should be carried out equally for boys and girls.**  States parties should report on measures taken to ensure that girls are treated equally to boys in education, in feeding and in health care, and provide the Committee with disaggregated data in this respect.  States parties should eradicate, both through legislation and any other appropriate measures, all cultural or religious practices which jeopardize the freedom and well-being of female children.[^156]
-
-> In relation to children, article 24 provides that all children, **without any discrimination** as to race, colour, sex, language, religion, national or social origin, property or birth, have the right to such measures of **protection as are required by their status as minors**, on the part of their family, society and the State.[^157]
+States have a special duty to protect children and ensure that they are free from discrimination.[^155] [^156] This duty must be carried out equally for boys and girls.[^154] 
 
 #### Children's rights
 
@@ -338,13 +334,6 @@ The special measures to protect children in the *International Covenant on Civil
 
 > \...For example, *every possible economic and social measure should be taken* to reduce infant mortality and to eradicate malnutrition among children and **to prevent them from being subjected to acts of violence and cruel and inhuman treatment** or from being exploited by means of forced labour or prostitution, or by their use in the illicit trafficking of narcotic drugs, or by any other means. In the cultural field, every possible measure should be taken to foster the development of their personality and to **provide them with a level of education that will enable them to enjoy the rights recognized in the Covenant**, particularly the right to freedom of opinion and expression.[^158]
 
-States must protect children from discrimination based on sex.[^159]
-
-.1 - Every child shall have, without any discrimination as to \... sex, \... the right to such measures of **protection as are required by his status as a minor**, on the part of his family, society and the State.
-
-24.2 - Every child shall be registered immediately after birth and shall have a name.
-
-24.3 - Every child has the right to acquire a nationality.
 
 ##### General comment 17
 
@@ -682,6 +671,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzc3NTg4NywtMTQ1OTc2MDk1OSwtMT
-Y0ODY0OTkyMl19
+eyJoaXN0b3J5IjpbLTExNDE0MTY4NTgsLTE0NTk3NjA5NTksLT
+E2NDg2NDk5MjJdfQ==
 -->
