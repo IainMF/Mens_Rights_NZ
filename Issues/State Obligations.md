@@ -140,7 +140,7 @@ To address systemic discrimination against men and boys, States should:[^64]
 States must take into account the 'factors that impede'[^65] men's enjoyment of their rights and remove any obstacles that prevent men's enjoyment of their rights.[^66] [^67] Logically, this means identifying these obstacles, which relates to the obligation to **monitor and report**, and create a **plan of action** (see below).
 
 #### Stereotypes
-States must address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^68] [^69] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^70] Logically this includes the idea that men's rights are less important than women's rights.
+States must address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^68] [^69] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^70] [^164] Logically this includes the idea that men's rights are less important than women's rights.
 
 
 #### Recognition of existing disadvantage
@@ -673,7 +673,9 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 
 [^163]: CEDAW Article 16
 
+[^164]: CEDAW Article 5(a)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI4MTUwNDIsMTQzNjkyMzI0NiwxND
+eyJoaXN0b3J5IjpbLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxND
 kxNTk3MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
