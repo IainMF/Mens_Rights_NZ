@@ -320,7 +320,7 @@ States must prevent any retrogression in men's recognition and enjoyment of thei
 International human rights treaties highlight specific circumstances where men and women should be treated equally.
 
 #### Ensure marriage equality
-International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] [^153]States have a "positive duty to make certain that spouses have equal rights" and to "ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children".[^149]
+International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] [^153] [^163] States have a "positive duty to make certain that spouses have equal rights" and to "ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children".[^149]
 
 A states obligations to ensure men and women enjoy equal rights regarding family matters extends to separation and divorce. States must guarantee children maintain relationships with both parents, providing this is in the interests of the child.[^152]
 
@@ -671,7 +671,9 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
+[^163]: CEDAW Article 16
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMzg1NTksMTQzNjkyMzI0NiwxNDkxNT
-k3MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbLTEzNjI4MTUwNDIsMTQzNjkyMzI0NiwxND
+kxNTk3MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
