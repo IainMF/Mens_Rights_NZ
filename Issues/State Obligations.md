@@ -316,10 +316,9 @@ States have an obligation to provide remedy to men and boys whose rights have be
 ### Specific obligations
 
 #### Ensure marriage equality
-International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] States have a "positive duty to make certain that spouses have equal rights".[^149]
+International human rights treaties explicitly require States to treat men and women equally in family matters, such as marriage and care of children.[^148] States have a "positive duty to make certain that spouses have equal rights" and to "ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children".[^149]
 
-> To fulfil their obligations under article 23, paragraph 4, States parties must **ensure that the matrimonial regime contains equal rights and obligations for both spouses with regard to the custody and care of children**, the children’s religious and moral education, the capacity to transmit to children the parent’s nationality, and the ownership or administration of property, whether common property or property in the sole ownership of either spouse.[^150] 
-
+A states obligations to ensure men and women enjoy equal rights regarding family matters extends to separation and divorce.
 
 > Thus, **any discriminatory treatment in regard to the grounds and procedures for separation or divorce, child custody, maintenance or alimony, visiting rights or the loss or recovery of parental authority must be prohibited**, bearing in mind the paramount **interest of the children** in this connection. States parties should, in particular, include information in their reports concerning the provision made for the necessary protection of any children at the dissolution of a marriage or on the separation of the spouses.[^151]
 
@@ -689,6 +688,6 @@ States have an obligation to act with due diligence to prevent, investigate, pro
 [^162]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ
-==
+eyJoaXN0b3J5IjpbLTE0NDMwMTQ5OTUsLTE0NTk3NjA5NTksLT
+E2NDg2NDk5MjJdfQ==
 -->
