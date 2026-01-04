@@ -297,7 +297,7 @@ See **Staff expertise**, on page 33 for more information.
 
 -   Provide clear pathways for men and men's advocates to engage with them about men's human rights;
 -   Identify barriers for men and men's advocates in engaging with the Commission;
--   Ensure men know *that* they can, and *how* they can, access access the Commission;
+-   Ensure men know *that* they can, and *how* they can, access the Commission;
 -   Ensure promotional material and public communication must make it clear that the Commission is interested in the protection and promotion of men's rights.
 
 #### Use language carefully
@@ -937,7 +937,7 @@ In relation to sexual violence, the Commission should monitor:
 
 -   Laws protecting men from sexual violence. For example, is the definition of rape gendered?
 -   Policies and practices of the justice system and law enforcement when dealing with male sexual violence victims. Do sentencing guidelines treat the harm to male and female victims equally? Are police officers trained to deal with male victims of sexual violence, including when the perpetrator is female?
--   Societal attitudes toward male victims of sexual violence, especially victims of female perpetrators. e.g. Do male victims of women see themselves as victims of crime? How many people think men cannot be rape by a woman?
+-   Societal attitudes toward male victims of sexual violence, especially victims of female perpetrators. e.g. Do male victims of women see themselves as victims of crime? How many people think men cannot be raped by a woman?
 
 ##### The private sphere
 
@@ -1011,7 +1011,7 @@ The Commission should monitor men's health rights, for example:
 -   Policies for a medical response to violence against men, and the availability of health services staffed by health providers with training on the issue of violence against men. This includes physical and mental health care for survivors of sexual and domestic violence;
 -   Whether States are actively addressing and seeking to modify social misconceptions, prejudices and taboos about masturbation, wet dreams, involuntary erections, vasectomy, and male sexuality;
 -   The regulations, policies or plans for sexual and reproductive health care for men, including access to contraception, and restrictions that require men to seek third-party authorisation in order to access them (e.g. do men have to get their partners permission for a vasectomy);
--   The availability and accessibility of publicly funded health-care services to prevent, detect and treat illness and conditions specific to men. For example, prostate cancer, erectile dysfunction and other male reproductive issues ;
+-   The availability and accessibility of publicly funded health-care services to prevent, detect and treat illnesses and conditions specific to men. For example, prostate cancer, erectile dysfunction and other male reproductive issues ;
 -   The extent to which health-care services are provided, and are being accessed, by men in vulnerable, marginalised or disadvantaged situations;
 -   Remedies available for men whose rights have been violated. Are they gender-sensitive?
 
@@ -1657,5 +1657,5 @@ Accesed 11 Oct 2024.
 
 [^13]: List adapted from *Integrating a Gender Perspective into Human Rights Investigations.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIyNzA5MTFdfQ==
+eyJoaXN0b3J5IjpbMTIwOTM5ODAwOSwtMTM0MjI3MDkxMV19
 -->
