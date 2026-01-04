@@ -112,7 +112,7 @@ Special measures should consider the specific circumstances of women and men. Th
 - In any case, the standard of specific circumstances should be applied to both women and men. 
 - Some different standards related to specific circumstances may need to be considered, but 
 	- 1) that does not mean **all** standards related to affirmative action should be different, 
-	- 2) that only women should benefit from different standards in specific circumstances. Men should benefit from different stands where it is applicable. 
+	- 2) that only women should benefit from different standards in specific circumstances. Men should benefit from different standards where it is applicable. 
 	- 3) The different standards for affirmative action in specific circumstances should be limited to the specific circumstances. there is no excuse for wide-ranging use of different standards.
 
 Care should be taken that the consideration of specific circumstances is not gender biased or based on stereotypical assumptions about the situation for men and women. EG that women are disadvantaged and men are privileged.
@@ -414,5 +414,5 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^50]: CEDAW General Recommendation 25, paragraph 9
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE2NjY3NzRdfQ==
+eyJoaXN0b3J5IjpbMjQwMDg2ODA3XX0=
 -->
