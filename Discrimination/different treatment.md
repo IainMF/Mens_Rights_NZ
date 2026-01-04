@@ -418,8 +418,10 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^50]: CEDAW General Recommendation 25, paragraph 9
 
-[^51]: reasonable: adjective - based on or using good judgment and therefore fair and practical https://dictionary.cambridge.org/dictionary/english/reasonable
+[^51]:  https://dictionary.cambridge.org/dictionary/english/reasonable - accessed 5 Jan 2026
+
+[^52]: https://www.thefreedictionary.com/reasonable  - accessed 5 Jan 2026
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjM5MzQ5MSwxMzQwOTU1MDY3XX0=
+eyJoaXN0b3J5IjpbLTEyMjkwMTIyMjgsMTM0MDk1NTA2N119
 -->
