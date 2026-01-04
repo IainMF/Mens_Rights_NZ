@@ -107,9 +107,12 @@ ICCPR and ICESCR require states to ensure equal enjoyment of rights between men 
 > (b) In any other international convention, treaty or agreement in force for that State.
 
 #### Addressing stereotypes
-States are required to address stereotypes.  Policies that treat women and men differently can reinforce stereotypes. See: ICESCR General Comment 16, paragraph 19 and CEDAW
+States are required to address stereotypes.  Policies that treat women and men differently can reinforce stereotypes. 
+
+See: ICESCR General Comment 16, paragraph 19 and CEDAW
 
 ### Considering specific circumstances
+
 Special measures should consider the specific circumstances of women and men. This could be used to argue that the standards applied for special measures for women should not be used for men. However, this does not stand up:
 
 - In any case, the standard of specific circumstances should be applied to both women and men. 
@@ -463,6 +466,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^62]: ICESCR General Comment 20, paragraph 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDExNTMzOCw0Mjc2OTkxNjcsLTY1Mz
-U2ODEzNiwtMTIyOTAxMjIyOCwxMzQwOTU1MDY3XX0=
+eyJoaXN0b3J5IjpbNzExMjM3OTMyLDQyNzY5OTE2NywtNjUzNT
+Y4MTM2LC0xMjI5MDEyMjI4LDEzNDA5NTUwNjddfQ==
 -->
