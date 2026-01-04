@@ -38,6 +38,9 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 > Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those experienced by women.[^7]  
 
 > Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.  Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.[^8]
+
+
+> Equality of results is the logical corollary of de facto or substantive equality. These results may be quantitative and/or qualitative in nature; that is, women enjoying their rights in various fields in fairly equal numbers with men, enjoying the same income levels, equality in decision-making and political influence, and women enjoying freedom from violence. [^50]
 > 
 #### 2. "irrespective of any proof of past discrimination"
 
@@ -406,6 +409,8 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^49]: CEDAW General Recommendation 25, paragraph 18
 
+[^50]: 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODE1NzUzMV19
+eyJoaXN0b3J5IjpbMTQ5ODM1MzI0MV19
 -->
