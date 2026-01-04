@@ -239,6 +239,7 @@ Different treatment must be necessary to reach the intended goals. If a program 
 - "Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty."[^56]
 - "needed in order to achieve a particular result"[^57]
 
+
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
 
@@ -442,6 +443,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA4MjE0MzIsLTEyMjkwMTIyMjgsMT
-M0MDk1NTA2N119
+eyJoaXN0b3J5IjpbLTUwNTE1ODU2NiwtMTIyOTAxMjIyOCwxMz
+QwOTU1MDY3XX0=
 -->
