@@ -376,7 +376,7 @@ The Commission should combat this belief and raise awareness that all rights are
 
 ###### Male privilege:
 
-The belief that men, as a group, receive unearned benefits from society is a stereotype that undermines the protection of men's rights. In some situations, men may receive unearned benefits, but in other situations they do not. An objective assessment of human rights requires accepting that all people can suffer human rights violations. See Prioritisation & Vulnerable
+The belief that men, as a group, receive unearned benefits from society is a stereotype that undermines the protection of men's rights. In some situations, men may receive unearned benefits, but in other situations they face undue hardships. An objective assessment of human rights requires accepting that all people can suffer human rights violations. See Prioritisation & Vulnerable
 Groups on page 71 for more information.
 
 #### Human rights issues labelled as women's issues
@@ -1657,6 +1657,5 @@ Accesed 11 Oct 2024.
 
 [^13]: List adapted from *Integrating a Gender Perspective into Human Rights Investigations.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDUzNTk4MTcsLTEzNDIyNzA5MTFdfQ
-==
+eyJoaXN0b3J5IjpbLTI3NjIyOTUwNywtMTM0MjI3MDkxMV19
 -->
