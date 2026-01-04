@@ -188,7 +188,12 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 > Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups.[^38] 
 
 ### Reasonable
-Reasonable means logical, or with sound judgement.[^51] The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
+Reasonable means logical, or with sound judgement.
+ - "based on or using good judgment and therefore fair and practical"[^51]
+ - 
+
+
+ The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
 
 The path to improving the situation must be clearly laid out in advance. EG
 - X is a problem 
@@ -416,5 +421,5 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^51]: reasonable: adjective - based on or using good judgment and therefore fair and practical https://dictionary.cambridge.org/dictionary/english/reasonable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTExOTE0MF19
+eyJoaXN0b3J5IjpbMTM0MDk1NTA2N119
 -->
