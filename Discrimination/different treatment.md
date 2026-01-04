@@ -30,9 +30,9 @@ First, the consideration and application of 'affirmative action' must itself be 
 CEDAW General Recommendation 25 explains the standards for applying special measures to address discrimination against women and ensure substantive equality between women and men. These standards should be used for special measures to address discrimination against men and ensure substantive equality for men. After all, if the goal is substantive equality between women and men, then men's inequalities must be addressed.
 
 ### Standards
+
 #### 1.Substantive equality
 > The enjoyment of human rights on the basis of equality between men and women must be understood comprehensively.  **Guarantees of non-discrimination and equality in international human rights treaties mandate both de facto and de jure equality.**  De jure (or formal) equality and **de facto (or substantive)** equality are different but interconnected concepts.  Formal equality assumes that equality is achieved if a law or policy treats men and women in a neutral manner.  Substantive equality is concerned, in addition, with the effects of laws, policies and practices and with ensuring that **they do not maintain, but rather alleviate, the inherent disadvantage that particular groups experience**.[^6]
-
 
 
 > Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those experienced by women.[^7]  
@@ -41,7 +41,7 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 > 
 #### 2. "irrespective of any proof of past discrimination"
 
-> While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists irrespective of any proof of past discrimination. The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men.
+> While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists irrespective of any proof of past discrimination. The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men.[^49]
 
 
 #### 3. Monitoring 
@@ -404,6 +404,8 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^48]: ICESCR General Comment 16, paragraph 37
 
+[^49]: CEDAW General Recommendation 25, paragraph 18
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Njg4MDgwNl19
+eyJoaXN0b3J5IjpbLTk3ODE1NzUzMV19
 -->
