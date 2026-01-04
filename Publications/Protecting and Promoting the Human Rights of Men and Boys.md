@@ -1043,7 +1043,7 @@ The Committee on the Rights of the Child says:
 
 Nonmedical circumcision of male children is a harmful practice and a violation of human rights.\[76]
 
-Circumcision of boys is a controversial area of human rights, even so, States have an obligation to protect equally protect girls and boys from harmful practices.[^12] The *Committee on the Elimination of Discrimination Against Women* and the *Committee on the Rights of the Child* jointly say that the right of boys to be free from harmful practices must be protected:
+Circumcision of boys is a controversial area of human rights, even so, States have an obligation to equally protect girls and boys from harmful practices.[^12] The *Committee on the Elimination of Discrimination Against Women* and the *Committee on the Rights of the Child* jointly say that the right of boys to be free from harmful practices must be protected:
 
 > Paragraph 4 -- Moreover, the Committees recognize that **boys are also the victims of violence, harmful practices and bias and that their rights must be addressed for their protection** and to prevent gender-based violence and the perpetuation of bias and gender inequality later in their lives. Accordingly, reference is made herein to the obligations of States parties to the Convention on the Rights of the Child regarding harmful practices stemming from discrimination that affect boys' enjoyment of their rights.\[6]
 
@@ -1190,7 +1190,7 @@ The content or structure of a report can reinforce stereotypes. A report that ha
 -   It implies there is a male standard that women's issues are judged against;
 -   It risks assigning women to the role of passive, vulnerable victim;
 -   It implies that men are not vulnerable to human rights abuses, or just have to tough it out;
--   Undermines universality of human rights by implying it women's rights are more important than men's.
+-   Undermines universality of human rights by implying women's rights are more important than men's.
 
 Including sections for both women and men:
 
@@ -1657,5 +1657,5 @@ Accesed 11 Oct 2024.
 
 [^13]: List adapted from *Integrating a Gender Perspective into Human Rights Investigations.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTM5ODAwOSwtMTM0MjI3MDkxMV19
+eyJoaXN0b3J5IjpbLTgxMDAyMjg5NSwtMTM0MjI3MDkxMV19
 -->
