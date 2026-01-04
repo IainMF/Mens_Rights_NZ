@@ -264,7 +264,7 @@ Special measures must support the protection and promotion of human rights.
 
 Special measures that undermine 'general welfare of society' should be avoided. Note: Affirmative action for men is disliked more than for women, so **care must be taken not to cause disharmony and resentment**. 
 
-> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is reasonable and objective. This will include an assessment as to whether the aim and effects of the measures or omissions are legitimate, compatible with the nature of the Covenant rights and solely for the purpose of promoting the **general welfare in a democratic society**. In addition, there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^62] 
+> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is reasonable and objective. This will include an assessment as to whether the aim and effects of the measures or omissions are legitimate, compatible with the nature of the Covenant rights and solely for the purpose of promoting the **general welfare in a democratic society**.[^62] 
 
 
 ## Required
@@ -276,6 +276,8 @@ Special measures that undermine 'general welfare of society' should be avoided. 
 > Violations of the rights contained in the Covenant can occur through the direct action of, failure to act or omission by States parties, or through their institutions or agencies at the national and local levels.  **The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3**.[^44]  
 
 Note: Forcing equal outcomes for women could violate their right to autonomy (ie to make their own decisions)
+
+### Lack of resources not a valid excuse for differnt treatment
 
 ## Discrimination in the application of affirmative action.
 Men have the same right to affirmative action as women. If affirmative action is not apply to men in a situation where it would be applied to women then that is discrimination.
@@ -459,6 +461,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^62]: ICESCR General Comment 20, paragraph 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3Njk5MTY3LC02NTM1NjgxMzYsLTEyMj
-kwMTIyMjgsMTM0MDk1NTA2N119
+eyJoaXN0b3J5IjpbLTE5NDM4OTU2MTUsNDI3Njk5MTY3LC02NT
+M1NjgxMzYsLTEyMjkwMTIyMjgsMTM0MDk1NTA2N119
 -->
