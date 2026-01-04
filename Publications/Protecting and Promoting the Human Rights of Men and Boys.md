@@ -1656,3 +1656,6 @@ Accesed 11 Oct 2024.
 [^12]: CCPR General Comment 28 -- paragraph 28
 
 [^13]: List adapted from *Integrating a Gender Perspective into Human Rights Investigations.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MTA2MTY2NjFdfQ==
+-->
