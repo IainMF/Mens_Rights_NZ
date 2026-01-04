@@ -191,6 +191,7 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 Reasonable means logical, or with sound judgement.
  - "based on or using good judgment and therefore fair and practical"[^51]
  - "Governed by or being in accordance with reason or sound thinking"[^52]
+ - "Just; fair; agreeable to reason."[^53]
 
 
  The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
@@ -422,6 +423,9 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^52]: https://www.thefreedictionary.com/reasonable  - accessed 5 Jan 2026
 
+[^53]: https://en.wiktionary.org/wiki/reasonable - accessed 5 Jan 2026
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkwMTIyMjgsMTM0MDk1NTA2N119
+eyJoaXN0b3J5IjpbLTk1NjI1NDY2MSwtMTIyOTAxMjIyOCwxMz
+QwOTU1MDY3XX0=
 -->
