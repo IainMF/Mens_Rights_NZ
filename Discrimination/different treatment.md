@@ -373,10 +373,15 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^32]: ICESCR General Comment 16, paragraph 21
 
 [^33]: ICESCR General Comment 16, paragraph 35
+
 [^34]: CESCR General Comment 16, paragraph 36
+
 [^35]: ICCPR General Comment 28, paragraph 6
+
 [^36]: ICCPR General Comment 18, paragraph 10
+
 [^37]: ICESCR General Comment 20, paragraph 13
+
 [^38]: ICESCR General Comment 20, paragraph 39
 
 [^39]: ICESCR General Comment 16, paragraph 41
@@ -400,5 +405,5 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^48]: ICESCR General Comment 16, paragraph 37
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Mjk0MjA3Ml19
+eyJoaXN0b3J5IjpbMTg5Njg4MDgwNl19
 -->
