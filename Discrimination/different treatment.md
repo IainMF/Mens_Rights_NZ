@@ -64,11 +64,13 @@ Affirmative actions must be monitored so that:
 >  The adoption and undertaking of any **retrogressive measures** that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3[^13]
 
 #### 5. Identify specific issues for men and women
+
 >32. These strategies should be based on the **systematic identification of policies, programmes and activities relevant to the situation and context within the State, as derived from the normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the elimination of discrimination in the enjoyment of economic, social and cultural rights.[^14]
 
 > The nature, duration and application of such measures should be designed with reference to the **specific issue** and **context**, and should be **adjusted as circumstances require**.  The results of such measures should be monitored with a view to being **discontinued** when the objectives for which they are undertaken have been achieved.[^15]
 
 #### 6. Temporary special measures must be identified and distinguished from permanent measures
+
 > ...Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women.[^16]
 
 
@@ -412,5 +414,5 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^50]: CEDAW General Recommendation 25, paragraph 9
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDM1Mjg0Nl19
+eyJoaXN0b3J5IjpbLTIxMzE2NjY3NzRdfQ==
 -->
