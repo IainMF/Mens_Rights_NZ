@@ -468,8 +468,4 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^61]: https://www.wordreference.com/definition/proportional - accessed 5 Jan 2026
 
 [^62]: ICESCR General Comment 20, paragraph 13
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODQxNjM1NCwtMTM4OTE3ODAxMSw0Mj
-c2OTkxNjcsLTY1MzU2ODEzNiwtMTIyOTAxMjIyOCwxMzQwOTU1
-MDY3XX0=
--->
+
