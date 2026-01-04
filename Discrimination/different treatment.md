@@ -219,6 +219,7 @@ Reasonable means being sure that special measures are required. Or when preferen
 ### Objective
 Objective means based on verifiable facts.
 - "Based on observed facts; without purely subjective assessment."[^54]
+- "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
 
 A problem must be clearly identified, and be able to be measured. Measurements must measure what they say they are measuring. Proxy measurements should be used only if direct measurements are not possible.
 
@@ -428,10 +429,11 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^54]: https://en.wiktionary.org/wiki/objective - accessed 5 Jan 2026
 
+[^55]: https://www.merriam-webster.com/dictionary/objective  - accessed 5 Jan 2026
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzI3ODk5MywtMTIyOTAxMjIyOCwxMz
-QwOTU1MDY3XX0=
+eyJoaXN0b3J5IjpbLTE3ODI2OTM0NzMsLTEyMjkwMTIyMjgsMT
+M0MDk1NTA2N119
 -->
