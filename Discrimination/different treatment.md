@@ -44,13 +44,15 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 
 #### 2. "irrespective of any proof of past discrimination"
 
-> While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists irrespective of any proof of past discrimination. The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men.[^49]
+> While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists **irrespective of any proof of past discrimination**. The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men.[^49]
 
 
 #### 3. Monitoring 
+
 Affirmative actions must be monitored so that:
 1. they can be ended when no longer necessary
 2. Prevent adverse affects.
+
 > To develop **monitoring mechanisms** to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women do not have unintended adverse effects on disadvantaged or marginalized individuals or groups, particularly women and girls;[^9]
 
 > The results of such measures should be **monitored** with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^10]
@@ -59,6 +61,7 @@ Affirmative actions must be monitored so that:
 > Failure to adopt, implement and **monitor effects** of laws, policies and programmes to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^11]
 
 #### 4. Do no harm
+
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women **do not have unintended adverse effects on disadvantaged or marginalized individuals or groups**, particularly women and girls[^12]
 
 >  The adoption and undertaking of any **retrogressive measures** that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3[^13]
@@ -460,6 +463,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^62]: ICESCR General Comment 20, paragraph 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1NDYwNzQ0LDQyNzY5OTE2NywtNjUzNT
-Y4MTM2LC0xMjI5MDEyMjI4LDEzNDA5NTUwNjddfQ==
+eyJoaXN0b3J5IjpbLTcyNDExNTMzOCw0Mjc2OTkxNjcsLTY1Mz
+U2ODEzNiwtMTIyOTAxMjIyOCwxMzQwOTU1MDY3XX0=
 -->
