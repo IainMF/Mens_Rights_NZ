@@ -257,7 +257,7 @@ The special measure must be proportional to the disadvantage that is being addre
 Special measures should be time limited and end once the goal is reached. The goal should be stated on commencement, and not be changed during the period without the same requirements (reasonable, objective etc.) to justify the change.
 
 Some measures can be permanent, but these must be clearly identified.
-Permanent measures are to address inherent disadvantages, such as disadvantges due to biology men's paternity uncertainty, or women's ability 
+Permanent measures are to address inherent disadvantages, such as disadvantages due to biology like men's paternity uncertainty, or women's ability to bear children. Pregnant women, for example, may receive extra help and support.
 
 ### Promoting general welfare and supporting human rights
 Special measures must support the protection and promotion of human rights.
@@ -457,6 +457,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^61]: https://www.wordreference.com/definition/proportional - accessed 5 Jan 2026
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MTcxNzczLC02NTM1NjgxMzYsLTEyMj
-kwMTIyMjgsMTM0MDk1NTA2N119
+eyJoaXN0b3J5IjpbLTE2MDU1NzkyNjAsLTY1MzU2ODEzNiwtMT
+IyOTAxMjIyOCwxMzQwOTU1MDY3XX0=
 -->
