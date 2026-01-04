@@ -40,8 +40,8 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 > Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.  Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.[^8]
 
 
-> Equality of results is the logical corollary of de facto or substantive equality. These results may be quantitative and/or qualitative in nature; that is, women enjoying their rights in various fields in fairly equal numbers with men, enjoying the same income levels, equality in decision-making and political influence, and women enjoying freedom from violence. [^50]
-> 
+> **Equality of results is the logical corollary of de facto or substantive equality**. These results may be quantitative and/or qualitative in nature; that is, women enjoying their rights in various fields in fairly equal numbers with men, enjoying the same income levels, equality in decision-making and political influence, and women enjoying freedom from violence. [^50]
+
 #### 2. "irrespective of any proof of past discrimination"
 
 > While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists irrespective of any proof of past discrimination. The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men.[^49]
@@ -409,8 +409,8 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^49]: CEDAW General Recommendation 25, paragraph 18
 
-[^50]: 
+[^50]: CEDAW General Recommendation 25, paragraph 9
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODM1MzI0MV19
+eyJoaXN0b3J5IjpbMjE0NDM1Mjg0Nl19
 -->
