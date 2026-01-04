@@ -245,6 +245,8 @@ The special measure must be proportional to the disadvantage that is being addre
 
 - "in correct relation to: *The degree of punishment is meant to be proportional to the seriousness of the crime.*[^58]
 - "having due proportion; corresponding"[^59]
+- " Properly related in size, degree, or other measurable characteristics; corresponding: *Punishment ought to be proportional to the crime.*"[^60]
+- "n the correct or balanced relation or proportion:[be + ~ + to]Salary raises were proportional to the cost of living.
 
 
 
@@ -449,8 +451,11 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^59]: https://www.collinsdictionary.com/dictionary/english/proportional - accessed 5 Jan 2026
 
+[^60]: https://www.thefreedictionary.com/proportional - accessed 5 Jan 2026
+
+[^61]: https://www.wordreference.com/definition/proportional - accessed 5 Jan 2026
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1OTQyODg3LC02NTM1NjgxMzYsLTEyMj
-kwMTIyMjgsMTM0MDk1NTA2N119
+eyJoaXN0b3J5IjpbLTE1OTU2NTQ0MjYsLTY1MzU2ODEzNiwtMT
+IyOTAxMjIyOCwxMzQwOTU1MDY3XX0=
 -->
