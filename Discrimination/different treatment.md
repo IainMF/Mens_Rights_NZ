@@ -31,7 +31,7 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 
 ### Standards
 
-#### 1.Substantive equality
+#### 1. Substantive equality
 > The enjoyment of human rights on the basis of equality between men and women must be understood comprehensively.  **Guarantees of non-discrimination and equality in international human rights treaties mandate both de facto and de jure equality.**  De jure (or formal) equality and **de facto (or substantive)** equality are different but interconnected concepts.  Formal equality assumes that equality is achieved if a law or policy treats men and women in a neutral manner.  Substantive equality is concerned, in addition, with the effects of laws, policies and practices and with ensuring that **they do not maintain, but rather alleviate, the inherent disadvantage that particular groups experience**.[^6]
 
 
@@ -460,6 +460,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^62]: ICESCR General Comment 20, paragraph 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTQyMjY2MCw0Mjc2OTkxNjcsLTY1Mz
-U2ODEzNiwtMTIyOTAxMjIyOCwxMzQwOTU1MDY3XX0=
+eyJoaXN0b3J5IjpbNzQ1NDYwNzQ0LDQyNzY5OTE2NywtNjUzNT
+Y4MTM2LC0xMjI5MDEyMjI4LDEzNDA5NTUwNjddfQ==
 -->
