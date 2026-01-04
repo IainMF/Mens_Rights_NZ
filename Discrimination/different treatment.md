@@ -243,7 +243,7 @@ Different treatment must be necessary to reach the intended goals. If a program 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
 
-- "in correct relation to: The degree of punishment is meant to be proportional to the seriousness of the crime.
+- "in correct relation to: *The degree of punishment is meant to be proportional to the seriousness of the crime.*[^58]
 
 
 
@@ -444,10 +444,10 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^57]: https://dictionary.cambridge.org/dictionary/english/necessary  - accessed 5 Jan 2026
 
-
+[^58]: https://dictionary.cambridge.org/dictionary/english/proportional - accessed 5 Jan 2026
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODEzNjc0MSwtMTIyOTAxMjIyOCwxMz
+eyJoaXN0b3J5IjpbLTY1MzU2ODEzNiwtMTIyOTAxMjIyOCwxMz
 QwOTU1MDY3XX0=
 -->
