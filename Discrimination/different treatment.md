@@ -254,9 +254,10 @@ The special measure must be proportional to the disadvantage that is being addre
 > However, there is one exception to this general principle [ie measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination]:  reasons specific to an individual male candidate may tilt the balance in his favour, which is to be assessed objectively, taking into account all criteria pertaining to the individual candidates.  This is a requirement of the principle of **proportionality**.[^41]
 
 ### Time limited
-Special measures should be time limited and end once the goal is reached. The goal should be stated on commencement, and not be changed during the period without the same requirements (reasonable, objective etc.) to justify the change
+Special measures should be time limited and end once the goal is reached. The goal should be stated on commencement, and not be changed during the period without the same requirements (reasonable, objective etc.) to justify the change.
 
 Some measures can be permanent, but these must be clearly identified.
+Permanent measures are to address inherent disadvantages, such as disadvantges due to biology men's paternity uncertainty, or women's ability 
 
 ### Promoting general welfare and supporting human rights
 Special measures must support the protection and promotion of human rights.
@@ -456,6 +457,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^61]: https://www.wordreference.com/definition/proportional - accessed 5 Jan 2026
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg3Nzk2MzEsLTY1MzU2ODEzNiwtMT
-IyOTAxMjIyOCwxMzQwOTU1MDY3XX0=
+eyJoaXN0b3J5IjpbMjI1MTcxNzczLC02NTM1NjgxMzYsLTEyMj
+kwMTIyMjgsMTM0MDk1NTA2N119
 -->
