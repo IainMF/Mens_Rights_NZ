@@ -188,7 +188,7 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 > Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups.[^38] 
 
 ### Reasonable
-Reasonable means logical, or with sound judgement. The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
+Reasonable means logical, or with sound judgement.[^51] The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
 
 The path to improving the situation must be clearly laid out in advance. EG
 - X is a problem 
@@ -414,5 +414,5 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^50]: CEDAW General Recommendation 25, paragraph 9
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMDg2ODA3XX0=
+eyJoaXN0b3J5IjpbMTQyNjQ1NDA2N119
 -->
