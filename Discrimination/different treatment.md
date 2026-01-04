@@ -13,7 +13,7 @@ The Human Rights Committee says different treatment in order to correct for disc
 
 > The Committee also wishes to point out that **the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination** prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^2] 
 
-> 36.	States parties are encouraged to adopt temporary special measures to **accelerate the achievement of equality between men and women** in the enjoyment of the rights under the Covenant.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s **obligation to eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the **specific issue** and **context**, and should be **adjusted as circumstances require**.  The results of such measures should be monitored with a view to being **discontinued** when the objectives for which they are undertaken have been achieved.[^3] 
+> States parties are encouraged to adopt temporary special measures to **accelerate the achievement of equality between men and women** in the enjoyment of the rights under the Covenant.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s **obligation to eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the **specific issue** and **context**, and should be **adjusted as circumstances require**.  The results of such measures should be monitored with a view to being **discontinued** when the objectives for which they are undertaken have been achieved.[^3] 
 
 States must take into account "apparently gender-neutral laws, policies and programmes" to consider if they negatively affect men and boys.
 
@@ -31,14 +31,16 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 
 ### Standards
 #### 1.Substantive equality
-> 7.	The enjoyment of human rights on the basis of equality between men and women must be understood comprehensively.  **Guarantees of non-discrimination and equality in international human rights treaties mandate both de facto and de jure equality.**  De jure (or formal) equality and **de facto (or substantive)** equality are different but interconnected concepts.  Formal equality assumes that equality is achieved if a law or policy treats men and women in a neutral manner.  Substantive equality is concerned, in addition, with the effects of laws, policies and practices and with ensuring that **they do not maintain, but rather alleviate, the inherent disadvantage that particular groups experience**.[^6]
+> The enjoyment of human rights on the basis of equality between men and women must be understood comprehensively.  **Guarantees of non-discrimination and equality in international human rights treaties mandate both de facto and de jure equality.**  De jure (or formal) equality and **de facto (or substantive)** equality are different but interconnected concepts.  Formal equality assumes that equality is achieved if a law or policy treats men and women in a neutral manner.  Substantive equality is concerned, in addition, with the effects of laws, policies and practices and with ensuring that **they do not maintain, but rather alleviate, the inherent disadvantage that particular groups experience**.[^6]
 
 
 
-> 8.	Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those experienced by women.[^7]  
+> Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities, particularly those experienced by women.[^7]  
 
 > Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.  Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.[^8]
+> 
 #### 2. "irrespective of any proof of past discrimination"
+
 
 #### 3. Monitoring 
 Affirmative actions must be monitored so that:
@@ -353,5 +355,5 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^47]: ICESCR General Comment 16, paragraph 21
 [^48]: ICESCR General Comment 16, paragraph 37
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxODY0NDA0XX0=
+eyJoaXN0b3J5IjpbOTI4ODk1ODU4XX0=
 -->
