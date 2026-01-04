@@ -248,7 +248,7 @@ The special measure must be proportional to the disadvantage that is being addre
 - " Properly related in size, degree, or other measurable characteristics; corresponding: *Punishment ought to be proportional to the crime.*"[^60]
 - "In the correct or balanced relation or proportion: *Salary raises were proportional to the cost of living*."
 
-
+> In addition, **there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects**. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^62] 
 
 
 > However, there is one exception to this general principle [ie measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination]:  reasons specific to an individual male candidate may tilt the balance in his favour, which is to be assessed objectively, taking into account all criteria pertaining to the individual candidates.  This is a requirement of the principle of **proportionality**.[^41]
@@ -264,8 +264,8 @@ Special measures must support the protection and promotion of human rights.
 
 Special measures that undermine 'general welfare of society' should be avoided. Note: Affirmative action for men is disliked more than for women, so **care must be taken not to cause disharmony and resentment**. 
 
-> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is **reasonable and objective**. This will include an assessment as to whether the aim and effects of the measures or omissions are **legitimate, compatible with the nature of the Covenant rights** and solely for the purpose of promoting the **general welfare in a democratic society**. In addition, there must be a clear and reasonable relationship of **proportionality** between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^37] 
-Special measures should not 
+> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is reasonable and objective. This will include an assessment as to whether the aim and effects of the measures or omissions are legitimate, compatible with the nature of the Covenant rights and solely for the purpose of promoting the **general welfare in a democratic society**. In addition, there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^62] 
+
 
 ## Required
 >  The Committee wishes to draw the attention of States parties to the fact that the Covenant **sometimes expressly requires them to take measures to guarantee the equality of rights of the persons concerned**. For example, article 23, paragraph 4, stipulates that States parties shall take appropriate steps to ensure equality of rights as well as responsibilities of spouses as to marriage, during marriage and at its dissolution. Such steps may take the form of legislative, administrative or other measures, but it is a positive duty of States parties to make certain that spouses have equal rights as required by the Covenant.[^42] 
@@ -459,6 +459,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^62]: ICESCR General Comment 20, paragraph 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc2MDY1NTksLTY1MzU2ODEzNiwtMT
-IyOTAxMjIyOCwxMzQwOTU1MDY3XX0=
+eyJoaXN0b3J5IjpbNDI3Njk5MTY3LC02NTM1NjgxMzYsLTEyMj
+kwMTIyMjgsMTM0MDk1NTA2N119
 -->
