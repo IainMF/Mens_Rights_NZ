@@ -237,6 +237,7 @@ Objectivity requires monitoring to ensure special measure are having the desired
 Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
 
 - "Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty."[^56]
+- "needed in order to achieve a particular result"[^57]
 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
@@ -435,9 +436,12 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^56]: https://en.wiktionary.org/wiki/necessary   - accessed 5 Jan 2026
 
+[^57]: https://dictionary.cambridge.org/dictionary/english/necessary  - accessed 5 Jan 2026
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTE3NjUzMywtMTIyOTAxMjIyOCwxMz
-QwOTU1MDY3XX0=
+eyJoaXN0b3J5IjpbLTE1OTA4MjE0MzIsLTEyMjkwMTIyMjgsMT
+M0MDk1NTA2N119
 -->
