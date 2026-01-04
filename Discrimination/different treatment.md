@@ -277,7 +277,7 @@ Special measures that undermine 'general welfare of society' should be avoided. 
 
 Note: Forcing equal outcomes for women could violate their right to autonomy (ie to make their own decisions)
 
-### Lack of resources not a valid excuse for differnt treatment
+### Lack of resources not a valid excuse for different treatment
 
 ## Discrimination in the application of affirmative action.
 Men have the same right to affirmative action as women. If affirmative action is not apply to men in a situation where it would be applied to women then that is discrimination.
@@ -327,7 +327,6 @@ Preferential treatment means allocating resources to a disadvantaged group to al
 Specific treatment means different treatment that is based on needs. For example, men may need male specific programs, or policies, that are complimented by women only programs or polices.
 
 Preferential treatment for women, should not be used when specific treatment is more appropriate. For example, women's shelters without similar support for men is preferential treatment, while providing both women and men support based on their unique needs is specific treatment.
-
 
 
 # Wicked problems
@@ -461,6 +460,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^62]: ICESCR General Comment 20, paragraph 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM4OTU2MTUsNDI3Njk5MTY3LC02NT
-M1NjgxMzYsLTEyMjkwMTIyMjgsMTM0MDk1NTA2N119
+eyJoaXN0b3J5IjpbLTg3MTQyMjY2MCw0Mjc2OTkxNjcsLTY1Mz
+U2ODEzNiwtMTIyOTAxMjIyOCwxMzQwOTU1MDY3XX0=
 -->
