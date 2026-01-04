@@ -41,6 +41,8 @@ CEDAW General Recommendation 25 explains the standards for applying special meas
 > 
 #### 2. "irrespective of any proof of past discrimination"
 
+> While the application of temporary special measures often remedies the effects of past discrimination against women, the obligation of States parties under the Convention to improve the position of women to one of de facto or substantive equality with men exists irrespective of any proof of past discrimination. The Committee considers that States parties that adopt and implement such measures under the Convention do not discriminate against men.
+
 
 #### 3. Monitoring 
 Affirmative actions must be monitored so that:
@@ -307,53 +309,96 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 
 [^1]: CCPR General Comment 18, paragraph 8
+
 [^2]: CCPR General Comment 18, paragraph 10
+
 [^3]: ICESCR General Comment 16, paragraph 36
+
 [^4]: ICESCR General Comment 16, paragraph 18
+
 [^5]:  ICESCR General Comment 16, paragraph 21
+
 [^6]:  ICESCR General Comment 16, paragraph 7
+
 [^7]: ICESCR General Comment 16, paragraph 8
+
 [^8]:  ICESCR General Comment 16, paragraph 41
+
 [^9]:  ICESCR General Comment 16, paragraph 21
+
 [^10]:  ICESCR General Comment 16, paragraph 36
+
 [^11]:  ICESCR General Comment 16, paragraph 41
+
 [^12]:  ICESCR General Comment 16, paragraph 21
+
 [^13]:  ICESCR General Comment 16, paragraph 42
+
 [^14]:  ICESCR General Comment 16, paragraph 33
+
 [^15]:  ICESCR General Comment 16, paragraph 36
+
 [^16]:  ICESCR General Comment 16, paragraph 35
+
 [^17]: CEDAW General Recommendation 25, paragraph 4
+
 [^18]: CEDAW General Recommendation 25, paragraph 5
+
 [^19]:  ICESCR General Comment 16, paragraph 36
+
 [^20]:  CEDAW General recommendation 25, paragraph 10 
+
 [^21]: CEDAW General recommendation 25, paragraph 11
+
 [^22]:  CEDAW General Recommendation 25, paragraph 14
+
 [^23]:  ICCPR General Comment 28, paragraph 6
+
 [^24]:  ICESCR General Comment 16, paragraph 8
+
 [^25]: ICESCR General Comment 20, paragraph 8
+
 [^26]: ICESCR General Comment 20, paragraph 9
+
 [^27]: ICESCR General Comment 16, paragraph 7
+
 [^28]: ICESCR General Comment 16, paragraph 8
+
 [^29]: ICESCR General Comment 16, paragraph 13
+
 [^30]: ICESCR General Comment 20, paragraph 38
+
 [^31]: ICESCR General Comment 16, paragraph 15
+
 [^32]: ICESCR General Comment 16, paragraph 21
+
 [^33]: ICESCR General Comment 16, paragraph 35
 [^34]: CESCR General Comment 16, paragraph 36
 [^35]: ICCPR General Comment 28, paragraph 6
 [^36]: ICCPR General Comment 18, paragraph 10
 [^37]: ICESCR General Comment 20, paragraph 13
 [^38]: ICESCR General Comment 20, paragraph 39
+
 [^39]: ICESCR General Comment 16, paragraph 41
+
 [^40]: ICESCR General Comment 20, paragraph 36
+
 [^41]:  ICESCR General Comment 16, footnote 9
+
 [^42]: ICCPR General Comment 18, paragraph 5
+
 [^43]: ICCPR General Comment 28, paragraph 9
+
 [^44]: ICESCR General Comment 16, paragraph 42
+
 [^45]: CEDAW General Comment 25, paragraph 18
+
 [^46]: ICESCR General Comment 20, paragraph 36
+
 [^47]: ICESCR General Comment 16, paragraph 21
+
 [^48]: ICESCR General Comment 16, paragraph 37
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4ODk1ODU4XX0=
+eyJoaXN0b3J5IjpbMTI4Mjk0MjA3Ml19
 -->
