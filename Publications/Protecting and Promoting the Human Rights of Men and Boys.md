@@ -109,9 +109,9 @@ The Commission's *Governance and Responsibilities Manual* describes non-discrimi
 Gender equality is a consequence of the principles of universality and non-discrimination. Gender equality "was made part of international human rights law by the Universal Declaration of Human Rights when it was adopted by the UN General Assembly on 10 December 1948".\[38]
 
 Gender equality means equal rights, responsibilities, and opportunities between women and men. UN Women explains that "gender equality implies that the interests, needs and priorities of both women and men are taken into consideration".\[78] Similarly, the Asia Pacific Forum says gender equality "means the aspirations and needs of all genders are considered, valued and favoured equally".\[50] Therefore, the Commission must consider the needs and interests of both women *and men*, without favouring either.
-##### Substantive/de facto equality
+##### Substantive/de facto equality
 
-International human rights law identifies two types of equality. One, formal or *de jure* equality, which is equality under the law and policy. Two, substantive or *de facto* equality, which is equality of outcomes or results.\[9]
+International human rights law identifies two types of equality. One, formal or *de jure* equality, which is equality under the law and policy. Two, substantive or *de facto* equality, which is equality of outcomes or results.\[9]
 
 Formal equality is not always enough to ensure that everyone enjoys their human rights. For example, repealing a discriminatory law does not address the effects of the discrimination. Likewise, gender-neutral laws and policies may not have gender-neutral results. Gender stereotypes, biases, and culture or tradition can cause indirect discrimination even when laws and policies are gender neutral.
 
@@ -135,7 +135,7 @@ In the *[[Amman Declaration and Programme of Action|Amman Declaration]]*, NHRIs 
 
 Similarly, the *Apia Statement* --- which the Commission contributed to --- recommends Pacific region NHRI's "commit to planning and implementing an internal gender mainstreaming strategy."\[28]
 
-Gender mainstreaming is an **active process**\[49] that considers the effects of polices on both women and men before **decisions are made**.\[40] The Commission should have a gender mainstreaming strategy that considers the impacts of policies and programmes on men. In short, the Commission asks two questions:
+Gender mainstreaming is an **active process**\[49] that considers the effects of policies on both women and men before **decisions are made**.\[40] The Commission should have a gender mainstreaming strategy that considers the impacts of policies and programmes on men. In short, the Commission asks two questions:
 
 1.  What do men need from the Commission?
 
@@ -610,7 +610,7 @@ The Commission should avoid making assumptions about how gender relates to human
 Other false assumptions might include:
 
 -   Women's rights issues, such as domestic violence, don't significantly    affect men as well;
--   Gender-neutral monitoring polices are sufficient to capture the extent of men's human rights issues;
+-   Gender-neutral monitoring policies are sufficient to capture the extent of men's human rights issues;
 -   Having men in decision-making positions is sufficient to address men's human rights issues.
 
 #### Ensure men's experiences are captured
@@ -718,7 +718,7 @@ Monitoring the obligation to *respect* human rights means monitoring the Governm
 Monitoring the obligation to *protect* means monitoring the Government's conduct and its efforts to meet their obligations.
 
 -   Are Government commitments translated into practical measures to respect and fulfil men's rights?
--   Are the laws, polices, and programmes that protect men's rights functioning properly? For example:
+-   Are the laws, policies, and programmes that protect men's rights functioning properly? For example:
     -   Is the Bill of Rights Act Section 7 process identifying inconsistencies with the Act when they affect men?
     -   Is the gender budgeting process identifying areas to address disparities for men and boys?
 -   Do politicians and public servants understand their responsibilities to respect and fulfil men's rights?
@@ -751,11 +751,11 @@ General Comments from both the *UN Human Rights Committee* and the *Committee on
 
 The Commission should refer to ICESCR General Comment 16\[65], and CCPR General Comment 28\[21] when monitoring gender equality. This includes:
 
--   Direct or indirect discrimination against men and the effect of gender-neutral polices and programs on men's enjoyment of their rights;
+-   Direct or indirect discrimination against men and the effect of gender-neutral policies and programs on men's enjoyment of their rights;
 -   Efforts to eliminate prejudices against men;
 -   Measures to protect men from discrimination, such as legislation or public institutions;
 -   Areas where men lack equality with women *in practice*;
--   The effects of polices and practices on men, including apparently gender-neutral polices and practices;
+-   The effects of policies and practices on men, including apparently gender-neutral policies and practices;
 -   If the Government has taken "all necessary steps" to enable men to enjoy their rights;
 -   If the Government has taken steps to remove obstacles and taken account of the "factors which impede" men's equal enjoyment of their rights.
 
@@ -763,7 +763,7 @@ The Commission should refer to ICESCR General Comment 16\[65], and CCPR General 
 
 In international human rights law, States have a non-derogable and immediate requirement to eliminate discrimination against men. Discrimination constitutes any distinction, exclusion, restriction, preference, or other differential treatment that is directly or indirectly based on prohibited grounds of discrimination and that has the intention or effect of nullifying or impairing the recognition, enjoyment or exercise by all persons, on an equal footing, of all rights and freedoms.\[20] \[66]
 
-States must also "adopt the necessary measures to prevent, diminish and eliminate the conditions and attitudes which cause or perpetuate substantive or de facto discrimination".\[66] The Commission should monitor discrimination against men and boys to ensure compliance with international human rights treaties. Including monitoring conditions and attitudes that cause or perpetuate discrimination against men and boys.
+States must also "adopt the necessary measures to prevent, diminish and eliminate the conditions and attitudes which cause or perpetuate substantive or de facto discrimination".\[66] The Commission should monitor discrimination against men and boys to ensure compliance with international human rights treaties. Including monitoring conditions and attitudes that cause or perpetuate discrimination against men and boys.
 
 #### International human rights on discrimination
 
@@ -773,12 +773,12 @@ The Commission should refer to CCPR General Comment 18\[20], and ICESCR General 
 
 -   The extent that men have equality under the law & equal protection of the law;
 -   The extent that men have equal and effective protection against discrimination;
--   Whether the Government is reporting de jure and de facto discrimination against men to the United Nations;
+-   Whether the Government is reporting de jure and de facto discrimination against men to the United Nations;
 -   Do laws or policy documents discriminate against men?
--   Has the Government adopted the necessary measures to prevent, diminish, and eliminate the conditions and attitudes which cause or perpetuate substantive or de facto discrimination against men?
+-   Has the Government adopted the necessary measures to prevent, diminish, and eliminate the conditions and attitudes which cause or perpetuate substantive or de facto discrimination against men?
 -   Are there situations where the Government is required to adopt special measures to attenuate or suppress conditions that perpetuate discrimination against men?
 -   Is there direct discrimination against men?
--   Is there indirect discrimination against men, for example, gender-neutral polices that disproportionately negatively affect men;
+-   Is there indirect discrimination against men, for example, gender-neutral policies that disproportionately negatively affect men;
 -   Is there systemic discrimination against men? For example, legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for men.
 
 #### Disaggregated data
@@ -789,7 +789,7 @@ Disaggregated data are essential to assess discrimination. The Commission must c
 
 Men are more vulnerable to gender-related human rights violations if disaggregated data are not collected or included in reports. Duty-bearers cannot respond to men's rights issues if they do not know about them. The *Manual on Human Rights Monitoring* emphasises the importance of disaggregated data:
 
-> Lack of access to disaggregated information and statistics may render marginalized communities and sectors of the population even more vulnerable as their actual situation would not appear in reports and aggregated charts, and hence cannot inform policymaking processes. Disaggregated information can also reveal the de facto discriminatory nature of some policies and laws that would otherwise appear neutral.\[57]
+> Lack of access to disaggregated information and statistics may render marginalized communities and sectors of the population even more vulnerable as their actual situation would not appear in reports and aggregated charts, and hence cannot inform policymaking processes. Disaggregated information can also reveal the de facto discriminatory nature of some policies and laws that would otherwise appear neutral.\[57]
 
 *Human Rights Indicators -- A Guide to Measurement and Implementation* concurs:
 
@@ -822,7 +822,7 @@ Secondly, to ensure that temporary special measures for women are properly imple
 
 *CEDAW General Recommendation 25* says:
 
-> As steps are being taken to eliminate discrimination against women, women's needs may change or disappear, or become the needs of both women and men. Thus, **continuous monitoring of laws, programmes and practices directed at the achievement of women's de facto or substantive equality is needed so as to avoid a perpetuation of non-identical treatment that may no longer be warranted**.\[8]
+> As steps are being taken to eliminate discrimination against women, women's needs may change or disappear, or become the needs of both women and men. Thus, **continuous monitoring of laws, programmes and practices directed at the achievement of women's de facto or substantive equality is needed so as to avoid a perpetuation of non-identical treatment that may no longer be warranted**.\[8]
 
 Temporary special measures must:
 
@@ -959,15 +959,15 @@ The Commission should monitor:
 -   Laws and policies that treat men differently from women. E.g. rape laws that exclude men, sentencing guidelines that punish men more or give more leniency to women;
 -   Treatment of male victims in the justice system. E.g. do male victims receive the same treatment as women, are they stigmatised, especially if they are victims of women;
 -   Application of gender stereotypes in judgement and decisions;
--   De facto or substantive discrimination, including biases against men among law enforcement, prosecutors, judges and lawyers;
+-   De facto or substantive discrimination, including biases against men among law enforcement, prosecutors, judges and lawyers;
 -   Judicial gender stereotyping, when judges or other legal practitioners reach conclusions based on preconceived beliefs about women or men rather than on the basis of the facts of the case;
 -   Social, cultural and institutional barriers --- or a lack of access --- to effective, gender-sensitive remedies;
 
 #### Education
 
-The International Covenant on Economic, Cultural and Social Rights requires States to monitor and address de facto discrimination in education. *General Comment 13* states:
+The International Covenant on Economic, Cultural and Social Rights requires States to monitor and address de facto discrimination in education. *General Comment 13* states:
 
-> States parties must closely monitor education -- including all relevant policies, institutions, programmes, spending patterns and other practices -- so as to identify and take measures to redress any de facto discrimination.\[63]
+> States parties must closely monitor education -- including all relevant policies, institutions, programmes, spending patterns and other practices -- so as to identify and take measures to redress any de facto discrimination.\[63]
 
 For several decades, men and boys have fallen behind in education. A paper from the *Ministry of Education* states:
 
@@ -1026,7 +1026,7 @@ In the *Amman Declaration and Programme of Action* NHRIs agreed to "Protect and 
 The Commission should monitor men's reproductive rights, including:
 
 -   The laws and policies about men becoming parents. For example, can a man be forced to become a parent by the mother of the child? Does the law require proof that a man is the father of the child before he is forced by the state to support the child?
--   Laws and polices about men finding out they have a child and access to their children on equal terms with women;
+-   Laws and policies about men finding out they have a child and access to their children on equal terms with women;
 -   Laws and policies on paternal surrender;
 -   Are there laws protecting boys from genital cutting, how many boys have their genitals cut, instances of severe adverse effects from boy's genital cutting;
 -   Remedies available for men whose rights have been violated. Are they gender-sensitive?
@@ -1051,8 +1051,8 @@ Circumcision of boys is a controversial area of human rights, even so, States ha
 
 The Commission should support the Government in protecting boys from harmful practices. The Commission should monitor:
 
--   Laws and polices that protect boys from non-medical circumcision;
--   Differences in laws and polices for protecting boys and girls from genital cutting/mutilation or circumcision;
+-   Laws and policies that protect boys from non-medical circumcision;
+-   Differences in laws and policies for protecting boys and girls from genital cutting/mutilation or circumcision;
 -   Reasons (justifications) for the non-medical circumcision, e.g. religious or cultural traditions;
 -   How many boys are circumcised each year;
 -   Who is performing circumcisions;
@@ -1081,7 +1081,7 @@ Reporting is a critical step to addressing men's rights issues. Uninformed polic
 
 The *Manual on Human Rights Monitoring* says:
 
-> Lack of access to disaggregated information and statistics **may render... sectors of the population even more vulnerable as their actual situation would not appear in reports and aggregated charts, and hence cannot inform policymaking processes**. Disaggregated information can also reveal the de facto discriminatory nature of some policies and laws that would otherwise appear neutral.\[57]
+> Lack of access to disaggregated information and statistics **may render... sectors of the population even more vulnerable as their actual situation would not appear in reports and aggregated charts, and hence cannot inform policymaking processes**. Disaggregated information can also reveal the de facto discriminatory nature of some policies and laws that would otherwise appear neutral.\[57]
 
 Likewise, *Integrating a Gender Perspective into Human Rights Investigations* says that including gender-specific analysis in reports is essential for supporting efforts to address those issues:
 
@@ -1657,5 +1657,5 @@ Accesed 11 Oct 2024.
 
 [^13]: List adapted from *Integrating a Gender Perspective into Human Rights Investigations.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA2MTY2NjFdfQ==
+eyJoaXN0b3J5IjpbLTEzNDIyNzA5MTFdfQ==
 -->
