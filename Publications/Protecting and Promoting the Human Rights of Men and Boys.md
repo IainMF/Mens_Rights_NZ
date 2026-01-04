@@ -1220,12 +1220,12 @@ The Commission should be collecting information about men's rights (see Monitori
 The Commission should take opportunities to recommend changes and give advice on how to improve the human rights situation for men and boys. Recommended changes could include[^13]:
 
 -   Changes to laws, policies, and practices to prevent systemic and structural discrimination of men and boys, for example:
-    -   The repeal/revision discriminatory laws;
+    -   The repeal/revision of discriminatory laws;
     -   Training of judiciary, police, etc. to address bias against men;
     -   Creating a government department to provide provide expertise and advice on men's issues Eg a Ministry for Men;
 -   The adoption of temporary special measures to addressing existing discrimination and disadvantage face by men and boys;
 -   Measures to ensure male victims of violence have quality services available to them;
--   Accountability measures to ensure discrimination against men and boys addressed and there is suitable mechanism for redress;
+-   Accountability measures to ensure discrimination against men and boys is addressed and there is suitable mechanism for redress;
 -   Mechanisms to monitor men's human rights;
 -   Awareness raising campaigns to education the public on men's human rights issues.
 
@@ -1429,7 +1429,7 @@ The Commission identifies three elements of accountability\[17]:
 
 The Commission should be effective in their work to protect and promote the human rights of men and boys.
 
-The Commission should "actively evaluate the effectiveness of its activities" and should "should examine the quality of the NHRI's programmes and the extent to which existing programmes sufficiently address the human rights issues"\[73] for men and boys.
+The Commission should "actively evaluate the effectiveness of its activities" and "should examine the quality of the NHRI's programmes and the extent to which existing programmes sufficiently address the human rights issues"\[73] for men and boys.
 
 *National Human Rights Institutions Best Practice* says:
 
@@ -1657,5 +1657,6 @@ Accesed 11 Oct 2024.
 
 [^13]: List adapted from *Integrating a Gender Perspective into Human Rights Investigations.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDAyMjg5NSwtMTM0MjI3MDkxMV19
+eyJoaXN0b3J5IjpbLTIxMDUzNTk4MTcsLTEzNDIyNzA5MTFdfQ
+==
 -->
