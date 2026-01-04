@@ -60,6 +60,8 @@ Affirmative actions must be monitored so that:
 
 > Failure to adopt, implement and **monitor effects** of laws, policies and programmes to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^11]
 
+> Thus, continuous monitoring of laws, programmes and practices directed at the achievement of women’s de facto or substantive equality is needed so as to avoid a perpetuation of non-identical treatment that may no longer be warranted.[^21] 
+
 #### 4. Do no harm
 
 > To develop monitoring mechanisms to ensure that the implementation of laws and policies aimed at promoting the equal enjoyment of economic, social and cultural rights by men and women **do not have unintended adverse effects on disadvantaged or marginalized individuals or groups**, particularly women and girls[^12]
@@ -76,6 +78,7 @@ Affirmative actions must be monitored so that:
 
 > ...Temporary special measures should be distinguished from permanent policies and strategies undertaken to achieve equality of men and women.[^16]
 
+> **Women’s biologically determined permanent needs and experiences should be distinguished from other needs that may be the result of past and present discrimination** against women by individual actors, the **dominant gender ideology**, or by **manifestations of such discrimination in social and cultural structures and institutions**. As steps are being taken to eliminate discrimination against women, women’s needs may change or disappear, or become the needs of both women and men. Thus, continuous monitoring of laws, programmes and practices directed at the achievement of women’s de facto or substantive equality is needed so as to avoid a perpetuation of non-identical treatment that may no longer be warranted.[^21] 
 
 
 ### Reasons that CEDAW standards for affirmative action should be applied to men
@@ -466,6 +469,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^62]: ICESCR General Comment 20, paragraph 13
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExMjM3OTMyLDQyNzY5OTE2NywtNjUzNT
-Y4MTM2LC0xMjI5MDEyMjI4LDEzNDA5NTUwNjddfQ==
+eyJoaXN0b3J5IjpbLTEzODkxNzgwMTEsNDI3Njk5MTY3LC02NT
+M1NjgxMzYsLTEyMjkwMTIyMjgsMTM0MDk1NTA2N119
 -->
