@@ -243,6 +243,11 @@ Different treatment must be necessary to reach the intended goals. If a program 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
 
+- "in correct relation to: The degree of punishment is meant to be proportional to the seriousness of the crime.
+
+
+
+
 > However, there is one exception to this general principle [ie measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination]:  reasons specific to an individual male candidate may tilt the balance in his favour, which is to be assessed objectively, taking into account all criteria pertaining to the individual candidates.  This is a requirement of the principle of **proportionality**.[^41]
 
 ### Time limited
@@ -443,6 +448,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTE1ODU2NiwtMTIyOTAxMjIyOCwxMz
+eyJoaXN0b3J5IjpbMTE4ODEzNjc0MSwtMTIyOTAxMjIyOCwxMz
 QwOTU1MDY3XX0=
 -->
