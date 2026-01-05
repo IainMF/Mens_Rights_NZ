@@ -51,6 +51,8 @@ Any special measures must be reasonable, that is "based on or using good judgmen
 
 To be reasonable, the problem and potential solutions must be clearly understood, the available alternatives must be considered, and the final choice between alternatives must be logical.
 
+A problem must not be misdiagnosed. 
+
 The path to improving the situation must be clearly laid out in advance. EG
 - X is a problem 
 - Y is known to reduce the problem
@@ -70,6 +72,8 @@ Reasonable means identifying the human rights issue that is being addressed. Spe
 Reasonable means being sure that special measures are required. Or when preferential or specific treatment is required.
 
  The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
+
+
 
 ### Objective
 Objective means "Based on observed facts; without purely subjective assessment."[^54] "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
@@ -100,6 +104,8 @@ Different treatment must be necessary to reach the intended goals.
 If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary. 
 
 For example, programs to address poor literacy will naturally help those groups who have higher rates of poor literacy, so targeted programs for those groups may not be necessary.
+
+Differnt 
 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
@@ -495,6 +501,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^63]: ICESCR General Comment 16, paragraph 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0OTAzNDMyLC01ODQ5ODMyMTIsLTIwNT
-kyMzIxOTVdfQ==
+eyJoaXN0b3J5IjpbMTI3NTI4MTg4NiwtNTg0OTgzMjEyLC0yMD
+U5MjMyMTk1XX0=
 -->
