@@ -87,7 +87,7 @@ Women's needs are not represented in decision making.
 We can measure the number of decision makers who are women, but this does not necessarily relate to decision makers addressing women needs. It is possible that men are attentive to women's needs or women are not. Therefore, the using the number of women who are decision makers is not a direct measure of whether women's needs are taken into consideration.
 
 #### Monitoring is required
-Objectivity requires monitoring and evaluation. Data must be collected about the program or policy to establish if it is meeting it's goals
+Objectivity requires monitoring and evaluation. Data must be collected about the program or policy to establish if it is meeting it's goals or having unintended effects.
 
 
  to ensure special measure are having the desired effect and not causing harm.
@@ -109,6 +109,8 @@ The special measure must be proportional to the disadvantage that is being addre
 - "having due proportion; corresponding"[^59]
 - " Properly related in size, degree, or other measurable characteristics; corresponding: *Punishment ought to be proportional to the crime.*"[^60]
 - "In the correct or balanced relation or proportion: *Salary raises were proportional to the cost of living*."
+
+Proportionality means choosing the least invasive or distruputive 
 
 > In addition, **there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects**. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^62] 
 
@@ -486,6 +488,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTgxODMyMDMsLTU4NDk4MzIxMiwtMj
-A1OTIzMjE5NV19
+eyJoaXN0b3J5IjpbMTg0NzI3OTY0LC01ODQ5ODMyMTIsLTIwNT
+kyMzIxOTVdfQ==
 -->
