@@ -38,6 +38,7 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 > In order to fulfil the obligation set forth in article 3, States parties **should take account of the factors which impede** the equal enjoyment by women and men of each right specified in the Covenant.[^35] 
 
 ## Requirements for different treatment
+International human rights law has specific requirements for different treatment. 
 
 > Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are **reasonable and objective** and if the aim is to achieve a purpose which is legitimate under the Covenant.[^36] 
 
@@ -480,6 +481,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTEwMDkwNywtNTg0OTgzMjEyLC0yMD
+eyJoaXN0b3J5IjpbMTQ2Njg0NDM1MywtNTg0OTgzMjEyLC0yMD
 U5MjMyMTk1XX0=
 -->
