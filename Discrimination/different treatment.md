@@ -94,10 +94,12 @@ Objectivity requires monitoring and evaluation. Data must be collected about the
 ### Necessary
 Different treatment must be necessary to reach the intended goals. 
 
-- "Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty."[^56]
+- "Required, essential, whether logically inescapable or needed in order to achieve a desired result"[^56]
 - "needed in order to achieve a particular result"[^57]
 
-If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
+If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary. 
+
+For example, programs to address poor literacy will natturally help whichevr group 
 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
@@ -493,6 +495,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^63]: ICESCR General Comment 16, paragraph 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjM3MTI0MiwtNTg0OTgzMjEyLC0yMD
-U5MjMyMTk1XX0=
+eyJoaXN0b3J5IjpbNTI4NzI2MDk1LC01ODQ5ODMyMTIsLTIwNT
+kyMzIxOTVdfQ==
 -->
