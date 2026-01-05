@@ -266,6 +266,12 @@ Third, improper application of 'affirmative action' for women *is* discriminatio
 
 > Indirect discrimination occurs when a law, policy or programme does not appear to be discriminatory, but has a discriminatory effect when implemented.  This can occur, for example, when women are disadvantaged compared to men with respect to the enjoyment of a particular opportunity or benefit due to pre-existing inequalities.  **Applying a gender-neutral law may leave the existing inequality in place, or exacerbate it**.[^29] 
 
+### Limited resources are not an excuse for differential treatment.
+
+Limited resources are not an excuse for differential treatment unless all resources at a States disposal have been used.
+
+For example, if the d
+
 
 ## Temporary special measures
 
@@ -485,6 +491,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^63]: ICESCR General Comment 16, paragraph 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTQ1NjE3NCwtNTg0OTgzMjEyLC0yMD
+eyJoaXN0b3J5IjpbMTM2NjA3OTcwMiwtNTg0OTgzMjEyLC0yMD
 U5MjMyMTk1XX0=
 -->
