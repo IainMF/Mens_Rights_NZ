@@ -46,11 +46,9 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 > Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups.[^38] 
 
 ### Reasonable
-Reasonable means logical, or with sound judgement.
- - "based on or using good judgment and therefore fair and practical"[^51]
- - "Governed by or being in accordance with reason or sound thinking"[^52]
- - "Just; fair; agreeable to reason."[^53]
+Any special measures must be reasonable. that is "based on or using good judgment and therefore fair and practical"[^51] "Governed by or being in accordance with reason or sound thinking"[^52] "Just; fair; agreeable to reason."[^53]
 
+To be reasonable a clear understanding of the problem and potential solutions
 
 
 The path to improving the situation must be clearly laid out in advance. EG
@@ -483,6 +481,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg2Mjk4MjUsLTU4NDk4MzIxMiwtMj
-A1OTIzMjE5NV19
+eyJoaXN0b3J5IjpbNzMwNDIyMzI3LC01ODQ5ODMyMTIsLTIwNT
+kyMzIxOTVdfQ==
 -->
