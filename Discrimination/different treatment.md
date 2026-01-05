@@ -115,7 +115,7 @@ Proportionality means, when similarly effective options are available, choosing 
 > In addition, **there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects**. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^62] 
 
 
-> However, there is one exception to this general principle [ie measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination]:  reasons specific to an individual male candidate may tilt the balance in his favour, which is to be assessed **objectively**, taking into account all criteria pertaining to the individual candidates.  This is a requirement of the principle of **proportionality**.[^41]
+> <![endif]--> However, the application of the principle of equality will sometimes require that States parties take measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination.  As long as these measures are necessary to redress de facto discrimination and are terminated when de facto equality is achieved,  such differentiation is legitimate. XXX However, there is one exception to this general principle [ie measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination]:  reasons specific to an individual male candidate may tilt the balance in his favour, which is to be assessed **objectively**, taking into account all criteria pertaining to the individual candidates.  This is a requirement of the principle of **proportionality**.[^41]
 
 ### Time limited
 Special measures should be time limited and end once the goal is reached. The goal should be stated on commencement, and not be changed during the period without the same requirements (reasonable, objective etc.) to justify the change.
@@ -488,6 +488,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg3NTczMzYsLTU4NDk4MzIxMiwtMj
+eyJoaXN0b3J5IjpbLTIxMzU5ODMzOTksLTU4NDk4MzIxMiwtMj
 A1OTIzMjE5NV19
 -->
