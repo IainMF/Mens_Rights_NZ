@@ -23,9 +23,16 @@ States must take into account "apparently gender-neutral laws, policies and prog
 
 There are issues relevant to men's rights here:
 
-## Equal treatment in affirmative action
-
 First, the consideration and application of 'affirmative action' must itself be free from bias and discrimination. Men should receive affirmative action to address discrimination and unequal enjoyment of their rights in the same manner as women do.
+
+Second, not all preferential treatment for women is discrimination.
+
+Third, improper application of 'affirmative action' for women *is* discrimination against men.
+
+
+
+
+## CEDAW Standards
 
 CEDAW General Recommendation 25 explains the standards for applying special measures to address discrimination against women and ensure substantive equality between women and men. These standards should be used for special measures to address discrimination against men and ensure substantive equality for men. After all, if the goal is substantive equality between women and men, then men's inequalities must be addressed.
 
@@ -470,5 +477,5 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY5NzcxNl19
+eyJoaXN0b3J5IjpbMTU5MjUwNDMxNV19
 -->
