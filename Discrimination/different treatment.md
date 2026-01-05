@@ -59,6 +59,8 @@ The path to improving the situation must be clearly laid out in advance. EG
 Not:
 - X is a problem, if we spend more money on Y it will magically help.
 
+
+
 Reasonable means identifying unstated assumptions.  For example, assuming that men in power means men's needs are considered in decisions. Or that "gender is a hierarchy that privileges men and disadvantages women" 
 
 If there are unstated assumptions, then the logic of the decision may be flawed.
@@ -72,9 +74,9 @@ Reasonable means being sure that special measures are required. Or when preferen
  The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
 
 ### Objective
-Objective means based on verifiable facts.
-- "Based on observed facts; without purely subjective assessment."[^54]
-- "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
+Objective means "Based on observed facts; without purely subjective assessment."[^54] "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
+
+
 
 Objective means discarding ideological opinions.
 
@@ -481,6 +483,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Njg0NDM1MywtNTg0OTgzMjEyLC0yMD
+eyJoaXN0b3J5IjpbMTE2MzI2MDIxNSwtNTg0OTgzMjEyLC0yMD
 U5MjMyMTk1XX0=
 -->
