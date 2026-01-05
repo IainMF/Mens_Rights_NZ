@@ -46,9 +46,9 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 > Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups.[^38] 
 
 ### Reasonable
-Any special measures must be reasonable. that is "based on or using good judgment and therefore fair and practical"[^51] "Governed by or being in accordance with reason or sound thinking"[^52] "Just; fair; agreeable to reason."[^53]
+Any special measures must be reasonable, that is "based on or using good judgment and therefore fair and practical"[^51] "Governed by or being in accordance with reason or sound thinking"[^52] "Just; fair; agreeable to reason."[^53]
 
-To be reasonable, the problem and potential solutions must be clearly understood, Alternatives must be considered, and the final choice between alternatives must be logical.
+To be reasonable, the problem and potential solutions must be clearly understood, the available alternatives must be considered, and the final choice between alternatives must be logical.
 
 The path to improving the situation must be clearly laid out in advance. EG
 - X is a problem 
@@ -480,6 +480,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMDYzOTg1LC01ODQ5ODMyMTIsLTIwNT
-kyMzIxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE5NTEwMDkwNywtNTg0OTgzMjEyLC0yMD
+U5MjMyMTk1XX0=
 -->
