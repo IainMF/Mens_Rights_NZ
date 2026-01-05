@@ -48,8 +48,7 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 ### Reasonable
 Any special measures must be reasonable. that is "based on or using good judgment and therefore fair and practical"[^51] "Governed by or being in accordance with reason or sound thinking"[^52] "Just; fair; agreeable to reason."[^53]
 
-To be reasonable a clear understanding of the problem and potential solutions
-
+To be reasonable, the problem and potential solutions must be clearly understood. 
 
 The path to improving the situation must be clearly laid out in advance. EG
 - X is a problem 
@@ -481,6 +480,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNDIyMzI3LC01ODQ5ODMyMTIsLTIwNT
-kyMzIxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODY0MzQ5NDksLTU4NDk4MzIxMiwtMj
+A1OTIzMjE5NV19
 -->
