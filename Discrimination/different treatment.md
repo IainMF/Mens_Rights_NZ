@@ -110,7 +110,7 @@ The special measure must be proportional to the disadvantage that is being addre
 - " Properly related in size, degree, or other measurable characteristics; corresponding: *Punishment ought to be proportional to the crime.*"[^60]
 - "In the correct or balanced relation or proportion: *Salary raises were proportional to the cost of living*."
 
-Proportionality means choosing the least invasive or distruputive 
+Proportionality means, when similarly effective options are avilable,  choosing the alternative that has the lest impact on others, 
 
 > In addition, **there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects**. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^62] 
 
@@ -488,6 +488,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzI3OTY0LC01ODQ5ODMyMTIsLTIwNT
-kyMzIxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE1OTAzMzk4NDUsLTU4NDk4MzIxMiwtMj
+A1OTIzMjE5NV19
 -->
