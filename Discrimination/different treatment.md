@@ -23,13 +23,102 @@ States must take into account "apparently gender-neutral laws, policies and prog
 
 There are issues relevant to men's rights here:
 
-First, the consideration and application of 'affirmative action' must itself be free from bias and discrimination. Men should receive affirmative action to address discrimination and unequal enjoyment of their rights in the same manner as women do.
+First, the consideration and application of 'affirmative action' must itself be free from bias and discrimination. Men should receive the same kind of affirmative action to address discrimination and unequal enjoyment of their rights as women.
 
 Second, not all preferential treatment for women is discrimination.
 
 Third, improper application of 'affirmative action' for women *is* discrimination against men.
 
+## When different treatment is justified
+Sometimes, to protect and ensure human rights, different treatment is justified. For example, 
 
+> In order to fulfil the obligation set forth in article 3, States parties **should take account of the factors which impede** the equal enjoyment by women and men of each right specified in the Covenant.[^35] 
+
+
+> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant.[^36] 
+
+> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is **reasonable and objective**. This will include an assessment as to whether the aim and effects of the measures or omissions are **legitimate, compatible with the nature of the Covenant rights** and solely for the purpose of promoting the **general welfare in a democratic society**. In addition, there must be a clear and reasonable relationship of **proportionality** between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^37] 
+
+> Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups.[^38] 
+
+### Reasonable
+Reasonable means logical, or with sound judgement.
+ - "based on or using good judgment and therefore fair and practical"[^51]
+ - "Governed by or being in accordance with reason or sound thinking"[^52]
+ - "Just; fair; agreeable to reason."[^53]
+
+
+ The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
+
+The path to improving the situation must be clearly laid out in advance. EG
+- X is a problem 
+- Y is known to reduce the problem
+- therefore we should do Y to address X
+
+Not:
+- X is a problem, if we spend more money on Y it will magically help.
+
+Reasonable means identifying unstated assumptions.  For example, assuming that men in power means men's needs are considered in decisions. Or that "gender is a hierarchy that privileges men and disadvantages women" 
+
+If there are unstated assumptions, then the logic of the decision may be flawed.
+
+Reasonable means discarding ideological opinions.
+
+Reasonable means assessing likely situations where the special measure could backfire, or harm another group.
+
+Reasonable means identifying the human rights issue that is being addressed. Special measures are only legitimate if they support the human rights of the target group, and do not impair the rights of others. 
+
+Reasonable means being sure that special measures are required. Or when preferential or specific treatment is required.
+
+### Objective
+Objective means based on verifiable facts.
+- "Based on observed facts; without purely subjective assessment."[^54]
+- "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
+
+A problem must be clearly identified, and be able to be measured. Measurements must measure what they say they are measuring. Proxy measurements should be used only if direct measurements are not possible.
+
+##### Consider this hypothetical issue:
+Women's needs are not represented in decision making. 
+We can measure the number of decision makers who are women, but this does not necessarily relate to decision makers addressing women needs. It is possible that men are attentive to women's needs or women are not. Therefore, the using the number of women who are decision makers is not a direct measure of whether women's needs are taken into consideration.
+
+#### Monitoring is required
+Objectivity requires monitoring to ensure special measure are having the desired effect and not causing harm.
+> Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  **Failure to adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant **constitutes a violation of those rights.**[^39] 
+
+> States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^40] 
+
+### Necessary
+Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
+
+- "Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty."[^56]
+- "needed in order to achieve a particular result"[^57]
+
+
+### Proportional
+The special measure must be proportional to the disadvantage that is being addressed. 
+
+- "in correct relation to: *The degree of punishment is meant to be proportional to the seriousness of the crime.*[^58]
+- "having due proportion; corresponding"[^59]
+- " Properly related in size, degree, or other measurable characteristics; corresponding: *Punishment ought to be proportional to the crime.*"[^60]
+- "In the correct or balanced relation or proportion: *Salary raises were proportional to the cost of living*."
+
+> In addition, **there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects**. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^62] 
+
+
+> However, there is one exception to this general principle [ie measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination]:  reasons specific to an individual male candidate may tilt the balance in his favour, which is to be assessed objectively, taking into account all criteria pertaining to the individual candidates.  This is a requirement of the principle of **proportionality**.[^41]
+
+### Time limited
+Special measures should be time limited and end once the goal is reached. The goal should be stated on commencement, and not be changed during the period without the same requirements (reasonable, objective etc.) to justify the change.
+
+Some measures can be permanent, but these must be clearly identified.
+Permanent measures are to address inherent disadvantages, such as disadvantages due to biology like men's paternity uncertainty, or women's ability to bear children. Pregnant women, for example, may receive extra help and support.
+
+### Promoting general welfare and supporting human rights
+Special measures must support the protection and promotion of human rights.
+
+Special measures that undermine 'general welfare of society' should be avoided. Note: Affirmative action for men is disliked more than for women, so **care must be taken not to cause disharmony and resentment**. 
+
+> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is reasonable and objective. This will include an assessment as to whether the aim and effects of the measures or omissions are legitimate, compatible with the nature of the Covenant rights and solely for the purpose of promoting the **general welfare in a democratic society**.[^62] 
 
 
 ## CEDAW Standards
@@ -191,96 +280,8 @@ Thus, the standards applied to addressing discrimination against women, must be 
 > States parties are encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to eliminate disadvantage caused by past and current discriminatory laws, traditions and practices.  The nature, duration and application of such measures should be designed with reference to the specific issue and context, and should be adjusted as circumstances require.  The results of such measures should be monitored with a view to being discontinued when the objectives for which they are undertaken have been achieved.[^34] 
 
 
-## When different treatment is justified
-Sometimes, to protect and ensure human rights, different treatment is justified. For example, 
-
-> In order to fulfil the obligation set forth in article 3, States parties **should take account of the factors which impede** the equal enjoyment by women and men of each right specified in the Covenant.[^35] 
 
 
-> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant.[^36] 
-
-> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is **reasonable and objective**. This will include an assessment as to whether the aim and effects of the measures or omissions are **legitimate, compatible with the nature of the Covenant rights** and solely for the purpose of promoting the **general welfare in a democratic society**. In addition, there must be a clear and reasonable relationship of **proportionality** between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^37] 
-
-> Eliminating systemic discrimination will frequently require devoting greater resources to traditionally neglected groups.[^38] 
-
-### Reasonable
-Reasonable means logical, or with sound judgement.
- - "based on or using good judgment and therefore fair and practical"[^51]
- - "Governed by or being in accordance with reason or sound thinking"[^52]
- - "Just; fair; agreeable to reason."[^53]
-
-
- The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
-
-The path to improving the situation must be clearly laid out in advance. EG
-- X is a problem 
-- Y is known to reduce the problem
-- therefore we should do Y to address X
-
-Not:
-- X is a problem, if we spend more money on Y it will magically help.
-
-Reasonable means identifying unstated assumptions.  For example, assuming that men in power means men's needs are considered in decisions. Or that "gender is a hierarchy that privileges men and disadvantages women" 
-
-If there are unstated assumptions, then the logic of the decision may be flawed.
-
-Reasonable means discarding ideological opinions.
-
-Reasonable means assessing likely situations where the special measure could backfire, or harm another group.
-
-Reasonable means identifying the human rights issue that is being addressed. Special measures are only legitimate if they support the human rights of the target group, and do not impair the rights of others. 
-
-Reasonable means being sure that special measures are required. Or when preferential or specific treatment is required.
-
-### Objective
-Objective means based on verifiable facts.
-- "Based on observed facts; without purely subjective assessment."[^54]
-- "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
-
-A problem must be clearly identified, and be able to be measured. Measurements must measure what they say they are measuring. Proxy measurements should be used only if direct measurements are not possible.
-
-##### Consider this hypothetical issue:
-Women's needs are not represented in decision making. 
-We can measure the number of decision makers who are women, but this does not necessarily relate to decision makers addressing women needs. It is possible that men are attentive to women's needs or women are not. Therefore, the using the number of women who are decision makers is not a direct measure of whether women's needs are taken into consideration.
-
-#### Monitoring is required
-Objectivity requires monitoring to ensure special measure are having the desired effect and not causing harm.
-> Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  **Failure to adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant **constitutes a violation of those rights.**[^39] 
-
-> States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^40] 
-
-### Necessary
-Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
-
-- "Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty."[^56]
-- "needed in order to achieve a particular result"[^57]
-
-
-### Proportional
-The special measure must be proportional to the disadvantage that is being addressed. 
-
-- "in correct relation to: *The degree of punishment is meant to be proportional to the seriousness of the crime.*[^58]
-- "having due proportion; corresponding"[^59]
-- " Properly related in size, degree, or other measurable characteristics; corresponding: *Punishment ought to be proportional to the crime.*"[^60]
-- "In the correct or balanced relation or proportion: *Salary raises were proportional to the cost of living*."
-
-> In addition, **there must be a clear and reasonable relationship of proportionality between the aim sought to be realized and the measures or omissions and their effects**. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^62] 
-
-
-> However, there is one exception to this general principle [ie measures in favour of women in order to attenuate or suppress conditions that perpetuate discrimination]:  reasons specific to an individual male candidate may tilt the balance in his favour, which is to be assessed objectively, taking into account all criteria pertaining to the individual candidates.  This is a requirement of the principle of **proportionality**.[^41]
-
-### Time limited
-Special measures should be time limited and end once the goal is reached. The goal should be stated on commencement, and not be changed during the period without the same requirements (reasonable, objective etc.) to justify the change.
-
-Some measures can be permanent, but these must be clearly identified.
-Permanent measures are to address inherent disadvantages, such as disadvantages due to biology like men's paternity uncertainty, or women's ability to bear children. Pregnant women, for example, may receive extra help and support.
-
-### Promoting general welfare and supporting human rights
-Special measures must support the protection and promotion of human rights.
-
-Special measures that undermine 'general welfare of society' should be avoided. Note: Affirmative action for men is disliked more than for women, so **care must be taken not to cause disharmony and resentment**. 
-
-> Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is reasonable and objective. This will include an assessment as to whether the aim and effects of the measures or omissions are legitimate, compatible with the nature of the Covenant rights and solely for the purpose of promoting the **general welfare in a democratic society**.[^62] 
 
 
 ## Required
@@ -477,5 +478,5 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjUwNDMxNV19
+eyJoaXN0b3J5IjpbMTU2MDcyMzY1N119
 -->
