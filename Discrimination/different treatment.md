@@ -37,8 +37,9 @@ Sometimes, to protect and ensure human rights, different treatment is justified.
 
 > In order to fulfil the obligation set forth in article 3, States parties **should take account of the factors which impede** the equal enjoyment by women and men of each right specified in the Covenant.[^35] 
 
+## Requirements for different treatment
 
-> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are reasonable and objective and if the aim is to achieve a purpose which is legitimate under the Covenant.[^36] 
+> Finally, the Committee observes that not every differentiation of treatment will constitute discrimination, if the criteria for such differentiation are **reasonable and objective** and if the aim is to achieve a purpose which is legitimate under the Covenant.[^36] 
 
 > Differential treatment based on prohibited grounds will be viewed as discriminatory unless the justification for differentiation is **reasonable and objective**. This will include an assessment as to whether the aim and effects of the measures or omissions are **legitimate, compatible with the nature of the Covenant rights** and solely for the purpose of promoting the **general welfare in a democratic society**. In addition, there must be a clear and reasonable relationship of **proportionality** between the aim sought to be realized and the measures or omissions and their effects. A failure to remove differential treatment on the basis of a lack of available resources is not an objective and reasonable justification unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination, as a matter of priority.[^37] 
 
@@ -65,7 +66,7 @@ Reasonable means identifying unstated assumptions.  For example, assuming that m
 
 If there are unstated assumptions, then the logic of the decision may be flawed.
 
-Reasonable means discarding ideological opinions.
+
 
 Reasonable means assessing likely situations where the special measure could backfire, or harm another group.
 
@@ -77,6 +78,8 @@ Reasonable means being sure that special measures are required. Or when preferen
 Objective means based on verifiable facts.
 - "Based on observed facts; without purely subjective assessment."[^54]
 - "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
+
+Reasonable means discarding ideological opinions.
 
 A problem must be clearly identified, and be able to be measured. Measurements must measure what they say they are measuring. Proxy measurements should be used only if direct measurements are not possible.
 
@@ -481,6 +484,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Njg0Nzg2NiwtNTg0OTgzMjEyLC0yMD
-U5MjMyMTk1XX0=
+eyJoaXN0b3J5IjpbLTE0NjM5NDkxNzAsLTU4NDk4MzIxMiwtMj
+A1OTIzMjE5NV19
 -->
