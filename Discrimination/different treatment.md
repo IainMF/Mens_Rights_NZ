@@ -76,7 +76,7 @@ Reasonable means being sure that special measures are required. Or when preferen
 ### Objective
 Objective means "Based on observed facts; without purely subjective assessment."[^54] "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
 
-Objective means assessing available evidence for the causes and solutions to the problem.
+Objective means assessing available evidence for the causes and solutions to the problem. 
 
 Objective means discarding ideological opinions.
 
@@ -87,7 +87,10 @@ Women's needs are not represented in decision making.
 We can measure the number of decision makers who are women, but this does not necessarily relate to decision makers addressing women needs. It is possible that men are attentive to women's needs or women are not. Therefore, the using the number of women who are decision makers is not a direct measure of whether women's needs are taken into consideration.
 
 #### Monitoring is required
-Objectivity requires monitoring to ensure special measure are having the desired effect and not causing harm.
+Objectivity requires monitoring and evaluation. Data must be collected about the program or policy to establish if it is meeting it's goals
+
+
+ to ensure special measure are having the desired effect and not causing harm.
 > Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  **Failure to adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant **constitutes a violation of those rights.**[^39] 
 
 > States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^40] 
@@ -483,6 +486,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTE4NzQzNiwtNTg0OTgzMjEyLC0yMD
-U5MjMyMTk1XX0=
+eyJoaXN0b3J5IjpbLTE0OTgxODMyMDMsLTU4NDk4MzIxMiwtMj
+A1OTIzMjE5NV19
 -->
