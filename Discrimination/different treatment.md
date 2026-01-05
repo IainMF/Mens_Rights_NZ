@@ -51,6 +51,8 @@ Any special measures must be reasonable, that is "based on or using good judgmen
 
 To be reasonable, the problem and potential solutions must be clearly understood, the available alternatives must be considered, and the final choice between alternatives must be logical.
 
+
+
 The path to improving the situation must be clearly laid out in advance. EG
 - X is a problem 
 - Y is known to reduce the problem
@@ -58,6 +60,7 @@ The path to improving the situation must be clearly laid out in advance. EG
 
 Not:
 - X is a problem, if we spend more money on Y it will magically help.
+
 
 Reasonable means identifying unstated assumptions.  For example, assuming that men in power means men's needs are considered in decisions. Or that "gender is a hierarchy that privileges men and disadvantages women" 
 
@@ -481,6 +484,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Njg0NDM1MywtNTg0OTgzMjEyLC0yMD
+eyJoaXN0b3J5IjpbMTg4ODgxODA1OSwtNTg0OTgzMjEyLC0yMD
 U5MjMyMTk1XX0=
 -->
