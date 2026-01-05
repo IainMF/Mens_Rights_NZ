@@ -105,7 +105,7 @@ If a program or policy can meet the goals of protecting or supporting a groups h
 
 For example, programs to address poor literacy will naturally help those groups who have higher rates of poor literacy, so targeted programs for those groups may not be necessary.
 
-Differnt 
+Different treatment may be seen as necessary if universal solutions are not working. However, it is important that the failure of the universal solution is not caused by poor implementation or a
 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
@@ -501,6 +501,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^63]: ICESCR General Comment 16, paragraph 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTI4MTg4NiwtNTg0OTgzMjEyLC0yMD
-U5MjMyMTk1XX0=
+eyJoaXN0b3J5IjpbLTYxNTg1MjU5LC01ODQ5ODMyMTIsLTIwNT
+kyMzIxOTVdfQ==
 -->
