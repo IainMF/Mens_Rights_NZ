@@ -270,7 +270,8 @@ Third, improper application of 'affirmative action' for women *is* discriminatio
 
 Limited resources are not an excuse for differential treatment unless all resources at a States disposal have been used.
 
-For example, if the decision to use all women short-lists is based on the fact that other methods to increase women's representation are too resource intensive, that is not a valid excuse for preferential treatment of women, unless
+For example, if the decision to use all women short-lists is based on the fact that other methods to increase women's representation are too resource intensive, that is not a valid excuse for preferential treatment of women, unless every effort has been made to use the resources available. 
+For example, a resources could be dedicated to supporting new or female candidates rather than ecluding men from the 
 
 
 ## Temporary special measures
@@ -491,6 +492,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^63]: ICESCR General Comment 16, paragraph 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTAzODM3LC01ODQ5ODMyMTIsLTIwNT
-kyMzIxOTVdfQ==
+eyJoaXN0b3J5IjpbMjA5NjgyNDYyNCwtNTg0OTgzMjEyLC0yMD
+U5MjMyMTk1XX0=
 -->
