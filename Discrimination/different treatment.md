@@ -76,7 +76,7 @@ Reasonable means being sure that special measures are required. Or when preferen
 ### Objective
 Objective means "Based on observed facts; without purely subjective assessment."[^54] "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
 
-
+Objective means assessing available evidence for the causes and solutions to the problem.
 
 Objective means discarding ideological opinions.
 
@@ -483,6 +483,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzI2MDIxNSwtNTg0OTgzMjEyLC0yMD
+eyJoaXN0b3J5IjpbMTYzNTE4NzQzNiwtNTg0OTgzMjEyLC0yMD
 U5MjMyMTk1XX0=
 -->
