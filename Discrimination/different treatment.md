@@ -52,7 +52,6 @@ Reasonable means logical, or with sound judgement.
  - "Just; fair; agreeable to reason."[^53]
 
 
- The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
 
 The path to improving the situation must be clearly laid out in advance. EG
 - X is a problem 
@@ -66,20 +65,20 @@ Reasonable means identifying unstated assumptions.  For example, assuming that m
 
 If there are unstated assumptions, then the logic of the decision may be flawed.
 
-
-
 Reasonable means assessing likely situations where the special measure could backfire, or harm another group.
 
 Reasonable means identifying the human rights issue that is being addressed. Special measures are only legitimate if they support the human rights of the target group, and do not impair the rights of others. 
 
 Reasonable means being sure that special measures are required. Or when preferential or specific treatment is required.
 
+ The special measures must be fit for the need. They should be expected to address the specific issue at hand. 
+
 ### Objective
 Objective means based on verifiable facts.
 - "Based on observed facts; without purely subjective assessment."[^54]
 - "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations"[^55]
 
-Reasonable means discarding ideological opinions.
+Objective means discarding ideological opinions.
 
 A problem must be clearly identified, and be able to be measured. Measurements must measure what they say they are measuring. Proxy measurements should be used only if direct measurements are not possible.
 
@@ -484,6 +483,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM5NDkxNzAsLTU4NDk4MzIxMiwtMj
+eyJoaXN0b3J5IjpbLTEyMTg2Mjk4MjUsLTU4NDk4MzIxMiwtMj
 A1OTIzMjE5NV19
 -->
