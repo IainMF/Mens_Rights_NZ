@@ -13,7 +13,7 @@ The Human Rights Committee says different treatment in order to correct for disc
 
 > The Committee also wishes to point out that **the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination** prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^2] 
 
-Similarly the Economic and Social Council says:
+Similarly the Committee on Economic, Social and Cultural Rights says:
 
 > States parties are encouraged to adopt temporary special measures to **accelerate the achievement of equality between men and women** in the enjoyment of the rights under the Covenant.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s **obligation to eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**.  The nature, duration and application of such measures should be designed with reference to the **specific issue** and **context**, and should be **adjusted as circumstances require**.  The results of such measures should be monitored with a view to being **discontinued** when the objectives for which they are undertaken have been achieved.[^3] 
 
@@ -30,8 +30,6 @@ First, the consideration and application of 'affirmative action' must itself be 
 Second, not all preferential treatment for women is discrimination under international human rights law. However, different treatment must be justified.
 
 Third, improper application of 'affirmative action' for women *is* discrimination against men.
-
-
 
 
 ## When different treatment is justified
@@ -483,5 +481,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDk4MzIxMiwtMjA1OTIzMjE5NV19
+eyJoaXN0b3J5IjpbMTA0Njg0Nzg2NiwtNTg0OTgzMjEyLC0yMD
+U5MjMyMTk1XX0=
 -->
