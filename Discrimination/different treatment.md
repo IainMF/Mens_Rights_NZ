@@ -25,7 +25,7 @@ There are issues relevant to men's rights here:
 
 First, the consideration and application of 'affirmative action' must itself be free from bias and discrimination. Men should receive the same kind of affirmative action to address discrimination and unequal enjoyment of their rights as women.
 
-Second, not all preferential treatment for women is discrimination.
+Second, not all preferential treatment for women is discrimination under international human rights law. However, pre
 
 Third, improper application of 'affirmative action' for women *is* discrimination against men.
 
@@ -478,5 +478,5 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^62]: ICESCR General Comment 20, paragraph 13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDcyMzY1N119
+eyJoaXN0b3J5IjpbLTEwNDU1NTMyNTBdfQ==
 -->
