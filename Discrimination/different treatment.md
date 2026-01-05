@@ -59,8 +59,6 @@ The path to improving the situation must be clearly laid out in advance. EG
 Not:
 - X is a problem, if we spend more money on Y it will magically help.
 
-
-
 Reasonable means identifying unstated assumptions.  For example, assuming that men in power means men's needs are considered in decisions. Or that "gender is a hierarchy that privileges men and disadvantages women" 
 
 If there are unstated assumptions, then the logic of the decision may be flawed.
@@ -89,8 +87,6 @@ We can measure the number of decision makers who are women, but this does not ne
 #### Monitoring is required
 Objectivity requires monitoring and evaluation. Data must be collected about the program or policy to establish if it is meeting it's goals or having unintended effects.
 
-
- to ensure special measure are having the desired effect and not causing harm.
 > Elimination of de jure as well as de facto  discrimination is required for the equal enjoyment of economic, social and cultural rights.  **Failure to adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant **constitutes a violation of those rights.**[^39] 
 
 > States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^40] 
@@ -489,6 +485,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^63]: ICESCR General Comment 16, paragraph 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTc0NjQ3MSwtNTg0OTgzMjEyLC0yMD
+eyJoaXN0b3J5IjpbLTI2MTQ1NjE3NCwtNTg0OTgzMjEyLC0yMD
 U5MjMyMTk1XX0=
 -->
