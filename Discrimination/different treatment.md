@@ -92,11 +92,12 @@ Objectivity requires monitoring and evaluation. Data must be collected about the
 > States parties **should regularly assess** whether the measures chosen are **effective in practice**.[^40] 
 
 ### Necessary
-Different treatment must be necessary to reach the intended goals. If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
+Different treatment must be necessary to reach the intended goals. 
 
 - "Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty."[^56]
 - "needed in order to achieve a particular result"[^57]
 
+If a program or policy can meet the goals of protecting or supporting a groups human rights by universal means, then different treatment is not necessary.
 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
@@ -270,8 +271,8 @@ Third, improper application of 'affirmative action' for women *is* discriminatio
 
 Limited resources are not an excuse for differential treatment unless all resources at a States disposal have been used.
 
-For example, if the decision to use all women short-lists is based on the fact that other methods to increase women's representation are too resource intensive, that is not a valid excuse for preferential treatment of women, unless every effort has been made to use the resources available. 
-For example, a resources could be dedicated to supporting new or female candidates rather than ecluding men from the 
+For example, if the decision to use all women shortlists is based on the fact that other methods to increase women's representation are too resource intensive, that is not a valid excuse for preferential treatment of women, unless every effort has been made to use the resources available. 
+For example, resources could be dedicated to supporting new or female candidates rather than excluding men from the shortlist. 
 
 
 ## Temporary special measures
@@ -492,6 +493,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^63]: ICESCR General Comment 16, paragraph 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjgyNDYyNCwtNTg0OTgzMjEyLC0yMD
+eyJoaXN0b3J5IjpbMTk1NjM3MTI0MiwtNTg0OTgzMjEyLC0yMD
 U5MjMyMTk1XX0=
 -->
