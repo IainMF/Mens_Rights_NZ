@@ -105,7 +105,7 @@ If a program or policy can meet the goals of protecting or supporting a groups h
 
 For example, programs to address poor literacy will naturally help those groups who have higher rates of poor literacy, so targeted programs for those groups may not be necessary.
 
-Different treatment may be seen as necessary if universal solutions are not working. However, it is important to know the failure of the universal solution is not caused by poor implementation or a misunderstanding of the problem. If a universal solution does not bring about the desired goals, that does not mean that a different treatment is warranted.
+Different treatment may be seen as necessary if universal solutions are not working. However, it is important not to assume that the failure of the universal solution means that a different treatment is warranted. The failure may be caused by poor implementation or a misunderstanding of the problem.
 
 ### Proportional
 The special measure must be proportional to the disadvantage that is being addressed. 
@@ -501,6 +501,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^63]: ICESCR General Comment 16, paragraph 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzA3ODE3NSwtNTg0OTgzMjEyLC0yMD
-U5MjMyMTk1XX0=
+eyJoaXN0b3J5IjpbMjI0MTAyNjI2LC01ODQ5ODMyMTIsLTIwNT
+kyMzIxOTVdfQ==
 -->
