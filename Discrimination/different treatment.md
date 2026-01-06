@@ -501,6 +501,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^63]: https://www.wordreference.com/definition/proportional - accessed 5 Jan 2026
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0MTAyNjI2LC01ODQ5ODMyMTIsLTIwNT
-kyMzIxOTVdfQ==
+eyJoaXN0b3J5IjpbOTI3MzUyMzY4LDIyNDEwMjYyNiwtNTg0OT
+gzMjEyLC0yMDU5MjMyMTk1XX0=
 -->
