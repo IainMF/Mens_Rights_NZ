@@ -95,6 +95,8 @@ There are fewer boys than girls who are the top performers in reading. For scien
 
 Secondary Schools have four levels of consequences for bad behaviour. Stand-downs (least severe), suspensions, exclusion and expulsion (most severe). In 2016, boys received 3 times as many stand downs and suspensions, 3.3 times as many exclusions and 3.6 times as many expulsions, compared to girls. Fewer boys than girls stay in school until 17 (81.0% vs 86.3%). [^15]
 
+![[discipline 2002-2024.svg]]
+
 There is evidence that receiving a suspension increases the chance of imprisonment later in life, this is described as the *school-to-prison* pipeline.[^16] [^17] Therefore, behaviour problems should be seen as an opportunity help and support boys. 
 
 ### Tertiary education
