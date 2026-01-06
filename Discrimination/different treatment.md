@@ -254,7 +254,7 @@ The causes and consequences of discrimination against men differ from those of w
 
 ICCPR (etc.) requires States to "take the necessary steps" to ensure men enjoy their rights and address "factors that impede" the men's enjoyment or rights.[^44]
 
-> 8.	Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they **do not take account of existing economic, social and cultural inequalities**, particularly those experienced by women.[^45] 
+> Substantive equality for men and women will not be achieved simply through the enactment of laws or the adoption of policies that are, prima facie, gender-neutral.  In implementing article 3, States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they **do not take account of existing economic, social and cultural inequalities**, particularly those experienced by women.[^45] 
 
 
 ## Not all preferential treatment is discrimination
@@ -501,6 +501,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^63]: https://www.wordreference.com/definition/proportional - accessed 5 Jan 2026
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyOTQ4OTM5LDkyNzM1MjM2OCwyMjQxMD
-I2MjYsLTU4NDk4MzIxMiwtMjA1OTIzMjE5NV19
+eyJoaXN0b3J5IjpbLTg2MDAyMzIzNSw5MjczNTIzNjgsMjI0MT
+AyNjI2LC01ODQ5ODMyMTIsLTIwNTkyMzIxOTVdfQ==
 -->
