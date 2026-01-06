@@ -181,7 +181,7 @@ Affirmative actions must be monitored so that:
 
 #### 5. Identify specific issues for men and women
 
->32. These strategies should be based on the **systematic identification of policies, programmes and activities relevant to the situation and context within the State, as derived from the normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the elimination of discrimination in the enjoyment of economic, social and cultural rights.[^36]
+> These strategies should be based on the **systematic identification of policies, programmes and activities relevant to the situation and context within the State, as derived from the normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the elimination of discrimination in the enjoyment of economic, social and cultural rights.[^36]
 
 > The nature, duration and application of such measures should be designed with reference to the **specific issue** and **context**, and should be **adjusted as circumstances require**.  The results of such measures should be monitored with a view to being **discontinued** when the objectives for which they are undertaken have been achieved.[^37]
 
@@ -501,6 +501,6 @@ https://en.wikipedia.org/wiki/Wicked_problem
 [^63]: https://www.wordreference.com/definition/proportional - accessed 5 Jan 2026
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MzUyMzY4LDIyNDEwMjYyNiwtNTg0OT
-gzMjEyLC0yMDU5MjMyMTk1XX0=
+eyJoaXN0b3J5IjpbNzMyOTQ4OTM5LDkyNzM1MjM2OCwyMjQxMD
+I2MjYsLTU4NDk4MzIxMiwtMjA1OTIzMjE5NV19
 -->
