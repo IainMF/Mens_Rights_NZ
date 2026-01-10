@@ -248,7 +248,7 @@ States reports must include "sufficient data and statistics"[^117] to allow trea
 
 States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women.[^119] States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See **page for complaint to MoJ Regarding NZ reporting**
 
-The equal enjoyment of rights between men and women is a cross-cutting requirement for all other rights in the ICCPR and the ICESCR. Thus, when reporting on a right a State's reports must include differences in the enjoyment of each of that right. For example, when reporting 
+The equal enjoyment of rights between men and women is a cross-cutting requirement for all other rights in the ICCPR and the ICESCR. Thus, when reporting on a right a State's reports must include differences in the enjoyment of each of that right. For example, when reporting on the right to life, a State's report must included disaggregated data on life-expectancy, preventable mortality, etc. to show if men do not enjoy their right to life equally with women.
 
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^120]
 
@@ -689,7 +689,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg5NTU1OSwyMDk0NDY3NTU2LC0zMT
+eyJoaXN0b3J5IjpbLTE1ODUzMDY2MywyMDk0NDY3NTU2LC0zMT
 g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
 NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
 0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
