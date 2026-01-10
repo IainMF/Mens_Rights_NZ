@@ -231,16 +231,15 @@ Disaggregating data by sex and/or gender is essential for identify human rights 
 
 
 #### Indicators and benchmarks
-A State's human rights monitoring should use appropriate indicators and benchmarks[^113] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place to protect men's rights. For example, 
+A State's human rights monitoring should use appropriate indicators and benchmarks[^113] [^116] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place to protect men's rights. For example, 
 - Does the law equally protect men from discrimination?
-- Is there a *Men's Equality Strategy*?
 - Is there a *Men's Health Strategy*? 
+- Is there a *Men's Equality Strategy*?
 
 Other indicators should include the efforts made to ensure men are free from discrimination and equally enjoy their rights, (such as programs to address boys poorer education outcomes, or men's high suicide rate), and the results of those efforts (have boys education outcomes improved? Is men's suicide rate decreasing?).[^114]
 
 > ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^115]
 
-> Developing and establishing valid indicators of the status of and progress in the realization of human rights of women, and establishing and maintaining databases disaggregated by sex and related to the specific provisions of the Convention[^116] 
 
 #### Reports
 States reports must include "sufficient data and statistics"[^117] to allow treaty bodies to asses progress in men's equal enjoyment of their rights. That is, State's reports must include sex-disaggregated data when it is available or explanations for why it is not available.
@@ -689,8 +688,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzMTE4NjY3LDIwOTQ0Njc1NTYsLTMxOD
-U5MDgzMCwtMjc3NTgwODI1LC0zNTU1NDQ2NjgsLTcwMzE3MTg2
-MSwtMTY4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLT
-E0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTQzNDk4NDEyNCwyMDk0NDY3NTU2LC0zMT
+g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
+NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
+0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
