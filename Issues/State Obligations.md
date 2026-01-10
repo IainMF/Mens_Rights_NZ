@@ -687,11 +687,3 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^165]: ICCPR General Comment 18 - paragraph 10
 
 [^170]:  ICCPR General Comment 28 - paragraph 5
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjYzODM4MiwxMDc2MzgxODU3LDIwOT
-Q0Njc1NTYsLTMxODU5MDgzMCwtMjc3NTgwODI1LC0zNTU1NDQ2
-NjgsLTcwMzE3MTg2MSwtMTY4MDE0MzYyOSwxNDM2OTIzMjQ2LD
-E0OTE1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
-
--->
