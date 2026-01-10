@@ -248,7 +248,7 @@ States reports must include "sufficient data and statistics"[^117] to allow trea
 
 States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women.[^119] States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See **page for complaint to MoJ Regarding NZ reporting**
 
-Articel 3 is a cross-cutting requiremtn for all other right sin ICCPR and ICESCR, so 
+Article 3 is a cross-cutting requirement for all other rights in the ICCPR and the ICESCR, so a States reprots must include differences in the enjoyment of each of these rights.
 
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^120]
 
@@ -689,8 +689,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc2NDQ0NTIsMjA5NDQ2NzU1NiwtMz
-E4NTkwODMwLC0yNzc1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcx
-ODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1Mi
-wtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
+eyJoaXN0b3J5IjpbNTEzMzYyMzEyLDIwOTQ0Njc1NTYsLTMxOD
+U5MDgzMCwtMjc3NTgwODI1LC0zNTU1NDQ2NjgsLTcwMzE3MTg2
+MSwtMTY4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLT
+E0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
 -->
