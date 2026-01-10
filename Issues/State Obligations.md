@@ -177,12 +177,12 @@ State officials are responsible for enacting the State's human rights obligation
 
 > States  parties  should  ensure  that  all  Government  bodies  and  organs  are  fully  aware  of  the  principles  of  equality  and  non-discrimination  on  the  basis  of  sex  and  gender  and  that  adequate  training  and  awareness-raising  programmes  are  set  up  and  carried  out in this respect.[^86]
 
-Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights.
+<!-- Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights. -->
 
 #### Public education and awareness raising
 States have an obligation to educate the public about their human rights. This should include ensuring men and boys are "aware  of  their  right  to  equality  without discrimination"[^87]
 
-School curricular should include education on equality and non-discrimination.[^88] [^89] Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
+School curricula should include education on equality and non-discrimination.[^88] [^89] Such education should be non-discriminatory and treat men's rights as equally important as women's rights. Significant issues for both men's and women's rights should be included.
 
 >  Teaching on the principles of equality and non discrimination should be integrated in formal and non-formal inclusive and multicultural education, with a view to dismantling notions of superiority or inferiority based on prohibited grounds and to promote dialogue and tolerance between different groups in society[^90]
 
@@ -683,8 +683,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDQ2NzU1NiwtMzE4NTkwODMwLC0yNz
-c1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcxODYxLC0xNjgwMTQz
-NjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1MiwtMTQ1OTc2MDk1OS
-wtMTY0ODY0OTkyMl19
+eyJoaXN0b3J5IjpbLTE5MjU0MDg0ODEsMjA5NDQ2NzU1NiwtMz
+E4NTkwODMwLC0yNzc1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcx
+ODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1Mi
+wtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
 -->
