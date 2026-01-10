@@ -16,7 +16,7 @@ New Zealand has ratified both the *International Covenant on Civil and Political
 ## The need for identify state obligations to men and boys
 Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Although men and women have the same human rights, there are several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls but no similar guidance for men and boys. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
 
-The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations of non-discrimination under Article 2  and General Comment 28 details State obligations to ensure equal rights between men and women (Article 3).
+The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations of non-discrimination (Article 2)  and General Comment 28 details State obligations to ensure equal rights between men and women (Article 3).
 
 > Article 3 implies that all human beings should enjoy the rights provided for in the Covenant, on an equal basis and in their totality.  The full effect of this provision is impaired whenever any person is denied the full and equal enjoyment of any right.  Consequently, States should ensure to men and women equally the enjoyment of all rights provided for in the Covenant.[^3]
 
@@ -674,7 +674,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzE3MTg2MSwtMTY4MDE0MzYyOSwxND
-M2OTIzMjQ2LDE0OTE1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2
-NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzg1OTUwMDYsLTcwMzE3MTg2MSwtMT
+Y4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLTE0NTk3
+NjA5NTksLTE2NDg2NDk5MjJdfQ==
 -->
