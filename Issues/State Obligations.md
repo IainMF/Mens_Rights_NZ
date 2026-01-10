@@ -168,6 +168,8 @@ Some permanent measures may be required to address men's inherent disadvantages.
 
 ##### Ensure traditional or cultural attitudes are not used as justifications to violate men's rights
 
+> States parties should ensure that traditional, historical, religious or cultural attitudes are not used to justify violations of women’s right to equality before the law and to equal enjoyment of all Covenant rights.[^170]
+
 ### Education
 States must educate the population and state officials about men's human rights[^82] [^83]. States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination" against men and boys, [^59] and to  "promote the elimination of all forms of discrimination"[^84] against men and boys.
 
@@ -678,8 +680,10 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 
 [^165]: ICCPR General Comment 18 - paragraph 10
 
+[^170]:  ICCPR General Comment 28 - paragraph 5
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDE1MzUzMywtMjc3NTgwODI1LC0zNT
+eyJoaXN0b3J5IjpbLTMxODU5MDgzMCwtMjc3NTgwODI1LC0zNT
 U1NDQ2NjgsLTcwMzE3MTg2MSwtMTY4MDE0MzYyOSwxNDM2OTIz
 MjQ2LDE0OTE1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5Mj
 JdfQ==
