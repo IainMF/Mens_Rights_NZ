@@ -122,7 +122,7 @@ Not only must States refrain from discriminating against men, but States have a 
 #### Gender analysis
 In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis.[^54] [^55] Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^56] States may be able to justify differential treatment of men if it is reasonable, objective,[^57] necessary, proportionate, permissible under international human rights law , and intended to meet legitimate goals of international human rights law.[^58]
 
-See **Monitoring and Reporting** for more
+See **Monitoring and Reporting** below for more
 
 Additionally, States need to prevent new forms of discrimination[^59]  from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^60] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
@@ -195,7 +195,7 @@ States must periodically review their legislation, policy and programmes to ensu
 
 > The obligation to respect requires States parties to refrain from discriminatory actions that directly or indirectly result in the denial of the equal right of men and women to their enjoyment of economic, social and cultural rights. Respecting the right obliges States parties **not to adopt, and to repeal laws and rescind, policies, administrative measures and programmes that do not conform with the right protected by article 3**.  In particular, it is incumbent upon States parties to **take into account the effect of apparently gender-neutral laws, policies and programmes** and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality.[^99] *Emphasis added*
 
-> Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights.[^100]
+> Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights.[^100]  *Emphasis added*
 
 ### Adequate resources
 States must provide adequate resources to ensure men and boys enjoy all of their human rights.[^101] Generally this means "equality in the allocation of resources"[^102] although in some situations ensuring that men equally enjoy their rights with women will require "gender-specific allocation of resources".[^103]
@@ -683,8 +683,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU0MDg0ODEsMjA5NDQ2NzU1NiwtMz
-E4NTkwODMwLC0yNzc1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcx
-ODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1Mi
-wtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
+eyJoaXN0b3J5IjpbMTMyNjU1NjkxNiwyMDk0NDY3NTU2LC0zMT
+g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
+NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
+0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
