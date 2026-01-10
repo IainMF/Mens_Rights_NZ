@@ -219,7 +219,7 @@ The *Manual* emphasises that human rights monitoring requires a proactive attitu
 
 > Integrating gender implies a **proactive** attitude of looking at and analysing how situations affect women, girls, men and boys differently. It is also about making such differences **visible** throughout the monitoring cycle. *Emphasis in original*
 
-
+_Integrating a Gender Perspective into Human Rights Investigations: Guidance and Practice_ highlights the importance of gender-sensitive monitoring.
 
 > A gender-sensitive interpretation... is critical at this early stage to ensure that the outcome of investigations **fully considers the gender dimension of the human rights situation and violations and does not exclude key concerns that particularly or differently affect persons of a particular sex or gender**[^110] *Emphasis added*
 
@@ -682,7 +682,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzEwNTg1MywyMDk0NDY3NTU2LC0zMT
+eyJoaXN0b3J5IjpbMTM1NDkyMDQ5OSwyMDk0NDY3NTU2LC0zMT
 g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
 NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
 0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
