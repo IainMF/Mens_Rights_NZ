@@ -127,11 +127,11 @@ See **Monitoring and Reporting** for more
 Additionally, States need to prevent new forms of discrimination[^59]  from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^60] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 #### Systemic discrimination
-States have an obligation to "adopt an active approach to eliminating systemic discrimination"[^61] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^62] The New Zealand Human Rights Commission describes structural discrimination:
+States have an obligation to "adopt an active approach to eliminating systemic discrimination"[^61] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^62] The New Zealand Human Rights Commission describes structural (or systemic) discrimination:
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent.[^63]
 
-Systemic discrimination results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent 16 times over-representation in prison is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. **See page on discrimination in the justice system for more.**
+Systemic discrimination results in unquestioned policy and practices which disadvantage men that are defended and justified as 'the way things are'. For example, men's persistent 16x over-representation in prison is accepted as normal, and evidence of bias and discrimination against men in the justice system is dismissed, minimised or ignored. **See page on discrimination in the justice system for more.**
 
 To address systemic discrimination against men and boys, States should:[^64]
 - Use incentives to encourage people to "change their attitudes and behaviour" to men and boys so that they do not face systemic discrimination. 
@@ -677,7 +677,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyNzY2MDkzLC0zNTU1NDQ2NjgsLTcwMz
-E3MTg2MSwtMTY4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcw
-NTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbMTE1Mjk4MDQzNiwtMzU1NTQ0NjY4LC03MD
+MxNzE4NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3
+MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
