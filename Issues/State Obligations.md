@@ -145,9 +145,7 @@ States must take into account the 'factors that impede'[^65] men's enjoyment of 
 #### Stereotypes
 States must address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^68] [^69] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^70] [^164] For example, one prejudice is the idea that men's rights are less important than women's rights.
 
-States msut ensure that 
-
-> States parties should ensure that traditional, historical, religious or cultural attitudes are not used to justify violations of [men’s] right to equality before the law and to equal enjoyment of all Covenant rights.[^170]
+States must ensure that "traditional, historical, religious or cultural attitudes are not used to justify violations of [men’s] right to equality before the law and to equal enjoyment of all [human] rights."[^170]
 
 #### Recognition of existing disadvantage
  
@@ -685,7 +683,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjMwMjEwNSwtMzE4NTkwODMwLC0yNz
+eyJoaXN0b3J5IjpbMjA5NDQ2NzU1NiwtMzE4NTkwODMwLC0yNz
 c1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcxODYxLC0xNjgwMTQz
 NjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1MiwtMTQ1OTc2MDk1OS
 wtMTY0ODY0OTkyMl19
