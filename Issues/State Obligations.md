@@ -86,8 +86,9 @@ International human rights treaty bodies have identified several 'necessary step
 - the adjustment of domestic legislation to conform with human rights treaties[^31]
 - the prohibition of discrimination against men and boys[^32]
 
+<!--
 > The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
-
+-->
 
 ### Non-discrimination
 Non-discrimination is a fundamental principle of human rights. International human rights treaties prohibit States from discriminating against men and boys. For example, Article 2 if the ICCPR requires States to ensure all the rights in the Covenant are recognised without distinction of any kind. 
@@ -105,7 +106,7 @@ Importantly,
 - Discrimination also includes incitement to discriminate and harassment.[^44] [^45] 
 - Discrimination includes direct and indirect discrimination.[^46]
 
-**See page on discrimination for more about discrimination.**
+<!-- **See page on discrimination for more about discrimination.**-->
 
 #### Prohibition of discrimination
 A State's laws must "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^47] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^48] and by "public authorities, by the community, or by private persons or bodies".[^49] [^50]
@@ -676,7 +677,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjc1MDU3OCwtMzU1NTQ0NjY4LC03MD
-MxNzE4NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3
-MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbLTEyNTUzOTE4NTgsLTM1NTU0NDY2OCwtNz
+AzMTcxODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5
+NzA1MiwtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
 -->
