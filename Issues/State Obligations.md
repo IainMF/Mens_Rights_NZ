@@ -225,7 +225,9 @@ _Integrating a Gender Perspective into Human Rights Investigations: Guidance and
 
 State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"[^111]
 
-> An HRBAD should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^112] 
+Disaggregating data by sex and/or gender is essential for identify human rights issue for men and boys.
+
+> An [Human RBAD] should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^112] 
 
 
 #### Indicators and benchmarks
@@ -682,7 +684,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDkyMDQ5OSwyMDk0NDY3NTU2LC0zMT
+eyJoaXN0b3J5IjpbMjA2MjcyNzMzMCwyMDk0NDY3NTU2LC0zMT
 g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
 NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
 0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
