@@ -68,7 +68,7 @@ Likewise, the ICESCR requires States to take steps "by all appropriate means" ac
 
 ### Acting in good faith
 > Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^22]
-> 
+
 ### Progressive realisation
 The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights.[^28] Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  "the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"[^29]  against men and boys. The other is to take steps that are "deliberate, concrete and targeted as clearly as possible towards" meeting the Covenant's obligations to men and boys.[^30]
 
@@ -676,7 +676,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTcxMjcxMCwtNzAzMTcxODYxLC0xNj
+eyJoaXN0b3J5IjpbLTM1NTU0NDY2OCwtNzAzMTcxODYxLC0xNj
 gwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1MiwtMTQ1OTc2
 MDk1OSwtMTY0ODY0OTkyMl19
 -->
