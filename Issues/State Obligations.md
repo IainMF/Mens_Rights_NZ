@@ -227,11 +227,16 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 Disaggregating data by sex and/or gender is essential for identify human rights issue for men and boys.
 
-> An [Human RBAD] should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^112] 
+> An [Human Rights Based Approach to Data] should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^112] 
 
 
 #### Indicators and benchmarks
-A State's human rights monitoring should use appropriate indicators and benchmarks[^113] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place to protect men's rights. For example, does the law equally protect men from discrimination? Is there a 'Men's Equality Strategy'?; IS there a 'Men's Health Strategy"? Other indicators should include the efforts made to ensure men are free from discrimination and equally enjoy their rights, (such as programs to address boys poorer education outcomes, or men's high suicide rate), and the results of those efforts (have boys education outcomes improved? Is men's suicide rate decreasing?).[^114]
+A State's human rights monitoring should use appropriate indicators and benchmarks[^113] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place to protect men's rights. For example, 
+- Does the law equally protect men from discrimination?
+- Is there a *Men's Equality Strategy*?
+- Is there a *Men's Health Strategy*? 
+
+Other indicators should include the efforts made to ensure men are free from discrimination and equally enjoy their rights, (such as programs to address boys poorer education outcomes, or men's high suicide rate), and the results of those efforts (have boys education outcomes improved? Is men's suicide rate decreasing?).[^114]
 
 > ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^115]
 
@@ -684,8 +689,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjcyNzMzMCwyMDk0NDY3NTU2LC0zMT
-g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
-NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
-0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbNTUzMTE4NjY3LDIwOTQ0Njc1NTYsLTMxOD
+U5MDgzMCwtMjc3NTgwODI1LC0zNTU1NDQ2NjgsLTcwMzE3MTg2
+MSwtMTY4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLT
+E0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
 -->
