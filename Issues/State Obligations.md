@@ -37,7 +37,6 @@ Without explicit recognition of State's human rights obligations to men and boys
 
 Additionally, identifying State's obligations to men and boys allows men's advocates to evaluate a State's compliance with human rights treaties and hold them accountable. 
 
-> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
 
 ## Government obligations to men and boys
 States that have ratified international human rights treaties have agreed to be legally bound by them. Multiple treaties recognise men's rights. The ICCPR recognises the rights of men and boys in Articles 2 and 3. Article 2 requires States to ensure all the rights to all individuals without discrimination based on sex, and Article 3 requires States to ensure equal enjoyment of rights for men and women.
@@ -85,6 +84,8 @@ International human rights treaty bodies have identified several 'necessary step
 - the education of the population and State officials
 - the adjustment of domestic legislation to conform with human rights treaties[^31]
 - the prohibition of discrimination against men and boys[^32]
+
+> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
 
 
 ### Non-discrimination
@@ -674,7 +675,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NzcyNTM4LC03MDMxNzE4NjEsLTE2OD
-AxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC0xNDU5NzYw
-OTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbLTE5NTYyMDg2NTQsLTcwMzE3MTg2MSwtMT
+Y4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLTE0NTk3
+NjA5NTksLTE2NDg2NDk5MjJdfQ==
 -->
