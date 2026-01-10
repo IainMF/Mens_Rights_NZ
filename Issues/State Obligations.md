@@ -148,7 +148,7 @@ States must address stereotypes and prejudices against men and boys that are an 
 
 #### Recognition of existing disadvantage
  
-In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^71] For example, health issues (including higher rates of amenable mortality, shorter life-expectancy and higher suicide rate), bias in the justice system (including longer sentences for same crime), poorer educational outcomes, laws that explicitly discriminate against men, additional barriers for men who are victims of family and sexual violence etc.
+In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^71] For example, men's health issues (including higher rates of preventable or treatable mortality, shorter life-expectancy and higher suicide rate), bias against men in the justice system (including longer sentences for same crime), poorer educational outcomes for men and boys, laws that explicitly discriminate against men, and additional barriers for men who are victims of family and sexual violence, etc.
 
 > States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities...[^72]
 
@@ -677,7 +677,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MD
-MxNzE4NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3
-MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbMTc2OTc0MzMxMCwtMjc3NTgwODI1LC0zNT
+U1NDQ2NjgsLTcwMzE3MTg2MSwtMTY4MDE0MzYyOSwxNDM2OTIz
+MjQ2LDE0OTE1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5Mj
+JdfQ==
 -->
