@@ -73,7 +73,7 @@ Under international human rights law States must act in good faith.[^22] That is
 The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights.[^28] Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  _"the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"_[^29]  against men and boys. The other is to take steps that are _"deliberate, concrete and targeted as clearly as possible towards"_ meeting the Covenant's obligations to men and boys.[^30]
 
 ## What steps are necessary?
-States must take the necessary steps to ensure men enjoy their human rights. The most important steps are:
+States must take the necessary steps to ensure men enjoy their human rights. The most important steps for a State to take are:
 - **To recognise its obligations to men and boys**; *and*
 -  **To treat these obligations as equally important** as its obligations to women and girls.
 
@@ -676,7 +676,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTc0MTc3MSwtMzU1NTQ0NjY4LC03MD
+eyJoaXN0b3J5IjpbMTgxMjc1MDU3OCwtMzU1NTQ0NjY4LC03MD
 MxNzE4NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3
 MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
