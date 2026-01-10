@@ -51,7 +51,7 @@ States are required "to take steps to ensure that in practice, men and women enj
 > The principle of equality between men and women is fundamental to the enjoyment of each of the specific rights enumerated in the Covenant.  Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.[^13] 
 
 ### Non-derogable standard
-Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are [derogable](https://en.wikipedia.org/wiki/Derogability). Provisions in human rights treaties of non-discrimination and equality between men and women are  not derogable. [^14] [^15] [^16]
+Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are _[derogable](https://en.wikipedia.org/wiki/Derogability)_. Provisions in human rights treaties of non-discrimination and equality between men and women are  _non-derogable_. [^14] [^15] [^16]
 
 ### Which parts of government?
 A state's obligations to men and boys involve all parts of the government and public authorities. [^17]
@@ -675,7 +675,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTYyMDg2NTQsLTcwMzE3MTg2MSwtMT
-Y4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLTE0NTk3
-NjA5NTksLTE2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbMTE0MDM0ODY5LC03MDMxNzE4NjEsLTE2OD
+AxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC0xNDU5NzYw
+OTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
