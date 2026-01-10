@@ -24,7 +24,7 @@ Although Article 3 of the ICCPR requires equal enjoyment of rights for both wome
 
 > The Committee has decided to update its general comment on article 3 of the Covenant and to replace general comment No. 4 (thirteenth session, 1981), in the light of the experience it has gathered in its activities over the last 20 years. **The present revision seeks to take account of the important impact of this article on the enjoyment by women of the human rights protected under the Covenant.** *Emphasis added*
 
-Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* has issued twenty-seven General Comments relating the the ICESCR, including General Comment 16, on equal rights between women and men(Article 3) and General Comment 20, on non-discrimination(Article 2). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognises that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men",[^4] but discussions of sex/gender discrimination focus on women.
+Similarly, the United Nations *Committee on Economic, Social and Cultural Rights* has issued twenty-seven General Comments relating the the ICESCR, including General Comment 16, on equal rights between women and men (Article 3) and General Comment 20, on non-discrimination (Article 2). General Comment 16 focuses entirely on equal rights for women. General Comment 20 briefly recognises that men may face discrimination; "Refusal to grant paternity leave may also amount to discrimination against men",[^4] but discussions of sex/gender discrimination focus on women.
 
 Other treaties support men's right to equality and non-discrimination but, again, explicit guidance is lacking. Article 2 of the *Convention on the Rights of the Child* prohibits discrimination based on sex and Article 3 of the *Convention on the Rights of Persons with Disabilities* affirms the principle of equality between men and women.
 
@@ -674,7 +674,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg1OTUwMDYsLTcwMzE3MTg2MSwtMT
-Y4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLTE0NTk3
-NjA5NTksLTE2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbOTM5NzcyNTM4LC03MDMxNzE4NjEsLTE2OD
+AxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC0xNDU5NzYw
+OTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
