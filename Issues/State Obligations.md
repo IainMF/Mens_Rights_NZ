@@ -269,6 +269,7 @@ on their human rights obligations to women. This provides valuable information f
 
 ### National Plan of Action
 States should have a *National Plan of Action* for human rights which includes "appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights".[^128]
+
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^129]
 
 > States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  private actors in the area of Covenant rights. Such policies, plans and strategies should address **all groups distinguished by the prohibited grounds** and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality.[^130]
@@ -688,8 +689,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY5MTkzMDksMjA5NDQ2NzU1NiwtMz
-E4NTkwODMwLC0yNzc1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcx
-ODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1Mi
-wtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
+eyJoaXN0b3J5IjpbMTA3NjM4MTg1NywyMDk0NDY3NTU2LC0zMT
+g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
+NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
+0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
