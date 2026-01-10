@@ -70,12 +70,12 @@ Likewise, the ICESCR requires States to take steps "by all appropriate means" ac
 Under international human rights law States must act in good faith.[^22] That is, be fair, honest, and sincere in meeting their human rights obligations to men and boys. A State that acts only to appear compliant without the reasonable grounds to expect improvements to men's human rights is not acting in good faith. 
 
 ### Progressive realisation
-The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights.[^28] Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  _"the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"_[^29]  against men and boys. The other is to take steps that are _"deliberate, concrete and targeted as clearly as possible towards" meeting the Covenant's obligations to men and boys.[^30]
+The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights.[^28] Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  _"the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"_[^29]  against men and boys. The other is to take steps that are _"deliberate, concrete and targeted as clearly as possible towards"_ meeting the Covenant's obligations to men and boys.[^30]
 
 ## What steps are necessary?
-States are required to take the necessary steps to ensure men enjoy their human rights. The most important steps required are for a State to:
-- **recognise its obligations to men and boys**; *and*
--  **treat these obligations as equally important** as its obligations to women and girls.
+States must take the necessary steps to ensure men enjoy their human rights. The most important steps are:
+- **To recognise its obligations to men and boys**; *and*
+-  **To treat these obligations as equally important** as its obligations to women and girls.
 
 States must recognise disparities and disadvantages for men and boys *and also* recognise the human rights obligations to address those disparities or disadvantages. States must be proactive in identifying men's and boys' human rights issues and their obligations to respond. They must not assume that men's human rights are magically taken care of somehow. For example, a State may recognise that suicide is a human rights issues that affects people's right to life, and they may recognise that men have a higher rate of suicide than women, but fail to recognise that they have an obligation to address men's higher suicide rate to ensure men equally enjoy their right to life with women.
 
@@ -676,7 +676,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTE4NzYzOCwtMzU1NTQ0NjY4LC03MD
+eyJoaXN0b3J5IjpbMTA5MTc0MTc3MSwtMzU1NTQ0NjY4LC03MD
 MxNzE4NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3
 MDUyLC0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
