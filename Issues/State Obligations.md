@@ -265,12 +265,10 @@ Men's, and men's advocates', ability to hold their government accountable is dir
 > To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^127] _Emphasis added_
 
 States that are party to the CEDAW are required to report
-on their human rights obligations to women. This provides valuable information for women and women's advocates. There is no convention for men's rights, so men's advocates are disadvantaged. States must ensure equal and effective protection from discrimination and equal enjoyment of rights between men and women, so their reports under other conventions must explictly include men adn boys.
+on their human rights obligations to women. This provides valuable information for women and women's advocates. There is no convention for men's rights, so men's advocates are disadvantaged. States must ensure equal and effective protection from discrimination and equal enjoyment of rights between men and women, so their reports under other conventions must explicitly include men and boys.
 
 ### National Plan of Action
-States should have a *National Plan of Action* for human rights which includes
-
-> ... Among other things, States parties must, integrate into national plans of action for human rights **appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights**[^128]
+States should have a *National Plan of Action* for human rights which includes "appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights".[^128]
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^129]
 
 > States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  private actors in the area of Covenant rights. Such policies, plans and strategies should address **all groups distinguished by the prohibited grounds** and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality.[^130]
@@ -690,7 +688,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAxOTc4MzMsMjA5NDQ2NzU1NiwtMz
+eyJoaXN0b3J5IjpbLTE4MTY5MTkzMDksMjA5NDQ2NzU1NiwtMz
 E4NTkwODMwLC0yNzc1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcx
 ODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1Mi
 wtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
