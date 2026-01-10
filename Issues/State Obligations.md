@@ -676,10 +676,10 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 
 [^164]: CEDAW Article 5(a)
 
-[^165]:
+[^165]: ICCPR General Comment 18 - paragraph 10
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDgxNDQ1MiwtMjc3NTgwODI1LC0zNT
+eyJoaXN0b3J5IjpbMjA4NDE1MzUzMywtMjc3NTgwODI1LC0zNT
 U1NDQ2NjgsLTcwMzE3MTg2MSwtMTY4MDE0MzYyOSwxNDM2OTIz
 MjQ2LDE0OTE1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5Mj
 JdfQ==
