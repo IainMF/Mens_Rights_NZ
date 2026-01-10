@@ -120,14 +120,14 @@ Similarly, in order to ensure equal and effective protection against discriminat
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example the ICCPR requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage and to provide boys the same protection as girls.[^52] States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the their human rights obligations.[^53]
 
 #### Gender analysis
-In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis.[^54] [^55] Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^56] States may be able to justify differential treatment of men if it is reasonable, objective,[^57] necessary, proportionate, permissible under the Covenant, and intended to meet legitimate goals of the Covenant.[^58]
+In order for States to protect men from discrimination, they must  collect sex disaggregated data and perform gender-analysis.[^54] [^55] Gender analysis must be performed in a way that is *able to* and *effective at* detecting discrimination against men. If gender analysis reveals treatment that impairs the recognition or enjoyment of men's rights, ICCPR "article 2 requires that the domestic law or practice be changed to meet the standards imposed by the Covenant's substantive guarantees."[^56] States may be able to justify differential treatment of men if it is reasonable, objective,[^57] necessary, proportionate, permissible under international human rights law , and intended to meet legitimate goals of international human rights law.[^58]
 
 See **Monitoring and Reporting** for more
 
 Additionally, States need to prevent new forms of discrimination[^59]  from appearing and  "should also adopt appropriate preventive measures to avoid the emergence of new marginalized groups."[^60] Thus, even in States where no discrimination against men exists, States have an obligation to prevent it from arising. 
 
 #### Systemic discrimination
-States have an obligation to "adopt an active approach to eliminating systemic discrimination and segregation"[^61] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^62] The New Zealand Human Rights Commission describes structural discrimination:
+States have an obligation to "adopt an active approach to eliminating systemic discrimination"[^61] against men. "\[S]ystemic discrimination can be understood as legal rules, policies, practices or predominant cultural attitudes in either the public or private sector which create relative disadvantages for [men], and privileges for [women]."[^62] The New Zealand Human Rights Commission describes structural discrimination:
 
 > Structural discrimination can occur unintentionally, and includes informal practices that have become embedded in everyday organisational life and effectively become part of the system, i.e. “how we do things around here.” Put simply, it can be discrimination by habit, rather than intent.[^63]
 
@@ -677,7 +677,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcyMjcxNjYsLTM1NTU0NDY2OCwtNz
-AzMTcxODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5
-NzA1MiwtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
+eyJoaXN0b3J5IjpbNDIyNzY2MDkzLC0zNTU1NDQ2NjgsLTcwMz
+E3MTg2MSwtMTY4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcw
+NTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
 -->
