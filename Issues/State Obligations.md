@@ -251,12 +251,9 @@ States should monitor and report on their compliance with Article 3 of both ICCP
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^120]
 
 
+> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against [men] in general and against [men] belonging to specific  vulnerable groups in particular.[^121] _Emphasis added_
 
-see also General Comment 31 paragraphs 15-20??
-
-> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against women in general and against women belonging to specific  vulnerable groups in particular.[^121]
-
-> States parties must **provide information** regarding the actual role of women in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^122]
+> States parties must **provide information** regarding the actual role of [men] in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^122]
 
 See CCPR General Comment No. 28 for reporting requirements
 
@@ -292,6 +289,8 @@ States must ensure that men are represented in decision making. This means ensur
 
 ### Remedy
 States must provide remedy to men and boys whose rights have been violated.
+
+see also General Comment 31 paragraphs 15-20??
 
 > - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
 > - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized men and women;[^137]
@@ -688,7 +687,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM3MzgzMTYsMjA5NDQ2NzU1NiwtMz
+eyJoaXN0b3J5IjpbLTE2MDc3NTQ3OTQsMjA5NDQ2NzU1NiwtMz
 E4NTkwODMwLC0yNzc1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcx
 ODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1Mi
 wtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
