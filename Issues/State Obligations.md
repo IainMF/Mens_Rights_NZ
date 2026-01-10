@@ -86,7 +86,7 @@ International human rights treaty bodies have identified several 'necessary step
 - the adjustment of domestic legislation to conform with human rights treaties[^31]
 - the prohibition of discrimination against men and boys[^32]
 
-<!--
+<!-- This quote from CEDAW GR might be useful
 > The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
 -->
 
@@ -115,7 +115,7 @@ A State's laws must "prohibit any discrimination and guarantee to all persons eq
 
 States must protect men from discrimination equally with women, and that protection must be effective. A State's discrimination prevention mechanisms must be applied equally for men and women. Protection mechanisms to address gender discrimination, such as gender-analysis and gender-budgeting are often considered to be primarily for women, but they must work equally as well for men. For example, New Zealand's gender-budgeting trial was inadequate because only assessed it effectiveness for women and girls. 
 
-Similarly, in order to ensure equal and effective protection against discrimination to men, State officials must understand that their obligation to protect everyone from discrimination applies equally to men and women and they must act accordingly. 
+Similarly, in order to ensure equal and effective protection against discrimination to men, State officials must understand that their obligation to protect everyone from discrimination applies equally to men and women and act accordingly. 
 
 Not only must States refrain from discriminating against men, but States have a positive duty to guarantee men and boys have equal rights with women and girls. For example the ICCPR requires States to ensure men have equal rights with regards to marriage, and at the dissolution of marriage and to provide boys the same protection as girls.[^52] States that permit discrimination against men or fail "to exercise due diligence to prevent, punish, investigate or redress the harm" caused by discrimination against men, may be in breach of the their human rights obligations.[^53]
 
@@ -677,7 +677,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUzOTE4NTgsLTM1NTU0NDY2OCwtNz
+eyJoaXN0b3J5IjpbLTE4MjcyMjcxNjYsLTM1NTU0NDY2OCwtNz
 AzMTcxODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5
 NzA1MiwtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
 -->
