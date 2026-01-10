@@ -248,7 +248,7 @@ States reports must include "sufficient data and statistics"[^117] to allow trea
 
 States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women.[^119] States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See **page for complaint to MoJ Regarding NZ reporting**
 
-The equal enjoyment of rights between men and women is a cross-cutting requirement for all other rights in the ICCPR and the ICESCR. Thus, when reporting on a right a State's reports must include differences in the enjoyment of each of that right. For example, when reporting on the right to life, a State's report must included disaggregated data on life-expectancy, preventable mortality, etc. to show if men do not enjoy their right to life equally with women.
+The equal enjoyment of rights between men and women is a cross-cutting requirement for all other rights in the ICCPR and the ICESCR. Thus, when reporting on a right a State's reports must include differences in the enjoyment of each of that right. For example, when reporting on the right to life, a State's report must included disaggregated data on life-expectancy, preventable mortality, etc. to show whether men  enjoy their right to life equally with women.
 
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^120]
 
@@ -262,8 +262,9 @@ See CCPR General Comment No. 28 for reporting requirements
 #### Right to information
 Men's, and men's advocates', ability to hold their government accountable is directly related to their knowledge of men's rights issues and the government's response. Men have a right to be informed of the States positive and negative actions (or inaction) regarding their rights.[^123] [^124] States should ensure men and men's advocates have access to relevant information and "are able to effectively promote and claim" their rights[^125] Therefore a State's monitoring and reporting of men's rights should be available and accessible to men and men's advocates.[^126]
 
-> To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^127]
+> To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^127] _Emphasis added_
 
+Sates that are party to CEDAW
 CEDAW reporting provides detailed information about a State's response to their human rights obligations to women. 
 
 ### National Plan of Action
@@ -689,8 +690,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUzMDY2MywyMDk0NDY3NTU2LC0zMT
-g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
-NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
-0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbNjc4NDU0OTM3LDIwOTQ0Njc1NTYsLTMxOD
+U5MDgzMCwtMjc3NTgwODI1LC0zNTU1NDQ2NjgsLTcwMzE3MTg2
+MSwtMTY4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLT
+E0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
 -->
