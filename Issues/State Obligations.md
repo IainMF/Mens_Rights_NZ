@@ -198,9 +198,7 @@ States must periodically review their legislation, policy and programmes to ensu
 > Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights.[^100]  *Emphasis added*
 
 ### Adequate resources
-States must provide adequate resources to ensure men and boys enjoy all of their human rights.[^101] Generally this means "equality in the allocation of resources"[^102] although in some situations ensuring that men equally enjoy their rights with women will require "gender-specific allocation of resources".[^103]
-
-Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^104]
+States must provide adequate resources to ensure men and boys enjoy all of their human rights.[^101] Generally this means "equality in the allocation of resources"[^102] although in some situations to ensure that men equally enjoy their rights with women Stawill require "gender-specific allocation of resources"[^103] for men and boys. Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^104]
 
 ### Monitoring and Reporting
 International human rights treaties require States to monitor and report on their implementation of those treaties.[^105] [^106] Therefore, States must monitor men's enjoyment of their rights. This monitoring must be be *effective*.[^107]
@@ -683,8 +681,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjU1NjkxNiwyMDk0NDY3NTU2LC0zMT
-g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
-NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
-0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbLTE2MzExNjI1MzEsMjA5NDQ2NzU1NiwtMz
+E4NTkwODMwLC0yNzc1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcx
+ODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1Mi
+wtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
 -->
