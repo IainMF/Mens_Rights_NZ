@@ -248,12 +248,14 @@ States reports must include "sufficient data and statistics"[^117] to allow trea
 
 States should monitor and report on their compliance with Article 3 of both ICCPR and ICESCR which requires equal enjoyment of rights between men and women.[^119] States must not interpret Article 3 to only apply to women, as New Zealand has in its reports. See **page for complaint to MoJ Regarding NZ reporting**
 
+Articel 3 is a cross-cutting requiremtn for all other right sin ICCPR and ICESCR, so 
+
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^120]
 
 
 > States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against [men] in general and against [men] belonging to specific  vulnerable groups in particular.[^121] _Emphasis added_
 
-> States parties must **provide information** regarding the actual role of [men] in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^122]
+> States parties must **provide information** regarding the actual role of [men] in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^122] _Emphasis added_
 
 See CCPR General Comment No. 28 for reporting requirements
 
@@ -687,7 +689,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc3NTQ3OTQsMjA5NDQ2NzU1NiwtMz
+eyJoaXN0b3J5IjpbLTE5NTc2NDQ0NTIsMjA5NDQ2NzU1NiwtMz
 E4NTkwODMwLC0yNzc1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcx
 ODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1Mi
 wtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
