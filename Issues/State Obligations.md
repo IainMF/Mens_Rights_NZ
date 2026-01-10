@@ -145,6 +145,9 @@ States must take into account the 'factors that impede'[^65] men's enjoyment of 
 #### Stereotypes
 States must address stereotypes and prejudices against men and boys that are an obstacle to the enjoyment of their rights.[^68] [^69] States must takes steps to eliminate prejudices, custom, or practice "that perpetuate the notion of inferiority or superiority of either of the sexes".[^70] [^164] For example, one prejudice is the idea that men's rights are less important than women's rights.
 
+States msut ensure that 
+
+> States parties should ensure that traditional, historical, religious or cultural attitudes are not used to justify violations of [men’s] right to equality before the law and to equal enjoyment of all Covenant rights.[^170]
 
 #### Recognition of existing disadvantage
  
@@ -166,9 +169,8 @@ States are required to "take affirmative action in order to diminish or eliminat
 
 Some permanent measures may be required to address men's inherent disadvantages.[^78] [^79] [^80] For example, State's have an obligation to ensure men can choose if or when they become a parent.[^81] However, different biology means men do not have a woman's certainty that a child is theirs. This paternity uncertainty allows a woman, or the State, to force a man into parenthood or parental responsibilty without his knowledge or consent. This may require some permanent measures to ensure men fully enjoy their reproductive rights.
 
-#### Ensure traditional or cultural attitudes are not justifications to violate men's rights
 
-> States parties should ensure that traditional, historical, religious or cultural attitudes are not used to justify violations of [men’s] right to equality before the law and to equal enjoyment of all Covenant rights.[^170]
+
 
 ### Education
 States must educate the population and state officials about men's human rights[^82] [^83]. States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination" against men and boys, [^59] and to  "promote the elimination of all forms of discrimination"[^84] against men and boys.
@@ -683,8 +685,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA1ODIyMDIsLTMxODU5MDgzMCwtMj
-c3NTgwODI1LC0zNTU1NDQ2NjgsLTcwMzE3MTg2MSwtMTY4MDE0
-MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLTE0NTk3NjA5NT
-ksLTE2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbMTAxNjMwMjEwNSwtMzE4NTkwODMwLC0yNz
+c1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcxODYxLC0xNjgwMTQz
+NjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1MiwtMTQ1OTc2MDk1OS
+wtMTY0ODY0OTkyMl19
 -->
