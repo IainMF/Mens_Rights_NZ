@@ -156,7 +156,7 @@ Gender neutral polices and programs that fail to take into account existing disa
 
 > In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^74] 
 
-States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination" against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.
+States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination"[^165] against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.
 
 > The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^75]
 
@@ -676,8 +676,10 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 
 [^164]: CEDAW Article 5(a)
 
+[^165]:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTc0MzMxMCwtMjc3NTgwODI1LC0zNT
+eyJoaXN0b3J5IjpbLTM1NDgxNDQ1MiwtMjc3NTgwODI1LC0zNT
 U1NDQ2NjgsLTcwMzE3MTg2MSwtMTY4MDE0MzYyOSwxNDM2OTIz
 MjQ2LDE0OTE1OTcwNTIsLTE0NTk3NjA5NTksLTE2NDg2NDk5Mj
 JdfQ==
