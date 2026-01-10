@@ -86,7 +86,7 @@ International human rights treaty bodies have identified several 'necessary step
 - the adjustment of domestic legislation to conform with human rights treaties[^31]
 - the prohibition of discrimination against men and boys[^32]
 
-<!-- This quote from CEDAW GR might be useful
+<-- This quote from CEDAW GR might be useful
 > The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^9]
 -->
 
@@ -106,7 +106,7 @@ Importantly,
 - Discrimination also includes incitement to discriminate and harassment.[^44] [^45] 
 - Discrimination includes direct and indirect discrimination.[^46]
 
-<!-- **See page on discrimination for more about discrimination.**-->
+<-- **See page on discrimination for more about discrimination.**-->
 
 #### Prohibition of discrimination
 A State's laws must "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^47] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^48] and by "public authorities, by the community, or by private persons or bodies".[^49] [^50]
@@ -177,7 +177,7 @@ State officials are responsible for enacting the State's human rights obligation
 
 > States  parties  should  ensure  that  all  Government  bodies  and  organs  are  fully  aware  of  the  principles  of  equality  and  non-discrimination  on  the  basis  of  sex  and  gender  and  that  adequate  training  and  awareness-raising  programmes  are  set  up  and  carried  out in this respect.[^86]
 
-<!-- Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights. -->
+<-- Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights. -->
 
 #### Public education and awareness raising
 States have an obligation to educate the public about their human rights. This should include ensuring men and boys are "aware  of  their  right  to  equality  without discrimination"[^87]
