@@ -51,7 +51,7 @@ States are required "to take steps to ensure that in practice, men and women enj
 > The principle of equality between men and women is fundamental to the enjoyment of each of the specific rights enumerated in the Covenant.  Failure to ensure formal and substantive equality in the enjoyment of any of these rights constitutes a violation of that right.[^13] 
 
 ### Non-derogable standard
-Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are _[derogable](https://en.wikipedia.org/wiki/Derogability)_. Provisions in human rights treaties of non-discrimination and equality between men and women are  _non-derogable_. [^14] [^15] [^16]
+Human rights treaties allow States to restrict or limit some human rights under specific, special circumstances. For example, under a state of emergency. These rights are _[derogable](https://en.wikipedia.org/wiki/Derogability)_. Provisions in human rights treaties of non-discrimination and equality between men and women are  _non-derogable_. [^14] [^15] [^16] Men's right to equality and non-discrimination cannot be limited or restricted under any circumstances.
 
 ### Which parts of government?
 A state's obligations to men and boys involve all parts of the government and public authorities. [^17]
@@ -60,14 +60,15 @@ A state's obligations to men and boys involve all parts of the government and pu
 Judges must interpret laws in light of international human rights obligations and where national laws are inconsistent, to highlight these issues. [^19] [^20] 
 > Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights. [^21] 
 
-### Acting in good faith
-> Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^22]
 
 ## Take necessary steps
 Human rights treaties require States to *take steps* to fulfil their obligations under the treaties. The ICCPR requires States to "take the necessary steps"[^23] to provide men and boys with their civil and political rights. This requirement is "unqualified and of immediate effect. A failure to comply with this obligation cannot be justified by reference to political, social, cultural or economic considerations within the State".[^24] [^25]  Necessary steps include "legislative, judicial, administrative, educative and other appropriate measures."[^26]
 
 Likewise, the ICESCR requires States to take steps "by all appropriate means" achieve men's full realisation of their economic, cultural and social rights.[^27] 
 
+### Acting in good faith
+> Article 2 defines the scope of the legal obligations undertaken by States Parties to the Covenant. A general obligation is imposed on States Parties to respect the Covenant rights and to ensure them to all individuals in their territory and subject to their jurisdiction (see paragraph 10 below). Pursuant to the principle articulated in article 26 of the Vienna Convention on the Law of Treaties, States Parties are required to give effect to the obligations under the Covenant in **good faith**.[^22]
+> 
 ### Progressive realisation
 The ICESCR recognises that the  realisation of economic, cultural and social rights cannot happen all at once, and therefore allows for *progressive realisation* of these rights.[^28] Progressive realisation does not mean a State can put off its human rights obligations to men and boys. Indeed, ICECSR places two immediate obligations on States. One is  "the 'undertaking to guarantee' that relevant rights 'will be exercised without discrimination'"[^29]  against men and boys. The other is to take steps that are "deliberate, concrete and targeted as clearly as possible towards" meeting the Covenant's obligations to men and boys.[^30]
 
@@ -675,7 +676,7 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^164]: CEDAW Article 5(a)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDM0ODY5LC03MDMxNzE4NjEsLTE2OD
-AxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC0xNDU5NzYw
-OTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbMTUxNTcxMjcxMCwtNzAzMTcxODYxLC0xNj
+gwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1MiwtMTQ1OTc2
+MDk1OSwtMTY0ODY0OTkyMl19
 -->
