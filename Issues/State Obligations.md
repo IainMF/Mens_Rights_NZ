@@ -238,7 +238,7 @@ A State's human rights monitoring should use appropriate indicators and benchmar
 
 Other indicators should include the efforts made to ensure men are free from discrimination and equally enjoy their rights, (such as programs to address boys poorer education outcomes, or men's high suicide rate), and the results of those efforts (have boys education outcomes improved? Is men's suicide rate decreasing?).[^114]
 
-> ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^115]
+> ... Failure to **adopt, implement and monitor effects of laws, policies and programmes** to eliminate de jure  and de facto discrimination with respect to each of the rights enumerated in articles 6 to 15 of the Covenant constitutes a violation of those rights.[^115] _Emphasis added_
 
 
 #### Reports
@@ -688,8 +688,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDk4NDEyNCwyMDk0NDY3NTU2LC0zMT
-g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
-NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
-0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
+eyJoaXN0b3J5IjpbLTE5ODM3MzgzMTYsMjA5NDQ2NzU1NiwtMz
+E4NTkwODMwLC0yNzc1ODA4MjUsLTM1NTU0NDY2OCwtNzAzMTcx
+ODYxLC0xNjgwMTQzNjI5LDE0MzY5MjMyNDYsMTQ5MTU5NzA1Mi
+wtMTQ1OTc2MDk1OSwtMTY0ODY0OTkyMl19
 -->
