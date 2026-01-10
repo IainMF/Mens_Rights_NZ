@@ -198,7 +198,7 @@ States must periodically review their legislation, policy and programmes to ensu
 > Other **laws should be regularly reviewed** and, where necessary, amended in order to ensure that they do not discriminate **or lead to discrimination**, whether formally or substantively, in relation to the exercise and enjoyment of Covenant rights.[^100]  *Emphasis added*
 
 ### Adequate resources
-States must provide adequate resources to ensure men and boys enjoy all of their human rights.[^101] Generally this means "equality in the allocation of resources".[^102] Some situations will require States "gender-specific allocation of resources"[^103] to ensure that men equally enjoy their rights with women. Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^104]
+States must provide adequate resources to ensure men and boys enjoy all of their human rights.[^101] Generally this means "equality in the allocation of resources".[^102] Some situations will require "gender-specific allocation of resources"[^103] to ensure that men equally enjoy their rights with women. Insufficient resources is cannot be used as an excuse for discrimination, "unless every effort has been made to use all resources that are at the State party’s disposition in an effort to address and eliminate the discrimination".[^104]
 
 ### Monitoring and Reporting
 International human rights treaties require States to monitor and report on their implementation of those treaties.[^105] [^106] Therefore, States must monitor men's enjoyment of their rights. This monitoring must be be *effective*.[^107]
@@ -220,7 +220,8 @@ The *Manual* emphasises that human rights monitoring requires a proactive attitu
 > Integrating gender implies a **proactive** attitude of looking at and analysing how situations affect women, girls, men and boys differently. It is also about making such differences **visible** throughout the monitoring cycle. *Emphasis in original*
 
 
-> A gender-sensitive interpretation... is critical at this early stage to ensure that the outcome of investigations **fully considers the gender dimension of the human rights situation and violations and does not exclude key concerns that particularly or differently affect persons of a particular sex or gender**[^110]
+
+> A gender-sensitive interpretation... is critical at this early stage to ensure that the outcome of investigations **fully considers the gender dimension of the human rights situation and violations and does not exclude key concerns that particularly or differently affect persons of a particular sex or gender**[^110] *Emphasis added*
 
 State's monitoring should ensure that polices designed to ensure equality between men and women do not have  "unintended adverse effects"[^111]
 
@@ -681,8 +682,8 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]:  ICCPR General Comment 28 - paragraph 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMDkzNjE3LDIwOTQ0Njc1NTYsLTMxOD
-U5MDgzMCwtMjc3NTgwODI1LC0zNTU1NDQ2NjgsLTcwMzE3MTg2
-MSwtMTY4MDE0MzYyOSwxNDM2OTIzMjQ2LDE0OTE1OTcwNTIsLT
-E0NTk3NjA5NTksLTE2NDg2NDk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTQ5MzEwNTg1MywyMDk0NDY3NTU2LC0zMT
+g1OTA4MzAsLTI3NzU4MDgyNSwtMzU1NTQ0NjY4LC03MDMxNzE4
+NjEsLTE2ODAxNDM2MjksMTQzNjkyMzI0NiwxNDkxNTk3MDUyLC
+0xNDU5NzYwOTU5LC0xNjQ4NjQ5OTIyXX0=
 -->
