@@ -223,7 +223,7 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 Disaggregating data by sex and/or gender is essential for identify human rights issue for men and boys.
 
-> An \[Human Rights Based Approach to Data] should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^117] 
+> An \[Human Rights Based Approach to Data] should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex.[^117] 
 
 
 #### Indicators and benchmarks
@@ -687,5 +687,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3NTgzMTkxLDEzOTQ3NDk1MDNdfQ==
+eyJoaXN0b3J5IjpbLTEzOTQ4MDYxMjMsMzc3NTgzMTkxLDEzOT
+Q3NDk1MDNdfQ==
 -->
