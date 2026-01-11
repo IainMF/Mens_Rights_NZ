@@ -273,12 +273,12 @@ A national Plan should identify men as right-bearers[^139] and " use appropriate
 
 
 ### Representation in decision making
-**States must ensure that decision-makers consider men's needs and human rights so that men benefit from the decisions made.*[^140] Simple numerical representation of men in decision making is not sufficient to ensure men's needs are considered. For example, if male decision-makers do not have sufficient knowledge they cannot make informed decisions that benefit men and boys. In fact, their ignorance may make things worse, and even cause violations of men's rights.
+States must ensure that decision-makers consider men's needs and human rights so that men benefit from the decisions made.[^140] Simple numerical representation of men in decision making is not sufficient to ensure men's needs are considered. For example, if male decision-makers do not have sufficient knowledge they cannot make informed decisions that benefit men and boys. In fact, their ignorance may make things worse, and even cause violations of men's rights.
 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^141]
 
 ### Remedy
-States must provide remedy to men and boys whose rights have been violated.
+States must provide remedy to men and boys whose rights have been violated. Including their right to equal enjoyment of their rights under Article 3 of the ICCPR and the ICESCR.
 
 see also General Comment 31 paragraphs 15-20??
 
@@ -679,6 +679,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDI2MDgyNSwtMTM5NDgwNjEyMywzNz
+eyJoaXN0b3J5IjpbMTAxMTA2NjU0NSwtMTM5NDgwNjEyMywzNz
 c1ODMxOTEsMTM5NDc0OTUwM119
 -->
