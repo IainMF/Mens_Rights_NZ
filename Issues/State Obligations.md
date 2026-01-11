@@ -14,7 +14,7 @@ When States ratify international human rights treaties they agree to be bound by
 175 countries, including New Zealand, are party to the *International Covenant on Civil and Political Rights* (ICCPR).[^3] 173 countries, including New Zealand, are party to the *International Covenant of Economic, Cultural and Social Rights* (ICESCR).[^4]
 
 ## The need for identify state obligations to men and boys
-Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identifies how to protect and respect those rights. Although men and women have the same human rights, there are several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls but no similar guidance for men and boys. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
+Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identif how to protect and respect those rights. Although men and women have the same human rights, there are several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls but no similar guidance for men and boys. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
 
 The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations of non-discrimination (Article 2)  and General Comment 28 details State obligations to ensure equal rights between men and women (Article 3).
 
@@ -671,3 +671,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 [^170]: ICECSR General Comment 16 - paragraph 38
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE5NjkwNDM0Ml19
+-->
