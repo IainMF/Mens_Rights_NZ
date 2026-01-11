@@ -280,6 +280,8 @@ States must ensure that decision-makers consider men's needs and human rights so
 ### Remedy
 States must provide remedy to men and boys whose rights have been violated. Including their right to equal enjoyment of their rights under Article 3 of the ICCPR and the ICESCR.[^143]
 
+States should have appropriate venues for addressing the violation of men's rghts, such as "courts and tribunals or administrative mechanisms"
+
 see also General Comment 31 paragraphs 15-20??
 
 > - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
@@ -677,6 +679,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkwNDg1MjgsLTEzOTQ4MDYxMjMsMz
-c3NTgzMTkxLDEzOTQ3NDk1MDNdfQ==
+eyJoaXN0b3J5IjpbMTAwNDI5NTIxNSwtMTM5NDgwNjEyMywzNz
+c1ODMxOTEsMTM5NDc0OTUwM119
 -->
