@@ -263,14 +263,11 @@ States that are party to the CEDAW are required to report
 on their human rights obligations to women. This provides valuable information for women and women's advocates. There is no convention for men's rights, so men's advocates are disadvantaged. States must ensure equal and effective protection from discrimination and equal enjoyment of rights between men and women, so their reports under other conventions must explicitly include human rights issues for men and boys.
 
 ### National Plan of Action
-States should have a *National Plan of Action* for human rights which includes "appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights".[^133]
+States should have a *National Plan of Action* for human rights which includes "appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights".[^133] [^135]
 
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^134] *Emphasis added*
 
-> States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  private actors in the area of Covenant rights. Such policies, plans and strategies should address **all groups distinguished by the prohibited grounds** and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality.[^135] *Emphasis added*
-
-> National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^136] *Emphasis added*
-
+A national Plan "should use appropriate indicators and benchmarks[^136] to ide
 
 > This  means  that  the  State  party  must  **immediately  assess**  the  de  jure  and  de  facto  situation  of  \[men]  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  \[men]  and  achieving  \[men’s]  substantive  equality  with  \[women]. … Such  a  policy  must  comprise  constitutional  and  legislative  guarantees,  including  an  alignment  with  legal  provisions  at  the  domestic  level  and  an  amendment  of  conflicting  legal  provisions.  It  must  also  include  other  appropriate  measures,  such  as  **comprehensive  action  plans  and  mechanisms  for  monitoring  and  implementing  them**,  which  provide  a framework  for  the  practical  realization  of the  principle  of  formal and  substantive equality of women and men.[^137] *Emphasis added*
 
@@ -686,6 +683,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY1Mzc3MDQsLTEzOTQ4MDYxMjMsMz
+eyJoaXN0b3J5IjpbLTExMzA3NTM0MDIsLTEzOTQ4MDYxMjMsMz
 c3NTgzMTkxLDEzOTQ3NDk1MDNdfQ==
 -->
