@@ -282,12 +282,9 @@ States must provide remedy to men and boys whose rights have been violated. Incl
 
 States should have appropriate venues for addressing the violation of men's rights, such as "courts and tribunals or administrative mechanisms". These should be accessible on the basis of equality, "including the poorest and most disadvantaged and marginalized men".[^142]
 
-Remedies for violations of men's rights may include: -compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes
+Remedies for violations of men's rights may include; "compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes"[^170] The
 
 see also General Comment 31 paragraphs 15-20??
-
-> - To make available and accessible appropriate remedies, such as . 
-
 
 > National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights.[^144]
 
@@ -676,11 +673,14 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^165]: ICCPR General Comment 31 - paragraph 8
 
 [^166]: CEDAW General Recommendation 31 - footnote 6
+
 [^167]: ICESCR General Comment 16 - paragraph  27
 
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
+[^170]: ICECSR General Comment 16 - paragraph 38
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDQ2NTQ5NSwtMTM5NDgwNjEyMywzNz
-c1ODMxOTEsMTM5NDc0OTUwM119
+eyJoaXN0b3J5IjpbODU4NTU0MzU1LC0xMzk0ODA2MTIzLDM3Nz
+U4MzE5MSwxMzk0NzQ5NTAzXX0=
 -->
