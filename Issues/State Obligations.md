@@ -157,9 +157,7 @@ Gender neutral polices and programs that fail to take into account existing disa
 
 > In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^78] 
 
-States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination"[^79] against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.
-
-> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^80]
+States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination"[^79] against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^80]
 
  A State's obligation to ensure formal and substantive equality for men may require the adoption of *temporary special measures* that favour men "in order to attenuate or suppress conditions that perpetuate discrimination". These measures are not considered discrimination against women as long as they are "necessary to redress de facto discrimination and are terminated when de facto equality is achieved".[^81]
 
@@ -691,5 +689,5 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjE1NDY1MywxMzk0NzQ5NTAzXX0=
+eyJoaXN0b3J5IjpbLTcyNzQ5NDE0NiwxMzk0NzQ5NTAzXX0=
 -->
