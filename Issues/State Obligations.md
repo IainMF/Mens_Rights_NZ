@@ -292,15 +292,6 @@ see also General Comment 31 paragraphs 15-20??
 > National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights.[^144]
 
 
-
-
-
-
-
-> States parties must ensure that women can invoke the principle of equality in support  of  complaints  of  acts  of  discrimination  contrary  to  the  Convention,  committed  by  public  officials  or  by  private  actors.  States  parties  must  further  ensure  that  women  have  recourse  to  affordable,  accessible  and  timely  remedies,  with  legal  aid  and  assistance  as  necessary,  to  be  settled  in  a  fair  hearing  by  a  competent  and  independent  court  or  tribunal,  where  appropriate.  Where  discrimination  against  women  also  constitutes  an  abuse  of  other  human  rights,  such  as  the  right  to  life  and  physical  integrity  in,  for  example,  cases  of  domestic  and  other  forms  of  violence,  States  parties  are  obliged  to initiate  criminal proceedings,  bring  the  perpetrator(s) to trial and impose appropriate penal sanctions. States parties should  financially support independent associations and centres providing legal resources for  women  in  their  work  to  educate  women  about  their  rights  to  equality  and  assist  them  in  pursuing remedies for discrimination.[^148] 
-
-> ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies
-
 ### Accountability
 States must be accountable to it citizens, including men and men's advocates.
 
@@ -311,7 +302,7 @@ States must prevent any retrogression in men's recognition and enjoyment of thei
 
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^151]
 
-> Moreover, any deliberately retrogressive measures in that regard would require the most careful consideration and would need to be fully justified by reference to the totality of the rights provided for in the Covenant and in the context of the full use of the maximum available resources.[^152]
+> ... any deliberately retrogressive measures in that regard would require the most careful consideration and would need to be fully justified by reference to the totality of the rights provided for in the Covenant and in the context of the full use of the maximum available resources.[^152]
 > 
 ### Specific obligations
 International human rights treaties highlight specific circumstances where men and women should be treated equally.
@@ -682,6 +673,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]: ICECSR General Comment 16 - paragraph 38
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTc2MjE2OCwtMTM5NDgwNjEyMywzNz
-c1ODMxOTEsMTM5NDc0OTUwM119
+eyJoaXN0b3J5IjpbLTE2OTYyNDk4MzEsLTEzOTQ4MDYxMjMsMz
+c3NTgzMTkxLDEzOTQ3NDk1MDNdfQ==
 -->
