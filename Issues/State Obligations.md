@@ -280,12 +280,14 @@ States must ensure that decision-makers consider men's needs and human rights so
 ### Remedy
 States must provide remedy to men and boys whose rights have been violated. Including their right to equal enjoyment of their rights under Article 3 of the ICCPR and the ICESCR.[^143]
 
-States should have appropriate venues for addressing the violation of men's rghts, such as "courts and tribunals or administrative mechanisms"
+States should have appropriate venues for addressing the violation of men's rights, such as "courts and tribunals or administrative mechanisms". These should be accessible on the basis of equality, "including the poorest and most disadvantaged and marginalized men".[^142]
+
+Remedies for violations of men's rights may include: -compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes
 
 see also General Comment 31 paragraphs 15-20??
 
-> - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
-> - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized men and women;[^142]
+> - To make available and accessible appropriate remedies, such as . 
+
 
 > National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights.[^144]
 
@@ -679,6 +681,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDI5NTIxNSwtMTM5NDgwNjEyMywzNz
+eyJoaXN0b3J5IjpbMTYyNDQ2NTQ5NSwtMTM5NDgwNjEyMywzNz
 c1ODMxOTEsMTM5NDc0OTUwM119
 -->
