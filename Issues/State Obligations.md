@@ -106,7 +106,7 @@ Importantly,
 - Discrimination also includes incitement to discriminate and harassment.[^46] [^47] 
 - Discrimination includes direct and indirect discrimination.[^48]
 
- **See page on discrimination for more about discrimination.**
+ **See page on [[Discrimination/discrimination|discrimination]] for more.**
 
 #### Prohibition of discrimination
 A State's laws must "prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination".[^49] States are required to protect men from discrimination "in any field regulated and protected by public authorities",[^50] and by "public authorities, by the community, or by private persons or bodies".[^51] [^52]
