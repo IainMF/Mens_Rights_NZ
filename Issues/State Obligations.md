@@ -267,11 +267,9 @@ States should have a *National Plan of Action* for human rights which includes "
 
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^134] *Emphasis added*
 
-A national Plan should identify men as right-bearers and " use appropriate indicators and benchmarks[^136] for men's human rights.
+A national Plan should identify men as right-bearers[^139] and " use appropriate indicators and benchmarks[^136] for men's human rights.
 
 > This  means  that  the  State  party  must  **immediately  assess**  the  de  jure  and  de  facto  situation  of  \[men]  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  \[men]  and  achieving  \[men’s]  substantive  equality  with  \[women]. …  It  must  also  include  other  appropriate  measures,  such  as  **comprehensive  action  plans  and  mechanisms  for  monitoring  and  implementing  them**,  which  provide  a framework  for  the  practical  realization  of the  principle  of  formal and  substantive equality of women and men.[^137] *Emphasis added*
-
-> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^139] *Emphasis added*
 
 
 ### Representation in decision making
@@ -681,6 +679,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NzUxMTE5LC0xMzk0ODA2MTIzLDM3Nz
-U4MzE5MSwxMzk0NzQ5NTAzXX0=
+eyJoaXN0b3J5IjpbMTY2MDk1MTM1NywtMTM5NDgwNjEyMywzNz
+c1ODMxOTEsMTM5NDc0OTUwM119
 -->
