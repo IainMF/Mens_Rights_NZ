@@ -225,6 +225,7 @@ Disaggregating data by sex and/or gender is essential for identify human rights 
 
 > An \[Human Rights Based Approach to Data] should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex.[^117] 
 
+> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against \[men] in general and against \[men] belonging to specific  vulnerable groups in particular.[^126] _Emphasis added_
 
 #### Indicators and benchmarks
 A State's human rights monitoring should use appropriate indicators and benchmarks[^118] [^119] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place to protect men's rights. For example, 
@@ -248,8 +249,6 @@ The equal enjoyment of rights between men and women is a cross-cutting requireme
 
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^125]
 
-
-> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against \[men] in general and against \[men] belonging to specific  vulnerable groups in particular.[^126] _Emphasis added_
 
 > States parties must **provide information** regarding the actual role of \[men] in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^127] _Emphasis added_
 
@@ -687,6 +686,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ4MDYxMjMsMzc3NTgzMTkxLDEzOT
-Q3NDk1MDNdfQ==
+eyJoaXN0b3J5IjpbLTE1NjU5NTg0OTEsLTEzOTQ4MDYxMjMsMz
+c3NTgzMTkxLDEzOTQ3NDk1MDNdfQ==
 -->
