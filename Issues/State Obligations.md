@@ -280,6 +280,9 @@ States must ensure that decision-makers consider men's needs and human rights so
 ### Remedy
 States must provide remedy to men and boys whose rights have been violated. Including their right to equal enjoyment of their rights under Article 3 of the ICCPR and the ICESCR.[^143]
 
+> Article 2, paragraph 3, requires that in addition to effective protection of Covenant rights States Parties must ensure that individuals also have accessible and effective remedies to vindicate those rights\...
+> Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^146]
+
 States should have appropriate venues for addressing the violation of men's rights, such as "courts and tribunals or administrative mechanisms". These should be accessible on the basis of equality, "including the poorest and most disadvantaged and marginalized men".[^142]
 
 Remedies for violations of men's rights may include; "compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes"[^170] These remedies should address the harm caused by discrimination.
@@ -290,8 +293,6 @@ see also General Comment 31 paragraphs 15-20??
 
 
 
-> Article 2, paragraph 3, requires that in addition to effective protection of Covenant rights States Parties must ensure that individuals also have accessible and effective remedies to vindicate those rights\...
-> Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^146]
 
 > Subparagraph (b) contains the obligation of States parties to ensure that legislation prohibiting discrimination and promoting equality of women and men provides appropriate remedies for women who are subjected to discrimination contrary to the Convention. This obligation requires that States parties provide reparation to women whose rights under the Convention have been violated. Without reparation the obligation to provide an appropriate remedy is not discharged. Such remedies should include different forms of reparation, such as  monetary  compensation,  restitution,  rehabilitation  and  reinstatement;  measures  of satisfaction, such as public apologies, public memorials and guarantees of non-repetition; changes in relevant laws and practices; and bringing to justice the perpetrators of violations of human rights of women.[^147]
 
@@ -681,6 +682,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]: ICECSR General Comment 16 - paragraph 38
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMzExMDUsLTEzOTQ4MDYxMjMsMzc3NT
-gzMTkxLDEzOTQ3NDk1MDNdfQ==
+eyJoaXN0b3J5IjpbLTU5NzA5NTEzNSwtMTM5NDgwNjEyMywzNz
+c1ODMxOTEsMTM5NDc0OTUwM119
 -->
