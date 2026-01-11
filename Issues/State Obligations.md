@@ -278,7 +278,7 @@ States must ensure that decision-makers consider men's needs and human rights so
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^141]
 
 ### Remedy
-States must provide remedy to men and boys whose rights have been violated. Including their right to equal enjoyment of their rights under Article 3 of the ICCPR and the ICESCR.[^143]
+States must provide remedy to men and boys whose rights have been violated.[^147] [^149] Including their right to equal enjoyment of their rights under Article 3 of the ICCPR and the ICESCR.[^143]
 
 > Article 2, paragraph 3, requires that in addition to effective protection of Covenant rights States Parties must ensure that individuals also have accessible and effective remedies to vindicate those rights\...
 > Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^146]
@@ -294,12 +294,12 @@ see also General Comment 31 paragraphs 15-20??
 
 
 
-> Subparagraph (b) contains the obligation of States parties to ensure that legislation prohibiting discrimination and promoting equality of women and men provides appropriate remedies for women who are subjected to discrimination contrary to the Convention. This obligation requires that States parties provide reparation to women whose rights under the Convention have been violated. Without reparation the obligation to provide an appropriate remedy is not discharged. Such remedies should include different forms of reparation, such as  monetary  compensation,  restitution,  rehabilitation  and  reinstatement;  measures  of satisfaction, such as public apologies, public memorials and guarantees of non-repetition; changes in relevant laws and practices; and bringing to justice the perpetrators of violations of human rights of women.[^147]
+
 
 
 > States parties must ensure that women can invoke the principle of equality in support  of  complaints  of  acts  of  discrimination  contrary  to  the  Convention,  committed  by  public  officials  or  by  private  actors.  States  parties  must  further  ensure  that  women  have  recourse  to  affordable,  accessible  and  timely  remedies,  with  legal  aid  and  assistance  as  necessary,  to  be  settled  in  a  fair  hearing  by  a  competent  and  independent  court  or  tribunal,  where  appropriate.  Where  discrimination  against  women  also  constitutes  an  abuse  of  other  human  rights,  such  as  the  right  to  life  and  physical  integrity  in,  for  example,  cases  of  domestic  and  other  forms  of  violence,  States  parties  are  obliged  to initiate  criminal proceedings,  bring  the  perpetrator(s) to trial and impose appropriate penal sanctions. States parties should  financially support independent associations and centres providing legal resources for  women  in  their  work  to  educate  women  about  their  rights  to  equality  and  assist  them  in  pursuing remedies for discrimination.[^148] 
 
-> ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies[^149] 
+> ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies
 
 ### Accountability
 States must be accountable to it citizens, including men and men's advocates.
@@ -682,6 +682,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]: ICECSR General Comment 16 - paragraph 38
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzA5NTEzNSwtMTM5NDgwNjEyMywzNz
+eyJoaXN0b3J5IjpbLTY4NTc2MjE2OCwtMTM5NDgwNjEyMywzNz
 c1ODMxOTEsMTM5NDc0OTUwM119
 -->
