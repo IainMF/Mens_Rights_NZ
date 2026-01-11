@@ -272,7 +272,7 @@ States should have a *National Plan of Action* for human rights which includes "
 > National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^136] *Emphasis added*
 
 
-> This  means  that  the  State  party  must  **immediately  assess**  the  de  jure  and  de  facto  situation  of  women  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  women  and  achieving  women’s  substantive  equality  with  men. … Such  a  policy  must  comprise  constitutional  and  legislative  guarantees,  including  an  alignment  with  legal  provisions  at  the  domestic  level  and  an  amendment  of  conflicting  legal  provisions.  It  must  also  include  other  appropriate  measures,  such  as  **comprehensive  action  plans  and  mechanisms  for  monitoring  and  implementing  them**,  which  provide  a framework  for  the  practical  realization  of the  principle  of  formal and  substantive equality of women and men.[^137] *Emphasis added*
+> This  means  that  the  State  party  must  **immediately  assess**  the  de  jure  and  de  facto  situation  of  \[men]  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  \[men]  and  achieving  \[men’s]  substantive  equality  with  \[women]. … Such  a  policy  must  comprise  constitutional  and  legislative  guarantees,  including  an  alignment  with  legal  provisions  at  the  domestic  level  and  an  amendment  of  conflicting  legal  provisions.  It  must  also  include  other  appropriate  measures,  such  as  **comprehensive  action  plans  and  mechanisms  for  monitoring  and  implementing  them**,  which  provide  a framework  for  the  practical  realization  of the  principle  of  formal and  substantive equality of women and men.[^137] *Emphasis added*
 
 > **The  policy  must  be  comprehensive**  in  that  it  should  apply  to  all  fields  of  life,  including  those  which  are  not  explicitly  mentioned  in  the  text  of  the  Convention. It  must  apply  to  both  public  and  private  economic  spheres,  as  well  as  to  the  domestic  sphere,  and  ensure  that  all branches of  Government (executive, legislative and judicial branches) and all  levels  of  Government  assume  their  respective  responsibilities  for  implementation.  It  should  incorporate  the  entire  range  of  measures  that  are  appropriate  and  necessary  in  the  particular  circumstances of the State party.[^138] *Emphasis added*
 
@@ -686,6 +686,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA1MjgzMDgsLTEzOTQ4MDYxMjMsMz
+eyJoaXN0b3J5IjpbLTExNTY1Mzc3MDQsLTEzOTQ4MDYxMjMsMz
 c3NTgzMTkxLDEzOTQ3NDk1MDNdfQ==
 -->
