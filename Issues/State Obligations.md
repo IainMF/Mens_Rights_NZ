@@ -11,7 +11,7 @@ When States ratify international human rights treaties they agree to be bound by
 
 > The  obligation  to  fulfil  encompasses  the  obligation  of  States  parties  to  facilitate  access  to  and  provide  for  the  **full  realization  of  women’s  rights**.[^2] 
 
-New Zealand has ratified both the *International Covenant on Civil and Political Rights* (ICCPR) and the *International Covenant of Economic, Cultural and Social Rights* (ICESCR).
+175 countries, including New Zealand, have ratified or acceded to the *International Covenant on Civil and Political Rights* (ICCPR). 173 countries, including New Zealand, have ratified or acceded to the  the *International Covenant of Economic, Cultural and Social Rights* (ICESCR).
 
 ## The need for identify state obligations to men and boys
 Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Although men and women have the same human rights, there are several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls but no similar guidance for men and boys. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
