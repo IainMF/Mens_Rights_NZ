@@ -33,4 +33,8 @@ Worldwide, most homicide vcitms are male.
 For example, targeting on 'fighting-age men' in armed conflict, whether they are combatants or not.
 
 ## Suicide
+Suicide disproportionately affects men. 
 
+The Health New Zealand Te Whatu Ora Mortality Collection[^1] reports between 1948 and 2020, 20571 males and 7302 females died from intentional self harm. For every female suicide there were approximately 2.8 male suicides. As percentages, 73.8\% of suicides were male and 26.2\% were female.
+
+![[Fatal intentional self harm 1948-2020.svg]]
