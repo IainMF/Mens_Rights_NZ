@@ -260,7 +260,7 @@ Men's, and men's advocates', ability to hold their government accountable is dir
 > To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^132] _Emphasis added_
 
 States that are party to the CEDAW are required to report
-on their human rights obligations to women. This provides valuable information for women and women's advocates. There is no convention for men's rights, so men's advocates are disadvantaged. States must ensure equal and effective protection from discrimination and equal enjoyment of rights between men and women, so their reports under other conventions must explicitly include men and boys.
+on their human rights obligations to women. This provides valuable information for women and women's advocates. There is no convention for men's rights, so men's advocates are disadvantaged. States must ensure equal and effective protection from discrimination and equal enjoyment of rights between men and women, so their reports under other conventions must explicitly include human rights issues for men and boys.
 
 ### National Plan of Action
 States should have a *National Plan of Action* for human rights which includes "appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights".[^133]
@@ -686,6 +686,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU5NTg0OTEsLTEzOTQ4MDYxMjMsMz
+eyJoaXN0b3J5IjpbLTE2OTA1MjgzMDgsLTEzOTQ4MDYxMjMsMz
 c3NTgzMTkxLDEzOTQ3NDk1MDNdfQ==
 -->
