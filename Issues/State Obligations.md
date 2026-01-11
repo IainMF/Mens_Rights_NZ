@@ -671,6 +671,4 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 [^170]: ICECSR General Comment 16 - paragraph 38
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjkwNDM0Ml19
--->
+
