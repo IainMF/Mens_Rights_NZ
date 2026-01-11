@@ -278,14 +278,12 @@ States must ensure that decision-makers consider men's needs and human rights so
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^141]
 
 ### Remedy
-States must provide remedy to men and boys whose rights have been violated. Including their right to equal enjoyment of their rights under Article 3 of the ICCPR and the ICESCR.
+States must provide remedy to men and boys whose rights have been violated. Including their right to equal enjoyment of their rights under Article 3 of the ICCPR and the ICESCR.[^143]
 
 see also General Comment 31 paragraphs 15-20??
 
 > - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
 > - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized men and women;[^142]
-
-> National policies and strategies should provide for the establishment of effective mechanisms and institutions where they do not exist, including administrative authorities, ombudsmen and other national human rights institutions, courts and tribunals.  These institutions should **investigate and address alleged violations relating to article 3** and provide remedies for such violations.  States parties, for their part, should ensure that such remedies are effectively implemented.[^143] *Emphasis added*
 
 > National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights.[^144]
 
@@ -302,7 +300,7 @@ see also General Comment 31 paragraphs 15-20??
 > ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies[^149] 
 
 ### Accountability
-States must be accountable to it citizens, including men and men's advocatesc.
+States must be accountable to it citizens, including men and men's advocates.
 
 > Effective  implementation  of  the  Convention  requires  that  a  State  party  be accountable to its citizens and other members of its community at both the national and international levels. In order for this accountability function to work effectively, appropriate mechanisms and institutions must be put in place.[^150]  
 
@@ -679,6 +677,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTA2NjU0NSwtMTM5NDgwNjEyMywzNz
-c1ODMxOTEsMTM5NDc0OTUwM119
+eyJoaXN0b3J5IjpbLTE5OTkwNDg1MjgsLTEzOTQ4MDYxMjMsMz
+c3NTgzMTkxLDEzOTQ3NDk1MDNdfQ==
 -->
