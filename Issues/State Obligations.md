@@ -282,13 +282,13 @@ States must provide remedy to men and boys whose rights have been violated. Incl
 
 States should have appropriate venues for addressing the violation of men's rights, such as "courts and tribunals or administrative mechanisms". These should be accessible on the basis of equality, "including the poorest and most disadvantaged and marginalized men".[^142]
 
-Remedies for violations of men's rights may include; "compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes"[^170] The
+Remedies for violations of men's rights may include; "compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes"[^170] These remedies should address the harm caused by discrimination.
 
 see also General Comment 31 paragraphs 15-20??
 
 > National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights.[^144]
 
-> Among the measures which might be considered appropriate, in addition to legislation, is the provision of judicial remedies with respect to rights which may, in accordance with the national legal system, be considered justiciable. The Committee notes, for example, that the enjoyment of the rights recognized, without discrimination, will often be appropriately promoted, in part, through the provision of judicial or other effective remedies. Indeed, those States parties which are also parties to the International Covenant on Civil and Political Rights are already obligated (by virtue of articles 2 (paras. 1 and 3), 3 and 26) of that Covenant to ensure that any person whose rights or freedoms (including the right to equality and non-discrimination) recognized in that Covenant are violated, “shall have an effective remedy” (art. 2 (3) (a)). In addition, there are a number of other provisions in the International Covenant on Economic, Social and Cultural Rights, including articles 3, 7 (a) (i), 8, 10 (3), 13 (2) (a), (3) and (4) and 15 (3) which would seem to be capable of immediate application by judicial and other organs in many national legal systems. Any suggestion that the provisions indicated are inherently non-self-executing would seem to be difficult to sustain.[^145]
+
 
 > Article 2, paragraph 3, requires that in addition to effective protection of Covenant rights States Parties must ensure that individuals also have accessible and effective remedies to vindicate those rights\...
 > Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^146]
@@ -681,6 +681,6 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^170]: ICECSR General Comment 16 - paragraph 38
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4NTU0MzU1LC0xMzk0ODA2MTIzLDM3Nz
-U4MzE5MSwxMzk0NzQ5NTAzXX0=
+eyJoaXN0b3J5IjpbNzAwMzExMDUsLTEzOTQ4MDYxMjMsMzc3NT
+gzMTkxLDEzOTQ3NDk1MDNdfQ==
 -->
