@@ -163,13 +163,11 @@ States are required to "take affirmative action in order to diminish or eliminat
 
 > States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**. [^82] *Emphasis added*
 
-Some permanent measures may be required to address men's inherent disadvantages.[^83] [^84] [^85] For example, State's have an obligation to ensure men can choose if or when they become a parent.[^86] However, different biology means men do not have a woman's certainty that a child is theirs. This paternity uncertainty allows a woman, or the State, to force a man into parenthood or parental responsibility without his knowledge or consent. This may require some permanent measures to ensure men fully enjoy their reproductive rights.
-
-
+Some permanent measures may be required to address men's inherent disadvantages.[^83] [^84] [^85] For example, State's have an obligation to ensure men can choose if or when they become a parent.[^86] However, different biology means that men do not have women's certainty that a child is theirs. This paternity uncertainty allows a woman, or the State, to force a man into parenthood or parental responsibility without his knowledge or consent. This may require some permanent measures to ensure men fully enjoy their reproductive rights.
 
 
 ### Education
-States must educate the population and state officials about men's human rights[^87] [^88]. States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination" against men and boys, [^61] and to  "promote the elimination of all forms of discrimination"[^89] against men and boys.
+States must educate the population and state officials about men's human rights.[^87] [^88] States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination" against men and boys, [^61] and to  "promote the elimination of all forms of discrimination"[^89] against men and boys.
 
 State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to severely violate human rights, such as police officers, and judges.[^90]  
 
@@ -689,5 +687,5 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^168]: CEDAW General Recommendation 28 - paragraph 19
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzQ5NDE0NiwxMzk0NzQ5NTAzXX0=
+eyJoaXN0b3J5IjpbLTgxMzM1NDc2MiwxMzk0NzQ5NTAzXX0=
 -->
