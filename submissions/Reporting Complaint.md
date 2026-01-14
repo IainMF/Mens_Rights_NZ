@@ -317,6 +317,119 @@ The Declaration on Human Rights Defenders says that New Zealand has a responsibi
 
 71. New Zealand should ensure that its common core document[^34] adequately and accurately represents men's human rights issues and does not reinforce stereotypes. For example, the education section in the current document does not include sex disaggregated data that would show disparities affecting men and boys.
 
+## Minsitry reposne:
+ Tēnā koe 
+ 
+International Covenant on Civil and Political Rights (ICCPR)
+
+Thank you for your letter of 20 August 2025, regarding New Zealand’s obligations under
+article 3 of the ICCPR and the International Covenant on Economic, Social and Cultural
+Rights (ICESCR).
+As you are aware, article 3 of the ICCPR and ICESCR requires state parties to ensure the
+equal right of everyone to the enjoyment of those rights set out in the Covenants. The New
+Zealand Bill of Rights Act 1990 affirms New Zealand’s commitment to the ICCPR and
+guarantees everyone the right to freedom from discrimination on the grounds set out in the
+Human Rights Act 1993 (the Act). Section 21 of the Act prohibits discrimination on several
+grounds such as sex, age, race, religion, and disability.
+Although international reporting to United Nations (UN) Human Rights treaty bodies must be
+comprehensive, they are bound by strict word limits. This means the Government must
+consider the most relevant and urgent matters that have arisen within the reporting period,
+and address the issues raised by the treaty body committee in its concluding observations,
+list of issues or general comments.
+When preparing New Zealand's 2025 ICESCR report, New Zealand did not receive a list of
+issues but considered the content most relevant to each article in the Covenant, including
+the Committees previous recommendations. New Zealand expects to submit its seventh
+periodic report under the ICCPR in early 2026. The UN has provided a list of issues that
+New Zealand will address and report on. Public submissions on the draft report will open in
+due course.
+If you wish to pursue a discrimination complaint, you can contact the Human Rights
+Commission, who offer a free and confidential service for complaints about unlawful
+discrimination and prohibited behaviour under the Act. Further information about making a
+complaint can be found here: Making a complaint.
+
+Thank you for taking the time to write and I trust this information is of assistance to you.
+
+## Complaint to HRC
+
+Tēnā koe,
+
+This is a complaint about discrimination from the Ministry of Justice. My complaint and their response is attached. Here is a brief summary of my detailed complaint.
+
+1. The Ministry is responsible for reporting to the UN under ICCPR and ICESCR.
+2. Since the 1990s the Ministry has not fully reported on Article 3 of ICCPR and ICESCR.
+3. Article 3 of both conventions is about equal rights for men and women. 
+4. The Ministry's reporting has excluded any mention of men's rights in its article 3 reporting. They often rely on NZ's CEDAW reporting to "comprehensively cover" Article 3. Only reporting on women's rights does not comprehensively cover article 3. 
+5. The omission of men's rights in its article 3 reporting is discrimination.
+
+The Ministry justifies their omission by claiming that word limits prevent them including every issue. Their response is attached. This is not a satisfactory explanation because, one, word limits do not justify discrimination. 
+
+Two, this looks like a post hoc rationalisation to explain the discrepancy. It sounds like they considered and chose not to include men's rights issues. The wording of their reports makes it clear that men's rights issues were never considered, when they should have been. 
+
+Three, even with word limits, it is possible to include something about men's rights rather than nothing at all. For example, they could have said "Men's issues under article 3 are covered in the rest of this report". It is not hard to edit a 30,000 word document to fit in 13 words.
+
+Four, this issue occurs in reports as far back as the 1990s. This means that they had multiple opportunities to include men in their article 3 reporting that they did not take. 
+
+Five, there are important human rights issues for men that should be included, such as, high rates of suicide, discrimination agaisnt men in the justice system, treatment of prisoners, police use of force disproportionatly used agistn men, educationaly outcomes for boys and men, higher rates of preventable and treatabkle deaths amnong men, laws that explictly discrimiante against men etc.
+
+Note: I recently made another complaint against the Ministry of Justice on another matter. **This is a different complaint not related to my previous complaint**. 
+
+I look forward to having this matter resolved.
+
+Ngā mihi,
+
+## Response from HRC
+
+Tēnā koe Iain 
+
+We are writing in response to your complaint against the Ministry of Justice in respect of its reporting to the United Nations under ICCPR and ICESCR. You allege that the omission of men’s rights issues constitutes unlawful discrimination against men. 
+
+Our role under the HRA and applicable law 
+
+We have carefully considered the information you provided. Based on our assessment, your enquiry does not appear to raise issues of [unlawful discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/what-is-unlawful-discrimination) under the Human Rights Act 1993, and our dispute resolution service is not the appropriate pathway in this instance.  
+
+The omission in UN reports does not, by itself, engage the unlawful discrimination provisions under Part 1A of the Human Rights Act 1993 (which apply to public bodies). Since the reporting is descriptive and informational it does not confer or deny rights to one group over another. There is also no evidence of material disadvantage arising from this omission.1 I explain this further below.  
+
+Part 1A applies to acts or omissions by public bodies2 (such as the Ministry of Justice) that are inconsistent with the right to freedom from discrimination affirmed by section 19 of the New Zealand Bill of Rights Act 1990 (NZBORA).  Section 19 affirms the right to freedom from discrimination on the grounds listed in section 21 of the HRA, including sex.  
+
+The test for unlawful discrimination under s 19 requires:3  
+
+1. Differential treatment based on a prohibited ground—i.e. a policy, law or practice that treats people differently because of their sex, and 
+2. That the differential treatment has resulted in a material disadvantage 
+    
+If the above two-stage test for discrimination is established, the burden shifts to the Crown to prove that the limitation on the right is justified under s 5 of the NZBORA.  
+
+Whether omitting men’s issues in UN reporting engages the test for discrimination under Part 1A of the HRA 
+
+While we acknowledge your concern that men’s issues are not explicitly addressed in New Zealand’s ICCPR and ICESCR reports, we consider the omission does not, by itself, engage the test for unlawful discrimination under Part 1A. We set out our reasons below: 
+
+- First, UN treaty reports are informational and, as noted in the Ministry’s letter, restricted by word count. Sections on gender equality often focus primarily on women’s issues to reflect systemic and persistent challenges arising from discrimination against women based on their gender. While these reports can help to advocate for certain issues at an international level, they do not directly confer or deny rights to certain people domestically, unlike, for example, policy or legislative acts. Accordingly, because of its descriptive nature, there does not appear to be differential treatment of men because of their sex.  
+
+- Secondly, even if differential treatment were established, there is no clear causal link between the omission and the issues identified in your report that would demonstrate material disadvantage. We acknowledge the harm you describe at paragraphs 46-54 of your complaint. However, for a Part 1A claim to be established, there must be evidence that a domestic act, policy, or decision has resulted in material disadvantage for men in practice (i.e. that this reporting omission has directly exacerbated any of the issues set out at pages 16-18 of your complaint).  
+
+While men experience certain issues more than women, as detailed in your complaint, the omission of men’s equality issues from the equality section of an international report does not, on its own, treat men differently from women and cause them material disadvantage.  
+
+Next steps 
+
+We acknowledge the issues raised in your complaint and appreciate your concern for these issues. Your complaint identifies important systemic concerns about visibility, monitoring, and ensuring progress for both women’s and men’s rights.   
+
+If you have specific examples of domestic laws, policies, or practices that you believe discriminate against, and cause material disadvantage to men or boys (e.g., education disparities, lack of health strategies, lack of support for male victims of violence), together with supporting information showing the material disadvantage, we can assess whether any of those examples could engage Part 1A.  
+
+
+> [!NOTE] Note:
+> The HRC should be already aware of these issues and the material disadvantages faced by men and boys.
+
+
+> [!NOTE] "Material disadvantge"
+> https://www.ldac.org.nz/guidelines/legislation-guidelines-2021-edition/constitutional-issues-and-recognising-rights-2/chapter-7
+> &
+> https://www.auckland.ac.nz/assets/law/Documents/2021/our-research/Public-interest-journal/Issue-6/(2019)%206%20PILJNZ%2076%20Gavey.pdf
+
+
+
+Ngā mihi  
+
+Hilary
+
 [^1]: Consolidated Guidelines for State reports under the ICCPR (CCPR/C/66/GUI)
 
 [^2]: Consolidated Guidelines for State reports under the ICCPR (CCPR/C/66/GUI/Rev.2)
