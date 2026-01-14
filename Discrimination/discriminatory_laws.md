@@ -44,10 +44,19 @@ There is some support to replace infanticide with a gender neutral law.
 > Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^8]
 
 ## Adoption
-The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^9]
-The law states:
+Section 4(2) the Adoption Act 1955 places additional restrictions on men wanting to adopt a female child. The law states:
 
 > "An adoption order shall not be made in respect of a child who is a female in favour of a sole applicant who is a male unless the court is satisfied that the applicant is the father of the child or that there are special circumstances which justify the making of an adoption order."
+
+
+In 2016, the Human Rights Review Tribunal has declared that Section 4(2) the Adoption Act 1955 to be inconsistent with the right to be free from discrimination. The government has not addressed this inconsistency.
+
+The United Nations Human Rights Committee has recommended:
+
+>  \[New Zealand] should amend the Adoption Act 1955 and repeal all of its discriminatory provisions, and consider permitting civil union partners to adopt children.[^15]
+
+The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^9]
+
 
 ## Healthy Futures Act
 One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^10] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
@@ -128,3 +137,5 @@ The Public Service Act 2020 requires the public service to be good employers. A 
 [^13]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
 
 [^14]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
+
+[^15]: Concluding observations on the sixth periodic report of New Zealand -- CCPR/C/NZL/CO/6
