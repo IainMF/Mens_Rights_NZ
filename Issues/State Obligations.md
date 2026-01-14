@@ -14,7 +14,7 @@ When States ratify international human rights treaties they agree to be bound by
 175 countries, including New Zealand, are party to the *International Covenant on Civil and Political Rights* (ICCPR).[^3] 173 countries, including New Zealand, are party to the *International Covenant of Economic, Cultural and Social Rights* (ICESCR).[^4]
 
 ## The need for identify state obligations to men and boys
-Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identify how to protect and respect those rights. Although men and women have the same human rights, there are several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls but no similar guidance for men and boys. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
+Governments are more likely to protect and respect rights when human rights guidance and jurisprudence explicitly identif how to protect and respect those rights. Although men and women have the same human rights, there are several instruments that provide comprehensive guidance on protecting and respecting the rights of women and girls but no similar guidance for men and boys. For example, the *Convention on the Elimination of Discrimination Against Women*, forty General Recommendations from the *Committee on the Elimination of Discrimination against Women*, the *Beijing Declaration and Platform For Action*, the United Nations *Commission on the Status of Women*, and reports from the *Special Rapporteur on Violence Against Women*.
 
 The United Nations *Human Rights Committee* is responsible for receiving State reports on the ICCPR and issuing recommendations. The Committee has made thirty-seven General Comments on the interpretation of the ICCPR. General Comment 18 details State obligations of non-discrimination (Article 2)  and General Comment 28 details State obligations to ensure equal rights between men and women (Article 3).
 
@@ -149,7 +149,7 @@ States must ensure that "traditional, historical, religious or cultural attitude
 
 #### Recognition of existing disadvantage
  
-In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^75] For example, men's health issues (including higher rates of preventable or treatable mortality, shorter life-expectancy and higher suicide rate), bias against men in the justice system (including longer sentences for same crime), poorer educational outcomes for men and boys, laws that explicitly discriminate against men, and additional barriers for men who are victims of family and sexual violence, etc.
+In order for states to meet their obligations to men and boys they must recognise and take account of existing disadvantages or inequality faced by men and boys.[^75] For example, [[Issues/Life and Health|men's health issues]] (including higher rates of preventable or treatable mortality, shorter life-expectancy and higher suicide rate), bias against men in the justice system (including longer sentences for same crime), [[Issues/Education|poorer educational outcomes]] for men and boys, [[Discrimination/discriminatory_laws|laws that explicitly discriminate against men]], and additional barriers for men who are victims of family and sexual violence, etc.
 
 > States parties should take into account that such laws, policies and practice can fail to address or even perpetuate inequality between men and women because they do not take account of existing economic, social and cultural inequalities...[^76]
 
@@ -157,27 +157,23 @@ Gender neutral polices and programs that fail to take into account existing disa
 
 > In particular, it is incumbent upon States parties to take into account the effect of apparently gender-neutral laws, policies and programmes and to consider whether they could result in a negative impact on the ability of men and women to enjoy their human rights on a basis of equality. [^78] 
 
-States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination"[^79] against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.
-
-> The Committee also wishes to point out that the principle of equality sometimes requires States parties to take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination prohibited by the Covenant. For example, in a State where the general conditions of a certain part of the population prevent or impair their enjoyment of human rights, the State should take specific action to correct those conditions. Such action may involve granting for a time to the part of the population concerned certain preferential treatment in specific matters as compared with the rest of the population. However, as long as such action is needed to correct discrimination in fact, it is a case of legitimate differentiation under the Covenant.[^80]
+States are required to "take affirmative action in order to diminish or eliminate conditions which cause or help to perpetuate discrimination"[^79] against men. If there are conditions that impair men's enjoyment of their rights, States should act to correct those conditions. This may mean that, for a limited time, in specific matters, men may receive preferential treatment to correct for discrimination in fact.[^80]
 
  A State's obligation to ensure formal and substantive equality for men may require the adoption of *temporary special measures* that favour men "in order to attenuate or suppress conditions that perpetuate discrimination". These measures are not considered discrimination against women as long as they are "necessary to redress de facto discrimination and are terminated when de facto equality is achieved".[^81]
 
 > States parties are **encouraged to adopt temporary special measures to accelerate the achievement of equality between men and women in the enjoyment of the rights under the Covenant**.  Such measures are not to be considered discriminatory in themselves as they are grounded in the State’s obligation to **eliminate disadvantage caused by past and current discriminatory laws, traditions and practices**. [^82] *Emphasis added*
 
-Some permanent measures may be required to address men's inherent disadvantages.[^83] [^84] [^85] For example, State's have an obligation to ensure men can choose if or when they become a parent.[^86] However, different biology means men do not have a woman's certainty that a child is theirs. This paternity uncertainty allows a woman, or the State, to force a man into parenthood or parental responsibility without his knowledge or consent. This may require some permanent measures to ensure men fully enjoy their reproductive rights.
-
-
+Some permanent measures may be required to address men's inherent disadvantages.[^83] [^84] [^85] For example, State's have an obligation to ensure men can choose if or when they become a parent.[^86] However, different biology means that men do not have women's certainty that a child is theirs. This paternity uncertainty allows a woman, or the State, to force a man into parenthood or parental responsibility without his knowledge or consent. This may require some permanent measures to ensure men fully enjoy their reproductive rights.
 
 
 ### Education
-States must educate the population and state officials about men's human rights[^87] [^88]. States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination" against men and boys, [^61] and to  "promote the elimination of all forms of discrimination"[^89] against men and boys.
+States must educate the population and state officials about men's human rights.[^87] [^88] States have a continuous obligation to condemn discrimination against men and boys, and "to proclaim to their population and the international community their total opposition to all forms of discrimination" against men and boys, [^61] and to  "promote the elimination of all forms of discrimination"[^89] against men and boys.
 
 State officials are responsible for enacting the State's human rights obligations and, therefore, they must understand the State's obligations to men and boys. This is especially important for State officials who are in a position to severely violate human rights, such as police officers, and judges.[^90]  
 
 > States  parties  should  ensure  that  all  Government  bodies  and  organs  are  fully  aware  of  the  principles  of  equality  and  non-discrimination  on  the  basis  of  sex  and  gender  and  that  adequate  training  and  awareness-raising  programmes  are  set  up  and  carried  out in this respect.[^91]
 
-Note: As there is no CEDAW equivalent, it is important that government officials receive training about men's rights. 
+Under the CEDAW, States are required to educate public official about the convention and women's rights. As there is no equivalent convention for men, it is important that government officials receive training specifically on men's rights to complement the training on women's rights.
 
 #### Public education and awareness raising
 States have an obligation to educate the public about their human rights. This should include ensuring men and boys are "aware  of  their  right  to  equality  without discrimination"[^92]
@@ -227,8 +223,9 @@ State's monitoring should ensure that polices designed to ensure equality betwee
 
 Disaggregating data by sex and/or gender is essential for identify human rights issue for men and boys.
 
-> An \[Human Rights Based Approach to Data] should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex. Similar approaches should also be applied to other population groups, as relevant.[^117] 
+> An \[Human Rights Based Approach to Data] should include equal participation of women and men and adopt a gender perspective throughout its process. This means disaggregating statistics by sex, as well as going beyond biological and physiological characteristics. In addition, statistical and data collection work should take into account the relationship between women and men based on socially or culturally constructed and defined identities, status, roles and responsibilities that may have been assigned to one or the other sex.[^117] 
 
+> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against \[men] in general and against \[men] belonging to specific  vulnerable groups in particular.[^126] _Emphasis added_
 
 #### Indicators and benchmarks
 A State's human rights monitoring should use appropriate indicators and benchmarks[^118] [^119] to assess discrimination against men and evaluate progress towards men's full enjoyment of their rights. Indicators should include the human rights and other structures in place to protect men's rights. For example, 
@@ -253,8 +250,6 @@ The equal enjoyment of rights between men and women is a cross-cutting requireme
 States are required to report on discrimination against men, both formal and substantive. The *Human Rights Committee* asks States to include discrimination against men in their reports. The Committee wants to know about laws, polices and practices to protect against discrimination, as well as any discrimination against men *in fact*. Discrimination against men by public authorities, the community, or by private persons or bodies should be included in reports.[^125]
 
 
-> States  parties  have  an  international  responsibility  to  create  and  continuously  improve statistical  databases  and the  **analysis of all forms of discrimination** against \[men] in general and against \[men] belonging to specific  vulnerable groups in particular.[^126] _Emphasis added_
-
 > States parties must **provide information** regarding the actual role of \[men] in society so that the Committee may ascertain what measures, in addition to legislative provisions, have been or should be taken to give effect to these obligations, **what progress has been made, what difficulties are encountered and what steps are being taken to overcome them**.[^127] _Emphasis added_
 
 See CCPR General Comment No. 28 for reporting requirements
@@ -265,56 +260,40 @@ Men's, and men's advocates', ability to hold their government accountable is dir
 > To give effect to the right of access to information, States parties should **proactively put in the public domain Government information of public interest**.[^132] _Emphasis added_
 
 States that are party to the CEDAW are required to report
-on their human rights obligations to women. This provides valuable information for women and women's advocates. There is no convention for men's rights, so men's advocates are disadvantaged. States must ensure equal and effective protection from discrimination and equal enjoyment of rights between men and women, so their reports under other conventions must explicitly include men and boys.
+on their human rights obligations to women. This provides valuable information for women and women's advocates. There is no convention for men's rights, so men's advocates are disadvantaged. States must ensure equal and effective protection from discrimination and equal enjoyment of rights between men and women, so their reports under other conventions must explicitly include human rights issues for men and boys.
 
 ### National Plan of Action
-States should have a *National Plan of Action* for human rights which includes "appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights".[^133]
+States should have a *National Plan of Action* for human rights which includes "appropriate strategies to ensure the equal right of men and women to the enjoyment of economic, social and cultural rights".[^133] [^135]
 
 >  These strategies should be based on the **systematic identification of policies, programmes and activities** relevant to the situation and context within the State, as derived from the **normative content of article 3** of the Covenant and spelled out in relation to the levels and nature of States parties’ obligations referred to in paragraphs 16 to 21 above.  The strategies should give particular attention to the **elimination of discrimination** in the enjoyment of economic, social and cultural rights.[^134] *Emphasis added*
 
-> States parties should ensure that strategies, policies, and plans of action are in place and implemented in order to address both formal and substantive discrimination by public and  private actors in the area of Covenant rights. Such policies, plans and strategies should address **all groups distinguished by the prohibited grounds** and States parties are encouraged, among other possible steps, to adopt temporary special measures in order to accelerate the achievement of equality.[^135] *Emphasis added*
+A national Plan should identify men as right-bearers[^139] and " use appropriate indicators and benchmarks[^136] for men's human rights.
 
-> National strategies, policies and plans should use **appropriate indicators** and benchmarks, disaggregated on the basis of the prohibited grounds of discrimination[^136] *Emphasis added*
-
-
-> This  means  that  the  State  party  must  **immediately  assess**  the  de  jure  and  de  facto  situation  of  women  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  women  and  achieving  women’s  substantive  equality  with  men. … Such  a  policy  must  comprise  constitutional  and  legislative  guarantees,  including  an  alignment  with  legal  provisions  at  the  domestic  level  and  an  amendment  of  conflicting  legal  provisions.  It  must  also  include  other  appropriate  measures,  such  as  **comprehensive  action  plans  and  mechanisms  for  monitoring  and  implementing  them**,  which  provide  a framework  for  the  practical  realization  of the  principle  of  formal and  substantive equality of women and men.[^137] *Emphasis added*
-
-> **The  policy  must  be  comprehensive**  in  that  it  should  apply  to  all  fields  of  life,  including  those  which  are  not  explicitly  mentioned  in  the  text  of  the  Convention. It  must  apply  to  both  public  and  private  economic  spheres,  as  well  as  to  the  domestic  sphere,  and  ensure  that  all branches of  Government (executive, legislative and judicial branches) and all  levels  of  Government  assume  their  respective  responsibilities  for  implementation.  It  should  incorporate  the  entire  range  of  measures  that  are  appropriate  and  necessary  in  the  particular  circumstances of the State party.[^138] *Emphasis added*
-
-> The policy must identify women within the jurisdiction of the State party (including non-citizen, migrant, refugee, asylum-seeking and stateless women) as the **rights-bearers**, with particular emphasis on the groups of women who are most marginalized and who may suffer from various forms of intersectional discrimination.[^139] *Emphasis added*
+> This  means  that  the  State  party  must  **immediately  assess**  the  de  jure  and  de  facto  situation  of  \[men]  and  take  concrete  steps  to  formulate  and  implement  a  policy  that is targeted as clearly as possible towards the goal of fully eliminating all forms of  discrimination  against  \[men]  and  achieving  \[men’s]  substantive  equality  with  \[women]. …  It  must  also  include  other  appropriate  measures,  such  as  **comprehensive  action  plans  and  mechanisms  for  monitoring  and  implementing  them**,  which  provide  a framework  for  the  practical  realization  of the  principle  of  formal and  substantive equality of women and men.[^137] *Emphasis added*
 
 
 ### Representation in decision making
-States must ensure that men's needs and human rights are considered in decision making so that men benefit from the decisions that are made.[^140] Simple numerical representation of men in decision making is not sufficient to ensure men's needs are considered. For example, if male decision-makers do not have sufficient knowledge they cannot make informed decisions that benefit men and boys. In fact, their ignorance may make things worse, and even cause violations of men's rights.
+States must ensure that decision-makers consider men's needs and human rights so that men benefit from the decisions made.[^140] Simple numerical representation of men in decision making is not sufficient to ensure men's needs are considered. For example, if male decision-makers do not have sufficient knowledge they cannot make informed decisions that benefit men and boys. In fact, their ignorance may make things worse, and even cause violations of men's rights.
 
 > The right of individuals and groups of individuals to participate in decision-making processes that may affect their development must be an integral component of any policy, programme or activity developed to discharge governmental obligations under article 3 of the Covenant.[^141]
 
 ### Remedy
-States must provide remedy to men and boys whose rights have been violated.
-
-see also General Comment 31 paragraphs 15-20??
-
-> - To make available and accessible appropriate remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes. 
-> - To establish appropriate venues for redress such as courts and tribunals or administrative mechanisms that are accessible to all on the basis of equality, including the poorest and most disadvantaged and marginalized men and women;[^142]
-
-> National policies and strategies should provide for the establishment of effective mechanisms and institutions where they do not exist, including administrative authorities, ombudsmen and other national human rights institutions, courts and tribunals.  These institutions should **investigate and address alleged violations relating to article 3** and provide remedies for such violations.  States parties, for their part, should ensure that such remedies are effectively implemented.[^143] *Emphasis added*
-
-> National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights.[^144]
-
-> Among the measures which might be considered appropriate, in addition to legislation, is the provision of judicial remedies with respect to rights which may, in accordance with the national legal system, be considered justiciable. The Committee notes, for example, that the enjoyment of the rights recognized, without discrimination, will often be appropriately promoted, in part, through the provision of judicial or other effective remedies. Indeed, those States parties which are also parties to the International Covenant on Civil and Political Rights are already obligated (by virtue of articles 2 (paras. 1 and 3), 3 and 26) of that Covenant to ensure that any person whose rights or freedoms (including the right to equality and non-discrimination) recognized in that Covenant are violated, “shall have an effective remedy” (art. 2 (3) (a)). In addition, there are a number of other provisions in the International Covenant on Economic, Social and Cultural Rights, including articles 3, 7 (a) (i), 8, 10 (3), 13 (2) (a), (3) and (4) and 15 (3) which would seem to be capable of immediate application by judicial and other organs in many national legal systems. Any suggestion that the provisions indicated are inherently non-self-executing would seem to be difficult to sustain.[^145]
+States must provide remedy to men and boys whose rights have been violated.[^147] [^149] Including their right to equal enjoyment of their rights under Article 3 of the ICCPR and the ICESCR.[^143]
 
 > Article 2, paragraph 3, requires that in addition to effective protection of Covenant rights States Parties must ensure that individuals also have accessible and effective remedies to vindicate those rights\...
 > Administrative mechanisms are particularly required to give effect to the general obligation to investigate allegations of violations promptly, thoroughly and effectively through independent and impartial bodies. National human rights institutions, endowed with appropriate powers, can contribute to this end. A failure by a State Party to investigate allegations of violations could in and of itself give rise to a separate breach of the Covenant. Cessation of an ongoing violation is an essential element of the right to an effective remedy.[^146]
 
-> Subparagraph (b) contains the obligation of States parties to ensure that legislation prohibiting discrimination and promoting equality of women and men provides appropriate remedies for women who are subjected to discrimination contrary to the Convention. This obligation requires that States parties provide reparation to women whose rights under the Convention have been violated. Without reparation the obligation to provide an appropriate remedy is not discharged. Such remedies should include different forms of reparation, such as  monetary  compensation,  restitution,  rehabilitation  and  reinstatement;  measures  of satisfaction, such as public apologies, public memorials and guarantees of non-repetition; changes in relevant laws and practices; and bringing to justice the perpetrators of violations of human rights of women.[^147]
+States should have appropriate venues for addressing the violation of men's rights, such as "courts and tribunals or administrative mechanisms". These should be accessible on the basis of equality, "including the poorest and most disadvantaged and marginalized men".[^142]
 
+Remedies for violations of men's rights may include; "compensation, reparation, restitution, rehabilitation, guarantees of non-repetition, declarations, public apologies, educational programmes and prevention programmes"[^170] These remedies should address the harm caused by discrimination.
 
-> States parties must ensure that women can invoke the principle of equality in support  of  complaints  of  acts  of  discrimination  contrary  to  the  Convention,  committed  by  public  officials  or  by  private  actors.  States  parties  must  further  ensure  that  women  have  recourse  to  affordable,  accessible  and  timely  remedies,  with  legal  aid  and  assistance  as  necessary,  to  be  settled  in  a  fair  hearing  by  a  competent  and  independent  court  or  tribunal,  where  appropriate.  Where  discrimination  against  women  also  constitutes  an  abuse  of  other  human  rights,  such  as  the  right  to  life  and  physical  integrity  in,  for  example,  cases  of  domestic  and  other  forms  of  violence,  States  parties  are  obliged  to initiate  criminal proceedings,  bring  the  perpetrator(s) to trial and impose appropriate penal sanctions. States parties should  financially support independent associations and centres providing legal resources for  women  in  their  work  to  educate  women  about  their  rights  to  equality  and  assist  them  in  pursuing remedies for discrimination.[^148] 
+see also General Comment 31 paragraphs 15-20??
 
-> ensure that women are able to make complaints about violations of their rights under the Convention and have access to effective remedies[^149] 
+> National legislation, strategies, policies and plans should provide for mechanisms and institutions that effectively address the individual and structural nature of the harm caused by discrimination in the field of economic, social and cultural rights. ... These institutions should also be empowered to provide effective remedies, such as compensation, reparation, restitution, rehabilitation, guarantees of non-repetition and public apologies, and State parties should ensure that these measures are effectively implemented Domestic legal guarantees of equality and non-discrimination should be interpreted by these institutions in ways which facilitate and promote the full protection of economic, social and cultural rights.[^144]
+
 
 ### Accountability
-States must be accountable to it citizens, including men and men's advocatesc.
+States must be accountable to it citizens, including men and men's advocates.
 
 > Effective  implementation  of  the  Convention  requires  that  a  State  party  be accountable to its citizens and other members of its community at both the national and international levels. In order for this accountability function to work effectively, appropriate mechanisms and institutions must be put in place.[^150]  
 
@@ -323,7 +302,7 @@ States must prevent any retrogression in men's recognition and enjoyment of thei
 
 > The adoption and undertaking of any retrogressive measures that affect the equal right of men and women to the enjoyment of the all the rights set forth in the Covenant constitutes a violation of article 3.[^151]
 
-> Moreover, any deliberately retrogressive measures in that regard would require the most careful consideration and would need to be fully justified by reference to the totality of the rights provided for in the Covenant and in the context of the full use of the maximum available resources.[^152]
+> ... any deliberately retrogressive measures in that regard would require the most careful consideration and would need to be fully justified by reference to the totality of the rights provided for in the Covenant and in the context of the full use of the maximum available resources.[^152]
 > 
 ### Specific obligations
 International human rights treaties highlight specific circumstances where men and women should be treated equally.
@@ -686,7 +665,10 @@ States must act with due diligence to prevent, investigate, prosecute and punish
 [^165]: ICCPR General Comment 31 - paragraph 8
 
 [^166]: CEDAW General Recommendation 31 - footnote 6
+
 [^167]: ICESCR General Comment 16 - paragraph  27
 
 [^168]: CEDAW General Recommendation 28 - paragraph 19
+
+[^170]: ICECSR General Comment 16 - paragraph 38
 

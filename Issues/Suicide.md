@@ -35,6 +35,11 @@ The Government has released their Suicide Prevention Action Plan 2025–2029.[^5
 
 Reasearch shows[^6] mental health professionals "showed a greater willingness to treat and refer female patients compared with male patients". Other research shows most men who die by suicide had contact with support services prior to their death.[^7]
 
+## Worldwide
+In every country, male suicide rates are higher than female rates.
+
+![[male-female-ratio-suicides-rates.svg]]
+
 ## Links
 https://malesuicideresearch.com/resources/
 
