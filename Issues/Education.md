@@ -11,7 +11,7 @@ New Zealand has accepted human rights recommendations to reduce inequities in th
 
 Historically, boys had an advantage in education; however girls started performing better than boys as early as 1985.[^5] From 1987 to 1997 girls outpaced boys in gaining 7th form qualifications, while boys remained the majority of those with no high school qualification.[^6]
 
-![[Issues/Highest qualification 87-97.svg]]
+![[Images/Highest qualification 87-97.svg]]
 
 A 2006 report on the performance of boys highlighted boys educational disadvantage:
 

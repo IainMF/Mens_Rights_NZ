@@ -142,6 +142,11 @@ Citation: Ministry of Health. 2022. *Sudden Unexpected Death in Infancy: An anal
 
 > Sudden unexplained death in infancy (SUDI) is the collective term used to describe any unexpected death of an infant (a child under one-year-old) – with neither the parents nor health professionals having any expectation of it happening. It is a broader term than sudden infant death syndrome (SIDS, often previously known as ‘cot death’), which is defined as an infant death where an on-site investigation and a post-mortem, does not identify a cause of death. SUDI therefore includes infant deaths where coroners’ pathologists declare the death ‘unascertained’, as well as deaths in circumstances of high risk, such as when the infant is found face down into soft bedding or dies during bed sharing.
 
+
+## Worldwide
+Men have a shorter life expectancy in every country.
+![[the-sex-gap-in-life-expectancy-varies-around-the-world.svg]]
+
 [^1]: Health new Zealand - [Mortality web tool](https://www.tewhatuora.govt.nz/for-health-professionals/data-and-statistics/mortality/data-web-tool)
 
 [^2]: ICESCR General Comment 14, paragraph 8.
