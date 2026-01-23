@@ -387,11 +387,11 @@ Our role under the HRA and applicable law 
 
 We have carefully considered the information you provided. Based on our assessment, your enquiry does not appear to raise issues of [unlawful discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/what-is-unlawful-discrimination) under the Human Rights Act 1993, and our dispute resolution service is not the appropriate pathway in this instance.  
 
-The omission in UN reports does not, by itself, engage the unlawful discrimination provisions under Part 1A of the Human Rights Act 1993 (which apply to public bodies). Since the reporting is descriptive and informational it does not confer or deny rights to one group over another. There is also no evidence of material disadvantage arising from this omission.\[1] I explain this further below.  
+The omission in UN reports does not, by itself, engage the unlawful discrimination provisions under Part 1A of the Human Rights Act 1993 (which apply to public bodies). Since the reporting is descriptive and informational it does not confer or deny rights to one group over another. There is also no evidence of material disadvantage arising from this omission.^[1: See _Ministry of Health v Atkinson_ \[2012\] NZCA 184,\[2013\] 3 NZLR 546 at \[55\] for the relevant test on unlawful discrimination which requires both differential treatment and material disadvantage resulting from that differential treatment.] I explain this further below.  
 
-Part 1A applies to acts or omissions by public bodies\[2] (such as the Ministry of Justice) that are inconsistent with the right to freedom from discrimination affirmed by section 19 of the New Zealand Bill of Rights Act 1990 (NZBORA).  Section 19 affirms the right to freedom from discrimination on the grounds listed in section 21 of the HRA, including sex.  
+Part 1A applies to acts or omissions by public bodies ^[2: As confirmed by s 20J of the HRA.] (such as the Ministry of Justice) that are inconsistent with the right to freedom from discrimination affirmed by section 19 of the New Zealand Bill of Rights Act 1990 (NZBORA).  Section 19 affirms the right to freedom from discrimination on the grounds listed in section 21 of the HRA, including sex.  
 
-The test for unlawful discrimination under s 19 requires:\[3]  
+The test for unlawful discrimination under s 19 requires:^[3: _Ministry of Health v Atkinson_ \[2012\] NZCA 184, \[2013\] 3 NZLR 546 at \[55\].]  
 
 1. Differential treatment based on a prohibited ground—i.e. a policy, law or practice that treats people differently because of their sex, and 
 2. That the differential treatment has resulted in a material disadvantage 
