@@ -104,6 +104,14 @@ The Equal Pay Act 1972 does not offer the same protection to men in jobs that ar
 ### Good employer
 The Public Service Act 2020 requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for ... recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but there is no requirement to recognise the employment requirements of men. 
 
+### Historically
+
+In New Zealand's 1987 CEDAW report:
+
+> In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. ==This provision, which discriminated against widowers==, was removed in the 1982 Social Security Amendment Act. The benefit on death is now available to widowers on the same basis as to widows.
+> 
+> ==There are some areas where women have more rights than men in the present social security legislation.== A "male breadwinner" assumption remains in the Social Security Act, 1964, in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the “woman alone" provisions.[^16]
+
 
 ## In other countries
 
@@ -139,3 +147,5 @@ The Public Service Act 2020 requires the public service to be good employers. A 
 [^14]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
 
 [^15]: Concluding observations on the sixth periodic report of New Zealand -- CCPR/C/NZL/CO/6
+
+[^16]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
