@@ -97,6 +97,12 @@ https://www.borrinfoundation.nz/transforming-womens-imprisonment-in-aotearoa-by-
 
 HRC CEDAW Report recommends sending fewer women to prison
 
+# Un Reccomendation to address discrimaintion in the jsutice system
+
+> The State party should **undertake a comprehensive review of law enforcement operational policies in order to ensure their conformity with human rights principles**, including the prohibition of discrimination, and to evaluate their impact on indigenous peoples. The State party should also provide training to law enforcement officials in order to sensitize them to the need to conduct themselves in a way that does not lead, even unintentionally, to acts of racial profiling.[^16]
+
+
+
 
 [^1]: ICCPR General Comment 35 -- paragraph 17
 
@@ -125,6 +131,8 @@ HRC CEDAW Report recommends sending fewer women to prison
 [^13]: Bindler, A., & Hjalmarsson, R. (2020). The persistence of the criminal justice gender gap: Evidence from 200 years of judicial decisions. _The Journal of Law and Economics_, _63_(2), 297-339.
 
 [^14]:  [Examination of Aotearoa New Zealand’s 7th Periodic Report under the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment](https://tikatangata.org.nz/cms/assets/CAT-submission-Te-Kahui-Tika-Tangata-Human-Rights-Commission.docx) - Human Rights Commission– 12 June 2023
+
+[^16]: CCPR/C/NZL/CO/6 -- paragraph 24
 
 [^15]: R V AM CA27/2009
 
