@@ -116,7 +116,7 @@ Section 67 of Offences aAgainst the Person Act 1867 allows whipping as a punishm
 
 >  Where any person is convicted of a crime under the eighteenth section of this Act the Court before whom he is convicted may in addition to the punishment awarded direct that the offender **if a male whose age exceeds sixteen years be once twice or thrice privately whipped provided** the number of strokes do not exceed fifty at each such whipping and that the Court in its sentence shall specify the number of strokes to be inflicted and the instrument to be used Provided also that in no case shall such whipping take place after the expiration of six months from the passing of the sentence Provided also that in all cases where the punishment of whipping shall be inflicted under the authority of this or any other provisions of this Act the surgeon or medical officer of the gaol in which the offender is confined shall be present when the said punishment is inflicted and such surgeon or medical officer if he be of opinion that the prisoner is not at any time able to bear the whole or any part of the said punishment so awarded may from time to time order the infliction of the whole or any part of the said punishment to be postponed and shall within seven days after the making of any such order send a report in writing stating his reasons for making such order to the Colonial Secretary. 
 #### Jury service
-Only men were obligated and allowed to serve on juries until the *Juries Amendment Bill 1963* which allowed, but not obligated, them to serve on a jury, they could excuse themselves by writing to the Jury Officer or the Sheriff explaining that they do not want to serve on a jury. The Juries Amendment Act 1976 "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."
+Only men were obligated and allowed to serve on juries until the *Juries Amendment Bill 1963* which allowed, but not obligated, them to serve on a jury. They could excuse themselves by writing to the Jury Officer explaining that they do not want to serve on a jury. The Juries Amendment Act 1976 "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
 
 ## In other countries
 
@@ -154,6 +154,10 @@ Only men were obligated and allowed to serve on juries until the *Juries Amendme
 [^15]: Concluding observations on the sixth periodic report of New Zealand -- CCPR/C/NZL/CO/6
 
 [^16]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
+
+[^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI2MTU5NDhdfQ==
+eyJoaXN0b3J5IjpbNTY5MDA3MDcwXX0=
 -->
