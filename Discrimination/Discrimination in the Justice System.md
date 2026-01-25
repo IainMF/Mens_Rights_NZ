@@ -92,7 +92,9 @@ New Zealand’s rape and sexual assault law and subsequent sentencing guidelines
 
 ## Historically
 
-The Criminal Code Bill 1883 states "Neither flogging nor whipping shall be inflicted on any female."
+The Criminal Code Bill 1883 says that only men may be flogged or whipped as a punishment.
+
+The Crimes Act 1959 
 
 ## Women
 https://www.stuff.co.nz/the-press/news/96230482/fewer-women-to-be-jailed-under-new-government-strategy-to-curb-growth-in-crime
@@ -141,5 +143,6 @@ HRC CEDAW Report recommends sending fewer women to prison
 [^15]: R V AM CA27/2009
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Nzc5NTY3MywtMTk1Mjk4MzczN119
+eyJoaXN0b3J5IjpbLTE3MjgxNjE1NDUsLTE5NTI5ODM3MzddfQ
+==
 -->
