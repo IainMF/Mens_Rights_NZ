@@ -95,7 +95,7 @@ New Zealand’s rape and sexual assault law and subsequent sentencing guidelines
 The Criminal Code Bill 1883 says that only men may be flogged or whipped as a punishment.
 > Flogging is the infliction on a person of a number of 
 strokes not exceeding at any one time fifty, with a cat-o' -nine-tails. the description prescribed by the Minister of Justice.
-(2.) Whipping is the infliction on a per-son of a number of strokes not exceeding at any one time twenty-five, with a birch rod.
+> Whipping is the infliction on a per-son of a number of strokes not exceeding at any one time twenty-five, with a birch rod.[^17]
 
 The Crimes Act 1959 allows for males of any age to be charged with rape. Previously, only males 14 and above could be charged.
 
@@ -145,7 +145,9 @@ HRC CEDAW Report recommends sending fewer women to prison
 
 [^15]: R V AM CA27/2009
 
+[^17]: https://www.nzlii.org/nz/legis/hist_bill/ccb188381125/
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjA5NzUyMCwxOTg3MTU2NTQzLC0xOT
-UyOTgzNzM3XX0=
+eyJoaXN0b3J5IjpbNjM4MTkzMTk3LDE5ODcxNTY1NDMsLTE5NT
+I5ODM3MzddfQ==
 -->
