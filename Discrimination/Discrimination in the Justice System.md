@@ -106,7 +106,7 @@ https://www.borrinfoundation.nz/transforming-womens-imprisonment-in-aotearoa-by-
 
 HRC CEDAW Report recommends sending fewer women to prison
 
-# Un Recommendation to address discrimination in the justice system
+# UN Recommendation to address discrimination in the justice system
 
 > The State party should **undertake a comprehensive review of law enforcement operational policies in order to ensure their conformity with human rights principles**, including the prohibition of discrimination, and to evaluate their impact on indigenous peoples. The State party should also provide training to law enforcement officials in order to sensitize them to the need to conduct themselves in a way that does not lead, even unintentionally, to acts of racial profiling.[^16]
 
@@ -148,6 +148,6 @@ HRC CEDAW Report recommends sending fewer women to prison
 [^17]: https://www.nzlii.org/nz/legis/hist_bill/ccb188381125/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA2NTQ2Nyw2MzgxOTMxOTcsMTk4Nz
+eyJoaXN0b3J5IjpbMTM5OTM3NTA3Nyw2MzgxOTMxOTcsMTk4Nz
 E1NjU0MywtMTk1Mjk4MzczN119
 -->
