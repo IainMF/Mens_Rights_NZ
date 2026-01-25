@@ -94,7 +94,7 @@ New Zealand’s rape and sexual assault law and subsequent sentencing guidelines
 
 The Criminal Code Bill 1883 says that only men may be flogged or whipped as a punishment.
 
-The Crimes Act 1959 allows for males of any age to be charged with rape. Previously, 
+The Crimes Act 1959 allows for males of any age to be charged with rape. Previously, only males 14 and above could be charged.
 
 ## Women
 https://www.stuff.co.nz/the-press/news/96230482/fewer-women-to-be-jailed-under-new-government-strategy-to-curb-growth-in-crime
@@ -143,5 +143,5 @@ HRC CEDAW Report recommends sending fewer women to prison
 [^15]: R V AM CA27/2009
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzMyNzM4LC0xOTUyOTgzNzM3XX0=
+eyJoaXN0b3J5IjpbMTk4NzE1NjU0MywtMTk1Mjk4MzczN119
 -->
