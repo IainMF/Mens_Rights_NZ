@@ -118,6 +118,47 @@ Section 67 of Offences Against the Person Act 1867 allows whipping as a punishme
 #### Jury service
 Only men were obligated and allowed to serve on juries until the *Juries Amendment Bill 1963* which allowed, but not obligated, women to serve on a jury. They could excuse themselves by writing to the Jury Officer explaining that they do not want to serve on a jury. The Juries Amendment Act 1976 "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
 
+## Legislation — 
+The following legislation, either removing legal discriminations against women or directly aimed at assisting women, has been passed since 1970.
+
+**Domestic Proceedings Amendment Act 1971**—Extended provisions for maintenance orders.
+
+**Equal Pay Act 1972**— Established the principle of equal pay for equal work without discrimination on the basis of sex.
+
+**Social Security Amendment Act 1973**—Established the domestic purposes benefit for solo parents.
+
+**Accident Compensation Amendment Act 1973**—Extended compensation provisions to non-earners.
+
+**Matrimonial Property Act 1976**—Provided for a more equitable division of property on the dissolution of a marriage,
+
+**Domicile Act 1976**—Provided that 1 woman's domicile does not have to follow that of her husband.
+
+**Social Security Amendment Act 1977**—Introduced national superannuation without discrimination.
+
+**Human Rights Commission Act 1977**—Prohibited discrimination in such areas as employment, and access to goods and services on the grounds of sex or marital status.
+
+**Citizenship Act 1977**—Accorded all New Zealand citizens the same rights with respect to the citizenship of spouses and children.
+
+**Social Security Amendment Act 1979**—-Provided for the payment of sickness and unemployment benefits to women and men on an equal basis.
+
+**Evidence Amendment Act 1980**—Provided some restrictions on the cross-examination or presentation of evidence pertaining to a victim's sexual history.
+
+**Family Courts Act 1980**—Removed family law to special court with special support services.
+
+**Family Proceedings Act 1980**—Introduced no fault dissolution of marriage, and revised the law relating to matrimonial and domestic proceedings.
+
+**Guardianship Amendment Act 1980**—Introduced custodial provisions which ensure that the welfare of the child is paramount and no one person can be preferred as custodial parent on the basis of sex.
+
+**Maternity Leave and Employment Protection Act 1980**—Guaranteed up to 26 weeks unpaid leave to most women workers expecting a baby or planning to adopt a young child.
+
+**Factories and Commercial Premises Amendment Act 1981**—Lifted restrictions on women working during night hours.
+
+**Domestic Protection Act 1982**—Extended protection to the victims of domestic violence in whatever situation this occurs.
+
+**Coal Mines Amendment Act 1983**—Provided for the repeal of the restriction on employment of women underground. New Zealand is no longer bound by the International Labour Convention 45.
+
+**Estate and Gift Duties Amendment Act 1983**—Provided for a gift duty exemption where a matrimonial property agreement results in the non-owner spouse receiving half the matrimonial property.
+
 ## In other countries
 
 [Equi-Law in the UK found that seven instances of gender imbalances that disadvantage men and none that disadvantage women.](https://equi-law.uk/imbalanced-legislation/)
