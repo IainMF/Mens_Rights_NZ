@@ -500,7 +500,3 @@ https://en.wikipedia.org/wiki/Wicked_problem
 
 [^63]: https://www.wordreference.com/definition/proportional - accessed 5 Jan 2026
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDAyMzIzNSw5MjczNTIzNjgsMjI0MT
-AyNjI2LC01ODQ5ODMyMTIsLTIwNTkyMzIxOTVdfQ==
--->

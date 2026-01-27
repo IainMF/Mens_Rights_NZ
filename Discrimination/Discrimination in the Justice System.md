@@ -93,9 +93,9 @@ New Zealand’s rape and sexual assault law and subsequent sentencing guidelines
 ## Historically
 
 The Criminal Code Bill 1883 says that only men may be flogged or whipped as a punishment.
-> Flogging is the infliction on a person of a number of 
-strokes not exceeding at any one time fifty, with a cat-o' -nine-tails, the description prescribed by the Minister of Justice.
-> Whipping is the infliction on a person of a number of strokes not exceeding at any one time twenty-five, with a birch rod.[^17]
+
+> Flogging is the infliction on a person of a number of strokes not exceeding at any one time fifty, with a cat-o' -nine-tails, the description prescribed by the Minister of Justice.
+> Whipping is the infliction on a person of a number of strokes not exceeding at any one time twenty-five, with a birch rod.[^16]
 
 The Crimes Act 1959 allows for males of any age to be charged with rape. Previously, only males 14 and above could be charged.
 
@@ -108,7 +108,7 @@ HRC CEDAW Report recommends sending fewer women to prison
 
 # UN Recommendation to address discrimination in the justice system
 
-> The State party should **undertake a comprehensive review of law enforcement operational policies in order to ensure their conformity with human rights principles**, including the prohibition of discrimination, and to evaluate their impact on indigenous peoples. The State party should also provide training to law enforcement officials in order to sensitize them to the need to conduct themselves in a way that does not lead, even unintentionally, to acts of racial profiling.[^16]
+> The State party should **undertake a comprehensive review of law enforcement operational policies in order to ensure their conformity with human rights principles**, including the prohibition of discrimination, and to evaluate their impact on indigenous peoples. The State party should also provide training to law enforcement officials in order to sensitize them to the need to conduct themselves in a way that does not lead, even unintentionally, to acts of racial profiling.[^17]
 
 
 
@@ -141,13 +141,9 @@ HRC CEDAW Report recommends sending fewer women to prison
 
 [^14]:  [Examination of Aotearoa New Zealand’s 7th Periodic Report under the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment](https://tikatangata.org.nz/cms/assets/CAT-submission-Te-Kahui-Tika-Tangata-Human-Rights-Commission.docx) - Human Rights Commission– 12 June 2023
 
-[^16]: CCPR/C/NZL/CO/6 -- paragraph 24
-
 [^15]: R V AM CA27/2009
 
-[^17]: https://www.nzlii.org/nz/legis/hist_bill/ccb188381125/
+[^16]: https://www.nzlii.org/nz/legis/hist_bill/ccb188381125/
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc5NDYyMDAsNjM4MTkzMTk3LDE5OD
-cxNTY1NDMsLTE5NTI5ODM3MzddfQ==
--->
+[^17]: CCPR/C/NZL/CO/6 -- paragraph 24
+

@@ -53,25 +53,25 @@ In 2016, the Human Rights Review Tribunal has declared that Section 4(2) the Ado
 
 The United Nations Human Rights Committee has recommended:
 
->  \[New Zealand] should amend the Adoption Act 1955 and repeal all of its discriminatory provisions, and consider permitting civil union partners to adopt children.[^15]
+>  \[New Zealand] should amend the Adoption Act 1955 and repeal all of its discriminatory provisions, and consider permitting civil union partners to adopt children.[^9]
 
-The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^9]
+The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^10]
 
 
 ## Healthy Futures Act
-One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^10] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
+One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^11] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
 
- Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^11]
+ Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^12]
 ## Protection from Genital Mutilation
-In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^12] This should apply to all children including boys.
+In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^13] This should apply to all children including boys.
 
 Hammond and Carmack argue that non-therapeutic infant circumcision violates a child’s rights to religious freedom, bodily autonomy and protection from harm.
 
-> Findings highlight important health and human rights implications resulting from infringements on the bodily integrity and future autonomy rights of boys… [^13]
+> Findings highlight important health and human rights implications resulting from infringements on the bodily integrity and future autonomy rights of boys… [^14]
 
 Martin Robbins argues that men should be able to choose whether they are circumcised or not
 
-> Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^14]
+> Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^15]
 
 ## Rape and Sexual Assault
 Section 128 of the Crimes Act 1961 defines *rape* as: 
@@ -112,7 +112,7 @@ In New Zealand's 1987 CEDAW report:
 > 
 > ==There are some areas where women have more rights than men in the present social security legislation.== A "male breadwinner" assumption remains in the Social Security Act, 1964, in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the “woman alone" provisions.[^16]
 
-Section 67 of Offences aAgainst the Person Act 1867 allows whipping as a punishment for males only
+Section 67 of Offences Against the Person Act 1867 allows whipping as a punishment for males only
 
 >  Where any person is convicted of a crime under the eighteenth section of this Act the Court before whom he is convicted may in addition to the punishment awarded direct that the offender **if a male whose age exceeds sixteen years be once twice or thrice privately whipped provided** the number of strokes do not exceed fifty at each such whipping and that the Court in its sentence shall specify the number of strokes to be inflicted and the instrument to be used Provided also that in no case shall such whipping take place after the expiration of six months from the passing of the sentence Provided also that in all cases where the punishment of whipping shall be inflicted under the authority of this or any other provisions of this Act the surgeon or medical officer of the gaol in which the offender is confined shall be present when the said punishment is inflicted and such surgeon or medical officer if he be of opinion that the prisoner is not at any time able to bear the whole or any part of the said punishment so awarded may from time to time order the infliction of the whole or any part of the said punishment to be postponed and shall within seven days after the making of any such order send a report in writing stating his reasons for making such order to the Colonial Secretary. 
 #### Jury service
@@ -139,25 +139,20 @@ Only men were obligated and allowed to serve on juries until the *Juries Amendme
 
 [^8]:  [*When mothers kill, but don’t go to jail*](https://archive.ph/xZHWj) – Katie Kenny, Stuff.co.nz, November 24 2015↩
 
-[^9]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*. 2013
+[^9]: Concluding observations on the sixth periodic report of New Zealand -- CCPR/C/NZL/CO/6
 
-[^10]: Pae Ora (Healthy Futures) Act 2022 Section 3(b)
+[^10]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*. 2013
 
-[^11]: Casinader, Jehan . ['Men have it so easy' - why do NZ guys get minimal health support?](https://archive.ph/0wizg)  1 News, June 8, 2024
+[^11]: Pae Ora (Healthy Futures) Act 2022 Section 3(b)
 
-[^12]: Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)
+[^12]: Casinader, Jehan . ['Men have it so easy' - why do NZ guys get minimal health support?](https://archive.ph/0wizg)  1 News, June 8, 2024
 
-[^13]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
+[^13]: Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)
 
-[^14]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
+[^14]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
 
-[^15]: Concluding observations on the sixth periodic report of New Zealand -- CCPR/C/NZL/CO/6
+[^15]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
 
 [^16]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
 
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDIyNjkyMiw1NjkwMDcwNzBdfQ==
--->
