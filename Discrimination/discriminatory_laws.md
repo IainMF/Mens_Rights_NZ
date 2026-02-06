@@ -1,3 +1,4 @@
+
 ---
 title: Legal Discrimination
 description: New Zealand has laws that discriminate against men and boys violating their right to be free from discrimination and their right to equality under the law.
@@ -32,6 +33,12 @@ Despite the shortcomings of *male-assaults-female* being addressed in the propos
 Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault.
 
 The Criminal Investigations (Bodily Samples) Act 1995 allows investigators the ability to take bodily samples from people accused of *male assaults female*. The equivalent common assault is not.
+
+### History of male assaults female
+
+In New Zealand, a specific crime of assaulting a female goes back at least as far as the *1867 Offences Against the Person Act*. Any person assaulting a male child (under 14) or a female of any age could be punished more harshly if the Justices determined that “it cannot in their opinion be sufficiently punished under the provisions hereinbefore contained as to common assaults”. Common assault had a penalty of prison not exceeding two months, with or without hard labour, and/or a fine of ten pounds. Assaulting a child or a female had a penalty of imprisonment not exceeding six months, with or without hard labour, and/or a fine of twenty pounds. *The Indictable Offences Summary Jurisdiction Act 1894* and *The Justices of the Peace Act 1927* updated the wording but the penalties remained the same.
+
+The *Police Offences Amendment Act (No 2) 1952* introduced some changes. Firstly, that the assaulting a child or a female was a crime in its own right, not just a decision of the justices when the punishment common assault was insufficient for the nature of the act. Secondly, only males could be charged with the specific crime of assaulting a female. The *Crimes Act 1961* is the latest implementation of the *male-assaults-female* law.
 
 ## Infanticide
 
@@ -104,7 +111,9 @@ The Equal Pay Act 1972 does not offer the same protection to men in jobs that ar
 ### Good employer
 The Public Service Act 2020 requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for ... recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but there is no requirement to recognise the employment requirements of men. 
 
-### Historically
+## Historically
+
+
 
 In New Zealand's 1987 CEDAW report:
 
