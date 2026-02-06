@@ -159,6 +159,62 @@ The following legislation, either removing legal discriminations against women o
 
 **Estate and Gift Duties Amendment Act 1983**—Provided for a gift duty exemption where a matrimonial property agreement results in the non-owner spouse receiving half the matrimonial property.
 
+### 3.2
+
+The following is a list of Acts which have the effect of promoting sex equality in New Zealand:
+
+#### Matrimonial Property Act 1976  
+This statute is described as an Act to recognise the equal contribution of husband and wife to the marriage partnership and to provide a just distribution of matrimonial property between spouses. It provides a rebuttable presumption of equal division of the matrimonial property when a marriage breaks down. Matrimonial property is, broadly, property acquired after the marriage through the work or service of either spouse but not by inheritance or gift. The presumption may be displaced if the marriage is short (three years or less); if equal division of the home and chattels would be repugnant to justice; or, in respect of other matrimonial property, if one spouse has made a clearly greater contribution to the marriage partnership.
+
+Contributions are defined broadly. There is no presumption that contribution in monetary form is of greater value than any other kind.
+
+#### Evidence Amendment Act 1977  
+This provides that in rape trials evidence relating to a complainant's sexual experience or reputation is excluded except where exclusion would be contrary to the interests of justice.
+
+#### Domicile Act 1976 
+This Act provides for the separate domicile of married women.
+
+#### Juries Amendment Act 1976 (now part of the Juries Act 1981)  
+This provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service.
+
+#### Government Superannuation Fund Amendment Act 1976  
+This removes the requirement that the widower of the superannuitant prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit.
+
+#### Human Rights Commission Act 1977  
+This prohibits discrimination on the ground of sex in the fields of employment, education, accommodation, landholding, goods and services, access to public places and public facilities; and prohibits sexual discrimination in advertisements or notices about any of these matters.
+
+Enforcement is by way of mediation by the Human Rights Commission. Where this is unsatisfactory proceedings may be brought before the Equal Opportunities Tribunal and there is a right of appeal to the Administrative Division of the High Court.
+
+In addition, the Human Rights Commission has important general functions intended to effect the eradication of discrimination through education.
+
+#### Citizenship Act 1977  
+This gives women the same right as men to pass on citizenship to their children.
+
+#### State Services Amendment Act 1978  
+This gives members of the Public Service resigning for child care purposes preferential re-entry rights to the service up to four years after resignation or five years in the case of a woman entitled to maternity leave.
+
+#### Family Proceedings Act 1980  
+This removes discrimination in the assessment of maintenance by providing that spouses have the same liability to maintain each other, and institutes a no-fault dissolution of marriage by making two years separation the only ground for divorce.
+
+#### Guardianship Amendment Act 1980  
+This makes it quite clear that neither parent is to be preferred as the custodial parent solely by reason of sex.
+
+#### Maternity Leave and Employment Protection Act 1980  
+This entitles a woman to six months maternity leave without pay where the woman has worked for an employer for at least 15 hours a week for at least 18 months before the expected date of delivery.
+
+The woman is also entitled to some job protection in that the employer is required to keep her job open (although there are exceptions). If re-employment cannot be guaranteed the employer must give her preference for re-employment for six months after the end of her maternity leave. The Act prohibits dismissal because of pregnancy.
+
+#### Social Security Amendment Acts 1976, 1978, 1979  
+The 1976 Act provides the right to social security at age 60 on the same terms for all women and men, and the 1978 and 1979 provisions grant all other weekly benefits (except widows) on the same terms to men and women.
+
+#### Repeal of Section 13 of the Factories and Commercial Premises Act 1981 Order 1982  
+The Factories and Commercial Premises Act 1981 contained a section limiting the hours of employment of women in factories. The section provided for its own repeal by the Governor-General when New Zealand ceased to be bound by International Labour Organisation Convention 89 covering night work of women employed in industry. The section was repealed on 2 April 1982 by the repeal of section 13 of the Factories and Commercial Premises Act 1981 Order 1982.
+
+#### Domestic Protection Act 1982  
+This provides new and improved remedies for the victims of domestic violence, married or unmarried.
+
+#### Estate and Gift Duties Amendment Act 1983  
+This provides for a gift duty exemption where a matrimonial property agreement results in the non-owner spouse receiving half the matrimonial property. There have also been consequential changes in the income tax legislation recognising the equal sharing principle of the Matrimonial Property Act 1976.
 ## In other countries
 
 [Equi-Law in the UK found that seven instances of gender imbalances that disadvantage men and none that disadvantage women.](https://equi-law.uk/imbalanced-legislation/)
