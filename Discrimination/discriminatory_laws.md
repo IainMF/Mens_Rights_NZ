@@ -46,7 +46,7 @@ Section 178 of the Crimes Act 1961 allows mothers who murder their children when
 
 > Another class of ‘neither nor’ defendants are the ‘deserving cases’. These are defendants suffering some mental impairment who, because of their circumstances, deserve reduced culpability in a way the law currently fails to provide. For example, in R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning. Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10), which was a causal factor in him killing the baby. He was held to be sane. As shall be discussed, infanticide is the only statutory form of reduced culpability for defendants suffering mental impairment short of insanity in New Zealand. **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^7]
 
-In case
+If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter .
 
 There is some support to replace infanticide with a gender neutral law.
 
@@ -269,6 +269,6 @@ This provides for a gift duty exemption where a matrimonial property agreement r
 
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTg5NTY1OCwyMDcyOTU1Mjk0LDgxMT
+eyJoaXN0b3J5IjpbMTU3Mzg2OTczMywyMDcyOTU1Mjk0LDgxMT
 MxMDA0NF19
 -->
