@@ -133,46 +133,6 @@ In New Zealand's 1987 CEDAW report:
 > ==There are some areas where women have more rights than men in the present social security legislation.== A "male breadwinner" assumption remains in the Social Security Act, 1964, in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the “woman alone" provisions.[^16]
 
 
-## Legislation — 
-The following legislation, either removing legal discriminations against women or directly aimed at assisting women, has been passed since 1970.
-
-**Domestic Proceedings Amendment Act 1971**—Extended provisions for maintenance orders.
-
-**Equal Pay Act 1972**— Established the principle of equal pay for equal work without discrimination on the basis of sex.
-
-**Social Security Amendment Act 1973**—Established the domestic purposes benefit for solo parents.
-
-**Accident Compensation Amendment Act 1973**—Extended compensation provisions to non-earners.
-
-**Matrimonial Property Act 1976**—Provided for a more equitable division of property on the dissolution of a marriage,
-
-**Domicile Act 1976**—Provided that 1 woman's domicile does not have to follow that of her husband.
-
-**Social Security Amendment Act 1977**—Introduced national superannuation without discrimination.
-
-**Human Rights Commission Act 1977**—Prohibited discrimination in such areas as employment, and access to goods and services on the grounds of sex or marital status.
-
-**Citizenship Act 1977**—Accorded all New Zealand citizens the same rights with respect to the citizenship of spouses and children.
-
-**Social Security Amendment Act 1979**—-Provided for the payment of sickness and unemployment benefits to women and men on an equal basis.
-
-**Evidence Amendment Act 1980**—Provided some restrictions on the cross-examination or presentation of evidence pertaining to a victim's sexual history.
-
-**Family Courts Act 1980**—Removed family law to special court with special support services.
-
-**Family Proceedings Act 1980**—Introduced no fault dissolution of marriage, and revised the law relating to matrimonial and domestic proceedings.
-
-**Guardianship Amendment Act 1980**—Introduced custodial provisions which ensure that the welfare of the child is paramount and no one person can be preferred as custodial parent on the basis of sex.
-
-**Maternity Leave and Employment Protection Act 1980**—Guaranteed up to 26 weeks unpaid leave to most women workers expecting a baby or planning to adopt a young child.
-
-**Factories and Commercial Premises Amendment Act 1981**—Lifted restrictions on women working during night hours.
-
-**Domestic Protection Act 1982**—Extended protection to the victims of domestic violence in whatever situation this occurs.
-
-**Coal Mines Amendment Act 1983**—Provided for the repeal of the restriction on employment of women underground. New Zealand is no longer bound by the International Labour Convention 45.
-
-**Estate and Gift Duties Amendment Act 1983**—Provided for a gift duty exemption where a matrimonial property agreement results in the non-owner spouse receiving half the matrimonial property.
 
 ### 3.2
 
@@ -183,8 +143,12 @@ This statute is described as an Act to recognise the equal contribution of husba
 
 Contributions are defined broadly. There is no presumption that contribution in monetary form is of greater value than any other kind.
 
+  **Matrimonial Property Act 1976**—Provided for a more equitable division of property on the dissolution of a marriage,
+
 #### Evidence Amendment Act 1977  
 This provides that in rape trials evidence relating to a complainant's sexual experience or reputation is excluded except where exclusion would be contrary to the interests of justice.
+
+  **Evidence Amendment Act 1980**—Provided some restrictions on the cross-examination or presentation of evidence pertaining to a victim's sexual history.
 
 #### Domicile Act 1976 
 This Act provides for the separate domicile of married women.
@@ -202,8 +166,12 @@ Enforcement is by way of mediation by the Human Rights Commission. Where this is
 
 In addition, the Human Rights Commission has important general functions intended to effect the eradication of discrimination through education.
 
+  **Human Rights Commission Act 1977**—Prohibited discrimination in such areas as employment, and access to goods and services on the grounds of sex or marital status.
+
 #### Citizenship Act 1977  
 This gives women the same right as men to pass on citizenship to their children.
+
+  **Citizenship Act 1977**—Accorded all New Zealand citizens the same rights with respect to the citizenship of spouses and children.
 
 #### State Services Amendment Act 1978  
 This gives members of the Public Service resigning for child care purposes preferential re-entry rights to the service up to four years after resignation or five years in the case of a woman entitled to maternity leave.
@@ -222,14 +190,45 @@ The woman is also entitled to some job protection in that the employer is requir
 #### Social Security Amendment Acts 1976, 1978, 1979  
 The 1976 Act provides the right to social security at age 60 on the same terms for all women and men, and the 1978 and 1979 provisions grant all other weekly benefits (except widows) on the same terms to men and women.
 
+  **Social Security Amendment Act 1973**—Established the domestic purposes benefit for solo parents.
+
+  **Social Security Amendment Act 1977**—Introduced national superannuation without discrimination.
+
+  **Social Security Amendment Act 1979**—-Provided for the payment of sickness and unemployment benefits to women and men on an equal basis.
+
 #### Repeal of Section 13 of the Factories and Commercial Premises Act 1981 Order 1982  
 The Factories and Commercial Premises Act 1981 contained a section limiting the hours of employment of women in factories. The section provided for its own repeal by the Governor-General when New Zealand ceased to be bound by International Labour Organisation Convention 89 covering night work of women employed in industry. The section was repealed on 2 April 1982 by the repeal of section 13 of the Factories and Commercial Premises Act 1981 Order 1982.
+
+ **Factories and Commercial Premises Amendment Act 1981**—Lifted restrictions on women working during night hours.
 
 #### Domestic Protection Act 1982  
 This provides new and improved remedies for the victims of domestic violence, married or unmarried.
 
 #### Estate and Gift Duties Amendment Act 1983  
 This provides for a gift duty exemption where a matrimonial property agreement results in the non-owner spouse receiving half the matrimonial property. There have also been consequential changes in the income tax legislation recognising the equal sharing principle of the Matrimonial Property Act 1976.
+
+## Legislation — 
+The following legislation, either removing legal discriminations against women or directly aimed at assisting women, has been passed since 1970.
+
+**Domestic Proceedings Amendment Act 1971**—Extended provisions for maintenance orders.
+
+**Equal Pay Act 1972**— Established the principle of equal pay for equal work without discrimination on the basis of sex.
+
+**Accident Compensation Amendment Act 1973**—Extended compensation provisions to non-earners.
+
+**Family Courts Act 1980**—Removed family law to special court with special support services.
+
+**Family Proceedings Act 1980**—Introduced no fault dissolution of marriage, and revised the law relating to matrimonial and domestic proceedings.
+
+**Guardianship Amendment Act 1980**—Introduced custodial provisions which ensure that the welfare of the child is paramount and no one person can be preferred as custodial parent on the basis of sex.
+
+**Maternity Leave and Employment Protection Act 1980**—Guaranteed up to 26 weeks unpaid leave to most women workers expecting a baby or planning to adopt a young child.
+
+**Domestic Protection Act 1982**—Extended protection to the victims of domestic violence in whatever situation this occurs.
+
+**Coal Mines Amendment Act 1983**—Provided for the repeal of the restriction on employment of women underground. New Zealand is no longer bound by the International Labour Convention 45.
+
+**Estate and Gift Duties Amendment Act 1983**—Provided for a gift duty exemption where a matrimonial property agreement results in the non-owner spouse receiving half the matrimonial property.
 
 ## In other countries
 
