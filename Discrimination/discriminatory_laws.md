@@ -232,6 +232,7 @@ This provides new and improved remedies for the victims of domestic violence, ma
 
 #### Estate and Gift Duties Amendment Act 1983  
 This provides for a gift duty exemption where a matrimonial property agreement results in the non-owner spouse receiving half the matrimonial property. There have also been consequential changes in the income tax legislation recognising the equal sharing principle of the Matrimonial Property Act 1976.
+
 ## In other countries
 
 [Equi-Law in the UK found that seven instances of gender imbalances that disadvantage men and none that disadvantage women.](https://equi-law.uk/imbalanced-legislation/)
@@ -271,6 +272,6 @@ This provides for a gift duty exemption where a matrimonial property agreement r
 
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODM2ODgxOSwxMTc0NDQwNDQzLDEyMz
+eyJoaXN0b3J5IjpbMTI5Njg2ODM4NSwxMTc0NDQwNDQzLDEyMz
 g0Nzc2MzksMjA3Mjk1NTI5NCw4MTEzMTAwNDRdfQ==
 -->
