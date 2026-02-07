@@ -50,6 +50,9 @@ There is some support to replace infanticide with a gender neutral law.
 
 > Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^8]
 
+### History of Infanticide
+Infanticide was introduce in the 1961 Crimes Act. It was based on the UK 
+
 ## Adoption
 Section 4(2) the Adoption Act 1955 places additional restrictions on men wanting to adopt a female child. The law states:
 
@@ -263,5 +266,5 @@ This provides for a gift duty exemption where a matrimonial property agreement r
 
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNzcyMDA3XX0=
+eyJoaXN0b3J5IjpbMTYxOTIwMDg5NF19
 -->
