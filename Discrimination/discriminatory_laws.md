@@ -46,14 +46,15 @@ Section 178 of the Crimes Act 1961 allows mothers who murder their children when
 
 > Another class of ‘neither nor’ defendants are the ‘deserving cases’. These are defendants suffering some mental impairment who, because of their circumstances, deserve reduced culpability in a way the law currently fails to provide. For example, in R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning. Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10), which was a causal factor in him killing the baby. He was held to be sane. As shall be discussed, infanticide is the only statutory form of reduced culpability for defendants suffering mental impairment short of insanity in New Zealand. **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^7]
 
+In case
+
 There is some support to replace infanticide with a gender neutral law.
 
 > Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^8]
 
 ### History of Infanticide
-Infanticide was introduce in the 1961 Crimes Act and was based on the United Kingdom Infanticide Act 1938. 
+Infanticide was introduced in the 1961 Crimes Act and was based on the United Kingdom Infanticide Act 1938. 
 
-Where a woman causes the death of any child of hers under the age of ten years in a manner that amounts to culpable homicide, and where at the time of the offence the balance of her mind was disturbed, by reason of her not having fully recovered from the effect of giving birth to that or any other child, or by reason of the effect of lactation, or by reason of any disorder consequent upon childbirth or lactation, to such an extent that she should not be held fully responsible, she is guilty of infanticide, and not of murder or manslaughter, and is liable to imprisonment for a term not exceeding three years.
 
 ## Adoption
 Section 4(2) the Adoption Act 1955 places additional restrictions on men wanting to adopt a female child. The law states:
@@ -268,5 +269,6 @@ This provides for a gift duty exemption where a matrimonial property agreement r
 
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjk1NTI5NCw4MTEzMTAwNDRdfQ==
+eyJoaXN0b3J5IjpbMTc3NTg5NTY1OCwyMDcyOTU1Mjk0LDgxMT
+MxMDA0NF19
 -->
