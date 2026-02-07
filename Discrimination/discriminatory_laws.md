@@ -130,10 +130,10 @@ In New Zealand's 1987 CEDAW report:
 Section 67 of Offences Against the Person Act 1867 allows whipping as a punishment for males only
 
 >  Where any person is convicted of a crime under the eighteenth section of this Act the Court before whom he is convicted may in addition to the punishment awarded direct that the offender **if a male whose age exceeds sixteen years be once twice or thrice privately whipped provided** the number of strokes do not exceed fifty at each such whipping and that the Court in its sentence shall specify the number of strokes to be inflicted and the instrument to be used Provided also that in no case shall such whipping take place after the expiration of six months from the passing of the sentence Provided also that in all cases where the punishment of whipping shall be inflicted under the authority of this or any other provisions of this Act the surgeon or medical officer of the gaol in which the offender is confined shall be present when the said punishment is inflicted and such surgeon or medical officer if he be of opinion that the prisoner is not at any time able to bear the whole or any part of the said punishment so awarded may from time to time order the infliction of the whole or any part of the said punishment to be postponed and shall within seven days after the making of any such order send a report in writing stating his reasons for making such order to the Colonial Secretary. 
+>  
 #### Jury service
- The Juries Amendment Act 1976 "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
 
-Historically, only men were required to serve on a jury. Failure to serve when required resulted in a fine. See (Juries Act of 1868,1908). The Women Jurors Act 1942 allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for fines the same as a man. The Juries Amendment Act 1963 changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the sheriff and explaining they did not want to serve. The Juries Amendment Act 1976 made jury service an equal responsibility for women and men.
+Historically, only men were required to serve on a jury. Failure to serve when required resulted in a fine. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for fines the same as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
 
 ## Legislation — 
 The following legislation, either removing legal discriminations against women or directly aimed at assisting women, has been passed since 1970.
@@ -271,6 +271,6 @@ This provides for a gift duty exemption where a matrimonial property agreement r
 
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTkwNzkyMywxMjM4NDc3NjM5LDIwNz
+eyJoaXN0b3J5IjpbMTE3NDQ0MDQ0MywxMjM4NDc3NjM5LDIwNz
 I5NTUyOTQsODExMzEwMDQ0XX0=
 -->
