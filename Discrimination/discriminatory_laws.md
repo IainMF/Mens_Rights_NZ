@@ -42,11 +42,11 @@ The *Police Offences Amendment Act (No 2) 1952* introduced some changes. Firstly
 
 ## Infanticide
 
-Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3 year prison sentence where murder has a maximum sentence of life imprisonment. Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where a woman he would have been charged with infanticide.
+Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3 year prison sentence where murder has a maximum sentence of life imprisonment. If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter.
+
+Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where a woman he would have been charged with infanticide.
 
 > Another class of ‘neither nor’ defendants are the ‘deserving cases’. These are defendants suffering some mental impairment who, because of their circumstances, deserve reduced culpability in a way the law currently fails to provide. For example, in R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning. Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10), which was a causal factor in him killing the baby. He was held to be sane. As shall be discussed, infanticide is the only statutory form of reduced culpability for defendants suffering mental impairment short of insanity in New Zealand. **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^7]
-
-If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter.
 
 There is some support to replace infanticide with a gender neutral law.
 
@@ -269,6 +269,6 @@ This provides for a gift duty exemption where a matrimonial property agreement r
 
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Nzk1OTQ5NSwyMDcyOTU1Mjk0LDgxMT
+eyJoaXN0b3J5IjpbMTIzODQ3NzYzOSwyMDcyOTU1Mjk0LDgxMT
 MxMDA0NF19
 -->
