@@ -133,7 +133,7 @@ Section 67 of Offences Against the Person Act 1867 allows whipping as a punishme
 >  
 #### Jury service
 
-Historically, only men were required to serve on a jury. Failure to serve when required resulted in a fine. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for fines the same as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
+Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for fines the same as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
 
 ## Legislation — 
 The following legislation, either removing legal discriminations against women or directly aimed at assisting women, has been passed since 1970.
@@ -271,6 +271,6 @@ This provides for a gift duty exemption where a matrimonial property agreement r
 
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDQ0MDQ0MywxMjM4NDc3NjM5LDIwNz
-I5NTUyOTQsODExMzEwMDQ0XX0=
+eyJoaXN0b3J5IjpbNzIzMjk0Njk0LDExNzQ0NDA0NDMsMTIzOD
+Q3NzYzOSwyMDcyOTU1Mjk0LDgxMTMxMDA0NF19
 -->
