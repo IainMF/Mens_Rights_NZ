@@ -130,7 +130,7 @@ Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punish
 Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
 
 ### Assisting police officers
-The _Police Force Act 1913_ requires adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined.
+The _Police Force Act 1913_, the _Police Force Act 1947_, the _Police Act 1958_ require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The _Human Rights Amendment Act 2001_ ammended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the _Policing Act 2008_ also applies to any person.
 
 In New Zealand's 1987 CEDAW report:
 
