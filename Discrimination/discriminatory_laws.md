@@ -109,6 +109,10 @@ Thirdly, journalists reporting on female perpetrated sexual assaults cannot call
 
 Fourthly, rapists are stigmatised for their crimes. The stigma is not so great for sexual assault, which means male and female perpetrators do not experience the same stigma.
 
+### History of rape law
+The _Criminal Code Bill 1886_ defines "Rape is the act of a male person, not under the age of fourteen years, having carnal knowledge of a woman who is not his wife" without her consent.
+
+
 ## Other discrimination in law.
 Some other laws treat men less favoutbaly than women.
 ### Equal pay
