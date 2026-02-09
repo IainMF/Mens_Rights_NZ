@@ -1,4 +1,3 @@
-
 ---
 title: Legal Discrimination
 description: New Zealand has laws that discriminate against men and boys violating their right to be free from discrimination and their right to equality under the law.
