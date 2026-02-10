@@ -123,8 +123,8 @@ The Public Service Act 2020 requires the public service to be good employers. A 
 ## Historically
 Historically, there are many laws that discriminate against men, by giving them harsher punishments, by requiring them to perform additional duties, or by denying them the same protection or privileges granted to women.
 
-### _Slander of Women Act 1898_
-> Words imputing unchastity to women actionable without special damage. Words spoken and published after the passing of this Act which impute unchastity or adultery to any woman or girl shall not require special damage to render them actionable: Provided always that in any action for words spoken and made actionable by this Act a plaintiff shall not recover more costs than damages unless the Judge or Magistrate shall certify that there was reasonable ground for bringing the action.
+### Slander of Women
+Women had extra legal protection from slander. The _Slander of Women Act 1898_ meant that spoken or published words that suggest a woman is sexually immoral were actionable without any evidence of actual damage. This was consolidated into the _Judicature Act 1908_. This provision was repealed in the _Defamation Act 1954_.
 
 
 ### Flogging or whipping
