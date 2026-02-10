@@ -131,7 +131,7 @@ Historically, only men were required to serve on a jury. Men who refused to serv
 ### Assisting police officers
 The _Police Force Act 1913_, the _Police Force Act 1947_, the _Police Act 1958_ require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The _Human Rights Amendment Act 2001_ amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the _Policing Act 2008_ also applies to any person.
 
-## Compulsory military training or service.
+### Compulsory military training or service.
 Only men were required to train or serve in the military in New Zealand.
 
 The _Militia Ordinance 1845_ allowed the Governor ro for a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the _Militia Act 1865_ which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the _Militia Act 1870_ which lowered the minimum age to 17.
