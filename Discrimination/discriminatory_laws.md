@@ -121,6 +121,7 @@ The Equal Pay Act 1972 does not offer the same protection to men in jobs that ar
 The Public Service Act 2020 requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for ... recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but there is no requirement to recognise the employment requirements of men. 
 
 ## Historically
+Historically, there are many laws that discriminate against men, by giving them harsher punishments, by requiring them to perform additional duties, or by denying them the same protection or privileges granted to women.
 
 ### _Slander of Women Act 1898_
 > Words imputing unchastity to women actionable without special damage. Words spoken and published after the passing of this Act which impute unchastity or adultery to any woman or girl shall not require special damage to render them actionable: Provided always that in any action for words spoken and made actionable by this Act a plaintiff shall not recover more costs than damages unless the Judge or Magistrate shall certify that there was reasonable ground for bringing the action.
