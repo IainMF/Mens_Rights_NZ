@@ -41,13 +41,13 @@ The *Police Offences Amendment Act (No 2) 1952* introduced some changes. Firstly
 
 ## Infanticide
 
-Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3 year prison sentence where murder has a maximum sentence of life imprisonment. If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter.
+Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3-year prison sentence where murder has a maximum sentence of life imprisonment. If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter.
 
 Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where a woman he would have been charged with infanticide.
 
 > Another class of ‘neither nor’ defendants are the ‘deserving cases’. These are defendants suffering some mental impairment who, because of their circumstances, deserve reduced culpability in a way the law currently fails to provide. For example, in R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning. Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10), which was a causal factor in him killing the baby. He was held to be sane. As shall be discussed, infanticide is the only statutory form of reduced culpability for defendants suffering mental impairment short of insanity in New Zealand. **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^7]
 
-There is some support to replace infanticide with a gender neutral law.
+There is some support to replace infanticide with a gender-neutral law.
 
 > Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^8]
 
@@ -123,7 +123,7 @@ The Public Service Act 2020 requires the public service to be good employers. A 
 ## Historically
 
 ### Flogging or whipping
-Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16 year old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
+Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
  
 ### Jury service
 Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
@@ -255,11 +255,11 @@ The following legislation, either removing legal discriminations against women o
 [^2]: ICCPR General Comment 28, paragraph 31
 [^3]: Review of Part 8 of the Crimes Act 1961: crimes against the person [https://bit.ly/2LQuRv5](https://bit.ly/2LQuRv5)]
 
-[^4]: Reform Of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2MoYwNh](https://bit.ly/2MoYwNh) – paragraph 35
+[^4]: Reform of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2MoYwNh](https://bit.ly/2MoYwNh) – paragraph 35
 
 [^5]: Submission of the Human Rights Commission on the Family and Whānau Violence Legislation Bill [https://bit.ly/2Jz5tgV](https://bit.ly/2Jz5tgV)
 
-[^6]: Reform Of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2JFzt6K](https://bit.ly/2JFzt6K)
+[^6]: Reform of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2JFzt6K](https://bit.ly/2JFzt6K)
 
 [^7]: Westway, Thomas - "Guilty But Substantially Mentally Impaired" [2011] NZLawStuJl 2; (2011) 2 New Zealand Law Students' Journal 470 - [http://archive.li/TtqTm](http://archive.li/TtqTm)]
 
