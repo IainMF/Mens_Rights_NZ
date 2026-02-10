@@ -141,14 +141,14 @@ Only men were required to train or serve in the military in New Zealand.
 
 The _Militia Ordinance 1845_ allowed the Governor ro for a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the _Militia Act 1865_ which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the _Militia Act 1870_ which lowered the minimum age to 17.
 The _Defence Act 1909_ brought in a general training requirement for males 12 to 14 years old (Junior Cadets), 14 to 18 (Senior Cadets), 18 to 21 (General Training Section), and 21 to 30 (the Reserve). There was exemption for religious conscientious objectors but they were still obligated to perform ‘an equivalent to such service and training such non-combatant duties as are prescribed by the Governor’.  
-### WWI
+#### WWI
 The _Military Service Act 1916_, required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
 
-### Loss of rights
+#### Loss of rights
 The _Expeditionary Forces Amendment Act 1918_ removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The _War Disabilities Removal Bill 1927 (16-3)_ proposed to end the denial of rights one year early, but this provision was removed before passing the War Disabilities Removal Act.[^18] 
 
 In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
-### WWII
+#### WWII
 Conscription was reintroduced in 1940 with the _Emergency Regulations Amendment Act 1940_. The _Military Training Act 1949_ reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The _National Military Service Act 1961_ changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
 ## My notes:
