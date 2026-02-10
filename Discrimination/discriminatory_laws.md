@@ -122,6 +122,10 @@ The Public Service Act 2020 requires the public service to be good employers. A 
 
 ## Historically
 
+### _Slander of Women Act 1898_
+> Words imputing unchastity to women actionable without special damage. Words spoken and published after the passing of this Act which impute unchastity or adultery to any woman or girl shall not require special damage to render them actionable: Provided always that in any action for words spoken and made actionable by this Act a plaintiff shall not recover more costs than damages unless the Judge or Magistrate shall certify that there was reasonable ground for bringing the action.
+
+
 ### Flogging or whipping
 Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
  
