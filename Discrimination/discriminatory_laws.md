@@ -131,6 +131,19 @@ Historically, only men were required to serve on a jury. Men who refused to serv
 ### Assisting police officers
 The _Police Force Act 1913_, the _Police Force Act 1947_, the _Police Act 1958_ require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The _Human Rights Amendment Act 2001_ amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the _Policing Act 2008_ also applies to any person.
 
+## Compulsory military training or service.
+Only men were required to train or serve in the military in New Zealand.
+
+The _Militia Ordinance 1845_ allowed the Governor ro for a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the _Militia Act 1865_ which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the _Militia Act 1870_ which lowered the minimum age to 17.
+The _Defence Act 1909_ brought in a general training requirement for males 12 to 14 years old (Junior Cadets), 14 to 18 (Senior Cadets), 18 to 21 (General Training Section), and 21 to 30 (the Reserve). There was exemption for religious conscientious objectors but they were still obligated to perform ‘an equivalent to such service and training such non-combatant duties as are prescribed by the Governor’.  
+
+The _Military Service Act 1916_, required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service.
+There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
+In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
+ 
+Conscription was reintroduced in 1940 with the _Emergency Regulations Amendment Act 1940_. The _Military Training Act 1949_ reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The _National Military Service Act 1961_ changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
+
+## My notes:
 In New Zealand's 1987 CEDAW report:
 
 > In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. ==This provision, which discriminated against widowers==, was removed in the 1982 Social Security Amendment Act. The benefit on death is now available to widowers on the same basis as to widows.
