@@ -41,13 +41,13 @@ The *Police Offences Amendment Act (No 2) 1952* introduced some changes. Firstly
 
 ## Infanticide
 
-Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3 year prison sentence where murder has a maximum sentence of life imprisonment. If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter.
+Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3-year prison sentence where murder has a maximum sentence of life imprisonment. If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter.
 
 Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where a woman he would have been charged with infanticide.
 
 > Another class of ‘neither nor’ defendants are the ‘deserving cases’. These are defendants suffering some mental impairment who, because of their circumstances, deserve reduced culpability in a way the law currently fails to provide. For example, in R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning. Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10), which was a causal factor in him killing the baby. He was held to be sane. As shall be discussed, infanticide is the only statutory form of reduced culpability for defendants suffering mental impairment short of insanity in New Zealand. **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^7]
 
-There is some support to replace infanticide with a gender neutral law.
+There is some support to replace infanticide with a gender-neutral law.
 
 > Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^8]
 
@@ -113,7 +113,7 @@ The _Criminal Code Bill 1886_ defines "Rape is the act of a male person, not und
 
 
 ## Other discrimination in law.
-Some other laws treat men less favoutbaly than women.
+Some other laws treat men less favourably than women.
 ### Equal pay
 The Equal Pay Act 1972 does not offer the same protection to men in jobs that are predominately male as it does for women in jobs that are predominately female. The law assumes that women will always be the ones disadvantaged in matters of equal pay.
 
@@ -121,9 +121,14 @@ The Equal Pay Act 1972 does not offer the same protection to men in jobs that ar
 The Public Service Act 2020 requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for ... recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but there is no requirement to recognise the employment requirements of men. 
 
 ## Historically
+Historically, there are many laws that discriminate against men, by giving them harsher punishments, by requiring them to perform additional duties, or by denying them the same protection or privileges granted to women.
+
+### Slander of Women
+Women had extra legal protection from slander. The _Slander of Women Act 1898_ meant that spoken or published words that suggest a woman is sexually immoral were actionable without any evidence of actual damage. This was consolidated into the _Judicature Act 1908_. This provision was repealed in the _Defamation Act 1954_.
+
 
 ### Flogging or whipping
-Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16 year old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
+Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
  
 ### Jury service
 Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
@@ -131,6 +136,22 @@ Historically, only men were required to serve on a jury. Men who refused to serv
 ### Assisting police officers
 The _Police Force Act 1913_, the _Police Force Act 1947_, the _Police Act 1958_ require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The _Human Rights Amendment Act 2001_ amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the _Policing Act 2008_ also applies to any person.
 
+### Compulsory military training or service.
+Only men were required to train or serve in the military in New Zealand.
+
+The _Militia Ordinance 1845_ allowed the Governor to form a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the _Militia Act 1865_ which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the _Militia Act 1870_ which lowered the minimum age to 17.
+The _Defence Act 1909_ brought in a general training requirement for males 12 to 14 years old (Junior Cadets), 14 to 18 (Senior Cadets), 18 to 21 (General Training Section), and 21 to 30 (the Reserve). There was exemption for religious conscientious objectors but they were still obligated to perform ‘an equivalent to such service and training such non-combatant duties as are prescribed by the Governor’.  
+#### WWI
+The _Military Service Act 1916_, required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
+
+#### Loss of rights
+The _Expeditionary Forces Amendment Act 1918_ removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The _War Disabilities Removal Bill 1927 (16-3)_ proposed to end the denial of rights one year early, but this provision was removed before passing the War Disabilities Removal Act.[^18] 
+
+In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
+#### WWII
+Conscription was reintroduced in 1940 with the _Emergency Regulations Amendment Act 1940_. The _Military Training Act 1949_ reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The _National Military Service Act 1961_ changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
+
+## My notes:
 In New Zealand's 1987 CEDAW report:
 
 > In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. ==This provision, which discriminated against widowers==, was removed in the 1982 Social Security Amendment Act. The benefit on death is now available to widowers on the same basis as to widows.
@@ -242,11 +263,11 @@ The following legislation, either removing legal discriminations against women o
 [^2]: ICCPR General Comment 28, paragraph 31
 [^3]: Review of Part 8 of the Crimes Act 1961: crimes against the person [https://bit.ly/2LQuRv5](https://bit.ly/2LQuRv5)]
 
-[^4]: Reform Of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2MoYwNh](https://bit.ly/2MoYwNh) – paragraph 35
+[^4]: Reform of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2MoYwNh](https://bit.ly/2MoYwNh) – paragraph 35
 
 [^5]: Submission of the Human Rights Commission on the Family and Whānau Violence Legislation Bill [https://bit.ly/2Jz5tgV](https://bit.ly/2Jz5tgV)
 
-[^6]: Reform Of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2JFzt6K](https://bit.ly/2JFzt6K)
+[^6]: Reform of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2JFzt6K](https://bit.ly/2JFzt6K)
 
 [^7]: Westway, Thomas - "Guilty But Substantially Mentally Impaired" [2011] NZLawStuJl 2; (2011) 2 New Zealand Law Students' Journal 470 - [http://archive.li/TtqTm](http://archive.li/TtqTm)]
 
@@ -269,3 +290,5 @@ The following legislation, either removing legal discriminations against women o
 [^16]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
 
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+
+[^18]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
