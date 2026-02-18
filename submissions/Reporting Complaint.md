@@ -432,7 +432,7 @@ Thank you for your response (ref 243839). In this reply I will demonstrate mater
 ## Equal and effective protection 
 
 3.  Article 26 of the ICCPR grants men and boys the right to 'equal and effective protection' from discrimination. The international monitoring and reporting process provides part of this protection. Therefore, excluding men from the monitoring and reporting process denies them the right to equal protection from discrimination.
-# Indirect discrimination 
+## Indirect discrimination 
 
   4.  If, for the sake of argument, we accept that the Ministry's omission of men from a section on equality between men and women, is not direct discrimination, it is still indirect discrimination. The Ministry's practice of excluding men and using CEDAW to "comprehensively cover" its Article 3 reporting results in material disadvantage to men and there is no good reason for it.
 ## Material disadvantage 
@@ -544,13 +544,9 @@ Thank you for your response (ref 243839). In this reply I will demonstrate mater
 
 37. In addition to the systemic issues mentioned above, there are significant inequalities facing men and boys that the Ministry should have considered when reporting on equal rights between men and women. For example, more men than women die in every age-group up to age 80, around 3 times as many men than women die from suicide, and more men are murdered. See Figures 1, 2 and 3.
 
-Figure 1:
-    ![[male deaths for each female death.svg]]
-Figure 2:
-![[Suicide 1921-2003.svg]]
-
-Figure 3:
-    ![[Deaths from assault(ratio) 1948-2021.svg]]
+Figure 1:![[male deaths for each female death.svg]]
+Figure 2:![[Suicide 1921-2003.svg]]
+Figure 3:![[Deaths from assault(ratio) 1948-2021.svg]]
 ## Limited Word count 
 
 38. Men's human rights are as equally important as women's human rights. A lack of resources, such as a limited word count, is not a valid excuse for discrimination unless "every effort has been made to use all resources"[^65] that are available. Omitting men's rights has a disproportionately negative effect on men because women's rights are 'comprehensively covered' in New Zealand's CEDAW reports and men do not have equivalent reports. The OHCHR recommends that reports cover the most urgent matters.[^66] Addressing unreported men's human rights issues is more urgent than repeating issues identified in the CEDAW reporting process.
