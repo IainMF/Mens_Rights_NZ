@@ -518,7 +518,7 @@ Hilary
 
 [^49]: ICCPR General Comment 35 -- paragraph 17
 
-[^50]: See figures [1](#fig:deaths){reference-type="ref" reference="fig:deaths"}, [2](#fig:suicide){reference-type="ref" reference="fig:suicide"}, and [3](#fig:assault){reference-type="ref" reference="fig:assault"}, and the laws mentioned above
+[^50]: See figures 1, 2, and 3, and the laws mentioned above
 
 [^51]: Why It's OK to Speak Your Mind - Hrishikesh Joshi 2021 - ISBN 9780367141721
 
