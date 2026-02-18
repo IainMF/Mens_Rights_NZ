@@ -1,11 +1,12 @@
 ---
-title: Complaint about UN reporting
-description: A complaint of discrimination against men in New Zealand's United Nations human rights reporting.
-date: 2025-08-20
+title: Complaint about New Zealand's human rights reporting
+description: This is a complaint of discrimination against men in New Zealand’s United Nations human rights reporting. I initially complained to the Ministry of Justice, and then to the Human Rights Commission. I am currently going through the disputes resolution process at the Human Rights Commission and waiting on a mediator to contact me.
+date: 2026-02-19
 ---
 
 
 ## To: The Ministry of Justice 
+20 August 2025
 
 1.  This is a complaint of unlawful discrimination and other rights violations for omitting men's human rights issues when reporting on article 3 of the International Covenant on Civil and Political Rights (ICCPR) and article 3 the International Covenant on Economic, Social, and Cultural Rights (ICESCR). In this complaint, article 3 of both conventions are referred to collectively as **article 3** because article 3 of both conventions are substantially the same and this complaint applies to both conventions.
 
@@ -318,38 +319,36 @@ The Declaration on Human Rights Defenders says that New Zealand has a responsibi
 71. New Zealand should ensure that its common core document[^34] adequately and accurately represents men's human rights issues and does not reinforce stereotypes. For example, the education section in the current document does not include sex disaggregated data that would show disparities affecting men and boys.
 
 # Ministry response:
+17 September 2025
  Tēnā koe 
  
-International Covenant on Civil and Political Rights (ICCPR)
+**International Covenant on Civil and Political Rights (ICCPR)**
 
-Thank you for your letter of 20 August 2025, regarding New Zealand’s obligations under
-article 3 of the ICCPR and the International Covenant on Economic, Social and Cultural
+Thank you for your letter of 20 August 2025, regarding New Zealand’s obligations under article 3 of the ICCPR and the International Covenant on Economic, Social and Cultural
 Rights (ICESCR).
-As you are aware, article 3 of the ICCPR and ICESCR requires state parties to ensure the
-equal right of everyone to the enjoyment of those rights set out in the Covenants. The New
-Zealand Bill of Rights Act 1990 affirms New Zealand’s commitment to the ICCPR and
-guarantees everyone the right to freedom from discrimination on the grounds set out in the
-Human Rights Act 1993 (the Act). Section 21 of the Act prohibits discrimination on several
-grounds such as sex, age, race, religion, and disability.
-Although international reporting to United Nations (UN) Human Rights treaty bodies must be
-comprehensive, they are bound by strict word limits. This means the Government must
-consider the most relevant and urgent matters that have arisen within the reporting period,
-and address the issues raised by the treaty body committee in its concluding observations,
+
+As you are aware, article 3 of the ICCPR and ICESCR requires state parties to ensure the equal right of everyone to the enjoyment of those rights set out in the Covenants. The New
+Zealand Bill of Rights Act 1990 affirms New Zealand’s commitment to the ICCPR and guarantees everyone the right to freedom from discrimination on the grounds set out in the
+Human Rights Act 1993 (the Act). Section 21 of the Act prohibits discrimination on several grounds such as sex, age, race, religion, and disability.
+
+Although international reporting to United Nations (UN) Human Rights treaty bodies must be comprehensive, they are bound by strict word limits. This means the Government must
+consider the most relevant and urgent matters that have arisen within the reporting period, and address the issues raised by the treaty body committee in its concluding observations,
 list of issues or general comments.
-When preparing New Zealand's 2025 ICESCR report, New Zealand did not receive a list of
-issues but considered the content most relevant to each article in the Covenant, including
-the Committees previous recommendations. New Zealand expects to submit its seventh
-periodic report under the ICCPR in early 2026. The UN has provided a list of issues that
-New Zealand will address and report on. Public submissions on the draft report will open in
-due course.
-If you wish to pursue a discrimination complaint, you can contact the Human Rights
-Commission, who offer a free and confidential service for complaints about unlawful
-discrimination and prohibited behaviour under the Act. Further information about making a
-complaint can be found here: Making a complaint.
+
+When preparing New Zealand's 2025 ICESCR report, New Zealand did not receive a list of issues but considered the content most relevant to each article in the Covenant, including
+the Committees previous recommendations. New Zealand expects to submit its seventh periodic report under the ICCPR in early 2026. The UN has provided a list of issues that
+New Zealand will address and report on. Public submissions on the draft report will open in due course.
+
+If you wish to pursue a discrimination complaint, you can contact the Human Rights Commission, who offer a free and confidential service for complaints about unlawful
+discrimination and prohibited behaviour under the Act. Further information about making a complaint can be found here: 
+
+Making a complaint.
 
 Thank you for taking the time to write and I trust this information is of assistance to you.
 
 # Complaint to HRC
+
+2 October 2025
 
 Tēnā koe,
 
@@ -379,11 +378,13 @@ Ngā mihi,
 
 # Response from HRC
 
+12 January 2026 
+
 Tēnā koe Iain 
 
 We are writing in response to your complaint against the Ministry of Justice in respect of its reporting to the United Nations under ICCPR and ICESCR. You allege that the omission of men’s rights issues constitutes unlawful discrimination against men. 
 
-Our role under the HRA and applicable law 
+**Our role under the HRA and applicable law** 
 
 We have carefully considered the information you provided. Based on our assessment, your enquiry does not appear to raise issues of [unlawful discrimination](https://tikatangata.org.nz/human-rights-in-aotearoa/what-is-unlawful-discrimination) under the Human Rights Act 1993, and our dispute resolution service is not the appropriate pathway in this instance.  
 
@@ -398,7 +399,7 @@ The test for unlawful discrimination under s 19 requires:^[3: _Ministry of Heal
     
 If the above two-stage test for discrimination is established, the burden shifts to the Crown to prove that the limitation on the right is justified under s 5 of the NZBORA.  
 
-Whether omitting men’s issues in UN reporting engages the test for discrimination under Part 1A of the HRA 
+**Whether omitting men’s issues in UN reporting engages the test for discrimination under Part 1A of the HRA** 
 
 While we acknowledge your concern that men’s issues are not explicitly addressed in New Zealand’s ICCPR and ICESCR reports, we consider the omission does not, by itself, engage the test for unlawful discrimination under Part 1A. We set out our reasons below: 
 
@@ -408,7 +409,7 @@ While we acknowledge your concern that men’s issues are not explicitly address
 
 While men experience certain issues more than women, as detailed in your complaint, the omission of men’s equality issues from the equality section of an international report does not, on its own, treat men differently from women and cause them material disadvantage.  
 
-Next steps 
+**Next steps** 
 
 We acknowledge the issues raised in your complaint and appreciate your concern for these issues. Your complaint identifies important systemic concerns about visibility, monitoring, and ensuring progress for both women’s and men’s rights.   
 
