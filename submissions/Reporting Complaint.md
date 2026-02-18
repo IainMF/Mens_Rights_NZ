@@ -414,27 +414,164 @@ We acknowledge the issues raised in your complaint and appreciate your concern f
 
 If you have specific examples of domestic laws, policies, or practices that you believe discriminate against, and cause material disadvantage to men or boys (e.g., education disparities, lack of health strategies, lack of support for male victims of violence), together with supporting information showing the material disadvantage, we can assess whether any of those examples could engage Part 1A.  
 
-1. See _Ministry of Health v Atkinson_ \[2012] NZCA 184,\[2013] 3 NZLR 546 at \[55] for the relevant test on unlawful discrimination which requires both differential treatment and material disadvantage resulting from that differential treatment. 
-
-2. As confirmed by s 20J of the HRA.
-
-3. _Ministry of Health v Atkinson_ \[2012] NZCA 184, \[2013] 3 NZLR 546 at \[55].
-
-
-> [!NOTE] Note:
-> The HRC should be already aware of these issues and the material disadvantages faced by men and boys.
-
-
-> [!NOTE] "Material disadvantge"
-> https://www.ldac.org.nz/guidelines/legislation-guidelines-2021-edition/constitutional-issues-and-recognising-rights-2/chapter-7
-> &
-> https://www.auckland.ac.nz/assets/law/Documents/2021/our-research/Public-interest-journal/Issue-6/(2019)%206%20PILJNZ%2076%20Gavey.pdf
-
-
-
 Ngā mihi  
 
 Hilary
+
+# My Reply to the HRC
+2 February 2026
+
+Kia Ora,
+
+Thank you for your response (ref 243839). In this reply I will demonstrate material disadvantage from inadequate reporting of men's rights and show that explanations for excluding men's rights are not justified.
+
+1.  I disagree that the reports are only informational. It is not like a news story about human rights whose purpose is solely to inform. The reports are part of a process to identify and rectify human rights violations under the relevant treaties. The primary issue is not that the Ministry omitted men's rights from a description of human rights in New Zealand, but that they omitted men's rights from the *process of identifying and rectifying human rights violations*.
+
+2.  The Ministry of Justice describes the monitoring and reporting process as delivering "concrete benefits for New Zealand".[^35]
+    The OHCHR describes the reporting procedure as an opportunity for States to assess their laws, policies and programmes and engage in a constructive dialogue on how to address challenges.[^36] It is not just an informational process.
+## Equal and effective protection 
+
+3.  Article 26 of the ICCPR grants men and boys the right to 'equal and effective protection' from discrimination. The international monitoring and reporting process provides part of this protection. Therefore, excluding men from the monitoring and reporting process denies them the right to equal protection from discrimination.
+# Indirect discrimination 
+
+  4.  If, for the sake of argument, we accept that the Ministry's omission of men from a section on equality between men and women, is not direct discrimination, it is still indirect discrimination. The Ministry's practice of excluding men and using CEDAW to "comprehensively cover" its Article 3 reporting results in material disadvantage to men and there is no good reason for it.
+## Material disadvantage 
+
+5.  You state 'However, for a Part 1A claim to be established, there must be evidence that a domestic act, policy, or
+    decision has resulted in material disadvantage for men in practice (i.e. that this reporting omission has directly exacerbated any of the issues set out at pages 16-18 of your complaint).'' I do not think that proving an omission exacerbated an issue is a fair assessment of material disadvantage.
+
+6.  I think a fair assessment of material disadvantage would be to compare the omission of men's human rights issues to the expected result of proper monitoring and reporting. The expected result of monitoring and reporting is changes in policy or practice that address the reported issues.
+
+7.  Reviewing the law with respect to human rights obligations results in changes in legislation. For example, a legislative review to ensure compliance with the ICCPR resulted in the Human Rights Commission Act 1977.[^37] Thus, proper monitoring and reporting of men's rights would identify laws that discriminate against men and result in changes to the law. Here are some examples of discriminatory laws that create material disadvantage for men or boys and would have been changed, or changed earlier, with proper monitoring and reporting.
+### Protecting boys from female paedophiles 
+
+8.  It was legal for female paedophiles to sexually abuse boys until the Crimes Amendment Act 2005.[^38] The Act made it illegal for women to have sex with boys under 16. The amendments were made in response to a high-profile case in which swimming coach, Stacey Friel, had sex with a 13-year-old boy from her swimming club. Notably, before the incidents, Friel looked at the law to see if it was legal for her to have sex with the boy.[^39]
+
+9.  Anecdotally, a social worker told me that prior to 2005, he knew of a middle-aged woman who was repeatedly getting a boy drunk to have sex him, but when he reported it to the police there was nothing they could do because it was not illegal at the time.
+
+10. News reports after 2005 show that a number of women have been charged with sexual assault against boys. Many other cases of sexual abuse would have been prevented had the law been changed earlier.
+
+11. Once parliament became aware of the omission, the law was changed to protect boys from women sexually assaulting them. Proper monitoring and reporting of men's human rights would have identified this issue earlier and parliament would have changed the law, preventing boys from being sexually assaulted. This is especially true in the Friel case. When she looked at the law, she would have seen that it was illegal for her to have sex with the boy and would not have done it.
+### Infanticide 
+
+12. Section 178 of the Crimes Act 1961[^40] allows mothers who kill their children while mentally ill to be charged with the less serious *infanticide*. A father in the same situation, committing the same act, would be charged with murder. Infanticide has a maximum sentence of three years in prison, while murder has a maximum sentence of life imprisonment. Research shows that mental health issues such as postnatal depression are a risk to both mothers and fathers. There is at least one case of a man being charged with murder where a woman would have been charged with infanticide.
+
+    > \[I\]n R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning.[^41] Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10),[^42] which was a causal factor in him killing the baby. He was held to be sane\... **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^43]
+    > *Emphasis added*
+
+13. Again, proper monitoring and reporting of men's rights would have identified this, allowing a law change and preventing this man from being charged with murder.
+### Male Assaults Female 
+
+14. Section 194 of the Crimes Act 1961[^44] includes *male-assaults-female* which is a sex-specific equivalent to 'common assault'. *Male-assaults-female* has a two year maximum sentence compared to one year for common assault. The Human Rights Commission has previously stated: "The law should reflect the seriousness of the assault and not the gender of the victim and perpetrator."[^45]
+
+15. New Zealand's reports[^46] and supplemental information to the United Nations provide statistics for *male-assaults-female*. From 2008-2015, 28,260 men were charged and 19,392 men were convicted of *male-assaults-female*.[^47] This violates men's right to equality under the law. The Ministry's reporting of these statistics proves that they were not ignorant of this discriminatory law, they just failed to identify it as a violation of men's right to equality under the law.
+
+16. In addition to harsher penalties, men charged with *male-assaults-female* do not qualify for the more lenient bail provisions granted to persons charged with common assault. A person charged with common assault has the right to be bailed (must be released), but a man charged with *male-assaults-female* does not that right. Also, the Criminal Investigations (Bodily Samples) Act 1995 authorises investigators to take bodily samples from people accused of *male-assaults-female* but not for people accused of common assault.
+
+17. Laws that impose more severe penalties on the basis of sex are a violation of Article 26 of the ICCPR.[^48] Proper monitoring and reporting of men's rights would have identified this discrepancy and prompted law makers to change the law, preventing men from more severe penalties for the same act. It is likely that men have spent more time in prison than they would have if they were a woman charged with common assault. Longer imprisonment simply for being a male is arbitrary detention, in violation of Article 9 of the ICCPR.[^49]
+## Systemic and persistent challenges 
+
+18. One reason you suggest that men are not included is that women face systemic and persistent challenges.
+
+    > Sections on gender equality often focus primarily on women's issues to reflect systemic and persistent challenges arising from discrimination against women based on their gender.
+
+19. The existence of women's systemic and persistent challenges is only a good reason to exclude men if men do not also face systemic and persistent challenges arising from discrimination or other significant gender-based inequalities. Monitoring and reporting of both women's and men's rights must happen *before* any decision to focus on women. A decision to focus on women without prior monitoring and reporting on men's rights is never justified because the decision is made without essential information.
+
+20. There are significant problems for men,[^50] but even if there were none, it is still critical to report that there are no problems. The omission of men's issues makes it impossible to determine if there are no issues or there are issues, but they have not been reported. Without reporting on men's human rights, decision-makers view of gender equality becomes distorted.
+
+    > \"Social pressure can cause evidence to pile up on one side of a debate or issue, while evidence on the other side is systematically screened out. A person who looks at the evidence as it is presented, then, will form a warped view of the matter, even if she rationally evaluates the evidence at hand...They will be unaware that their view of the world is distorted.\"[^51]
+
+21. The Ministry should be aware of persistent and systemic discrimination against men and boys in New Zealand and include them in its human rights reports. Two examples are discrimination in the justice system and circumcision.
+### Discrimination in the Justice system 
+
+22. Men face harsher treatment in the justice system. They are more likely to be prosecuted rather than given an alternative like being warned or discharged without conviction, are more likely to be sent to prison once convicted, and they receive longer sentences on average and are less likely to be released on parole.[^52]
+
+23. Brown[^53] studied Police administrative data to investigate factors that may influence the likelihood of prosecution. He reports official statistics showing males were "prosecuted at a higher rate than females, 72.5% vs 65% respectively".
+
+24. Brown reports that Police studies found that "On average, males were 12% more likely to be prosecuted than females for the same offence." Males were 64% more likely to be prosecuted for 'Threatening Behaviour'. and 45% more likely to be prosecuted for 'Resist or Hinder Officer or Justice Official'.
+
+    > The studies found evidence that sex and ethnicity affect the prosecution decision for certain crime types (even after controlling for other factors, such as criminal history). While not apparent for all offence types measured, they found that the odds of prosecution for males, on average, are significantly greater than females for some offence types (Assault, Disorderly Conduct)
+
+25. Brown's own research found that males "are significantly
+    more likely to be prosecuted for 'Dangerous Driving' (90%), are over twice as likely to be prosecuted for 'Threatening Behaviour' (110%), and 'Property Damage' (51%)."
+
+26. Jeffries[^54] found discrimination against men in several areas of the justice system:
+
+    > In all but one case (the initial decision to imprison) sex was found to have a direct impact on the judicial outcomes investigated including: length of imprisonment term, remand status, length of custodial remand and bail conditions. With other factors statistically controlled, women's imprisonment terms were found to be substantially shorter than men's.
+
+27. Patterson[^55] found similar discrimination against men for sexual assault cases.
+
+    > In terms of police decision-making processes, compared to males, a smaller proportion of females proceeded to "court action" for their offences. Furthermore, the severity of sentences handed down to males was greater than those handed down to females, both generally and when the sexual offence could be directly matched.
+
+28. Bias against men in the justice system, such as harsher punishment, is a long-term systemic problem. For example, the Criminal Code Act 1893[^56] states that only males can be flogged or whipped as a punishment and Bindler[^57] found a persistent sentencing gap disadvantaging men when reviewing 200 years of cases from the Old Bailey, London.
+### Rape and Sexual Assault 
+
+29. Section 128 of the Crimes Act 1961 defines rape as penetration with a penis. This gendered definition means that, except in rare circumstances, only men can be charged with rape. It denies male victims who were *forced-to-penetrate* equal levels of justice compared to female rape victims, and causes male victims undue distress. For example:
+
+    > It's deeply saddening that the definition of rape is restricted only to penetrative sex, this ignores the rights of those victims not of being penetrated but forced to penetrate." (Māori/Pākehā, man, takatāpui, heterosexual)[^58]
+### Sentencing Guidelines for sexual offences 
+
+30. New Zealand's rape and sexual assault law and subsequent sentencing guidelines treat women who have non-consensual sex with men more leniently than men who have non-consensual with women. The sentencing guidelines released by the Court of Appeal make a clear distinction between penetrative rape and other forms of sexual assault.[^59] This creates a significant difference between men and women. For example, the guidelines recommend a sentence of 6-8 years for a man charged with having sex with a woman without her consent. The guidelines recommend a 2-5 year sentence for a woman charged with having sex with a man without his consent. Male victims of female perpetrators are denied the same level of justice as female victims of male perpetrators.
+### Police use of force 
+
+31. Police discriminate against men when considering whether to use force. A review of police TASER use found that officers are more likely to use TASERs against men than against women. TASERs were used by police officers for compliance with male suspects, although it is prohibited by Police policy.[^60]
+
+    > **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^61] *Emphasis added*
+
+    Additionally, men were more likely to be TASERed in sensitive areas (such as the face or genitals) that should not be targeted when using a TASER.[^62]
+### Protection from Genital Mutilation 
+
+32. New Zealand must protect girls and boys equally.[^63] However, female genital mutilation is illegal in New Zealand but boys are not protected from non-therapeutic circumcision. Approximately 3000 boys are circumcised each year in New Zealand.
+
+33. In 2012, a German Court ruled[^64] that a religiously motivated circumcision is a bodily injury under German law, even with the consent of the child's parents. The Court's reasoning holds in New Zealand, too. The parents' right to religious child rearing does not take precedence over the child's right to physical integrity and self-determination.
+
+34. Moreover, the Court determined that circumcision of a boy who cannot consent is not in his best interests. Not from the perspective of avoiding marginalisation from his religious community, nor from the perspective of parental educational rights. The fundamental rights of parents are limited by the child's fundamental right to physical integrity and self-determination.
+
+35. The proportionality principle must be observed when balancing the fundamental rights concerned. The Court explained that the violation of physical integrity inherent in circumcision for religious education is, if it is necessary, in any case unreasonable. In addition, the boy's body is permanently and irreparably altered by circumcision. This change runs counter to the child's interest in being able to decide later on his own religious affiliation.
+
+36. Additionally, in New Zealand, non-therapeutic circumcision of boys meets the four elements of torture under the UNCAT and the Crimes of Torture Act 1989. The four elements are intention, purpose, pain and suffering, and consent or acquiescence of a State official. Non-therapeutic circumcision meets the criteria for torture because:
+
+    -   It is intentionally inflicted, that is, it is not accidental or done by negligence; *and*
+
+    -   The purpose is discriminatory because it is done to boys *because they are boys*; *and*
+
+    -   It causes severe pain or suffering; *and*
+
+    -   It occurs through the acquiescence of government officials. That is, it is performed by doctors regulated by the government, and there is no law prohibiting the non-therapeutic circumcision.
+
+    
+## Important inequalities 
+
+37. In addition to the systemic issues mentioned above, there are significant inequalities facing men and boys that the Ministry should have considered when reporting on equal rights between men and women. For example, more men than women die in every age-group up to age 80, around 3 times as many men than women die from suicide, and more men are murdered. See Figures 1, 2 and 3.
+
+Figure 1:
+    ![[male deaths for each female death.svg]]
+Figure 2:
+![[Suicide 1921-2003.svg]]
+
+Figure 3:
+    ![[Deaths from assault(ratio) 1948-2021.svg]]
+## Limited Word count 
+
+38. Men's human rights are as equally important as women's human rights. A lack of resources, such as a limited word count, is not a valid excuse for discrimination unless "every effort has been made to use all resources"[^65] that are available. Omitting men's rights has a disproportionately negative effect on men because women's rights are 'comprehensively covered' in New Zealand's CEDAW reports and men do not have equivalent reports. The OHCHR recommends that reports cover the most urgent matters.[^66] Addressing unreported men's human rights issues is more urgent than repeating issues identified in the CEDAW reporting process.
+# Summary 
+
+39. The Ministry's omission of men's human rights in the process of identifying and rectifying human rights issues through the international reporting process leads to material disadvantages for men and boys. Boys protection from sexual abuse was unnecessarily delayed and men have been charged with more punitive crimes than they would have been if they were women.
+
+40. There are no good reasons for omitting men rights from the process of identifying and rectifying human rights issues through the international reporting system. Both men and women face persistent and systemic challenges that merit ongoing monitoring and reporting. A limited word count is not a valid reason for excluding men unless it is completely unavoidable, which it is not.
+
+Please let me know if this is sufficient evidence of material disadvantage and how to proceed from here.
+
+Nga Mihi,
+
+# Response from the HRC
+
+Thank you for providing this additional information. 
+
+We have now referred your complaint to our dispute resolution team. A mediator will contact you in due course to discuss your complaint. 
+
+We respond to complaints in the order we receive them unless the circumstances require more urgent attention. Being a small team, it is likely to take several months for a mediator to contact you. We appreciate your patience and look forward to helping you.
+
 
 [^1]: Consolidated Guidelines for State reports under the ICCPR (CCPR/C/66/GUI)
 
@@ -503,3 +640,66 @@ Hilary
 [^33]: Declaration on Human Rights Defenders (A/RES/53/144) -- Article 15
 
 [^34]: HRI/CORE/NZL/2010
+[^35]: Ministry of Justice, [International Human Rights Guidelines -- Part 1: Overview of International Human Rights](https://www.justice.govt.nz/assets/Documents/Publications/1.-International-Human-Rights-Reporting-in-New-Zealand-.pdf)
+
+[^36]: OHCHR, 2021 -- Reporting under the International Covenant on Civil and Political Rights Training Guide -- PART I -- Manual
+
+[^37]: CCPR/C/NZL/2001/4 -- paragraph 243
+
+[^38]: [Crimes Amendment Act 2005](https://www.legislation.govt.nz/act/public/2005/0041/latest/whole.html)
+
+[^39]: The Sydney Morning Herald -- June 18, 2003 -- [Coach banned for sex with boy, 13](https://www.smh.com.au/sport/coach-banned-for-sex-with-boy-13-20030618-gdgy6i.html)
+
+[^40]: [Crimes Act 1961](https://www.legislation.govt.nz/act/public/1961/0043/latest/DLM327382.html)
+
+[^41]: *Footnote from original* -- R v W \[2004\] NZHC 2360; (2004) 21 CRNZ 926
+
+[^42]: *Footnote from original* -- ICD-10, n 44 at F43.0.
+
+[^43]: Westway, T. [*Guilty But Substantially Mentally Impaired*](https://www.nzlii.org/nz/journals/NZLawStuJl/2011/2.html). 2011, NZ Law Students' Journal
+
+[^44]: [Crimes Act 1961](https://www.legislation.govt.nz/act/public/1961/0043/latest/DLM327382.html)
+
+[^45]: Submission of the Human Rights Commission on the Family and Whānau Violence Legislation Bill
+
+[^46]: CCPR/C/NZL/6 -- paragraph 144
+
+[^47]: CCPR cycle VI -- Additional Info from State party -- Recorded Crime Victims Statistics - Family-Related Violence
+
+[^48]: ICCPR General Comment 28 -- paragraph 31
+
+[^49]: ICCPR General Comment 35 -- paragraph 17
+
+[^50]: See figures [1](#fig:deaths){reference-type="ref" reference="fig:deaths"}, [2](#fig:suicide){reference-type="ref" reference="fig:suicide"}, and [3](#fig:assault){reference-type="ref" reference="fig:assault"}, and the laws mentioned above
+
+[^51]: Why It's OK to Speak Your Mind - Hrishikesh Joshi 2021 - ISBN 9780367141721
+
+[^52]: *Criminal Justice in New Zealand* -- Julia Tolmie, Warren Brookbanks, 2007 p 302 -- ISBN 0408718846, 9780408718844
+
+[^53]: *The Assessment of Factors Influencing Police Prosecution Decision-Making* Brown Paul. (2024)
+
+[^54]: *Does Gender Really Matter? Criminal Court Decision Making in New Zealand*. Samantha Jeffries -- New Zealand Sociology Volume 17 Number 1 2002
+
+[^55]: *Disparities in police proceedings and court sentencing for females versus males who commit sexual offences in New Zealand* - Patterson, Hobbs, McKillop & Burton (2019), Journal of Sexual Aggression, 25:2
+
+[^56]: [Section 14 of Criminal Code Act 1893 (57 VICT 1893 No 56)](https://www.nzlii.org/nz/legis/hist_act/cca189357v1893n56192/cca189357v1893n56192.html)
+
+[^57]: *The persistence of the criminal justice gender gap: Evidence from 200 years of judicial decisions*. Bindler, A., & Hjalmarsson, R. (2020). The Journal of Law and Economics, *63*(2), 297-339.
+
+[^58]: *"In Our Own Words" -- Student experiences of sexual violence prior to and during tertiary education.* -- Thursday's in Black
+
+[^59]: R V AM CA27/2009
+
+[^60]: [Police TASER Policy](https://policepolicy.nz/policies/use-of-force-taser-electronic-control-devices/u-dcstd/TASER.pdf)
+
+[^61]: *Evidence Report 3. Analysis of TASER data. Understanding Policing Delivery*. Ihi Research. Leonard, Sanaei, Goldsmith, Hynds, Sidley, Arahanga, & Leonard, (2024) -- page 30.
+
+[^62]: [Police TASER Policy](https://policepolicy.nz/policies/use-of-force-taser-electronic-control-devices/u-dcstd/TASER.pdf)
+
+[^63]: ICCPR General Comment 28 -- paragraph 28
+
+[^64]: [LG Köln, Urteil vom 07.05.2012 - 151 Ns 169/11](https://openjur.de/u/433915.html)
+
+[^65]: ICESCR General Comment 20, paragraph 13
+
+[^66]: OHCHR, 2021 -- Reporting under the International Covenant on Civil and Political Rights Training Guide -- PART I -- Manual
