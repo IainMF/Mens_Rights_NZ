@@ -11,19 +11,19 @@ date: 2025-08-20
 
 2.  Article 3 of the ICCPR states:
 
-    > The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all civil and political rights set forth in the present Covenant.
+> The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all civil and political rights set forth in the present Covenant.
 
 3.  Article 3 of the ICESCR states:
 
-    > The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all economic, social and cultural rights set forth in the present Covenant.
+> The States Parties to the present Covenant undertake to ensure the equal right of men and women to the enjoyment of all economic, social and cultural rights set forth in the present Covenant.
 
 4.  ICCPR General Comment 28, paragraph 2, makes it clear that article 3 applies to both men and women.
 
-    > Article 3 implies that all human beings should enjoy the rights provided for in the Covenant, on an equal basis and in their totality.
+> Article 3 implies that all human beings should enjoy the rights provided for in the Covenant, on an equal basis and in their totality.
 
 5.  ICESCR General Comment 16, paragraph 6, makes it clear that article 3 applies to both men and women.
 
-    > The essence of article 3 of ICESCR is that the rights set forth in the Covenant are to be enjoyed by men and women on a basis of equality, a concept that carries substantive meaning. While expressions of formal equality may be found in constitutional provisions, legislation and policies of Governments, article 3 also mandates the equal enjoyment of the rights in the Covenant for men and women in practice.
+> The essence of article 3 of ICESCR is that the rights set forth in the Covenant are to be enjoyed by men and women on a basis of equality, a concept that carries substantive meaning. While expressions of formal equality may be found in constitutional provisions, legislation and policies of Governments, article 3 also mandates the equal enjoyment of the rights in the Covenant for men and women in practice.
 
 6.  New Zealand's reports to the United Nations omitted reporting on men's enjoyment of their rights under article 3, often relying on New Zealand's reports on the Convention on the Elimination of Discrimination Against Women (CEDAW). This is discrimination against men.
 
@@ -33,47 +33,47 @@ date: 2025-08-20
 
 7.  New Zealand is required to report to the United Nations Human Rights Committee on the ICCPR. Article 40.1 of the ICCPR states:
 
-    > 1.  The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights:
-    >
-    >     1.  Within one year of the entry into force of the present Covenant for the States Parties concerned;
-    >
-    >     2.  Thereafter whenever the Committee so requests.
+> 1.  The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights:
+>
+>     1.  Within one year of the entry into force of the present Covenant for the States Parties concerned;
+>
+>     2.  Thereafter whenever the Committee so requests.
 
 8.  Article 2.2 of the ICCPR requires New Zealand to "take the necessary steps...to give effect to the rights recognized in the present Covenant". Monitoring and reporting are necessary to give effect to the rights of the Covenant.
 #### Consolidated Guidelines for State reports under the International Covenant on Civil and Political Rights 
 
 9.  The United Nations Human Rights Committee published guidelines for reporting under the ICCPR in 1999[^1] and a revision in 2001.[^2] Section C contains general guidance on the contents of all reports. The relevant parts are:
 
-    > 4.  **Factors and difficulties.** Article 40 of the Covenant requires that factors and difficulties, if any, affecting the implementation of the Covenant should be indicated. A report should explain the nature and extent of, and reasons for every such factor and difficulty, if any such exist; and should give details of the steps being taken to overcome these.
-    >
-    > 5.  **Data and statistics.** A report should include sufficient data and statistics to enable the Committee to assess progress in the enjoyment of Covenant rights, relevant to any appropriate article.
-    >
-    > 6.  **Article 3.** The situation regarding the equal enjoyment of Covenant rights by men and women should be specifically addressed.
+> 1.  **Factors and difficulties.** Article 40 of the Covenant requires that factors and difficulties, if any, affecting the implementation of the Covenant should be indicated. A report should explain the nature and extent of, and reasons for every such factor and difficulty, if any such exist; and should give details of the steps being taken to overcome these.
+>
+> 2.  **Data and statistics.** A report should include sufficient data and statistics to enable the Committee to assess progress in the enjoyment of Covenant rights, relevant to any appropriate article.
+>
+> 3.  **Article 3.** The situation regarding the equal enjoyment of Covenant rights by men and women should be specifically addressed.
 
 10. New Zealand's reports do not contain sufficient data and statistics to assess compliance with article 3. New Zealand's article 3 reporting does not address men's equal enjoyment of their rights. The reports do not address the factors and difficulties in implementing article 3 in relation to men's rights.
 #### General Comments 
 
 11. ICCPR General Comment 18 says that New Zealand's article 3 reporting should include discrimination against men, in fact, and the measures taken to address such discrimination.
 
-    > Reports of many States parties contain information regarding legislative as well as administrative measures and court decisions which relate to protection against discrimination in law, but they very often lack information which would reveal discrimination in fact. When reporting on articles 2 (1), 3 and 26 of the Covenant, States parties usually cite provisions of their constitution or equal opportunity laws with respect to equality of persons. While such information is of course useful, the Committee wishes to know if there remain any problems of discrimination in fact, which may be practised either by public authorities, by the community, or by private persons or bodies. The Committee wishes to be informed about legal provisions and administrative measures directed at diminishing or eliminating such discrimination.[^3]
+> Reports of many States parties contain information regarding legislative as well as administrative measures and court decisions which relate to protection against discrimination in law, but they very often lack information which would reveal discrimination in fact. When reporting on articles 2 (1), 3 and 26 of the Covenant, States parties usually cite provisions of their constitution or equal opportunity laws with respect to equality of persons. While such information is of course useful, the Committee wishes to know if there remain any problems of discrimination in fact, which may be practised either by public authorities, by the community, or by private persons or bodies. The Committee wishes to be informed about legal provisions and administrative measures directed at diminishing or eliminating such discrimination.[^3]
 
 12. New Zealand's article 3 reporting does not address discrimination against men in law or in fact.
 ### ICESCR 
 
 13. New Zealand is required to report to the United Nations Economic and Social Council on ICESCR. Article 16.1 of the ICECSR states:
 
-    > The States Parties to the present Covenant undertake to submit in conformity with this part of the Covenant reports on the measures which they have adopted and the progress made in achieving the observance of the rights recognized herein.[^4]
+> The States Parties to the present Covenant undertake to submit in conformity with this part of the Covenant reports on the measures which they have adopted and the progress made in achieving the observance of the rights recognized herein.[^4]
 
-    Article 17.2 requires New Zealand to report "factors and difficulties":
+Article 17.2 requires New Zealand to report "factors and difficulties":
 
-    > Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Covenant.[^5]
+> Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Covenant.[^5]
 #### General Comments 
 
 14. ICESCR General Comment 16 requires periodic review of State obligations under Article 3
 
-    > States parties should periodically review existing legislation, policies, strategies and programmes in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^6]
+> States parties should periodically review existing legislation, policies, strategies and programmes in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^6]
 
-15. New's Zealand has not conducted a review to ensure it's "legislation, policies, strategies and programmes" are consonant with it's article 3 obligations to men. New Zealand's article 3 reporting does not cover measures to ensure men equally enjoy their rights, nor the factors and difficulties in ensuring this obligation.
+15. New Zealand has not conducted a review to ensure it's "legislation, policies, strategies and programmes" are consonant with it's article 3 obligations to men. New Zealand's article 3 reporting does not cover measures to ensure men equally enjoy their rights, nor the factors and difficulties in ensuring this obligation.
 ## Best Practice 
 
 16. New Zealand has not followed best practice in monitoring and reporting on human rights issues with respect to men and boys.
@@ -456,7 +456,7 @@ Thank you for your response (ref 243839). In this reply I will demonstrate mater
 
 12. Section 178 of the Crimes Act 1961[^40] allows mothers who kill their children while mentally ill to be charged with the less serious *infanticide*. A father in the same situation, committing the same act, would be charged with murder. Infanticide has a maximum sentence of three years in prison, while murder has a maximum sentence of life imprisonment. Research shows that mental health issues such as postnatal depression are a risk to both mothers and fathers. There is at least one case of a man being charged with murder where a woman would have been charged with infanticide.
 
-    > \[I\]n R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning.[^41] Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10),[^42] which was a causal factor in him killing the baby. He was held to be sane\... **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^43]
+> \[I\]n R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning.[^41] Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10),[^42] which was a causal factor in him killing the baby. He was held to be sane\... **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^43]
     > *Emphasis added*
 
 13. Again, proper monitoring and reporting of men's rights would have identified this, allowing a law change and preventing this man from being charged with murder.
@@ -473,13 +473,13 @@ Thank you for your response (ref 243839). In this reply I will demonstrate mater
 
 18. One reason you suggest that men are not included is that women face systemic and persistent challenges.
 
-    > Sections on gender equality often focus primarily on women's issues to reflect systemic and persistent challenges arising from discrimination against women based on their gender.
+> Sections on gender equality often focus primarily on women's issues to reflect systemic and persistent challenges arising from discrimination against women based on their gender.
 
 19. The existence of women's systemic and persistent challenges is only a good reason to exclude men if men do not also face systemic and persistent challenges arising from discrimination or other significant gender-based inequalities. Monitoring and reporting of both women's and men's rights must happen *before* any decision to focus on women. A decision to focus on women without prior monitoring and reporting on men's rights is never justified because the decision is made without essential information.
 
 20. There are significant problems for men,[^50] but even if there were none, it is still critical to report that there are no problems. The omission of men's issues makes it impossible to determine if there are no issues or there are issues, but they have not been reported. Without reporting on men's human rights, decision-makers view of gender equality becomes distorted.
 
-    > \"Social pressure can cause evidence to pile up on one side of a debate or issue, while evidence on the other side is systematically screened out. A person who looks at the evidence as it is presented, then, will form a warped view of the matter, even if she rationally evaluates the evidence at hand...They will be unaware that their view of the world is distorted.\"[^51]
+> \"Social pressure can cause evidence to pile up on one side of a debate or issue, while evidence on the other side is systematically screened out. A person who looks at the evidence as it is presented, then, will form a warped view of the matter, even if she rationally evaluates the evidence at hand...They will be unaware that their view of the world is distorted.\"[^51]
 
 21. The Ministry should be aware of persistent and systemic discrimination against men and boys in New Zealand and include them in its human rights reports. Two examples are discrimination in the justice system and circumcision.
 ### Discrimination in the Justice system 
@@ -490,18 +490,18 @@ Thank you for your response (ref 243839). In this reply I will demonstrate mater
 
 24. Brown reports that Police studies found that "On average, males were 12% more likely to be prosecuted than females for the same offence." Males were 64% more likely to be prosecuted for 'Threatening Behaviour'. and 45% more likely to be prosecuted for 'Resist or Hinder Officer or Justice Official'.
 
-    > The studies found evidence that sex and ethnicity affect the prosecution decision for certain crime types (even after controlling for other factors, such as criminal history). While not apparent for all offence types measured, they found that the odds of prosecution for males, on average, are significantly greater than females for some offence types (Assault, Disorderly Conduct)
+> The studies found evidence that sex and ethnicity affect the prosecution decision for certain crime types (even after controlling for other factors, such as criminal history). While not apparent for all offence types measured, they found that the odds of prosecution for males, on average, are significantly greater than females for some offence types (Assault, Disorderly Conduct)
 
 25. Brown's own research found that males "are significantly
     more likely to be prosecuted for 'Dangerous Driving' (90%), are over twice as likely to be prosecuted for 'Threatening Behaviour' (110%), and 'Property Damage' (51%)."
 
 26. Jeffries[^54] found discrimination against men in several areas of the justice system:
 
-    > In all but one case (the initial decision to imprison) sex was found to have a direct impact on the judicial outcomes investigated including: length of imprisonment term, remand status, length of custodial remand and bail conditions. With other factors statistically controlled, women's imprisonment terms were found to be substantially shorter than men's.
+> In all but one case (the initial decision to imprison) sex was found to have a direct impact on the judicial outcomes investigated including: length of imprisonment term, remand status, length of custodial remand and bail conditions. With other factors statistically controlled, women's imprisonment terms were found to be substantially shorter than men's.
 
 27. Patterson[^55] found similar discrimination against men for sexual assault cases.
 
-    > In terms of police decision-making processes, compared to males, a smaller proportion of females proceeded to "court action" for their offences. Furthermore, the severity of sentences handed down to males was greater than those handed down to females, both generally and when the sexual offence could be directly matched.
+> In terms of police decision-making processes, compared to males, a smaller proportion of females proceeded to "court action" for their offences. Furthermore, the severity of sentences handed down to males was greater than those handed down to females, both generally and when the sexual offence could be directly matched.
 
 28. Bias against men in the justice system, such as harsher punishment, is a long-term systemic problem. For example, the Criminal Code Act 1893[^56] states that only males can be flogged or whipped as a punishment and Bindler[^57] found a persistent sentencing gap disadvantaging men when reviewing 200 years of cases from the Old Bailey, London.
 ### Rape and Sexual Assault 
@@ -516,9 +516,9 @@ Thank you for your response (ref 243839). In this reply I will demonstrate mater
 
 31. Police discriminate against men when considering whether to use force. A review of police TASER use found that officers are more likely to use TASERs against men than against women. TASERs were used by police officers for compliance with male suspects, although it is prohibited by Police policy.[^60]
 
-    > **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^61] *Emphasis added*
+> **Analysis of TASER discharge events involving men indicated that the threshold for threat is considerably lower. In some cases, men were TASERed for non-compliance, or to gain control over a situation when no physical threat or weapon was present** (noted in the report or apparent in the video). Women were also more likely to be taken for treatment in a mental health crisis and less likely to be charged than men.[^61] *Emphasis added*
 
-    Additionally, men were more likely to be TASERed in sensitive areas (such as the face or genitals) that should not be targeted when using a TASER.[^62]
+Additionally, men were more likely to be TASERed in sensitive areas (such as the face or genitals) that should not be targeted when using a TASER.[^62]
 ### Protection from Genital Mutilation 
 
 32. New Zealand must protect girls and boys equally.[^63] However, female genital mutilation is illegal in New Zealand but boys are not protected from non-therapeutic circumcision. Approximately 3000 boys are circumcised each year in New Zealand.
@@ -531,22 +531,25 @@ Thank you for your response (ref 243839). In this reply I will demonstrate mater
 
 36. Additionally, in New Zealand, non-therapeutic circumcision of boys meets the four elements of torture under the UNCAT and the Crimes of Torture Act 1989. The four elements are intention, purpose, pain and suffering, and consent or acquiescence of a State official. Non-therapeutic circumcision meets the criteria for torture because:
 
-    -   It is intentionally inflicted, that is, it is not accidental or done by negligence; *and*
+ -   It is intentionally inflicted, that is, it is not accidental or done by negligence; *and*
 
-    -   The purpose is discriminatory because it is done to boys *because they are boys*; *and*
+ -   The purpose is discriminatory because it is done to boys *because they are boys*; *and*
 
-    -   It causes severe pain or suffering; *and*
+  -   It causes severe pain or suffering; *and*
 
-    -   It occurs through the acquiescence of government officials. That is, it is performed by doctors regulated by the government, and there is no law prohibiting the non-therapeutic circumcision.
+-   It occurs through the acquiescence of government officials. That is, it is performed by doctors regulated by the government, and there is no law prohibiting the non-therapeutic circumcision.
 
     
 ## Important inequalities 
 
 37. In addition to the systemic issues mentioned above, there are significant inequalities facing men and boys that the Ministry should have considered when reporting on equal rights between men and women. For example, more men than women die in every age-group up to age 80, around 3 times as many men than women die from suicide, and more men are murdered. See Figures 1, 2 and 3.
 
-Figure 1:![[male deaths for each female death.svg]]
-Figure 2:![[Suicide 1921-2003.svg]]
-Figure 3:![[Deaths from assault(ratio) 1948-2021.svg]]
+Figure 1:
+![[male deaths for each female death.svg]]
+Figure 2:
+![[Suicide 1921-2003.svg]]
+Figure 3:
+![[Deaths from assault(ratio) 1948-2021.svg]]
 ## Limited Word count 
 
 38. Men's human rights are as equally important as women's human rights. A lack of resources, such as a limited word count, is not a valid excuse for discrimination unless "every effort has been made to use all resources"[^65] that are available. Omitting men's rights has a disproportionately negative effect on men because women's rights are 'comprehensively covered' in New Zealand's CEDAW reports and men do not have equivalent reports. The OHCHR recommends that reports cover the most urgent matters.[^66] Addressing unreported men's human rights issues is more urgent than repeating issues identified in the CEDAW reporting process.
