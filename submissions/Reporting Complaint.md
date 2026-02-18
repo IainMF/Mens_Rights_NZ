@@ -6,6 +6,7 @@ date: 2026-02-19
 
 
 ## To: The Ministry of Justice 
+
 20 August 2025
 
 1.  This is a complaint of unlawful discrimination and other rights violations for omitting men's human rights issues when reporting on article 3 of the International Covenant on Civil and Political Rights (ICCPR) and article 3 the International Covenant on Economic, Social, and Cultural Rights (ICESCR). In this complaint, article 3 of both conventions are referred to collectively as **article 3** because article 3 of both conventions are substantially the same and this complaint applies to both conventions.
@@ -28,9 +29,9 @@ date: 2026-02-19
 
 6.  New Zealand's reports to the United Nations omitted reporting on men's enjoyment of their rights under article 3, often relying on New Zealand's reports on the Convention on the Elimination of Discrimination Against Women (CEDAW). This is discrimination against men.
 
-# Reporting obligations 
+## Reporting obligations 
 
-## ICCPR 
+### ICCPR 
 
 7.  New Zealand is required to report to the United Nations Human Rights Committee on the ICCPR. Article 40.1 of the ICCPR states:
 
@@ -75,7 +76,7 @@ Article 17.2 requires New Zealand to report "factors and difficulties":
 > States parties should periodically review existing legislation, policies, strategies and programmes in relation to economic, social and cultural rights, and adopt any necessary changes to ensure that they are consonant with their obligations under article 3 of the Covenant.[^6]
 
 15. New Zealand has not conducted a review to ensure it's "legislation, policies, strategies and programmes" are consonant with it's article 3 obligations to men. New Zealand's article 3 reporting does not cover measures to ensure men equally enjoy their rights, nor the factors and difficulties in ensuring this obligation.
-## Best Practice 
+### Best Practice 
 
 16. New Zealand has not followed best practice in monitoring and reporting on human rights issues with respect to men and boys.
 #### Declaration on Human Rights Defenders 
@@ -159,9 +160,9 @@ The Declaration on Human Rights Defenders says that New Zealand has a responsibi
     -   It has not been based on a review its legislation, policies, strategies and programmes to ensure they are consonant to their article 3 obligations to men and boys;
     -   It does not make men's human rights issues visible in the monitoring cycle;
     -   It is not useful for men and men's advocates.
-## Rights violated by not reporting 
-### The right to be free from discrimination 
-#### Domestic Law 
+### Rights violated by not reporting 
+#### The right to be free from discrimination 
+##### Domestic Law 
 
 33. The right to be free from discrimination is affirmed in Section 19 of the New Zealand Bill of Rights Act 1990. The Human Rights Act 1993 prohibits discrimination against men by the government.
 
@@ -320,7 +321,8 @@ The Declaration on Human Rights Defenders says that New Zealand has a responsibi
 
 # Ministry response:
 17 September 2025
- Tēnā koe 
+
+Tēnā koe 
  
 **International Covenant on Civil and Political Rights (ICCPR)**
 
@@ -420,6 +422,7 @@ Ngā mihi  
 Hilary
 
 # My Reply to the HRC
+
 2 February 2026
 
 Kia Ora,
