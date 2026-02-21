@@ -214,19 +214,15 @@ Svoboda argues that any claimed health benefits to circumcision, such as the sup
 
 # The right to life
 
-ICCPR Article 6.1 "Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life." Section 8 of the New Zealand Bill of Rights
-Act states: "No one shall be deprived of life except on such grounds as are established by law and are consistent with the principles of
-fundamental justice."
+ICCPR Article 6.1 "Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life." Section 8 of the New Zealand Bill of Rights Act states: "No one shall be deprived of life except on such grounds as are established by law and are consistent with the principles of fundamental justice."
 
-New Zealand must 'ensure the equal right of men and women to the enjoyment' of the right to life.[^37] and respect and protect the right to life 'without distinction of any kind'.[^38] Deprivation of
-life based on discrimination is necessarily arbitrary in nature. Therefore, New Zealand must equally protect men's right to life and provide 'effective guarantees against all forms of discrimination'[^39] that may lead to loss of life. Discrimination,
-in this case, is "any distinction, exclusion, restriction or preference"[^40] that impairs men's right to life.
+New Zealand must 'ensure the equal right of men and women to the enjoyment' of the right to life.[^37] and respect and protect the right to life 'without distinction of any kind'.[^38] Deprivation of life based on discrimination is necessarily arbitrary in nature. Therefore, New Zealand must equally protect men's right to life and provide 'effective guarantees against all forms of discrimination'[^39] that may lead to loss of life. Discrimination, in this case, is "any distinction, exclusion, restriction or preference"[^40] that impairs men's right to life.
 
  Males have a shorter life expectancy(80.5 years) compared to females(84 years).
 
 ## Avoidable deaths
 
-Article 6 requires New Zealand to take action to prevent avoidable deaths.[^41] In 2018, 4230 males and 3106 females died from preventable or treatable causes. For every 100 avoidable female   deaths, there were 136 avoidable male deaths.
+Article 6 requires New Zealand to take action to prevent avoidable deaths.[^41] In 2018, 4230 males and 3106 females died from preventable or treatable causes. For every 100 avoidable female deaths, there were 136 avoidable male deaths.
 
 ### No men's health strategy
 
@@ -236,8 +232,7 @@ One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve e
 
 ### Suicide
 
-The Human Rights Committee recognises State's obligations to prevent suicide. "States should take adequate measures, without violating their other Covenant obligations, to prevent suicides, especially
-among individuals in particularly vulnerable situations".[^43]
+The Human Rights Committee recognises State's obligations to prevent suicide. "States should take adequate measures, without violating their other Covenant obligations, to prevent suicides, especially among individuals in particularly vulnerable situations".[^43]
 
 The Health New Zealand Mortality Collection reports that between 1948 and 2020, 20571 males and 7302 females died from intentional self-harm. For every 100 female suicides, there were 282 male suicides. Figure [1](#fig:suicides 1948-2020) shows the changes in the age-standardised suicide rate for males and females from 1948-2020.[^44]
 ![[Fatal intentional self harm 1948-2020.svg]]
