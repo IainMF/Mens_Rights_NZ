@@ -29,7 +29,7 @@ The committee emphasises the important of preventing suicide of prisoners.
 
 ## Government actions
 
-The Government's suicide prevention strategy "aims to ensure services are fair and just and are helping our overrepresented populations, such as Māori and men''[^8] The Government has released their *Suicide Prevention Action Plan 2025–2029*.[^5] A public consultation on the draft *Suicide Prevention Action Plan identified a gap in addressing male suicide. "**In addition to the groups identified in the draft Action Plan, the failure to identify males as a specific priority population was a consistent theme across the consultation process.**''[^9] Although the plan recognises that men are disproportionately affected by suicide, there is no specific or targeted plan to reduce male suicide.  
+The Government's suicide prevention strategy "aims to ensure services are fair and just and are helping our overrepresented populations, such as Māori and men''[^8] The Government has released their *Suicide Prevention Action Plan 2025–2029*.[^5] A public consultation on the draft *Suicide Prevention Action Plan* identified a gap in addressing male suicide. "**In addition to the groups identified in the draft Action Plan, the failure to identify males as a specific priority population was a consistent theme across the consultation process.**''[^9] Although the plan recognises that men are disproportionately affected by suicide, there is no specific or targeted plan to reduce male suicide.  
 
 Another shortcoming of the plan is the focus on mental health, but a significant proportion of men who die by suicide did not show any mental health issues.
 
