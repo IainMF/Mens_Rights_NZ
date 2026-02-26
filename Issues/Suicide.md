@@ -29,11 +29,13 @@ The committee emphasises the important of preventing suicide of prisoners.
 
 ## Government actions
 
-The Government has released their Suicide Prevention Action Plan 2025–2029.[^5] Although they recognise that men are disproportionately affected by suicide, there is no specific or targeted plan to reduce male suicide. A shortcoming of the plan is the focus on mental health, but a significant proportion of men who die by suicide did not show any mental health issues.
+The Government's suicide prevention strategy "aims to ensure services are fair and just and are helping our overrepresented populations, such as Māori and men''[^8] The Government has released their *Suicide Prevention Action Plan 2025–2029*.[^5] A public consultation on the draft *Suicide Prevention Action Plan identified a gap in addressing male suicide. "**In addition to the groups identified in the draft Action Plan, the failure to identify males as a specific priority population was a consistent theme across the consultation process.**''[^9] Although the plan recognises that men are disproportionately affected by suicide, there is no specific or targeted plan to reduce male suicide.  
+
+Another shortcoming of the plan is the focus on mental health, but a significant proportion of men who die by suicide did not show any mental health issues.
 
 ## Issues in addressing male suicide
 
-Reasearch shows[^6] mental health professionals "showed a greater willingness to treat and refer female patients compared with male patients". Other research shows most men who die by suicide had contact with support services prior to their death.[^7]
+Research shows[^6] mental health professionals "showed a greater willingness to treat and refer female patients compared with male patients". Other research shows most men who die by suicide had contact with support services prior to their death.[^7]
 
 ## Worldwide
 In every country, male suicide rates are higher than female rates.
@@ -59,3 +61,7 @@ https://malesuicideresearch.com/resources/
 [^6]: Almaliah-Rauscher S, Ettinger N, Levi-Belz Y, Gvion Y. ["Will you treat me? I'm suicidal!" The effect of patient gender, suicidal severity, and therapist characteristics on the therapist's likelihood to treat a hypothetical suicidal patient](https://pubmed.ncbi.nlm.nih.gov/31989723/). Clin Psychol Psychother. 2020 May;27(3):278-287. doi: 10.1002/cpp.2426. Epub 2020 Feb 3. PMID: 31989723.
 
 [^7]: The National Confidential Inquiry into Suicide and Safety in Mental Health (NCISH). [Suicide by middle-aged men](https://documents.manchester.ac.uk/display.aspx?DocID=55305). 2021. The University of Manchester.
+
+[^8]: Ministry of Health. *Every Life Matters – He Tapu te Oranga o ia tangata: Suicide Prevention Strategy 2019–2029 and Suicide Prevention Action Plan 2019–2024 for Aotearoa New Zealand,* 2019
+
+[^9]: [Suicide Prevention Action Plan 2025-29 - Consultation analysis and insights](https://www.health.govt.nz/publications/suicide-prevention-action-plan-2025-29-consultation-analysis-and-insights)
