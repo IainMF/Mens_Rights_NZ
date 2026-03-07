@@ -297,6 +297,3 @@ The following legislation, either removing legal discriminations against women o
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 
 [^18]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNjg2OTAxXX0=
--->
