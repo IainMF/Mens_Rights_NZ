@@ -130,15 +130,15 @@ Women had extra legal protection from slander. The _Slander of Women Act 1898_ m
 #### Flogging or whipping
 Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
 #### Solitary confinement
-The *Prisons Act 1873* stipulates that male p
- 
-### Jury service
+The *Prisons Act 1873* stipulates that male prison escapees can be kept in solitary confinement as punishment.
+### Additional duties & responsibilities
+#### Jury service
 Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
 
-### Assisting police officers
+#### Assisting police officers
 The _Police Force Act 1913_, the _Police Force Act 1947_, the _Police Act 1958_ require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The _Human Rights Amendment Act 2001_ amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the _Policing Act 2008_ also applies to any person.
 
-### Compulsory military training or service.
+#### Compulsory military training or service.
 Only men were required to train or serve in the military in New Zealand.
 
 The _Militia Ordinance 1845_ allowed the Governor to form a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the _Militia Act 1865_ which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the _Militia Act 1870_ which lowered the minimum age to 17.
@@ -295,5 +295,5 @@ The following legislation, either removing legal discriminations against women o
 
 [^18]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgyODg2NDddfQ==
+eyJoaXN0b3J5IjpbLTExOTUyNjkwODhdfQ==
 -->
