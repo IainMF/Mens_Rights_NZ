@@ -154,6 +154,8 @@ In 1930 the compulsory military service law was temporarily suspended due to the
 ##### WWII
 Conscription was reintroduced in 1940 with the _Emergency Regulations Amendment Act 1940_. The _Military Training Act 1949_ reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The _National Military Service Act 1961_ changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
+
+
 ## My notes:
 In New Zealand's 1987 CEDAW report:
 
@@ -296,5 +298,5 @@ The following legislation, either removing legal discriminations against women o
 
 [^18]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxOTEzNzddfQ==
+eyJoaXN0b3J5IjpbMzAwNjg2OTAxXX0=
 -->
