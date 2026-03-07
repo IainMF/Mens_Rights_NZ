@@ -131,6 +131,7 @@ Women had extra legal protection from slander. The _Slander of Women Act 1898_ m
 Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
 #### Solitary confinement
 The *Prisons Act 1873* stipulates that male prison escapees can be kept in solitary confinement as punishment.
+
 ### Additional duties & responsibilities
 #### Jury service
 Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
@@ -143,14 +144,14 @@ Only men were required to train or serve in the military in New Zealand.
 
 The _Militia Ordinance 1845_ allowed the Governor to form a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the _Militia Act 1865_ which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the _Militia Act 1870_ which lowered the minimum age to 17.
 The _Defence Act 1909_ brought in a general training requirement for males 12 to 14 years old (Junior Cadets), 14 to 18 (Senior Cadets), 18 to 21 (General Training Section), and 21 to 30 (the Reserve). There was exemption for religious conscientious objectors but they were still obligated to perform ‘an equivalent to such service and training such non-combatant duties as are prescribed by the Governor’.  
-#### WWI
+##### WWI
 The _Military Service Act 1916_, required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
 
-#### Loss of rights
+##### Loss of rights
 The _Expeditionary Forces Amendment Act 1918_ removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The _War Disabilities Removal Bill 1927 (16-3)_ proposed to end the denial of rights one year early, but this provision was removed before passing the War Disabilities Removal Act.[^18] 
 
 In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
-#### WWII
+##### WWII
 Conscription was reintroduced in 1940 with the _Emergency Regulations Amendment Act 1940_. The _Military Training Act 1949_ reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The _National Military Service Act 1961_ changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
 ## My notes:
@@ -295,5 +296,5 @@ The following legislation, either removing legal discriminations against women o
 
 [^18]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUyNjkwODhdfQ==
+eyJoaXN0b3J5IjpbODgxOTEzNzddfQ==
 -->
