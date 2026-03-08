@@ -130,7 +130,7 @@ Women had extra legal protection from slander. The _Slander of Women Act 1898_ m
 #### Flogging or whipping
 Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
 #### Solitary confinement
-The *Prisons Act 1873* stipulates that male prison escapees can be kept in solitary confinement as punishment.
+The *Prisons Act 1873* stipulates that male prison escapees can be kept in solitary confinement as punishment. Section 17 of the *Crimes Act 1961* prohibts solitary confinement.
 
 ### Additional duties & responsibilities
 #### Jury service
