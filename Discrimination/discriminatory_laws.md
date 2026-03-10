@@ -157,7 +157,12 @@ In 1930 the compulsory military service law was temporarily suspended due to the
 ##### WWII
 Conscription was reintroduced in 1940 with the _Emergency Regulations Amendment Act 1940_. The _Military Training Act 1949_ reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The _National Military Service Act 1961_ changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
+### Combat
+Previous legislation allowed discrimination in the Armed Forces, Police Force and Corrections. It seems men were expected to carry the burden of combat and dealing with violence.
 
+The *Human Rights Commission Act 1977* and allows preferential treatment based on sex in the Armed Forces for crew members on an aircraft or ship and active combat roles. "For the purpose of dealing with situations involving violence or the threat of violence, nothing in section 15 of this Act shall prevent the recruitment of greater numbers of men than of women as members of the Police, traffic officers, or officers of penal institutions". The *Human Rights Act 1993* allows preferential treatment based on sex for combat roles. 
+
+The *Human Rights (Women in Armed Forces) Amendment Act 2007* repealed the provision that allowed discrimination based on sex. "The purpose of this Part is to amend the Human Rights Act 1993 to remove an exemption allowing discrimination against women that prevents them from serving in combat positions as New Zealand no longer prevents women from serving in an active combat role."
 
 ## My notes:
 In New Zealand's 1987 CEDAW report:
