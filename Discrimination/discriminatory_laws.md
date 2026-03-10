@@ -31,7 +31,7 @@ Despite the shortcomings of *male-assaults-female* being addressed in the propos
 ### Other concerns about male assaults female
 Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault.
 
-The Criminal Investigations (Bodily Samples) Act 1995 allows investigators the ability to take bodily samples from people accused of *male assaults female*. The equivalent common assault is not.
+The *Criminal Investigations (Bodily Samples) Amendment Act 2009*  allowed investigators the ability to take bodily samples from people accused of *male assaults female*. They may not take bodily samples for the equivlent common assault.
 
 ### History of male assaults female
 
