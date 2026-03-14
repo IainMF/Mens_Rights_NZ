@@ -164,6 +164,11 @@ The *Human Rights Commission Act 1977* and allows preferential treatment based o
 
 The *Human Rights (Women in Armed Forces) Amendment Act 2007* repealed the provision that allowed discrimination based on sex. "The purpose of this Part is to amend the Human Rights Act 1993 to remove an exemption allowing discrimination against women that prevents them from serving in combat positions as New Zealand no longer prevents women from serving in an active combat role."
 
+### Maintenance
+The *Family Proceedings Act 1980* removes discrimination against husbands in the assessment of maintenance. Previously a presumption that husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself.  and institutes a no-fault dissolution of marriage by making two years separation the only ground for divorce.
+
+
+
 ## My notes:
 In New Zealand's 1987 CEDAW report:
 
@@ -211,8 +216,8 @@ Accorded all New Zealand citizens the same rights with respect to the citizenshi
 #### State Services Amendment Act 1978  
 This gives members of the Public Service resigning for child care purposes preferential re-entry rights to the service up to four years after resignation or five years in the case of a woman entitled to maternity leave.
 
-#### Family Proceedings Act 1980  
-This removes discrimination in the assessment of maintenance by providing that spouses have the same liability to maintain each other, and institutes a no-fault dissolution of marriage by making two years separation the only ground for divorce.
+#### Family Proceedings Act 1980
+.. and institutes a no-fault dissolution of marriage by making two years separation the only ground for divorce.
 
 #### Guardianship Amendment Act 1980  
 This makes it quite clear that neither parent is to be preferred as the custodial parent solely by reason of sex.
