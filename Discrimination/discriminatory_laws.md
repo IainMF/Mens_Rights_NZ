@@ -165,7 +165,7 @@ The *Human Rights Commission Act 1977* and allows preferential treatment based o
 The *Human Rights (Women in Armed Forces) Amendment Act 2007* repealed the provision that allowed discrimination based on sex. "The purpose of this Part is to amend the Human Rights Act 1993 to remove an exemption allowing discrimination against women that prevents them from serving in combat positions as New Zealand no longer prevents women from serving in an active combat role."
 
 ### Maintenance
-The *Family Proceedings Act 1980* removed discrimination against husbands in the assessment of maintenance. Previously, husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself. The Act gave both husbands and wives equal obligation to provide maintenance when the other could not provide form themselves.
+The *Family Proceedings Act 1980* removed discrimination against husbands in the assessment of maintenance. Previously, husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself. The Act gave both husbands and wives equal obligation to provide maintenance when the other could not provide for themselves.
 
 
 ## My notes:
