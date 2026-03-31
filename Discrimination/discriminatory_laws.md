@@ -120,9 +120,6 @@ The Equal Pay Act 1972 does not offer the same protection to men in jobs that ar
 ### Good employer
 The Public Service Act 2020 requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for ... recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but there is no requirement to recognise the employment requirements of men. 
 
-### Searching aviation passengers
-The *Aviation Crimes Act 1972* allows the Police and Customs officers to search passenges or baggage. The Act specifes that only females may search female passengers, unless it is using an electronic device. Male passengers may be searched by female officers. A similar provision is in the *Civil Aviation Act 1990*. 
-
 ## Historically
 Historically, there are many laws that discriminate against men, by giving them harsher punishments, by requiring them to perform additional duties, or by denying them the same protection or privileges granted to women.
 
@@ -167,6 +164,8 @@ The *Human Rights (Women in Armed Forces) Amendment Act 2007* repealed the provi
 ### Maintenance
 The *Family Proceedings Act 1980* removed discrimination against husbands in the assessment of maintenance. Previously, husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself. The Act gave both husbands and wives equal obligation to provide maintenance when the other could not provide for themselves.
 
+### Searching aviation passengers
+The *Aviation Crimes Act 1972* allowed the Police and Customs officers to search passenges or baggage. The Act specifes that only females may search female passengers, unless it is using an electronic device. Male passengers may be searched by female officers. A similar provision was in the *Civil Aviation Act 1990*, but the *Civil Aviation Act 2023* does not. 
 
 ## My notes:
 In New Zealand's 1987 CEDAW report:
