@@ -74,6 +74,7 @@ The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as 
 One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^11] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
 
  Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^12]
+
 ## Protection from Genital Mutilation
 In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^13] This should apply to all children including boys.
 
@@ -138,6 +139,9 @@ Historically, only men were required to serve on a jury. Men who refused to serv
 
 #### Assisting police officers
 The _Police Force Act 1913_, the _Police Force Act 1947_, the _Police Act 1958_ require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The _Human Rights Amendment Act 2001_ amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the _Policing Act 2008_ also applies to any person.
+
+#### Assisting in animals disease emergency
+The _Animals Act 1967_ has a provision that "any fit male person over the age of eighteen years" may be required to render assistance to eradicate or limit the spread of an animals disease.
 
 #### Compulsory military training or service.
 Only men were required to train or serve in the military in New Zealand.
