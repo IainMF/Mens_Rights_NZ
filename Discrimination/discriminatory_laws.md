@@ -87,6 +87,22 @@ Martin Robbins argues that men should be able to choose whether they are circumc
 > Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^15]
 
 ## Rape and Sexual Assault
+Historically, there were significant gaps in legal protection of men and boys from sexual assault. The Crimes Act 1908, and later, the Crimes Act 1961 included crimes protecting women and girls from a wide range of sexual assaults, but men and boys were only protected from sexually assaults by men as a consequence of all sexual activity between men being illegal. In theory this protected males from sexual assault from males, in practice the fear of being charged themselves and stigma around homosexuality prevented victims from reporting these crimes. There was no legal protection for men from female perpetrated sexual assault.
+
+The Crimes Amendment Act 1985 introduced the gender-neutral 'unlawful sexual connection' which finally protected men from female perpetrated sexual assaults. The Crimes Amendment Act 2005 removed the remaining discrimination against men and boys in sexual assault law by equalising men's and boys' legal protection from sexual assault.
+
+#### Changes made by the Crimes Amendment Act 2005
+
+| Crimes Act 1961                                                           | 2005 Amendments                                                |
+|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| 131. Sexual intercourse with girl under care or protection                | 131. Sexual conduct with dependent family member               |
+| 132. Sexual intercourse with girl under twelve                            | 132. Sexual conduct with child under 12                        |
+| 134. Sexual intercourse or indecency with girl between twelve and sixteen | 134. Sexual conduct with young person under 16                 |
+| 138. Sexual intercourse with idiot or imbecile woman or girl              | 138. Sexual exploitation of person with significant impairment |
+| 139. Indecent act between woman and girl                                  | Repealed                                                       |
+| 208. Abduction of woman or girl                                           | 208. Abduction for purposes of marriage or sexual connection   |
+
+
 Section 128 of the Crimes Act 1961 defines *rape* as: 
 
 > Person A rapes person B if person A has sexual connection with person B, effected by the penetration of person B’s genitalia by person A’s penis,—
