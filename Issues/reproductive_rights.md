@@ -53,11 +53,12 @@ People who can apply to the Court for a declaration of paternity:
 [Births, Deaths, Marriages, and Relationships Registration Act 2021](https://www.legislation.govt.nz/act/public/2021/57/en/latest/#DLM7273632)
 
 
-## Citizenship Act 1977
+[Citizenship Act 1977](https://www.legislation.govt.nz/act/public/1977/61/en/latest/highlights/?highlight=paternity#DLM443820)
+
 
 
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzkwMzQxNSwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbLTQ1OTMwNzAxNSwyMDQyMDYyOTEzXX0=
 -->
