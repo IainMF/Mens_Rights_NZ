@@ -37,7 +37,14 @@ The Family Court or the High Court may make a declaration of paternity if they a
 People who can apply to the Court for a declaration of paternity:
 - the mother of the child
 - anyone who alleges the relationship of father and child exists between themselves and another person
-- anyone who wishes to have it determined that the relationship of father and child 
+- anyone who wishes to have it determined that the relationship of father and child exists between two other people and they have proper interest in the result.
+
+> If an application under subsection (2) is made—
+ (a) to the Family Court, the provisions of the [Family Proceedings Act 1980](https://www.legislation.govt.nz/act/public/1969/18/en/latest/DLM39722) (except [sections 47 to 50](https://www.legislation.govt.nz/act/public/1969/18/en/latest/DLM40439)) apply to the application as if it were an application for a paternity order under [section 47](https://www.legislation.govt.nz/act/public/1969/18/en/latest/DLM40439) of that Act:
+
+ (b) to the High Court, the provisions of the [Declaratory Judgments Act 1908](https://www.legislation.govt.nz/act/public/1969/18/en/latest/DLM176192) apply to the application.
+
+(6) Every question of fact that arises in applying any of subsections (2) to (4) must be decided on a balance of probabilities.
 
 
 
@@ -51,5 +58,5 @@ People who can apply to the Court for a declaration of paternity:
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NjA5ODk4LDIwNDIwNjI5MTNdfQ==
+eyJoaXN0b3J5IjpbLTQ5NTA1ODcwNSwyMDQyMDYyOTEzXX0=
 -->
