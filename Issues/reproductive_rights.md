@@ -11,9 +11,12 @@ description: The issues for men's reproductive rights in New Zealand
 
 ## The law
 
-[Status of Children Act 1969](https://www.legislation.govt.nz/act/public/1969/18/en/latest/#DLM391005)
+[Status of Children Act 1969](https://www.legislation.govt.nz/act/public/1969/18/en/latest/#DLM391005) Children's legal status for wills, property etc.
 
-Section 5 - The husband of the mother is presumed to be the father of the child. If this is questioned the determination is based on the balance of probabilities.
+Section 5 
+The husband of the mother is presumed to be the father of the child. If this is questioned the determination is based on the balance of probabilities. 
+
+Section 7- Recognition of paternity
 
 
 [Births, Deaths, Marriages, and Relationships Registration Act 2021](https://www.legislation.govt.nz/act/public/2021/57/en/latest/#DLM7273632)
@@ -22,5 +25,5 @@ Section 5 - The husband of the mother is presumed to be the father of the child.
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjA2MjkxM119
+eyJoaXN0b3J5IjpbLTY3Nzg3MDUwNCwyMDQyMDYyOTEzXX0=
 -->
