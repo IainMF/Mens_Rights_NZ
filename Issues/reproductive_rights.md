@@ -17,6 +17,7 @@ description: The issues for men's reproductive rights in New Zealand
 The husband of the mother is presumed to be the father of the child. If this is questioned the determination is based on the balance of probabilities. 
 
 ##### Section 7- Recognition of paternity
+Paternity for he purposes of wills, trusts etc. will only be recognised if -
 
 
 
@@ -26,5 +27,5 @@ The husband of the mother is presumed to be the father of the child. If this is 
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDIwNTI0MSwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbLTIwODA2OTcxMDksMjA0MjA2MjkxM119
 -->
