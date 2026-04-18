@@ -23,6 +23,8 @@ Paternity for he purposes of wills, trusts etc. will only be recognised if:
 - paternity has been established by a declaration of paternity;
 	- After the death of the father; or
 	- if that purpose is for the benefit of the father, after the death of the child.
+If paternity has not been established then 
+
 
 
 
@@ -32,5 +34,5 @@ Paternity for he purposes of wills, trusts etc. will only be recognised if:
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzY2ODAsMjA0MjA2MjkxM119
+eyJoaXN0b3J5IjpbLTEyNzAxOTExMzksMjA0MjA2MjkxM119
 -->
