@@ -26,6 +26,8 @@ Paternity for he purposes of wills, trusts etc. will only be recognised if:
 If paternity has not been established at the time of the child birth then there are restrictions of wills and trusts etc.
 
 ##### Section 8 - Proof of paternity
+- The name of the father on the birth certificate is *prima facie* evidence he is the father
+- Any 
 
 
 
@@ -36,5 +38,5 @@ If paternity has not been established at the time of the child birth then there 
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjQ0MjY5OCwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbMTUwNTc3ODI0MiwyMDQyMDYyOTEzXX0=
 -->
