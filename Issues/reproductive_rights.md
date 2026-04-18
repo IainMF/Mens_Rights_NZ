@@ -19,7 +19,7 @@ The husband of the mother is presumed to be the father of the child. If this is 
 ##### Section 7- Recognition of paternity
 Paternity for he purposes of wills, trusts etc. will only be recognised if:
 - Father and mother were married at the time of conception or some time after
-- Paternity as been admitted (expressly or by implication) by the father
+- Paternity as been admitted (expressly or by implication) by the father. If the purpose to establish paternity is to benefit the father then paternity must be establish before the child's birth or in it's lifetime.
 
 
 
@@ -29,5 +29,5 @@ Paternity for he purposes of wills, trusts etc. will only be recognised if:
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTcxMjkxMCwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbLTUyMzM3OTU3MiwyMDQyMDYyOTEzXX0=
 -->
