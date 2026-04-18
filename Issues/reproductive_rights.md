@@ -31,7 +31,10 @@ The following are *prima facie* evidence a man is the father
 - Any document signed by the mother and a person acknowledging he is the father
 - A paternity order within the meaning of the Domestic Proceedings Act 1968
 - An order made in any country outside New Zealand declaring a person to be the father of a child
-- 
+
+##### Section 10 - Declaration as to paternity
+The Family Court or the High Court may make a declaration of paternity 
+
 
 
 
@@ -42,5 +45,5 @@ The following are *prima facie* evidence a man is the father
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMDYwOTExLDIwNDIwNjI5MTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDY0NDE2NjcsMjA0MjA2MjkxM119
 -->
