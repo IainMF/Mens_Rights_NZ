@@ -41,9 +41,7 @@ People who can apply to the Court for a declaration of paternity:
 
 > If an application under subsection (2) is made—
  (a) to the Family Court, the provisions of the [Family Proceedings Act 1980](https://www.legislation.govt.nz/act/public/1969/18/en/latest/DLM39722) (except [sections 47 to 50](https://www.legislation.govt.nz/act/public/1969/18/en/latest/DLM40439)) apply to the application as if it were an application for a paternity order under [section 47](https://www.legislation.govt.nz/act/public/1969/18/en/latest/DLM40439) of that Act:
-
  (b) to the High Court, the provisions of the [Declaratory Judgments Act 1908](https://www.legislation.govt.nz/act/public/1969/18/en/latest/DLM176192) apply to the application.
-
 (6) Every question of fact that arises in applying any of subsections (2) to (4) must be decided on a balance of probabilities.
 
 
@@ -55,8 +53,11 @@ People who can apply to the Court for a declaration of paternity:
 [Births, Deaths, Marriages, and Relationships Registration Act 2021](https://www.legislation.govt.nz/act/public/2021/57/en/latest/#DLM7273632)
 
 
+## Citizenship Act 1977
+
+
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTA1ODcwNSwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbMjA3MzkwMzQxNSwyMDQyMDYyOTEzXX0=
 -->
