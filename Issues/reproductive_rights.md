@@ -35,7 +35,9 @@ The following are *prima facie* evidence a man is the father
 ##### Section 10 - Declaration as to paternity
 The Family Court or the High Court may make a declaration of paternity if they are satisfied the relationship exists.
 People who can apply to the Court for a declaration of paternity:
-- the m
+- the mother of the child
+- anyone who alleges the relationship of father and child exists between themselves and another person
+- anyone who wishes to have it determined that the relationship of father and child 
 
 
 
@@ -49,5 +51,5 @@ People who can apply to the Court for a declaration of paternity:
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTI1MDA5NywyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbNTY1NjA5ODk4LDIwNDIwNjI5MTNdfQ==
 -->
