@@ -33,7 +33,11 @@ The following are *prima facie* evidence a man is the father
 - An order made in any country outside New Zealand declaring a person to be the father of a child
 
 ##### Section 10 - Declaration as to paternity
-The Family Court or the High Court may make a declaration of paternity 
+The Family Court or the High Court may make a declaration of paternity if they are satisfied the relationship exists.
+People who can apply to the Court for a declaration of paternity:
+- the m
+
+
 
 
 
@@ -45,5 +49,5 @@ The Family Court or the High Court may make a declaration of paternity
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY0NDE2NjcsMjA0MjA2MjkxM119
+eyJoaXN0b3J5IjpbMTE2MTI1MDA5NywyMDQyMDYyOTEzXX0=
 -->
