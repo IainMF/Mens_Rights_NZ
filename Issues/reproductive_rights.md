@@ -99,6 +99,7 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 ### [Family Proceedings Act 1980](https://www.legislation.govt.nz/act/public/1980/94/en/latest/highlights/?highlight=paternity#DLM40438)
 
 ##### 47 Applications for paternity orders
+> 
 ##### 48 Jurisdiction to establish paternity
 ##### 49 Time limit on applications for paternity orders
 ##### 50 Power of Family Court to make paternity orders
@@ -124,5 +125,6 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODIyNzc1NywyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbLTE1MjUzMjM0MjMsMTE4ODIyNzc1NywyMD
+QyMDYyOTEzXX0=
 -->
