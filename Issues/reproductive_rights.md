@@ -28,7 +28,7 @@ Sperm donors give up their legal rights and liabilities of parenthood.
 
 > Whilst surrogacy itself in New Zealand is not illegal, any surrogacy arrangement is unenforceable. This means that, until a child is adopted by intending parents, the surrogate mother and her partner (if any) remain the legal parents and guardians of the child and they could change their minds at any time about the child going to the intending parents. This is true regardless of whether one or both of the intending parents donated their genetic material for the pregnancy by surrogate.
 
-> Once the child is born via the surrogate, the intending parents must legally adopt the child before they are recorded as the parents. The adoption process is done through the Family Court. The mandatory 10 day stand down period before the application for adoption can be made still applies in these circumstances. It is possible, however, with social work consent, to have the child placed with the intending parents from birth. The court needs to be satisfied that the intending parents are “fit and proper” people to adopt the surrogate child and also that the carriers consent to the adoption.^[[Surrogacy in New Zealand](https://hobec.co.nz/news-resources/2022/05/surrogacy-in-new-zealand/)]
+> Once the child is born via the surrogate, the intending parents must legally adopt the child before they are recorded as the parents. The adoption process is done through the Family Court. The mandatory 10 day stand down period before the application for adoption can be made still applies in these circumstances. It is possible, however, with social work consent, to have the child placed with the intending parents from birth. The court needs to be satisfied that the intending parents are “fit and proper” people to adopt the surrogate child and also that the carriers consent to the adoption.^[[Surrogacy in New Zealand - Holland Beckett](https://hobec.co.nz/news-resources/2022/05/surrogacy-in-new-zealand/)]
 
 Adopting a child is also a form of legal parental surrender.
 
@@ -173,6 +173,6 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^2]: Here the term rape is used colloquially to mean non-consensual sex, not in the strict legal sense where 'rape' is defined as something only men can do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjEyNTI0OSwxNjc0NzI4Nzg0LC0xNT
-I1MzIzNDIzLDExODgyMjc3NTcsMjA0MjA2MjkxM119
+eyJoaXN0b3J5IjpbNDIzODMzMjkwLDE2NzQ3Mjg3ODQsLTE1Mj
+UzMjM0MjMsMTE4ODIyNzc1NywyMDQyMDYyOTEzXX0=
 -->
