@@ -35,6 +35,7 @@ Sperm donors give up their legal rights and liabilities of parenthood.
 
 Adopting a child is also a form of legal parental surrender.
 
+Can a single a man enter a surrogacy arranging. what is the law about regarding parenthood of mother?
 
 
 
@@ -176,7 +177,7 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^2]: Here the term rape is used colloquially to mean non-consensual sex, not in the strict legal sense where 'rape' is defined as something only men can do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzYyNzg0NCw0MjM4MzMyOTAsMTY3ND
-cyODc4NCwtMTUyNTMyMzQyMywxMTg4MjI3NzU3LDIwNDIwNjI5
-MTNdfQ==
+eyJoaXN0b3J5IjpbMTcyNTM1NjIzLC02MDc2Mjc4NDQsNDIzOD
+MzMjkwLDE2NzQ3Mjg3ODQsLTE1MjUzMjM0MjMsMTE4ODIyNzc1
+NywyMDQyMDYyOTEzXX0=
 -->
