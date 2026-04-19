@@ -11,6 +11,8 @@ description: The issues for men's reproductive rights in New Zealand
 
 ## The law
 
+https://communitylaw.org.nz/community-law-manual/test/paternity/declaration-of-paternity/
+
 ### [Status of Children Act 1969](https://www.legislation.govt.nz/act/public/1969/18/en/latest/#DLM391005) Children's legal status for wills, property etc.
 
 ##### Section 5 - Presumptions as to parenthood
@@ -138,6 +140,6 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM2NzE1MjUsLTE1MjUzMjM0MjMsMT
-E4ODIyNzc1NywyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbMTY3NDcyODc4NCwtMTUyNTMyMzQyMywxMT
+g4MjI3NzU3LDIwNDIwNjI5MTNdfQ==
 -->
