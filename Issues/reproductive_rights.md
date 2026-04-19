@@ -22,7 +22,9 @@ State's have an obligation to provide men the means of deciding if or when to ha
 
 ### Legal paternal surrender:
 
-I
+Legal paternal surrender is a way for men who choose not to be parents can forgo all the liabilities and rights of parenthood without affecting the a mother rights to choose to become a parent.
+
+This 
 
 
 
@@ -165,6 +167,6 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^2]: Here the term rape is used colloquially to mean non-consensual sex, not in the strict legal sense where 'rape' is defined as something only men can do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgzOTMzODIsMTY3NDcyODc4NCwtMT
-UyNTMyMzQyMywxMTg4MjI3NzU3LDIwNDIwNjI5MTNdfQ==
+eyJoaXN0b3J5IjpbLTkyMDUxNTMzMCwxNjc0NzI4Nzg0LC0xNT
+I1MzIzNDIzLDExODgyMjc3NTcsMjA0MjA2MjkxM119
 -->
