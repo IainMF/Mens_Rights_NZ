@@ -86,9 +86,19 @@ Note: Adoption is a form of legal paternal surrender. Although the proviso of (d
 ---
 [Child Support Act 1991](https://www.legislation.govt.nz/act/public/1991/142/en/latest/highlights/?highlight=paternity#DLM253518)
 
+---
+
+[Child Support Amendment Act 2021](https://www.legislation.govt.nz/act/public/2021/6/en/latest/highlights/?highlight=paternity#LMS301934)
+
+---
+
+
+
+
+
 
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4MjE3MzE1LDIwNDIwNjI5MTNdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk2NTEzMjYsMjA0MjA2MjkxM119
 -->
