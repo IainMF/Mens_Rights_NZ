@@ -47,6 +47,10 @@ People who can apply to the Court for a declaration of paternity:
 **Part 2 Status of children conceived as result of AHR procedures**
 AHR procedure means one of the following assisted human reproduction procedures eg an artificial insemination procedure.
 
+> The purpose of this Part is to—
+> - (a) remove uncertainty about the status of children conceived as a result of AHR procedures; and
+> - (b) replace the Status of Children Amendment Act 1987 with provisions that continue the effects of that Act (==except for the status of father without the rights and liabilities of a father==), but also extend the status of parent to a woman living as a de facto partner of a birth mother.
+
 ---
 
 
@@ -85,5 +89,5 @@ Note: Adoption is a form of legal paternal surrender. Although the proviso of (d
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzMTQ1ODAxLDIwNDIwNjI5MTNdfQ==
+eyJoaXN0b3J5IjpbMTYyNjA2MDMxOSwyMDQyMDYyOTEzXX0=
 -->
