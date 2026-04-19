@@ -69,10 +69,12 @@ People who can apply to the Court for a declaration of paternity:
 >  - (e) the domicile of the child is changed to that of the adoptive parents, but the child’s race and nationality are not affected:
 >  - (f) the child is deemed to be a New Zealand citizen by birth if at least one of the adoptive parents is a New Zealand citizen.
 
-Note: Adoption is a form of legal paternal surrender. Although note that 
+Note: Adoption is a form of legal paternal surrender. Although the proviso of (d) does not prevent the mother making a paternity order.
+
+[Births, Deaths, Marriages, and Relationships Registration Act 2021]()
 
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI0MTkwMDEsMjA0MjA2MjkxM119
+eyJoaXN0b3J5IjpbLTEyMjA3ODQxMTgsMjA0MjA2MjkxM119
 -->
