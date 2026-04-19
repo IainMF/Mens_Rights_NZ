@@ -113,7 +113,7 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 ##### 54 Parentage tests
 ##### 57 Refusal of parentage tests
-
+##### 59 Offences relating to parentage tests
 
 
 ---
@@ -124,5 +124,5 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDE5MjQ4NCwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbMTE4ODIyNzc1NywyMDQyMDYyOTEzXX0=
 -->
