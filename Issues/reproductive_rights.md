@@ -34,10 +34,14 @@ Sperm donors give up their legal rights and liabilities of parenthood.
 
 
 
+---
+
+### [Human Assisted Reproductive Technology Act 2004](https://www.legislation.govt.nz/act/public/2004/92/en/latest/#DLM319306)
+
+[The HART Register and You](https://dffb6572-8a0c-4f11-a12d-e748f01877c2.filesusr.com/ugd/0cb7ff_d9ec6bb28ebc498fab987a3ed154d19a.pdf)
 
 
-[Human Assisted Reproductive Technology Act 2004](https://www.legislation.govt.nz/act/public/2004/92/en/latest/#DLM319306)
-
+---
 
 > Whilst surrogacy itself in New Zealand is not illegal, any surrogacy arrangement is unenforceable. This means that, until a child is adopted by intending parents, the surrogate mother and her partner (if any) remain the legal parents and guardians of the child and they could change their minds at any time about the child going to the intending parents. This is true regardless of whether one or both of the intending parents donated their genetic material for the pregnancy by surrogate.
 
@@ -187,7 +191,7 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^2]: Here the term rape is used colloquially to mean non-consensual sex, not in the strict legal sense where 'rape' is defined as something only men can do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk2NzEyMDEsMTcyNTM1NjIzLC02MD
-c2Mjc4NDQsNDIzODMzMjkwLDE2NzQ3Mjg3ODQsLTE1MjUzMjM0
-MjMsMTE4ODIyNzc1NywyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbODI0MDQ1Njk1LDE3MjUzNTYyMywtNjA3Nj
+I3ODQ0LDQyMzgzMzI5MCwxNjc0NzI4Nzg0LC0xNTI1MzIzNDIz
+LDExODgyMjc3NTcsMjA0MjA2MjkxM119
 -->
