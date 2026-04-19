@@ -33,10 +33,7 @@ Sperm donors give up their legal rights and liabilities of parenthood.
 > (2) ==In that situation, man A is not, for any purpose, a parent of any child of the pregnancy==.^[[Status of Children Act 1969](https://www.legislation.govt.nz/act/public/1969/18/en/latest/#DLM391098)]
 
 
-> **Sperm donation in a private arrangement**
-> For people who conceive a child in private donation arrangements, without going through a fertility clinic, none of those rules explained above about donation or registration of information apply, and you can’t get your information included on the HART register.
-> The people involved need to come to their own agreements about sharing information, and about how many children can be conceived using sperm from the same donor – but these arrangements are not legally enforceable.
-> It is a good idea to write down any medical and family information about the donor that the family wants to be available to the child later on.^[[Surrogacy and IVF - Community Law ](https://communitylaw.org.nz/community-law-manual/chapter-14-parents-guardians-and-caregivers/surrogacy-and-ivf/)]
+
 
 ---
 
@@ -47,6 +44,13 @@ Sperm donors give up their legal rights and liabilities of parenthood.
 [The HART Register and You PDF](https://dffb6572-8a0c-4f11-a12d-e748f01877c2.filesusr.com/ugd/0cb7ff_d9ec6bb28ebc498fab987a3ed154d19a.pdf)
 
 > One of the purposes of the Human Assisted Reproductive Technology Act 2004 is to establish a register so that donor offspring (i.e. people born from donated embryos, sperm or eggs) can find out about their genetic origins. The Department of lnternal Affairs Births, Deaths and Marriages division (BDM) has the responsibility for establishing and maintaining that register.
+
+---
+
+> **Sperm donation in a private arrangement**
+> For people who conceive a child in private donation arrangements, without going through a fertility clinic, none of those rules explained above about donation or registration of information apply, and you can’t get your information included on the HART register.
+> The people involved need to come to their own agreements about sharing information, and about how many children can be conceived using sperm from the same donor – but these arrangements are not legally enforceable.
+> It is a good idea to write down any medical and family information about the donor that the family wants to be available to the child later on.^[[Surrogacy and IVF - Community Law ](https://communitylaw.org.nz/community-law-manual/chapter-14-parents-guardians-and-caregivers/surrogacy-and-ivf/)]
 
 ---
 
@@ -198,8 +202,8 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^2]: Here the term rape is used colloquially to mean non-consensual sex, not in the strict legal sense where 'rape' is defined as something only men can do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDU1NjIyMSwtMjA4NTMzOTk0MSwtMz
-czNTEzNTkwLDE3MjUzNTYyMywtNjA3NjI3ODQ0LDQyMzgzMzI5
-MCwxNjc0NzI4Nzg0LC0xNTI1MzIzNDIzLDExODgyMjc3NTcsMj
-A0MjA2MjkxM119
+eyJoaXN0b3J5IjpbMTAxMDI1NzQ2LC0yMDg1MzM5OTQxLC0zNz
+M1MTM1OTAsMTcyNTM1NjIzLC02MDc2Mjc4NDQsNDIzODMzMjkw
+LDE2NzQ3Mjg3ODQsLTE1MjUzMjM0MjMsMTE4ODIyNzc1NywyMD
+QyMDYyOTEzXX0=
 -->
