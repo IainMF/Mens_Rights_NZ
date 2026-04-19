@@ -109,6 +109,12 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 > (2) If the mother of the child gives evidence, ==no corroboration of her evidence shall be necessary for the making of a paternity order in respect of the child==.
 
 ##### 53 False statement in application for paternity order
+> Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, in any application for a paternity order under this Act, makes any statement that, if made on oath in the proceedings, would amount to perjury as defined in [section 108](https://www.legislation.govt.nz/act/public/1980/94/en/latest/highlights/DLM328793) of the Crimes Act 1961.
+
+##### 54 Parentage tests
+##### 57 Refusal of parentage tests
+
+
 
 ---
 
@@ -118,5 +124,5 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjcxNzE4NywyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbMTE5NDE5MjQ4NCwyMDQyMDYyOTEzXX0=
 -->
