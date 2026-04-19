@@ -26,6 +26,13 @@ Legal parental surrender is a way for men who choose not to be parents can forgo
 
 Sperm donors give up their legal rights and liabilities of parenthood.
 
+> **21 Partnered woman: non-partner semen donor not parent**
+> (1) This section applies to the following situation:
+> (a) a partnered woman becomes pregnant as a result of an AHR procedure:
+> (b) the semen (or part of the semen) used for the procedure was produced by a man (man A) who is not her partner.
+> (2) In that situation, man A is not, for any purpose, a parent of any child of the pregnancy.
+
+
 [Human Assisted Reproductive Technology Act 2004](https://www.legislation.govt.nz/act/public/2004/92/en/latest/#DLM319306)
 
 
@@ -177,7 +184,7 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^2]: Here the term rape is used colloquially to mean non-consensual sex, not in the strict legal sense where 'rape' is defined as something only men can do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTM1NjIzLC02MDc2Mjc4NDQsNDIzOD
-MzMjkwLDE2NzQ3Mjg3ODQsLTE1MjUzMjM0MjMsMTE4ODIyNzc1
-NywyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbMTEwMzM3MDg3MCwxNzI1MzU2MjMsLTYwNz
+YyNzg0NCw0MjM4MzMyOTAsMTY3NDcyODc4NCwtMTUyNTMyMzQy
+MywxMTg4MjI3NzU3LDIwNDIwNjI5MTNdfQ==
 -->
