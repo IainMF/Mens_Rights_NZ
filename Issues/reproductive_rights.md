@@ -71,10 +71,11 @@ People who can apply to the Court for a declaration of paternity:
 
 Note: Adoption is a form of legal paternal surrender. Although the proviso of (d) does not prevent the mother making a paternity order.
 
-[Births, Deaths, Marriages, and Relationships Registration Act 2021]()
+[Births, Deaths, Marriages, and Relationships Registration Act 2021](https://www.legislation.govt.nz/act/public/2021/57/en/latest/highlights/?highlight=paternity#DLM7273632)
+
 
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA3ODQxMTgsMjA0MjA2MjkxM119
+eyJoaXN0b3J5IjpbLTE5NTEzNjYzNjAsMjA0MjA2MjkxM119
 -->
