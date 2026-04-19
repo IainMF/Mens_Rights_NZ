@@ -10,7 +10,9 @@ Men have the right to decide if or when to become a father. This decision should
 
 Men’s and women's role in reproduction leaves them vulnerable to reproductive coercion in different ways.
 
-Men's are vulnerable to being forced into parenthood in ways that women are not. For example, a woman lying about being on birth control, or inseminating herself from a used condom, or a woman raping a man and becoming
+Men's are vulnerable to being forced into parenthood in ways that women are not. For example, a woman lying about being on birth control, or inseminating herself from a used condom, or 
+
+a woman raping a man and becoming pregnant. A male victim of a female rapist[^2] cannot have an abortion if a pregnancy results. In fact, forcing
 
 State's have an obligation to provide men the means of deciding if or when to have children. This can include contraception, but also legal means to avoid parenthood.
 
@@ -152,6 +154,6 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI1MzIyMDYsMTY3NDcyODc4NCwtMT
-UyNTMyMzQyMywxMTg4MjI3NzU3LDIwNDIwNjI5MTNdfQ==
+eyJoaXN0b3J5IjpbLTg0MzUwNDY5NiwxNjc0NzI4Nzg0LC0xNT
+I1MzIzNDIzLDExODgyMjc3NTcsMjA0MjA2MjkxM119
 -->
