@@ -45,6 +45,7 @@ People who can apply to the Court for a declaration of paternity:
 (6) Every question of fact that arises in applying any of subsections (2) to (4) must be decided on a balance of probabilities.
 
 **Part 2 Status of children conceived as result of AHR procedures**
+
 AHR procedure means one of the following assisted human reproduction procedures eg an artificial insemination procedure.
 
 > The purpose of this Part is to—
@@ -83,11 +84,11 @@ AHR procedure means one of the following assisted human reproduction procedures 
 Note: Adoption is a form of legal paternal surrender. Although the proviso of (d) does not prevent the mother making a paternity order.
 
 ---
-
+[Child Support Act 1991](https://www.legislation.govt.nz/act/public/1991/142/en/latest/highlights/?highlight=paternity#DLM253518)
 
 
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjA2MDMxOSwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbNzY4MjE3MzE1LDIwNDIwNjI5MTNdfQ==
 -->
