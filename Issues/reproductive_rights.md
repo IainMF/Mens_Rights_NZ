@@ -30,7 +30,7 @@ Sperm donors give up their legal rights and liabilities of parenthood.
 > (1) This section applies to the following situation:
 > (a) a partnered woman becomes pregnant as a result of an AHR procedure:
 > (b) the semen (or part of the semen) used for the procedure was produced by a man (man A) who is not her partner.
-> (2) In that situation, man A is not, for any purpose, a parent of any child of the pregnancy.^[[Status of Children Act 1969](https://www.legislation.govt.nz/act/public/1969/18/en/latest/#DLM391098)]
+> (2) ==In that situation, man A is not, for any purpose, a parent of any child of the pregnancy==.^[[Status of Children Act 1969](https://www.legislation.govt.nz/act/public/1969/18/en/latest/#DLM391098)]
 
 
 
@@ -187,7 +187,7 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^2]: Here the term rape is used colloquially to mean non-consensual sex, not in the strict legal sense where 'rape' is defined as something only men can do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDU3NDA0OSwxNzI1MzU2MjMsLTYwNz
-YyNzg0NCw0MjM4MzMyOTAsMTY3NDcyODc4NCwtMTUyNTMyMzQy
-MywxMTg4MjI3NzU3LDIwNDIwNjI5MTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjk2NzEyMDEsMTcyNTM1NjIzLC02MD
+c2Mjc4NDQsNDIzODMzMjkwLDE2NzQ3Mjg3ODQsLTE1MjUzMjM0
+MjMsMTE4ODIyNzc1NywyMDQyMDYyOTEzXX0=
 -->
