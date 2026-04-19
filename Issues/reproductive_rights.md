@@ -92,7 +92,10 @@ Note: Adoption is a form of legal paternal surrender. Although the proviso of (d
 
 ---
 
+[Family Court (Family Court Associates) Legislation Act 2023](https://www.legislation.govt.nz/act/public/2023/25/en/latest/highlights/?highlight=paternity#LMS716076)
 
+
+---
 
 
 
@@ -100,5 +103,5 @@ Note: Adoption is a form of legal paternal surrender. Although the proviso of (d
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk2NTEzMjYsMjA0MjA2MjkxM119
+eyJoaXN0b3J5IjpbMTc2ODQ4MTQ3LDIwNDIwNjI5MTNdfQ==
 -->
