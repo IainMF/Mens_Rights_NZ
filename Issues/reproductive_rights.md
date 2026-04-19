@@ -24,7 +24,11 @@ State's have an obligation to provide men the means of deciding if or when to ha
 
 Legal parental surrender is a way for men who choose not to be parents can forgo all the liabilities and rights of parenthood without affecting the a mother rights to choose to become a parent.
 
-Sperm donors and surrogate mothers give up their legal rights and liabilities of parenthood.
+Sperm donors give up their legal rights and liabilities of parenthood.
+
+> Whilst surrogacy itself in New Zealand is not illegal, any surrogacy arrangement is unenforceable. This means that, until a child is adopted by intending parents, the surrogate mother and her partner (if any) remain the legal parents and guardians of the child and they could change their minds at any time about the child going to the intending parents. This is true regardless of whether one or both of the intending parents donated their genetic material for the pregnancy by surrogate.
+
+> Once the child is born via the surrogate, the intending parents must legally adopt the child before they are recorded as the parents. The adoption process is done through the Family Court. The mandatory 10 day stand down period before the application for adoption can be made still applies in these circumstances. It is possible, however, with social work consent, to have the child placed with the intending parents from birth. The court needs to be satisfied that the intending parents are “fit and proper” people to adopt the surrogate child and also that the carriers consent to the adoption.^[[](https://hobec.co.nz/news-resources/2022/05/surrogacy-in-new-zealand/)]
 
 Adopting a child is also a form of legal parental surrender.
 
@@ -169,6 +173,6 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^2]: Here the term rape is used colloquially to mean non-consensual sex, not in the strict legal sense where 'rape' is defined as something only men can do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzQzMTgyNCwxNjc0NzI4Nzg0LC0xNT
+eyJoaXN0b3J5IjpbLTI0MjY0MDcyNiwxNjc0NzI4Nzg0LC0xNT
 I1MzIzNDIzLDExODgyMjc3NTcsMjA0MjA2MjkxM119
 -->
