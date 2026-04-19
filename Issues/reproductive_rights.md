@@ -100,6 +100,15 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 ##### 47 Applications for paternity orders
 ##### 48 Jurisdiction to establish paternity
+##### 49 Time limit on applications for paternity orders
+##### 50 Power of Family Court to make paternity orders
+##### 51 Paternity orders
+##### 52 Evidence of mother
+
+> (1) The evidence of the mother of a child shall not be necessary for the making of a paternity order in respect of the child.
+> (2) If the mother of the child gives evidence, ==no corroboration of her evidence shall be necessary for the making of a paternity order in respect of the child==.
+
+##### 53 False statement in application for paternity order
 
 ---
 
@@ -109,5 +118,5 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjEyMTM2MCwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbLTUzNjcxNzE4NywyMDQyMDYyOTEzXX0=
 -->
