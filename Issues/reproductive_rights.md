@@ -38,8 +38,9 @@ Sperm donors give up their legal rights and liabilities of parenthood.
 
 ### [Human Assisted Reproductive Technology Act 2004](https://www.legislation.govt.nz/act/public/2004/92/en/latest/#DLM319306)
 
-[The HART Register and You](https://dffb6572-8a0c-4f11-a12d-e748f01877c2.filesusr.com/ugd/0cb7ff_d9ec6bb28ebc498fab987a3ed154d19a.pdf)
+[The HART Register and You PDF](https://dffb6572-8a0c-4f11-a12d-e748f01877c2.filesusr.com/ugd/0cb7ff_d9ec6bb28ebc498fab987a3ed154d19a.pdf)
 
+> One of the purposes of the Human Assisted Reproductive Technology Act 2004 is to establish a register so that donor offspring (i.e. people born from donated embryos, sperm or eggs) can find out about their genetic origins. The Department of lnternal Affairs Births, Deaths and Marriages division (BDM) has the responsibility for establishing and maintaining that register.
 
 ---
 
@@ -191,7 +192,7 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^2]: Here the term rape is used colloquially to mean non-consensual sex, not in the strict legal sense where 'rape' is defined as something only men can do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MDQ1Njk1LDE3MjUzNTYyMywtNjA3Nj
-I3ODQ0LDQyMzgzMzI5MCwxNjc0NzI4Nzg0LC0xNTI1MzIzNDIz
-LDExODgyMjc3NTcsMjA0MjA2MjkxM119
+eyJoaXN0b3J5IjpbLTM3MzUxMzU5MCwxNzI1MzU2MjMsLTYwNz
+YyNzg0NCw0MjM4MzMyOTAsMTY3NDcyODc4NCwtMTUyNTMyMzQy
+MywxMTg4MjI3NzU3LDIwNDIwNjI5MTNdfQ==
 -->
