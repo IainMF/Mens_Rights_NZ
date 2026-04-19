@@ -65,13 +65,14 @@ People who can apply to the Court for a declaration of paternity:
 > - (b) rights of guardianship and existing relationships in respect of the child cease except for the very special purpose of determining forbidden relationships in connection with marriage and with the crime of incest:
 > - (c) rights in respect of property and succession to property are determined according to the relationships created by the adoption, but property rights acquired before the adoption are not affected:
 >  - (d) any paternity order or maintenance order or agreement which provides for maintenance of the child, if made before the adoption order, ceases to have any effect except as to arrears owing and except where the child is adopted by the mother or by the mother and her spouse:
->  provided that, where the child is adopted by the mother or by the mother and her spouse, the adoption does not prevent the making of any paternity order or maintenance order which could previously have been made or prevent the mother from making an application for a paternity order or a maintenance order:
+>  *provided* that, where the child is adopted by the mother or by the mother and her spouse, the adoption does not prevent the making of any paternity order or maintenance order which could previously have been made or prevent the mother from making an application for a paternity order or a maintenance order:
 >  - (e) the domicile of the child is changed to that of the adoptive parents, but the child’s race and nationality are not affected:
 >  - (f) the child is deemed to be a New Zealand citizen by birth if at least one of the adoptive parents is a New Zealand citizen.
 
+Note: Adoption is a form of legal paternal surrender. Although note that 
 
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYxNjcwMiwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbLTIxMjI0MTkwMDEsMjA0MjA2MjkxM119
 -->
