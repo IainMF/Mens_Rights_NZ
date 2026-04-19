@@ -44,7 +44,9 @@ People who can apply to the Court for a declaration of paternity:
  (b) to the High Court, the provisions of the [Declaratory Judgments Act 1908](https://www.legislation.govt.nz/act/public/1969/18/en/latest/DLM176192) apply to the application.
 (6) Every question of fact that arises in applying any of subsections (2) to (4) must be decided on a balance of probabilities.
 
+**Part 2 Status of children conceived as result of AHR procedures**
 
+---
 
 
 
@@ -53,8 +55,12 @@ People who can apply to the Court for a declaration of paternity:
 [Births, Deaths, Marriages, and Relationships Registration Act 2021](https://www.legislation.govt.nz/act/public/2021/57/en/latest/#DLM7273632)
 
 
+
+---
+
 [Citizenship Act 1977](https://www.legislation.govt.nz/act/public/1977/61/en/latest/highlights/?highlight=paternity#DLM443820)
 
+---
 
 [Adoption Regulations 1959](https://www.legislation.govt.nz/secondary-legislation/pco-drafted/1959/109/en/latest/highlights/?highlight=paternity#d7799950e2415)
 
@@ -71,11 +77,12 @@ People who can apply to the Court for a declaration of paternity:
 
 Note: Adoption is a form of legal paternal surrender. Although the proviso of (d) does not prevent the mother making a paternity order.
 
-[Births, Deaths, Marriages, and Relationships Registration Act 2021](https://www.legislation.govt.nz/act/public/2021/57/en/latest/highlights/?highlight=paternity#DLM7273632)
+---
+
 
 
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTEzNjYzNjAsMjA0MjA2MjkxM119
+eyJoaXN0b3J5IjpbLTgzODYwMDg3LDIwNDIwNjI5MTNdfQ==
 -->
