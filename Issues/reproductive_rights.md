@@ -99,7 +99,20 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 ### [Family Proceedings Act 1980](https://www.legislation.govt.nz/act/public/1980/94/en/latest/highlights/?highlight=paternity#DLM40438)
 
 ##### 47 Applications for paternity orders
-> 
+> (1) An application for a paternity order in respect of a child may be made:
+> (a) in any case, by the mother of the child; or
+> (b) where the mother is under the age of 16 years, by any person having custody of, or who has the role of providing day-to-day care for, the mother; or
+> (c) with the consent in writing of the mother, by a social worker; or
+> (d) where the child has been born, and the mother is dead, or has abandoned the child, or is for any reason unable to make an application herself,—
+> (i) by a parent of the mother; or
+> (ii) by a guardian of the child; or
+> (iii) by a social worker; or
+> (iv) with the leave of the court, by any other person.
+>
+> (2) ==An application for a paternity order in respect of a child may be made only against a male who—==
+> (a) is not married to, or in a civil union with, the mother; and
+> (b) has never been married to, or in a civil union with, the mother or  (if he has been married to, or in a civil union with, the mother)  whose marriage or civil union was dissolved before the conception of the child.
+>
 ##### 48 Jurisdiction to establish paternity
 ##### 49 Time limit on applications for paternity orders
 ##### 50 Power of Family Court to make paternity orders
@@ -125,6 +138,6 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUzMjM0MjMsMTE4ODIyNzc1NywyMD
-QyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbLTE5MzM2NzE1MjUsLTE1MjUzMjM0MjMsMT
+E4ODIyNzc1NywyMDQyMDYyOTEzXX0=
 -->
