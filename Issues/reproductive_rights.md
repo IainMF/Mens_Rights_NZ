@@ -64,11 +64,11 @@ AHR procedure means one of the following assisted human reproduction procedures 
 
 ---
 
-[Citizenship Act 1977](https://www.legislation.govt.nz/act/public/1977/61/en/latest/highlights/?highlight=paternity#DLM443820)
+### [Citizenship Act 1977](https://www.legislation.govt.nz/act/public/1977/61/en/latest/highlights/?highlight=paternity#DLM443820)
 
 ---
 
-[Adoption Regulations 1959](https://www.legislation.govt.nz/secondary-legislation/pco-drafted/1959/109/en/latest/highlights/?highlight=paternity#d7799950e2415)
+### [Adoption Regulations 1959](https://www.legislation.govt.nz/secondary-legislation/pco-drafted/1959/109/en/latest/highlights/?highlight=paternity#d7799950e2415)
 
 #### _Effect of adoption order_
 
@@ -84,19 +84,22 @@ AHR procedure means one of the following assisted human reproduction procedures 
 Note: Adoption is a form of legal paternal surrender. Although the proviso of (d) does not prevent the mother making a paternity order.
 
 ---
-[Child Support Act 1991](https://www.legislation.govt.nz/act/public/1991/142/en/latest/highlights/?highlight=paternity#DLM253518)
+### [Child Support Act 1991](https://www.legislation.govt.nz/act/public/1991/142/en/latest/highlights/?highlight=paternity#DLM253518)
 
 ---
 
-[Child Support Amendment Act 2021](https://www.legislation.govt.nz/act/public/2021/6/en/latest/highlights/?highlight=paternity#LMS301934)
+### [Child Support Amendment Act 2021](https://www.legislation.govt.nz/act/public/2021/6/en/latest/highlights/?highlight=paternity#LMS301934)
 
 ---
 
-[Family Court (Family Court Associates) Legislation Act 2023](https://www.legislation.govt.nz/act/public/2023/25/en/latest/highlights/?highlight=paternity#LMS716076)
+### [Family Court (Family Court Associates) Legislation Act 2023](https://www.legislation.govt.nz/act/public/2023/25/en/latest/highlights/?highlight=paternity#LMS716076)
 
 This subpart amends the [Family Proceedings Act 1980](https://www.legislation.govt.nz/act/public/2023/25/en/latest/highlights/DLM39722). Re: Paternity orders and parentage test etc.
 
+### [Family Proceedings Act 1980](https://www.legislation.govt.nz/act/public/1980/94/en/latest/highlights/?highlight=paternity#DLM40438)
 
+##### 47 Applications for paternity orders
+##### 48 Jurisdiction to establish paternity
 
 ---
 
@@ -106,5 +109,5 @@ This subpart amends the [Family Proceedings Act 1980](https://www.legislation.go
 
 [^1]: International Conference on Population and Development – ICPD (1994). Program of Action, UN Doc. A/CONF.171/13 1994, para. 7.3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDQ4MDgyNiwyMDQyMDYyOTEzXX0=
+eyJoaXN0b3J5IjpbMTEyNjEyMTM2MCwyMDQyMDYyOTEzXX0=
 -->
