@@ -22,8 +22,6 @@ In 1993, New Zealand has mistakenly claimed that:
 
  As shown below, there are were crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
 
-
-
 ## Male Assaults Female
 
 Section 194 of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^2] 
@@ -33,9 +31,9 @@ In 2009 the Law Commission reviewed part eight of the Crimes Act[^3] and recomme
 *Male-assaults-female* was used as a proxy to address family violence. The *Family Violence (Amendments) Act 2018* addressed the
     shortcomings of using *male-assaults-female* to address family violence. After all, family violence includes more than just a male assaulting a female. 
 
-Both Amy Adams,[^4] justice minister for the introduction of the bill, and the Human Rights Commission recognised the limitation of male assaults female to address family violence. The Human Rights Commission states: “The law should reflect the seriousness of the assault and not the gender of the victim and perpetrator.”[^5]
+Both Amy Adams,[^4] the Minister of Justice for the introduction of the bill, and the Human Rights Commission recognised the limitation of male assaults female to address family violence. The Human Rights Commission states: “The law should reflect the seriousness of the assault and not the gender of the victim and perpetrator.”[^5]
 
-Despite the shortcomings of *male-assaults-female* being addressed in the proposed bill and the ineffectiveness of using the law for symbolic purposes Amy Adams recommended not repealing *male-assaults-female* because of the symbolism. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^6]
+Despite the Law Commission's recommendation to repeal *male-assaults-female*, the shortcomings of being addressed in other law, and the ineffectiveness of using the law for symbolic purposes, Amy Adams recommended not repealing *male-assaults-female* as a symbolic gesture. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^6] However, retaining *male-assaults-female* also symbolises a willingness to discriminate against men and violate their right to equality under the law.
 
 ### Other concerns about male assaults female
 Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault.
