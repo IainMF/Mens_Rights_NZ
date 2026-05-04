@@ -96,7 +96,7 @@ Martin Robbins argues that men should be able to choose whether they are circumc
 ## Rape and Sexual Assault
 Historically, there were significant gaps in legal protection of men and boys from sexual assault. The _Crimes Act 1908_, and later, the _Crimes Act 1961_ included crimes protecting women and girls from a wide range of sexual assaults, but men and boys were only protected from sexually assaults by men as a consequence of all sexual activity between men being illegal. In theory this protected males from sexual assault from males, but in practice the fear of being charged themselves and stigma around homosexuality prevented victims from reporting these crimes. There was no legal protection for men from female perpetrated sexual assault.
 
-The *Homosexual Law Reform Act 1986* decriminalised consensual sex acts between men. The *Crimes Amendment Act 1985* introduced the gender-neutral 'unlawful sexual connection' which finally protected men from female perpetrated sexual assaults, and also sexual assault from males. The *Crimes Amendment Act 2005* removed the remaining discrimination against men and boys in sexual assault law by equalising men's and boys' legal protection from sexual assault.
+The *Homosexual Law Reform Act 1986* decriminalised consensual sex acts between men. The *Crimes Amendment Act 1985* introduced the gender-neutral 'unlawful sexual connection' which finally protected men from female perpetrated sexual assaults, and also sexual assault from males. The *Crimes Amendment Act 2005* removed most of the remaining discrimination against men and boys in sexual assault law by equalising men's and boys' legal protection from sexual assault. However, rape is still defined as a male perpetrator and female victim.
 
 #### Changes made by the Crimes Amendment Act 2005
 
@@ -122,6 +122,24 @@ Section 128 continues to define *unlawful sexual connection*:
 > (a) without person B’s consent to the connection; and
 > (b) without believing on reasonable grounds that person B consents to the connection.
 
+### Consequences of a gendered definition  
+
+Defining rape as something that is only done by men and to women has consequences. Although, both rape and unlawful sexual connection have the same maximum sentence, there are still consequences for having a gendered definition of rape.
+
+#### Respecting victims  
+
+As the Green Party mentions, defining rape as something that can only happen to women does not respect how male victims' feel about the reality of what has happened to them. This can cause male victims who were *forced-to-penetrate* undue distress. For example:
+
+    > It's deeply saddening that the definition of rape is restricted only to penetrative sex, this ignores the rights of those victims not of being penetrated but forced to penetrate." (Māori/Pākehā, man, takatāpui, heterosexual)[^25]
+
+#### Two-tiered justice 
+
+Although 'rape' and 'unlawful sexual connection' have the same maximum sentence, the differentiation leads to different sentences for these crimes. Male victims of female perpetrators are denied the same level of justice as female victims of male perpetrators. The Court of Appeal's sentencing guidelines[^26] recommend a sentence of 6-8 years for a man charged with having sex with a woman without her consent. The guidelines recommend a 2-5 year sentence for a woman charged with having sex with a man without his consent.
+
+Patterson's[^27] review of sexual assault cases found similar discrimination against men for sexual assault cases. 
+
+> In terms of police decision-making processes, compared to males, a smaller proportion of females proceeded to "court action" for their offences. Furthermore, the severity of sentences handed down to males was greater than those handed down to females, both generally and when the sexual offence could be directly matched.
+
 This gendered definition means that, expect in rare circumstances, only men can be charged with rape. Sentencing for guidelines for rape and unlawful sexual connection differently. See *Sentencing guidelines for sexual offences*.
 
 The gendered definition creates several problems. Firstly, male victims who were forced to penetrate are denied equal levels of justice compared to female rape victims.
@@ -145,7 +163,7 @@ The *Rape Law Reform Bill (No. 2) 1984 (3-1)* proposed to replace  the word 'rap
 
 > *Clause 3* sets out a composite offence of sexual violation, which will replace the present offence of rape. It also creates a new offence of obtaining sexual connection by coercion...The term "sexual connection" used in the earlier Bill has been retained  to describe the physical elements of the crime, using the new term  "sexual violation" as the legal name of the crime.[^22]
 
-The *Rape Law Reform Bill (No. 2) (1984) 1985 (3-2)* which became  the *Crimes Amendment Bill (No. 4) 1985 (3-3A)* reintroduced the  crime of rape as a gender-specific crime by defining sexual  violation as either 'a male who rapes a female' or 'a person having  unlawful sexual connection with another person'. These changes were  introduced in the *Crimes Amendment Act (No 3) 1985 (1985 No 160)*.
+The *Rape Law Reform Bill (No. 2) (1984) 1985 (3-2)* which became the *Crimes Amendment Bill (No. 4) 1985 (3-3A)* reintroduced the  crime of rape as a gender-specific crime by defining sexual violation as either 'a male who rapes a female' or 'a person having  unlawful sexual connection with another person'. These changes were  introduced in the *Crimes Amendment Act (No 3) 1985 (1985 No 160)*.
 
 The explanatory notes from the *Crimes Amendment Bill (No 2) 2003  (104-1)* recognises the right of everyone to be equal in the eyes of  the law, and therefore sex offences should be gender-neutral.  However, the Bill explains that 'rape', in the proposed law, breaks  that principle by being gender-specific. The Bill states that there  may be a "symbolic value in retaining rape as a male on female  offence as a separate category of sexual violation".    
 
@@ -398,3 +416,9 @@ The following legislation, either removing legal discriminations against women o
 [^23]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 [^24]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
+
+[^25]: [*"In Our Own Words" -- Student experiences of sexual violence  prior to and during tertiary education.*](https://www.thursdaysinblack.org/resources) -- Thursday's in Black
+
+[^26]: R V AM CA27/2009
+
+[^27]: [*Disparities in police proceedings and court sentencing for females versus males who commit sexual offences in New    Zealand*](https://www.tandfonline.com/doi/abs/10.1080/13552600.2019.1581281) -  Patterson (2019)
