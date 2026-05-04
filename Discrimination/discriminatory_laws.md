@@ -130,7 +130,7 @@ Defining rape as something that is only done by men and to women has consequence
 
 As the Green Party mentions, defining rape as something that can only happen to women does not respect how male victims' feel about the reality of what has happened to them. This can cause male victims who were *forced-to-penetrate* undue distress. For example:
 
-    > It's deeply saddening that the definition of rape is restricted only to penetrative sex, this ignores the rights of those victims not of being penetrated but forced to penetrate." (Māori/Pākehā, man, takatāpui, heterosexual)[^25]
+> It's deeply saddening that the definition of rape is restricted only to penetrative sex, this ignores the rights of those victims not of being penetrated but forced to penetrate." (Māori/Pākehā, man, takatāpui, heterosexual)[^25]
 
 #### Two-tiered justice 
 
