@@ -11,16 +11,19 @@ Men have the right to be treated equally under the law. Article 7 of the *Univer
 The Article 26 of the *International Covenant on Civil and Political Rights* states:
 > All persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
 
+Article 15.1 of the *Convention on the Elimination of All Forms of Discrimination against Women* says:
+> States Parties shall accord to women equality with men before the law.
+
 The Human Rights Commission states:
 > In a free and democratic society (such as New Zealand purports to be) laws should be non-discriminatory on their face, unless the discrimination is demonstrably justified.[^1]
 
 Unfortunately, New Zealand has several laws that discriminate against men.
 
-In 1993, New Zealand has mistakenly claimed that:
+In 1993, New Zealand mistakenly claimed that:
 
 > New Zealand law accords to women equality with men before the law. The provisions of the criminal law as laid down in the Crimes Act 1961 are the same in respect of men and women except where necessary in sexual offenses. The range of punishments and sentences provided in the statutes for criminal offenses are the same for men and women.[^2]
 
- As shown below, there are were crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
+ As shown below, there are crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
 
 ## Male Assaults Female
 
