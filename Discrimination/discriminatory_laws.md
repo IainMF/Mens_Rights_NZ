@@ -139,11 +139,11 @@ Various Bills have considered a gender-neutral definition rape, or  replacing it
 
 Following Canada's lead,[^20] the *Rape Law Reform Bill 1983  (116-1)* proposed a gender-neutral definition of rape; sexual  connection without consent.
 
-> *Clause 3* defines the term \"sexual connection\". This is the term used in *clause 4* which reformulates the crime of rape. It should be noted that, in general, the definition is wide enough to apply to male and female offenders and male and female victims.  Under the present law, rape can only be committed by a male on a  female (although females can be charged as parties to rape).[^15]
+> *Clause 3* defines the term \"sexual connection\". This is the term used in *clause 4* which reformulates the crime of rape. It should be noted that, in general, the definition is wide enough to apply to male and female offenders and male and female victims.  Under the present law, rape can only be committed by a male on a  female (although females can be charged as parties to rape).[^21]
 
 The *Rape Law Reform Bill (No. 2) 1984 (3-1)* proposed to replace  the word 'rape' with 'sexual violation'.
 
-> *Clause 3* sets out a composite offence of sexual violation, which will replace the present offence of rape. It also creates a new offence of obtaining sexual connection by coercion...The term "sexual connection" used in the earlier Bill has been retained  to describe the physical elements of the crime, using the new term  "sexual violation" as the legal name of the crime.[^16]
+> *Clause 3* sets out a composite offence of sexual violation, which will replace the present offence of rape. It also creates a new offence of obtaining sexual connection by coercion...The term "sexual connection" used in the earlier Bill has been retained  to describe the physical elements of the crime, using the new term  "sexual violation" as the legal name of the crime.[^22]
 
 The *Rape Law Reform Bill (No. 2) (1984) 1985 (3-2)* which became  the *Crimes Amendment Bill (No. 4) 1985 (3-3A)* reintroduced the  crime of rape as a gender-specific crime by defining sexual  violation as either 'a male who rapes a female' or 'a person having  unlawful sexual connection with another person'. These changes were  introduced in the *Crimes Amendment Act (No 3) 1985 (1985 No 160)*.
 
@@ -155,12 +155,12 @@ The Bill's explanatory notes highlight the importance of recognising  that all f
 
 > It is time to recognise that other forms of sexual conduct covered by "sexual connection" are just as intrusive and should be treated with the same seriousness as sexual intercourse
 
-The *Law and Order Committee*[^17] considered the following options  when reviewing the Bill:    
+The *Law and Order Committee*[^23] considered the following options  when reviewing the Bill:    
 
 > -   retain the present distinction of rape as a gender-based offence  
 > -   abolish the distinction by including within the term "rape" all forms of sexual violation, making the offence gender-neutral
 > -   abolish the distinction by deleting the word "rape" from the law thereby bringing everything under the term "sexual  >     violation", and making the offence gender-neutral 
-> -   retain the distinctions but widen the term "rape" to include  >     anal penetration, making the offence partially gender-neutral.    
+> -   retain the distinctions but widen the term "rape" to include anal penetration, making the offence partially gender-neutral.    
 
 They concluded:    
 
@@ -170,7 +170,7 @@ The Committee states:
 
 > The term \"rape\" carries powerful and specific connotations, and is commonly used to refer to an abhorrent sexual crime against women deserving of significant punishment.
 
-A number of political parties supported making rape a gender-neutral  offence.[^18] The New Zealand First Party stated "We are  specifically disappointed that despite the bill purporting gender  neutrality the definition of rape remains unchanged." The United  Future Party stated "Most particularly, the aims to modernise the  law in support for a gender-neutral approach has not been achieved  with respect to the sexual offence of rape...United Future will  continue to advocate for an alternative option consistent with  gender neutrality."
+A number of political parties supported making rape a gender-neutral  offence.[^23] The New Zealand First Party stated "We are  specifically disappointed that despite the bill purporting gender  neutrality the definition of rape remains unchanged." The United  Future Party stated "Most particularly, the aims to modernise the  law in support for a gender-neutral approach has not been achieved  with respect to the sexual offence of rape...United Future will  continue to advocate for an alternative option consistent with  gender neutrality."
 
 The Green Party highlighted several issues with a gendered  definition of rape:    
 
