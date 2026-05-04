@@ -16,6 +16,14 @@ The Human Rights Commission states:
 
 Unfortunately, New Zealand has several laws that discriminate against men.
 
+In 1993, New Zealand has mistakenly claimed that:
+
+    > New Zealand law accords to women equality with men before the law. The provisions of the criminal law as laid down in the Crimes Act 1961 are the same in respect of men and women except where necessary in sexual offenses. The range of punishments and sentences provided in the statutes for criminal offenses are the same for men and women.[^19]
+
+ As shown below, there are were crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
+
+
+
 ## Male Assaults Female
 
 Section 194 of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^2] 
@@ -328,3 +336,5 @@ The following legislation, either removing legal discriminations against women o
 [^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 
 [^18]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
+
+[^19]: New Zealand’s 2nd report under the Convention on the Elimination of Discrimination Against Women – CEDAW/C/NZE/2
