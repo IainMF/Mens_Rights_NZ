@@ -303,7 +303,7 @@ The 1975 Social Security Amendment act has provision to subsidise medical care f
 ### Superannuation:
 The *Government Superannuation Fund Amendment Act 1976* removed discrimination that required a widower prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit. Widows did not have to prove they were dependent.
 ### Unemployment Benefit:
-Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the *Social Security Amendment Act, 1979*."[^25]
+Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the *Social Security Amendment Act, 1979*."^[New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41]
 ### Sickness and invalid's benefits:
 Previously, a woman with a dependent husband would not qualify for the full married rate for sickness of invalid's benefits, potentially leaving both husband and wife without adequate support. "Since 10 January 1979, married women have qualified for the full married couple rate (which includes payment for a dependent spouse) if they are in receipt of the sickness or invalid benefit. The income test is the same as that applied to a married man with a dependent wife. This provision was introduced in the *Social Security Amendment Act 1978*."^[New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41]
 ### Benefits on Death:
@@ -326,7 +326,7 @@ If a male employee died as the result of work-related injuries, his widow may be
 The *Superannuation Amendment Act 1963* required people to contribute to the superannuation fund who were under 25-years-old, however, married women under 25 were not required to contribute.
 ## Paternity leave 
 
-New Zealand introduced maternity leave without pay to public service employees in 1948.[^29] This was extended to private business in the *Maternity Leave and Employment Protection Act 1980* allowing for 26 weeks of unpaid leave. The *Parental Leave and Employment Protection Act 1987* introduced paternity leave. The Act mandated 14 weeks of maternity leave and 2 weeks of paternity leave and an additional 52 weeks of unpaid leave was available to be split between the parents. This parental leave was also available for parents adopting a child under 5-years-old. The *Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002* introduced publicly-funded paid parental leave and allows paid leave to be transferred from the mother to her spouse. The *Parental Leave and Employment Protection Amendment Act 2016* introduced more gender-neutral definitions. The law now refers to 'primary-carer' leave and 'partner' leave.
+New Zealand introduced maternity leave without pay to public service employees in 1948.[^26] This was extended to private business in the *Maternity Leave and Employment Protection Act 1980* allowing for 26 weeks of unpaid leave. The *Parental Leave and Employment Protection Act 1987* introduced paternity leave. The Act mandated 14 weeks of maternity leave and 2 weeks of paternity leave and an additional 52 weeks of unpaid leave was available to be split between the parents. This parental leave was also available for parents adopting a child under 5-years-old. The *Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002* introduced publicly-funded paid parental leave and allows paid leave to be transferred from the mother to her spouse. The *Parental Leave and Employment Protection Amendment Act 2016* introduced more gender-neutral definitions. The law now refers to 'primary-carer' leave and 'partner' leave.
 
 ## Compensation for injuries. 
 
@@ -486,6 +486,7 @@ The following legislation, either removing legal discriminations against women o
 [^2]: New Zealand’s 2nd report under the Convention on the Elimination of Discrimination Against Women – CEDAW/C/NZE/2
 
 [^3]: ICCPR General Comment 28, paragraph 31
+
 [^4]: Review of Part 8 of the Crimes Act 1961: crimes against the person [https://bit.ly/2LQuRv5](https://bit.ly/2LQuRv5)]
 
 [^5]: Reform of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2MoYwNh](https://bit.ly/2MoYwNh) – paragraph 35
@@ -517,8 +518,8 @@ The following legislation, either removing legal discriminations against women o
 [^18]: R V AM CA27/2009
 
 [^19]: [*Disparities in police proceedings and court sentencing for females versus males who commit sexual offences in New    Zealand*](https://www.tandfonline.com/doi/abs/10.1080/13552600.2019.1581281) -  Patterson (2019)
-[^20]: Bill C-127, An Act to Amend the Criminal Code in Relation to Sexual Offences and Other Offences Against the Person – August 4, 1982
 
+[^20]: Bill C-127, An Act to Amend the Criminal Code in Relation to Sexual Offences and Other Offences Against the Person – August 4, 1982
 
 [^21]: Rape Law Reform Bill 1983 (116-1)
 
@@ -530,7 +531,9 @@ The following legislation, either removing legal discriminations against women o
 
 [^25]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
 
-[^26]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
+[^26]: Public Service Amending Regulations 1948
 
-[^27]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
+[^27]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
+
+[^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
