@@ -18,22 +18,22 @@ Unfortunately, New Zealand has several laws that discriminate against men.
 
 In 1993, New Zealand has mistakenly claimed that:
 
-> New Zealand law accords to women equality with men before the law. The provisions of the criminal law as laid down in the Crimes Act 1961 are the same in respect of men and women except where necessary in sexual offenses. The range of punishments and sentences provided in the statutes for criminal offenses are the same for men and women.[^19]
+> New Zealand law accords to women equality with men before the law. The provisions of the criminal law as laid down in the Crimes Act 1961 are the same in respect of men and women except where necessary in sexual offenses. The range of punishments and sentences provided in the statutes for criminal offenses are the same for men and women.[^2]
 
  As shown below, there are were crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
 
 ## Male Assaults Female
 
-Section 194 of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^2] 
+Section 194 of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^3] 
 
-In 2009 the Law Commission reviewed part eight of the Crimes Act[^3] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
+In 2009 the Law Commission reviewed part eight of the Crimes Act[^4] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
 
 *Male-assaults-female* was used as a proxy to address family violence. The *Family Violence (Amendments) Act 2018* addressed the
     shortcomings of using *male-assaults-female* to address family violence. After all, family violence includes more than just a male assaulting a female. 
 
-Both Amy Adams,[^4] the Minister of Justice for the introduction of the bill, and the Human Rights Commission recognised the limitation of male assaults female to address family violence. The Human Rights Commission states: “The law should reflect the seriousness of the assault and not the gender of the victim and perpetrator.”[^5]
+Both Amy Adams,[^5] the Minister of Justice for the introduction of the bill, and the Human Rights Commission recognised the limitation of male assaults female to address family violence. The Human Rights Commission states: “The law should reflect the seriousness of the assault and not the gender of the victim and perpetrator.”[^6]
 
-Despite the Law Commission's recommendation to repeal *male-assaults-female*, the shortcomings of being addressed in other law, and the ineffectiveness of using the law for symbolic purposes, Amy Adams recommended not repealing *male-assaults-female* as a symbolic gesture. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^6] However, retaining *male-assaults-female* also symbolises a willingness to discriminate against men and violate their right to equality under the law.
+Despite the Law Commission's recommendation to repeal *male-assaults-female*, the shortcomings of being addressed in other law, and the ineffectiveness of using the law for symbolic purposes, Amy Adams recommended not repealing *male-assaults-female* as a symbolic gesture. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^7] However, retaining *male-assaults-female* also symbolises a willingness to discriminate against men and violate their right to equality under the law.
 
 ### Other concerns about male assaults female
 Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault. The *Bail Act 2000* provides that "A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment" unless the offence is male-assaults-female or assault on a family member.
@@ -52,11 +52,11 @@ Section 178 of the Crimes Act 1961 allows mothers who murder their children when
 
 Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where a woman he would have been charged with infanticide.
 
-> Another class of ‘neither nor’ defendants are the ‘deserving cases’. These are defendants suffering some mental impairment who, because of their circumstances, deserve reduced culpability in a way the law currently fails to provide. For example, in R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning. Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10), which was a causal factor in him killing the baby. He was held to be sane. As shall be discussed, infanticide is the only statutory form of reduced culpability for defendants suffering mental impairment short of insanity in New Zealand. **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^7]
+> Another class of ‘neither nor’ defendants are the ‘deserving cases’. These are defendants suffering some mental impairment who, because of their circumstances, deserve reduced culpability in a way the law currently fails to provide. For example, in R v W the defendant, a loving father, learnt that his baby child had been born with the worst survivable brain dysfunction and would never have independent functioning. Consequently, the defendant became mentally debilitated and developed acute stress disorder (recognised in ICD-10), which was a causal factor in him killing the baby. He was held to be sane. As shall be discussed, infanticide is the only statutory form of reduced culpability for defendants suffering mental impairment short of insanity in New Zealand. **However, infanticide is only available to mothers who kill their children, so the defendant here was charged with murder.**[^8]
 
 There is some support to replace infanticide with a gender-neutral law.
 
-> Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^8]
+> Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^9]
 
 ### History of Infanticide
 Infanticide was introduced in the 1961 Crimes Act and was based on the United Kingdom Infanticide Act 1938. 
@@ -72,26 +72,26 @@ In 2016, the Human Rights Review Tribunal has declared that Section 4(2) the Ado
 
 The United Nations Human Rights Committee has recommended:
 
->  \[New Zealand] should amend the Adoption Act 1955 and repeal all of its discriminatory provisions, and consider permitting civil union partners to adopt children.[^9]
+>  \[New Zealand] should amend the Adoption Act 1955 and repeal all of its discriminatory provisions, and consider permitting civil union partners to adopt children.[^10]
 
-The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^10]
+The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^11]
 
 
 ## Healthy Futures Act
-One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^11] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
+One of the objectives of the Pae Ora (Healthy Futures) Act 2022 is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^12] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Mongolia, Australia, Ireland, Iran, Malaysia, South Africa, Brazil, and the state of Quebec all have men's health strategies.
 
- Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^12]
+ Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^13]
 
 ## Protection from Genital Mutilation
-In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^13] This should apply to all children including boys.
+In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^14] This should apply to all children including boys.
 
 Hammond and Carmack argue that non-therapeutic infant circumcision violates a child’s rights to religious freedom, bodily autonomy and protection from harm.
 
-> Findings highlight important health and human rights implications resulting from infringements on the bodily integrity and future autonomy rights of boys… [^14]
+> Findings highlight important health and human rights implications resulting from infringements on the bodily integrity and future autonomy rights of boys… [^15]
 
 Martin Robbins argues that men should be able to choose whether they are circumcised or not
 
-> Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^15]
+> Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^16]
 
 ## Rape and Sexual Assault
 Historically, there were significant gaps in legal protection of men and boys from sexual assault. The _Crimes Act 1908_, and later, the _Crimes Act 1961_ included crimes protecting women and girls from a wide range of sexual assaults, but men and boys were only protected from sexually assaults by men as a consequence of all sexual activity between men being illegal. In theory this protected males from sexual assault from males, but in practice the fear of being charged themselves and stigma around homosexuality prevented victims from reporting these crimes. There was no legal protection for men from female perpetrated sexual assault.
@@ -130,13 +130,13 @@ Defining rape as something that is only done by men and to women has consequence
 
 As the Green Party mentions, defining rape as something that can only happen to women does not respect how male victims' feel about the reality of what has happened to them. This can cause male victims who were *forced-to-penetrate* undue distress. For example:
 
-> It's deeply saddening that the definition of rape is restricted only to penetrative sex, this ignores the rights of those victims not of being penetrated but forced to penetrate." (Māori/Pākehā, man, takatāpui, heterosexual)[^25]
+> It's deeply saddening that the definition of rape is restricted only to penetrative sex, this ignores the rights of those victims not of being penetrated but forced to penetrate." (Māori/Pākehā, man, takatāpui, heterosexual)[^17]
 
 #### Two-tiered justice 
 
-Although 'rape' and 'unlawful sexual connection' have the same maximum sentence, the differentiation leads to different sentences for these crimes. Male victims of female perpetrators are denied the same level of justice as female victims of male perpetrators. The Court of Appeal's sentencing guidelines[^26] recommend a sentence of 6-8 years for a man charged with having sex with a woman without her consent. The guidelines recommend a 2-5 year sentence for a woman charged with having sex with a man without his consent.
+Although 'rape' and 'unlawful sexual connection' have the same maximum sentence, the differentiation leads to different sentences for these crimes. Male victims of female perpetrators are denied the same level of justice as female victims of male perpetrators. The Court of Appeal's sentencing guidelines[^18] recommend a sentence of 6-8 years for a man charged with having sex with a woman without her consent. The guidelines recommend a 2-5 year sentence for a woman charged with having sex with a man without his consent.
 
-Patterson's[^27] review of sexual assault cases found similar discrimination against men for sexual assault cases. 
+Patterson's[^19] review of sexual assault cases found similar discrimination against men for sexual assault cases. 
 
 > In terms of police decision-making processes, compared to males, a smaller proportion of females proceeded to "court action" for their offences. Furthermore, the severity of sentences handed down to males was greater than those handed down to females, both generally and when the sexual offence could be directly matched.
 
@@ -226,7 +226,7 @@ The *Prisons Act 1873* stipulates that male prison escapees can be kept in solit
 
 ### Additional duties & responsibilities
 #### Jury service
-Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^17]
+Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (Juries Act of 1868,1908). The *Women Jurors Act 1942* allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The *Juries Amendment Act 1963* changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The *Juries Amendment Act 1976* "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^24]
 
 #### Assisting police officers
 The _Police Force Act 1913_, the _Police Force Act 1947_, the _Police Act 1958_ require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The _Human Rights Amendment Act 2001_ amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the _Policing Act 2008_ also applies to any person.
@@ -243,7 +243,7 @@ The _Defence Act 1909_ brought in a general training requirement for males 12 to
 The _Military Service Act 1916_, required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
 
 ##### Loss of rights
-The _Expeditionary Forces Amendment Act 1918_ removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The _War Disabilities Removal Bill 1927 (16-3)_ proposed to end the denial of rights one year early, but this provision was removed before passing the War Disabilities Removal Act.[^18] 
+The _Expeditionary Forces Amendment Act 1918_ removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The _War Disabilities Removal Bill 1927 (16-3)_ proposed to end the denial of rights one year early, but this provision was removed before passing the War Disabilities Removal Act.[^25] 
 
 In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
 ##### WWII
@@ -267,7 +267,7 @@ In New Zealand's 1987 CEDAW report:
 
 > In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. ==This provision, which discriminated against widowers==, was removed in the 1982 Social Security Amendment Act. The benefit on death is now available to widowers on the same basis as to widows.
 > 
-> ==There are some areas where women have more rights than men in the present social security legislation.== A "male breadwinner" assumption remains in the Social Security Act, 1964, in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the “woman alone" provisions.[^16]
+> ==There are some areas where women have more rights than men in the present social security legislation.== A "male breadwinner" assumption remains in the Social Security Act, 1964, in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the “woman alone" provisions.[^26]
 
 
 
@@ -371,41 +371,40 @@ The following legislation, either removing legal discriminations against women o
 
 [^1]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*, 2013.
 
-[^2]: ICCPR General Comment 28, paragraph 31
-[^3]: Review of Part 8 of the Crimes Act 1961: crimes against the person [https://bit.ly/2LQuRv5](https://bit.ly/2LQuRv5)]
+[^2]: New Zealand’s 2nd report under the Convention on the Elimination of Discrimination Against Women – CEDAW/C/NZE/2
 
-[^4]: Reform of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2MoYwNh](https://bit.ly/2MoYwNh) – paragraph 35
+[^3]: ICCPR General Comment 28, paragraph 31
+[^4]: Review of Part 8 of the Crimes Act 1961: crimes against the person [https://bit.ly/2LQuRv5](https://bit.ly/2LQuRv5)]
 
-[^5]: Submission of the Human Rights Commission on the Family and Whānau Violence Legislation Bill [https://bit.ly/2Jz5tgV](https://bit.ly/2Jz5tgV)
+[^5]: Reform of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2MoYwNh](https://bit.ly/2MoYwNh) – paragraph 35
 
-[^6]: Reform of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2JFzt6K](https://bit.ly/2JFzt6K)
+[^6]: Submission of the Human Rights Commission on the Family and Whānau Violence Legislation Bill [https://bit.ly/2Jz5tgV](https://bit.ly/2Jz5tgV)
 
-[^7]: Westway, Thomas - "Guilty But Substantially Mentally Impaired" [2011] NZLawStuJl 2; (2011) 2 New Zealand Law Students' Journal 470 - [http://archive.li/TtqTm](http://archive.li/TtqTm)]
+[^7]: Reform of Family Violence Law – Paper Three: Prosecuting family violence – Cabinet Social Policy Committee [https://bit.ly/2JFzt6K](https://bit.ly/2JFzt6K)
 
-[^8]:  [*When mothers kill, but don’t go to jail*](https://archive.ph/xZHWj) – Katie Kenny, Stuff.co.nz, November 24 2015↩
+[^8]: Westway, Thomas - "Guilty But Substantially Mentally Impaired" [2011] NZLawStuJl 2; (2011) 2 New Zealand Law Students' Journal 470 - [http://archive.li/TtqTm](http://archive.li/TtqTm)]
 
-[^9]: Concluding observations on the sixth periodic report of New Zealand -- CCPR/C/NZL/CO/6
+[^9]:  [*When mothers kill, but don’t go to jail*](https://archive.ph/xZHWj) – Katie Kenny, Stuff.co.nz, November 24 2015↩
 
-[^10]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*. 2013
+[^10]: Concluding observations on the sixth periodic report of New Zealand -- CCPR/C/NZL/CO/6
 
-[^11]: Pae Ora (Healthy Futures) Act 2022 Section 3(b)
+[^11]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*. 2013
 
-[^12]: Casinader, Jehan . ['Men have it so easy' - why do NZ guys get minimal health support?](https://archive.ph/0wizg)  1 News, June 8, 2024
+[^12]: Pae Ora (Healthy Futures) Act 2022 Section 3(b)
 
-[^13]: Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)
+[^13]: Casinader, Jehan . ['Men have it so easy' - why do NZ guys get minimal health support?](https://archive.ph/0wizg)  1 News, June 8, 2024
 
-[^14]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
+[^14]: Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)
 
-[^15]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
+[^15]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
 
-[^16]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
+[^16]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
 
-[^17]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+[^17]: [*"In Our Own Words" -- Student experiences of sexual violence  prior to and during tertiary education.*](https://www.thursdaysinblack.org/resources) -- Thursday's in Black
 
-[^18]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
+[^18]: R V AM CA27/2009
 
-[^19]: New Zealand’s 2nd report under the Convention on the Elimination of Discrimination Against Women – CEDAW/C/NZE/2
-
+[^19]: [*Disparities in police proceedings and court sentencing for females versus males who commit sexual offences in New    Zealand*](https://www.tandfonline.com/doi/abs/10.1080/13552600.2019.1581281) -  Patterson (2019)
 [^20]: Bill C-127, An Act to Amend the Criminal Code in Relation to Sexual Offences and Other Offences Against the Person – August 4, 1982
 
 
@@ -415,10 +414,11 @@ The following legislation, either removing legal discriminations against women o
 
 [^23]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
-[^24]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
+[^24]: New Zealand CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 
-[^25]: [*"In Our Own Words" -- Student experiences of sexual violence  prior to and during tertiary education.*](https://www.thursdaysinblack.org/resources) -- Thursday's in Black
+[^25]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
 
-[^26]: R V AM CA27/2009
+[^26]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
 
-[^27]: [*Disparities in police proceedings and court sentencing for females versus males who commit sexual offences in New    Zealand*](https://www.tandfonline.com/doi/abs/10.1080/13552600.2019.1581281) -  Patterson (2019)
+[^27]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
+
