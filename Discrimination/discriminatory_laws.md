@@ -30,7 +30,8 @@ Section 194 of the 1961 Crimes Act includes *male-assaults-female*. It covers as
 
 In 2009 the Law Commission reviewed part eight of the Crimes Act[^3] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
 
-*Male-assaults-female* was used as a proxy to address family violence. The introduction of the Family and Whānau Violence Legislation Bill addressed the shortcomings of using *male-assaults-female* to address family violence. After all, family violence includes more than just a male assaulting a female. 
+*Male-assaults-female* was used as a proxy to address family violence. The *Family Violence (Amendments) Act 2018* addressed the
+    shortcomings of using *male-assaults-female* to address family violence. After all, family violence includes more than just a male assaulting a female. 
 
 Both Amy Adams,[^4] justice minister for the introduction of the bill, and the Human Rights Commission recognised the limitation of male assaults female to address family violence. The Human Rights Commission states: “The law should reflect the seriousness of the assault and not the gender of the victim and perpetrator.”[^5]
 
