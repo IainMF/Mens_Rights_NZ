@@ -36,9 +36,9 @@ Both Amy Adams,[^4] the Minister of Justice for the introduction of the bill, an
 Despite the Law Commission's recommendation to repeal *male-assaults-female*, the shortcomings of being addressed in other law, and the ineffectiveness of using the law for symbolic purposes, Amy Adams recommended not repealing *male-assaults-female* as a symbolic gesture. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^6] However, retaining *male-assaults-female* also symbolises a willingness to discriminate against men and violate their right to equality under the law.
 
 ### Other concerns about male assaults female
-Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault.
+Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault. The *Bail Act 2000* provides that "A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment" unless the offence is male-assaults-female or assault on a family member.
 
-The *Criminal Investigations (Bodily Samples) Amendment Act 2009*  allowed investigators the ability to take bodily samples from people accused of *male assaults female*. They may not take bodily samples for the equivalent common assault.
+The *Criminal Investigations (Bodily Samples) Amendment Act 2009*  allowed investigators the ability to take bodily samples from people accused of *male assaults female*. They may not take bodily samples from people chraged with common assault.
 
 ### History of male assaults female
 
@@ -134,6 +134,56 @@ Fourthly, rapists are stigmatised for their crimes. The stigma is not so great f
 
 ### History of rape law
 The _Criminal Code Bill 1886_ defines "Rape is the act of a male person, not under the age of fourteen years, having carnal knowledge of a woman who is not his wife" without her consent.
+
+17. Various Bills have considered a gender-neutral definition rape, or  replacing it with a gender-neutral crime, however, it remains a  gender-specific crime defined as a male penetrating a female.
+
+18. Following Canada's lead, [^14] the *Rape Law Reform Bill 1983  (116-1)* proposed a gender-neutral definition of rape; sexual  connection without consent.
+
+> *Clause 3* defines the term \"sexual connection\". This is the term used in *clause 4* which reformulates the crime of rape. It  > should be noted that, in general, the definition is wide enough to apply to male and female offenders and male and female victims.  Under the present law, rape can only be committed by a male on a  female (although females can be charged as parties to rape).[^15]
+
+19. The *Rape Law Reform Bill (No. 2) 1984 (3-1)* proposed to replace  the word 'rape' with 'sexual violation'.
+
+> *Clause 3* sets out a composite offence of sexual violation, which will replace the present offence of rape. It also creates a new  > offence of obtaining sexual connection by coercion...The term "sexual connection" used in the earlier Bill has been retained  > to describe the physical elements of the crime, using the new term  "sexual violation" as the legal name of the crime.[^16]
+
+20. The *Rape Law Reform Bill (No. 2) (1984) 1985 (3-2)* which became  the *Crimes Amendment Bill (No. 4) 1985 (3-3A)* reintroduced the  crime of rape as a gender-specific crime by defining sexual  violation as either 'a male who rapes a female' or 'a person having  unlawful sexual connection with another person'. These changes were  introduced in the *Crimes Amendment Act (No 3) 1985 (1985 No 160)*.
+
+21. The explanatory notes from the *Crimes Amendment Bill (No 2) 2003  (104-1)* recognises the right of everyone to be equal in the eyes of  the law, and therefore sex offences should be gender-neutral.  However, the Bill explains that 'rape', in the proposed law, breaks  that principle by being gender-specific. The Bill states that there  may be a "symbolic value in retaining rape as a male on female  offence as a separate category of sexual violation".    
+
+> \[T\]he Bill proposes that all sex offences be expressed and applied in a sex-neutral manner...The expectation is consistent with a key principle of our democratic society-that everyone is equal in the eyes of the law...There is one major exception to the general application of the sex-neutral principle, and that is in  regard to "rape".
+
+22. The Bill's explanatory notes highlight the importance of recognising  that all forms of sexual assault and abuse should be treated with  equal seriousness.   
+
+> It is time to recognise that other forms of sexual conduct covered by "sexual connection" are just as intrusive and should be treated with the same seriousness as sexual intercourse
+
+23. The *Law and Order Committee*[^17] considered the following options  when reviewing the Bill:    
+
+> -   retain the present distinction of rape as a gender-based offence  
+> -   abolish the distinction by including within the term "rape" all forms of sexual violation, making the offence gender-neutral
+> -   abolish the distinction by deleting the word "rape" from the law thereby bringing everything under the term "sexual  >     violation", and making the offence gender-neutral 
+> -   retain the distinctions but widen the term "rape" to include  >     anal penetration, making the offence partially gender-neutral.    
+
+They concluded:    
+
+> ...On balance, the majority of us consider that, at this time, retaining rape as a gender-based offence covering only penile penetration of the female genitalia, while providing for another offence of unlawful sexual connection so that specific recognition can be given to anal and oral penetration, is the most appropriate option. However, we accept that to retain the rape distinction constitutes a limited exception to the bill's gender-neutral objective.    
+
+The Committee states:    
+
+> The term \"rape\" carries powerful and specific connotations, and is commonly used to refer to an abhorrent sexual crime against women deserving of significant punishment.
+
+24. A number of political parties supported making rape a gender-neutral  offence.[^18] The New Zealand First Party stated "We are  specifically disappointed that despite the bill purporting gender  neutrality the definition of rape remains unchanged." The United  Future Party stated "Most particularly, the aims to modernise the  law in support for a gender-neutral approach has not been achieved  with respect to the sexual offence of rape...United Future will  continue to advocate for an alternative option consistent with  gender neutrality."
+
+25. The Green Party highlighted several issues with a gendered  definition of rape:    
+
+> The Green Party believes that the definition of rape, as retained in this bill is:  
+> -   outdated in terms of society's perceptions of what constitutes rape 
+> -   is not gender-neutral 
+> -   does not respect how many victims' feel about the reality of what has happened to them
+> -   is out of step with the latest definition used by the International Criminal Tribunal of Yugoslavia (whose definition itself was the result of a broad review of rape law across jurisdictions). 
+
+> We would prefer to see a definition that would subsume all forms of sexual violation (as currently defined in section 128 of the Crimes Act), within a single definition of rape. The effect of this would be that all forms of sexual violation would be rape, including:  
+> -   acts on men, as well as on women (currently only women can be raped) 
+> -   acts by women, as well as men (currently only men can rape) 
+> -   acts which include anal and oral penetration, and penetration with objects (currently rape is only penile penetration of the vagina). In line with other amendments contained in this bill, the Green Party would have preferred Parliament to use this opportunity to update, streamline and render gender-neutral the law of rape. 
 
 
 ## Other discrimination in law.
