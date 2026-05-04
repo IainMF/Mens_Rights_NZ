@@ -135,27 +135,27 @@ Fourthly, rapists are stigmatised for their crimes. The stigma is not so great f
 ### History of rape law
 The _Criminal Code Bill 1886_ defines "Rape is the act of a male person, not under the age of fourteen years, having carnal knowledge of a woman who is not his wife" without her consent.
 
-17. Various Bills have considered a gender-neutral definition rape, or  replacing it with a gender-neutral crime, however, it remains a  gender-specific crime defined as a male penetrating a female.
+Various Bills have considered a gender-neutral definition rape, or  replacing it with a gender-neutral crime, however, it remains a  gender-specific crime defined as a male penetrating a female.
 
-18. Following Canada's lead, [^14] the *Rape Law Reform Bill 1983  (116-1)* proposed a gender-neutral definition of rape; sexual  connection without consent.
+Following Canada's lead,[^20] the *Rape Law Reform Bill 1983  (116-1)* proposed a gender-neutral definition of rape; sexual  connection without consent.
 
-> *Clause 3* defines the term \"sexual connection\". This is the term used in *clause 4* which reformulates the crime of rape. It  > should be noted that, in general, the definition is wide enough to apply to male and female offenders and male and female victims.  Under the present law, rape can only be committed by a male on a  female (although females can be charged as parties to rape).[^15]
+> *Clause 3* defines the term \"sexual connection\". This is the term used in *clause 4* which reformulates the crime of rape. It should be noted that, in general, the definition is wide enough to apply to male and female offenders and male and female victims.  Under the present law, rape can only be committed by a male on a  female (although females can be charged as parties to rape).[^15]
 
-19. The *Rape Law Reform Bill (No. 2) 1984 (3-1)* proposed to replace  the word 'rape' with 'sexual violation'.
+The *Rape Law Reform Bill (No. 2) 1984 (3-1)* proposed to replace  the word 'rape' with 'sexual violation'.
 
-> *Clause 3* sets out a composite offence of sexual violation, which will replace the present offence of rape. It also creates a new  > offence of obtaining sexual connection by coercion...The term "sexual connection" used in the earlier Bill has been retained  > to describe the physical elements of the crime, using the new term  "sexual violation" as the legal name of the crime.[^16]
+> *Clause 3* sets out a composite offence of sexual violation, which will replace the present offence of rape. It also creates a new offence of obtaining sexual connection by coercion...The term "sexual connection" used in the earlier Bill has been retained  to describe the physical elements of the crime, using the new term  "sexual violation" as the legal name of the crime.[^16]
 
-20. The *Rape Law Reform Bill (No. 2) (1984) 1985 (3-2)* which became  the *Crimes Amendment Bill (No. 4) 1985 (3-3A)* reintroduced the  crime of rape as a gender-specific crime by defining sexual  violation as either 'a male who rapes a female' or 'a person having  unlawful sexual connection with another person'. These changes were  introduced in the *Crimes Amendment Act (No 3) 1985 (1985 No 160)*.
+The *Rape Law Reform Bill (No. 2) (1984) 1985 (3-2)* which became  the *Crimes Amendment Bill (No. 4) 1985 (3-3A)* reintroduced the  crime of rape as a gender-specific crime by defining sexual  violation as either 'a male who rapes a female' or 'a person having  unlawful sexual connection with another person'. These changes were  introduced in the *Crimes Amendment Act (No 3) 1985 (1985 No 160)*.
 
-21. The explanatory notes from the *Crimes Amendment Bill (No 2) 2003  (104-1)* recognises the right of everyone to be equal in the eyes of  the law, and therefore sex offences should be gender-neutral.  However, the Bill explains that 'rape', in the proposed law, breaks  that principle by being gender-specific. The Bill states that there  may be a "symbolic value in retaining rape as a male on female  offence as a separate category of sexual violation".    
+The explanatory notes from the *Crimes Amendment Bill (No 2) 2003  (104-1)* recognises the right of everyone to be equal in the eyes of  the law, and therefore sex offences should be gender-neutral.  However, the Bill explains that 'rape', in the proposed law, breaks  that principle by being gender-specific. The Bill states that there  may be a "symbolic value in retaining rape as a male on female  offence as a separate category of sexual violation".    
 
 > \[T\]he Bill proposes that all sex offences be expressed and applied in a sex-neutral manner...The expectation is consistent with a key principle of our democratic society-that everyone is equal in the eyes of the law...There is one major exception to the general application of the sex-neutral principle, and that is in  regard to "rape".
 
-22. The Bill's explanatory notes highlight the importance of recognising  that all forms of sexual assault and abuse should be treated with  equal seriousness.   
+The Bill's explanatory notes highlight the importance of recognising  that all forms of sexual assault and abuse should be treated with  equal seriousness.   
 
 > It is time to recognise that other forms of sexual conduct covered by "sexual connection" are just as intrusive and should be treated with the same seriousness as sexual intercourse
 
-23. The *Law and Order Committee*[^17] considered the following options  when reviewing the Bill:    
+The *Law and Order Committee*[^17] considered the following options  when reviewing the Bill:    
 
 > -   retain the present distinction of rape as a gender-based offence  
 > -   abolish the distinction by including within the term "rape" all forms of sexual violation, making the offence gender-neutral
@@ -170,9 +170,9 @@ The Committee states:
 
 > The term \"rape\" carries powerful and specific connotations, and is commonly used to refer to an abhorrent sexual crime against women deserving of significant punishment.
 
-24. A number of political parties supported making rape a gender-neutral  offence.[^18] The New Zealand First Party stated "We are  specifically disappointed that despite the bill purporting gender  neutrality the definition of rape remains unchanged." The United  Future Party stated "Most particularly, the aims to modernise the  law in support for a gender-neutral approach has not been achieved  with respect to the sexual offence of rape...United Future will  continue to advocate for an alternative option consistent with  gender neutrality."
+A number of political parties supported making rape a gender-neutral  offence.[^18] The New Zealand First Party stated "We are  specifically disappointed that despite the bill purporting gender  neutrality the definition of rape remains unchanged." The United  Future Party stated "Most particularly, the aims to modernise the  law in support for a gender-neutral approach has not been achieved  with respect to the sexual offence of rape...United Future will  continue to advocate for an alternative option consistent with  gender neutrality."
 
-25. The Green Party highlighted several issues with a gendered  definition of rape:    
+The Green Party highlighted several issues with a gendered  definition of rape:    
 
 > The Green Party believes that the definition of rape, as retained in this bill is:  
 > -   outdated in terms of society's perceptions of what constitutes rape 
@@ -387,3 +387,14 @@ The following legislation, either removing legal discriminations against women o
 [^18]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
 
 [^19]: New Zealand’s 2nd report under the Convention on the Elimination of Discrimination Against Women – CEDAW/C/NZE/2
+
+[^20]: Bill C-127, An Act to Amend the Criminal Code in Relation to Sexual Offences and Other Offences Against the Person – August 4, 1982
+
+
+[^21]: Rape Law Reform Bill 1983 (116-1)
+
+[^22]: Rape Law Reform Bill (No. 2) 1984 (3-1)
+
+[^23]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
+
+[^24]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
