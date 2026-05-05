@@ -542,3 +542,6 @@ The following legislation, either removing legal discriminations against women o
 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NDY4ODUzNDNdfQ==
+-->
