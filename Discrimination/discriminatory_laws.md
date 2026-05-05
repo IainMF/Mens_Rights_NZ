@@ -1,6 +1,6 @@
 ---
-title: Legal Discrimination
-description: New Zealand has laws that discriminate against men and boys violating their right to be free from discrimination and their right to equality under the law.
+title: Legal Discrimination against men and boys in New Zealand
+description: New Zealand's laws discriminate against men and boys violating their right to be free from discrimination and their right to equality under the law. 
 ---
 > [!tip] This page is a work in progress
 
@@ -13,6 +13,8 @@ The Article 26 of the *International Covenant on Civil and Political Rights* sta
 
 Article 15.1 of the *Convention on the Elimination of All Forms of Discrimination against Women* says:
 > States Parties shall accord to women equality with men before the law.
+
+Section 19 of the *New Zealand Bill of Rights Act 1990* affirms the right of men and boys to be free from discrimiantion.
 
 The Human Rights Commission states:
 > In a free and democratic society (such as New Zealand purports to be) laws should be non-discriminatory on their face, unless the discrimination is demonstrably justified.[^1]
