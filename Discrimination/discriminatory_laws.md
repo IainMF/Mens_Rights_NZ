@@ -14,7 +14,7 @@ The Article 26 of the *International Covenant on Civil and Political Rights* sta
 Article 15.1 of the *Convention on the Elimination of All Forms of Discrimination against Women* says:
 > States Parties shall accord to women equality with men before the law.
 
-Section 19 of the *New Zealand Bill of Rights Act 1990* affirms the right of men and boys to be free from discrimiantion.
+Section 19 of the *New Zealand Bill of Rights Act 1990* affirms the right of men and boys to be free from discrimination.
 
 The Human Rights Commission states:
 > In a free and democratic society (such as New Zealand purports to be) laws should be non-discriminatory on their face, unless the discrimination is demonstrably justified.[^1]
@@ -159,7 +159,7 @@ Various Bills have considered a gender-neutral definition rape, or  replacing it
 
 Following Canada's lead,[^20] the *Rape Law Reform Bill 1983  (116-1)* proposed a gender-neutral definition of rape; sexual  connection without consent.
 
-> *Clause 3* defines the term \"sexual connection\". This is the term used in *clause 4* which reformulates the crime of rape. It should be noted that, in general, the definition is wide enough to apply to male and female offenders and male and female victims.  Under the present law, rape can only be committed by a male on a  female (although females can be charged as parties to rape).[^21]
+> *Clause 3* defines the term \"sexual connection\". This is the term used in *clause 4* which reformulates the crime of rape. It should be noted that, in general, the definition is wide enough to apply to male and female offenders and male and female victims.  Under the present law, rape can only be committed by a male on a  female (although females can be charged as parties to rape).[^21]
 
 The *Rape Law Reform Bill (No. 2) 1984 (3-1)* proposed to replace the word 'rape' with 'sexual violation'.
 
@@ -360,7 +360,7 @@ The *Factories Amendment Act 1971* repealed requirements for employers to provid
 
 The *Factories Act 1946* and the the *Shops and Offices Act 1955* required employers to provide a rest room for women, and seating facilities during breaks for women who work standing up. The *Factories and Commercial Premises Act 1981* removed this discrimination against men because it does not contain special provisions for rest rooms and it requires employers to provide seating facilities during breaks for all workers who work standing up.
 
-The *Factories and Commercial Premises Act 1981* required employers who want to employ women between 6pm and 11am the following day, to ensure they have 11 consecutive hours of rest (of which at least 7 fall between 10 p.m. and 7 a.m.). This effectively means women could not be employed between 1 a.m. and 3 a.m. This discriminates against both men and women because men unfairly bare the burden of overnight work, and women are unfairly prevented from working overnight. The Governor-General repealed Section 13 of the *Factories and Commercial Premises Act 1981* in 2008.
+The *Factories and Commercial Premises Act 1981* required employers who want to employ women between 6pm and 11am the following day, to ensure they have 11 consecutive hours of rest (of which at least 7 fall between 10 p.m. and 7 a.m.). This effectively means women could not be employed between 1 a.m. and 3 a.m. This discriminates against both men and women because men unfairly bare the burden of overnight work, and women are unfairly prevented from working overnight. The Governor-General repealed Section 13 of the *Factories and Commercial Premises Act 1981* in 2008.
 
 The *Shops and Offices Act 1955* prohibited females and males under 18-years-old from working after 10:30 p.m. The *Shops and Offices Amendment Act 1972* change this so that females could work after 10:30 p.m. and all people under 18-years-old could not.
 
@@ -384,107 +384,12 @@ The *Income Tax Act 1976* repealed the *Land and Income Tax Act 1954*, although 
 
 The *Income Tax Act 1994* removes the provisions for widows, but does reference the *war widows mothers allowance*.
 %%
-## My notes:
 
-
-
-### 3.2
-
-The following is a list of Acts which have the effect of promoting sex equality in New Zealand:
-
-#### Matrimonial Property Act 1976  
-This statute is described as an Act to recognise the equal contribution of husband and wife to the marriage partnership and to provide a just distribution of matrimonial property between spouses. It provides a rebuttable presumption of equal division of the matrimonial property when a marriage breaks down. Matrimonial property is, broadly, property acquired after the marriage through the work or service of either spouse but not by inheritance or gift. The presumption may be displaced if the marriage is short (three years or less); if equal division of the home and chattels would be repugnant to justice; or, in respect of other matrimonial property, if one spouse has made a clearly greater contribution to the marriage partnership.
-
-Contributions are defined broadly. There is no presumption that contribution in monetary form is of greater value than any other kind.
-
-  *Matrimonial Property Act 1976*—Provided for a more equitable division of property on the dissolution of a marriage,
-
-#### Evidence Amendment Act 1977  
-This provides that in rape trials evidence relating to a complainant's sexual experience or reputation is excluded except where exclusion would be contrary to the interests of justice.
-
-  *Evidence Amendment Act 1980*—Provided some restrictions on the cross-examination or presentation of evidence pertaining to a victim's sexual history.
-
-#### Domicile Act 1976 
-This Act provides for the separate domicile of married women.
-
-#### Juries Amendment Act 1976 (now part of the Juries Act 1981)  
-This provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service.
-
-#### Government Superannuation Fund Amendment Act 1976  
-This removes the requirement that the widower of the superannuitant prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit.
-
-#### Human Rights Commission Act 1977  
-This prohibits discrimination on the ground of sex in the fields of employment, education, accommodation, landholding, goods and services, access to public places and public facilities; and prohibits sexual discrimination in advertisements or notices about any of these matters.
-
-Enforcement is by way of mediation by the Human Rights Commission. Where this is unsatisfactory proceedings may be brought before the Equal Opportunities Tribunal and there is a right of appeal to the Administrative Division of the High Court.
-
-In addition, the Human Rights Commission has important general functions intended to effect the eradication of discrimination through education.
-
-#### Citizenship Act 1977  
-Accorded all New Zealand citizens the same rights with respect to the citizenship of spouses and children.
-
-#### State Services Amendment Act 1978  
-This gives members of the Public Service resigning for child care purposes preferential re-entry rights to the service up to four years after resignation or five years in the case of a woman entitled to maternity leave.
-
-#### Family Proceedings Act 1980
-.. and institutes a no-fault dissolution of marriage by making two years separation the only ground for divorce.
-
-#### Guardianship Amendment Act 1980  
-This makes it quite clear that neither parent is to be preferred as the custodial parent solely by reason of sex.
-
-#### Maternity Leave and Employment Protection Act 1980  
-This entitles a woman to six months maternity leave without pay where the woman has worked for an employer for at least 15 hours a week for at least 18 months before the expected date of delivery.
-
-The woman is also entitled to some job protection in that the employer is required to keep her job open (although there are exceptions). If re-employment cannot be guaranteed the employer must give her preference for re-employment for six months after the end of her maternity leave. The Act prohibits dismissal because of pregnancy.
-
-#### Social Security Amendment Acts 1976, 1978, 1979  
-The 1976 Act provides the right to social security at age 60 on the same terms for all women and men, and the 1978 and 1979 provisions grant all other weekly benefits (except widows) on the same terms to men and women.
-
-  *Social Security Amendment Act 1973*—Established the domestic purposes benefit for solo parents.
-
-  *Social Security Amendment Act 1977*—Introduced national superannuation without discrimination.
-
-  *Social Security Amendment Act 1979*—-Provided for the payment of sickness and unemployment benefits to women and men on an equal basis.
-
-#### Repeal of Section 13 of the Factories and Commercial Premises Act 1981 Order 1982  
-The Factories and Commercial Premises Act 1981 contained a section limiting the hours of employment of women in factories. The section provided for its own repeal by the Governor-General when New Zealand ceased to be bound by International Labour Organisation Convention 89 covering night work of women employed in industry. The section was repealed on 2 April 1982 by the repeal of section 13 of the Factories and Commercial Premises Act 1981 Order 1982.
-
- *Factories and Commercial Premises Amendment Act 1981*—Lifted restrictions on women working during night hours.
-
-#### Domestic Protection Act 1982  
-This provides new and improved remedies for the victims of domestic violence, married or unmarried.
-
-#### Estate and Gift Duties Amendment Act 1983  
-This provides for a gift duty exemption where a matrimonial property agreement results in the non-owner spouse receiving half the matrimonial property. There have also been consequential changes in the income tax legislation recognising the equal sharing principle of the Matrimonial Property Act 1976.
-
-## Legislation — 
-The following legislation, either removing legal discriminations against women or directly aimed at assisting women, has been passed since 1970.
-
-*Domestic Proceedings Amendment Act 1971*—Extended provisions for maintenance orders.
-
-*Equal Pay Act 1972*— Established the principle of equal pay for equal work without discrimination on the basis of sex.
-
-*Accident Compensation Amendment Act 1973*—Extended compensation provisions to non-earners.
-
-*Family Courts Act 1980*—Removed family law to special court with special support services.
-
-*Family Proceedings Act 1980*—Introduced no fault dissolution of marriage, and revised the law relating to matrimonial and domestic proceedings.
-
-*Guardianship Amendment Act 1980*—Introduced custodial provisions which ensure that the welfare of the child is paramount and no one person can be preferred as custodial parent on the basis of sex.
-
-*Maternity Leave and Employment Protection Act 1980*—Guaranteed up to 26 weeks unpaid leave to most women workers expecting a baby or planning to adopt a young child.
-
-*Domestic Protection Act 1982*—Extended protection to the victims of domestic violence in whatever situation this occurs.
-
-*Coal Mines Amendment Act 1983*—Provided for the repeal of the restriction on employment of women underground. New Zealand is no longer bound by the International Labour Convention 45.
-
-*Estate and Gift Duties Amendment Act 1983*—Provided for a gift duty exemption where a matrimonial property agreement results in the non-owner spouse receiving half the matrimonial property.
-%%
 ## In other countries
 
 [Equi-Law in the UK found that seven instances of gender imbalances that disadvantage men and none that disadvantage women.](https://equi-law.uk/imbalanced-legislation/)
 
-
+# Footnotes
 
 [^1]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*, 2013.
 
@@ -543,5 +448,5 @@ The following legislation, either removing legal discriminations against women o
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY4ODUzNDNdfQ==
+eyJoaXN0b3J5IjpbLTExNzUwMjYzMTFdfQ==
 -->
