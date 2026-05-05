@@ -40,7 +40,7 @@ Both Amy Adams,[^5] the Minister of Justice for the introduction of the bill, an
 Despite the Law Commission's recommendation to repeal *male-assaults-female*, the shortcomings of being addressed in other law, and the ineffectiveness of using the law for symbolic purposes, Amy Adams recommended not repealing *male-assaults-female* as a symbolic gesture. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^7] However, retaining *male-assaults-female* also symbolises a willingness to discriminate against men and violate their right to equality under the law.
 
 ### Other concerns about male assaults female
-Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault. The *Bail Act 2000* provides that "A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment" unless the offence is *male-assaults-female* or assault on a family member.
+Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault. The [*Bail Act 2000*](https://www.legislation.govt.nz/act/public/2000/38/en/latest/#DLM68903) provides that "A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment" unless the offence is *male-assaults-female* or assault on a family member.
 
 The [*Criminal Investigations (Bodily Samples) Amendment Act 2009*](https://www.legislation.govt.nz/bill/government/2009/14/en/latest/#DLM1829313)  expanded the crimes from which investigators could take bodily samples from accused people.  *Male assaults female* was added to the Act. Investigators may not take bodily samples from people charged with common assault.
 
@@ -448,5 +448,5 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMDc5NTc5LDk4MzU1OTExMl19
+eyJoaXN0b3J5IjpbOTcxNjA2MTA0LDk4MzU1OTExMl19
 -->
