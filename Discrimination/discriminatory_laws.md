@@ -14,7 +14,7 @@ The Article 26 of the *International Covenant on Civil and Political Rights* sta
 Article 15.1 of the *Convention on the Elimination of All Forms of Discrimination against Women* says:
 > States Parties shall accord to women equality with men before the law.
 
-Section 19 of the *New Zealand Bill of Rights Act 1990* affirms the right of men and boys to be free from discrimination.
+Section 19 of the *[New Zealand Bill of Rights Act 1990](https://www.legislation.govt.nz/act/public/1990/109/en/latest/#DLM224792)* affirms the right of men and boys to be free from discrimination.
 
 The Human Rights Commission states:
 > In a free and democratic society (such as New Zealand purports to be) laws should be non-discriminatory on their face, unless the discrimination is demonstrably justified.[^1]
@@ -29,7 +29,7 @@ In 1993, New Zealand mistakenly claimed that:
 
 ## Male Assaults Female
 
-Section 194 of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^3] 
+[Section 194](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM329383) of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^3] 
 
 In 2009 the Law Commission reviewed part eight of the Crimes Act[^4] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
 
@@ -42,7 +42,7 @@ Despite the Law Commission's recommendation to repeal *male-assaults-female*, th
 ### Other concerns about male assaults female
 Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault. The *Bail Act 2000* provides that "A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment" unless the offence is *male-assaults-female* or assault on a family member.
 
-The *Criminal Investigations (Bodily Samples) Amendment Act 2009*  allowed investigators the ability to take bodily samples from people accused of *male assaults female*. They may not take bodily samples from people chraged with common assault.
+The *Criminal Investigations (Bodily Samples) Amendment Act 2009*  allowed investigators the ability to take bodily samples from people accused of *male assaults female*. They may not take bodily samples from people charged with common assault.
 
 ### History of male assaults female
 
@@ -448,5 +448,5 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUwMjYzMTFdfQ==
+eyJoaXN0b3J5IjpbOTgzNTU5MTEyXX0=
 -->
