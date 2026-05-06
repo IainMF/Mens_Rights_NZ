@@ -286,9 +286,9 @@ Conscription was reintroduced in 1940 with the [_Emergency Regulations Amendment
 ##### Combat
 Previous legislation allowed discrimination in the Armed Forces, Police Force and Corrections. It seems men were expected to carry the burden of combat and dealing with violence.
 
-The [*Human Rights Commission Act 1977*](https://www.legislation.govt.nz/act/public/1977/49/en/latest/#LMS1156219) and allows preferential treatment based on sex in the Armed Forces for crew members on an aircraft or ship and active combat roles. "For the purpose of dealing with situations involving violence or the threat of violence, nothing in section 15 of this Act shall prevent the recruitment of greater numbers of men than of women as members of the Police, traffic officers, or officers of penal institutions". The *Human Rights Act 1993* allows preferential treatment based on sex for combat roles. 
+The [*Human Rights Commission Act 1977*](https://www.legislation.govt.nz/act/public/1977/49/en/latest/#LMS1156219) and allows preferential treatment based on sex in the Armed Forces for crew members on an aircraft or ship and active combat roles. "For the purpose of dealing with situations involving violence or the threat of violence, nothing in section 15 of this Act shall prevent the recruitment of greater numbers of men than of women as members of the Police, traffic officers, or officers of penal institutions". The [*Human Rights Act 1993*](https://www.legislation.govt.nz/act/public/1993/82/en/1993-08-10/#DLM304601) allows preferential treatment based on sex for combat roles. 
 
-The *Human Rights (Women in Armed Forces) Amendment Act 2007* repealed the provision that allowed discrimination based on sex. "The purpose of this Part is to amend the Human Rights Act 1993 to remove an exemption allowing discrimination against women that prevents them from serving in combat positions as New Zealand no longer prevents women from serving in an active combat role."
+The [*Human Rights (Women in Armed Forces) Amendment Act 2007*](https://www.legislation.govt.nz/act/public/2007/16/en/latest/) repealed the provision that allowed discrimination based on sex. "The purpose of this Part is to amend the Human Rights Act 1993 to remove an exemption allowing discrimination against women that prevents them from serving in combat positions as New Zealand no longer prevents women from serving in an active combat role."
 
 #### Maintenance
 The *Family Proceedings Act 1980* removed discrimination against husbands in the assessment of maintenance. Previously, husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself. The Act gave both husbands and wives equal obligation to provide maintenance when the other could not provide for themselves.
@@ -457,6 +457,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTc5NTM0MCwtODM1NzYzODU3LDE0MT
-E5MzA0NzEsMzgyMTk5MjYzXX0=
+eyJoaXN0b3J5IjpbLTEyOTQ1MDgwNzYsLTgzNTc2Mzg1NywxND
+ExOTMwNDcxLDM4MjE5OTI2M119
 -->
