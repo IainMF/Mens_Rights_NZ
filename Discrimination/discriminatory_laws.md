@@ -17,25 +17,25 @@ Article 15.1 of the *Convention on the Elimination of All Forms of Discriminatio
 Section 19 of the *[New Zealand Bill of Rights Act 1990](https://www.legislation.govt.nz/act/public/1990/109/en/latest/#DLM225518)* affirms the right of men and boys to be free from discrimination.
 
 The Human Rights Commission states:
-> In a free and democratic society (such as New Zealand purports to be) laws should be non-discriminatory on their face, unless the discrimination is demonstrably justified.[^1]
+> In a free and democratic society (such as New Zealand purports to be) laws should be non-discriminatory on their face, unless the discrimination is demonstrably justified. [^1]
 
 Unfortunately, New Zealand has several laws that discriminate against men.
 
 In 1993, New Zealand mistakenly claimed that:
 
-> New Zealand law accords to women equality with men before the law. The provisions of the criminal law as laid down in the Crimes Act 1961 are the same in respect of men and women except where necessary in sexual offenses. The range of punishments and sentences provided in the statutes for criminal offenses are the same for men and women.[^2]
+> New Zealand law accords to women equality with men before the law. The provisions of the criminal law as laid down in the Crimes Act 1961 are the same in respect of men and women except where necessary in sexual offenses. The range of punishments and sentences provided in the statutes for criminal offenses are the same for men and women. [^2]
 
  As shown below, there are crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
 
 ## Male Assaults Female
 
-[Section 194](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM329383) of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^3] 
+[Section 194](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM329383) of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law. [^3] 
 
-In 2009 the Law Commission reviewed part eight of the Crimes Act[^4] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
+In 2009 the Law Commission reviewed part eight of the Crimes Act [^4] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
 
 *Male-assaults-female* was used as a proxy to address family violence. However, family violence includes more than just a male assaulting a female.  The *Family Violence (Amendments) Act 2018* addressed this shortcoming. 
 
-Both Amy Adams,[^5] the Minister of Justice for the introduction of the bill, and the Human Rights Commission recognised the limitation of male assaults female to address family violence. The Human Rights Commission states: “The law should reflect the seriousness of the assault and not the gender of the victim and perpetrator.”[^6]
+Both Amy Adams, [^5] the Minister of Justice for the introduction of the bill, and the Human Rights Commission recognised the limitation of male assaults female to address family violence. The Human Rights Commission states: “The law should reflect the seriousness of the assault and not the gender of the victim and perpetrator.”[^6]
 
 Despite the Law Commission's recommendation to repeal *male-assaults-female*, the shortcomings of being addressed in other law, and the ineffectiveness of using the law for symbolic purposes, Amy Adams recommended not repealing *male-assaults-female* as a symbolic gesture. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^7] However, retaining *male-assaults-female* also symbolises a willingness to discriminate against men and violate their right to equality under the law.
 
@@ -308,15 +308,15 @@ The 1975 Social Security Amendment act has provision to subsidise medical care f
 ### Superannuation:
 The *Government Superannuation Fund Amendment Act 1976* removed discrimination that required a widower prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit. Widows did not have to prove they were dependent.
 ### Unemployment Benefit:
-Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the *Social Security Amendment Act, 1979*."^[New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41]
+Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the *Social Security Amendment Act, 1979*."[^26]
 ### Sickness and invalid's benefits:
-Previously, a woman with a dependent husband would not qualify for the full married rate for sickness of invalid's benefits, potentially leaving both husband and wife without adequate support. "Since 10 January 1979, married women have qualified for the full married couple rate (which includes payment for a dependent spouse) if they are in receipt of the sickness or invalid benefit. The income test is the same as that applied to a married man with a dependent wife. This provision was introduced in the *Social Security Amendment Act 1978*."^[New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41]
+Previously, a woman with a dependent husband would not qualify for the full married rate for sickness of invalid's benefits, potentially leaving both husband and wife without adequate support. "Since 10 January 1979, married women have qualified for the full married couple rate (which includes payment for a dependent spouse) if they are in receipt of the sickness or invalid benefit. The income test is the same as that applied to a married man with a dependent wife. This provision was introduced in the *Social Security Amendment Act 1978*." [^27]
 ### Benefits on Death:
-"In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. This provision, which discriminated against widowers, was removed in the *1982 Social Security Amendment Act*. The benefit on death is now available to widowers on the same basis as to widows."^[New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41]
+"In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. This provision, which discriminated against widowers, was removed in the *1982 Social Security Amendment Act*. The benefit on death is now available to widowers on the same basis as to widows." [^28]
 ### Benefits for Widows and 'Women Alone'
 "A 'male breadwinner' assumption remains in the *Social Security Act, 1964*, in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the "woman alone" provisions."
 
-"Under section 27C of the *Social Security Act, 1964*, an income-tested domestic purposes benefit is available to 'women alone', by which is meant a woman who has never married or who has lost the support of her husband. When this benefit was introduced in 1973, 'women alone' could qualify for a benefit under the same age and duration criteria as applied to widows without dependent children."^[New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41]
+"Under section 27C of the *Social Security Act, 1964*, an income-tested domestic purposes benefit is available to 'women alone', by which is meant a woman who has never married or who has lost the support of her husband. When this benefit was introduced in 1973, 'women alone' could qualify for a benefit under the same age and duration criteria as applied to widows without dependent children." [^29]
 ### Benefit for solo parents:
 The *Social Security Amendment Act 1973*, introduced a benefit for solo parents. It allows unmarried mother to receive the solo parent's benefit, but a father must have "lost his wife by death, divorce, or some other cause." This discrimination against men was fixed by the *Social Security Amendment Act 1987* by changing the requirement to: "A man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother." The *Social Security (Benefit Categories and Work Focus) Amendment Act 2013* made the law entirely gender neutral, with all requirements applying equally for mother or fathers.
 ### War pensions:
@@ -331,7 +331,7 @@ If a male employee died as the result of work-related injuries, his widow may be
 The *Superannuation Amendment Act 1963* required people to contribute to the superannuation fund who were under 25-years-old, however, married women under 25 were not required to contribute.
 ## Paternity leave 
 
-New Zealand introduced maternity leave without pay to public service employees in 1948.[^26] This was extended to private business in the *Maternity Leave and Employment Protection Act 1980* allowing for 26 weeks of unpaid leave. The *Parental Leave and Employment Protection Act 1987* introduced paternity leave. The Act mandated 14 weeks of maternity leave and 2 weeks of paternity leave and an additional 52 weeks of unpaid leave was available to be split between the parents. This parental leave was also available for parents adopting a child under 5-years-old. The *Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002* introduced publicly-funded paid parental leave and allows paid leave to be transferred from the mother to her spouse. The *Parental Leave and Employment Protection Amendment Act 2016* introduced more gender-neutral definitions. The law now refers to 'primary-carer' leave and 'partner' leave.
+New Zealand introduced maternity leave without pay to public service employees in 1948.[^30] This was extended to private business in the *Maternity Leave and Employment Protection Act 1980* allowing for 26 weeks of unpaid leave. The *Parental Leave and Employment Protection Act 1987* introduced paternity leave. The Act mandated 14 weeks of maternity leave and 2 weeks of paternity leave and an additional 52 weeks of unpaid leave was available to be split between the parents. This parental leave was also available for parents adopting a child under 5-years-old. The *Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002* introduced publicly-funded paid parental leave and allows paid leave to be transferred from the mother to her spouse. The *Parental Leave and Employment Protection Amendment Act 2016* introduced more gender-neutral definitions. The law now refers to 'primary-carer' leave and 'partner' leave.
 
 ## Compensation for injuries. 
 
@@ -389,7 +389,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 
 [Equi-Law in the UK found that seven instances of gender imbalances that disadvantage men and none that disadvantage women.](https://equi-law.uk/imbalanced-legislation/)
 
-# Footnotes
 
 [^1]: Human Rights Commission. *Submission of the Human Rights Commission as Intervener in Adoption Action Inc v Attorney-General*, 2013.
 
@@ -441,10 +440,15 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 
 [^25]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
 
-[^26]: Public Service Amending Regulations 1948
+[^26]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+[^27]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+[^28]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+[^29]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+[^30]: Public Service Amending Regulations 1948
 
-[^27]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
+[^31]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
 
-[^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
+[^32]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
-[^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
+[^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
+
