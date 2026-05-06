@@ -274,7 +274,7 @@ Only men were required to train or serve in the military in New Zealand.
 The [_Militia Act 1845_](https://www.nzlii.org/nz/legis/hist_act/ma18458v1845n1207/) allowed the Governor to form a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the [_Militia Act 1865_](https://www.legislation.govt.nz/act/public/1865/52/en/latest/#LMS1263735) which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the [_Militia Act 1870_](https://www.legislation.govt.nz/act/public/1870/87/en/latest/#LMS1280541) which lowered the minimum age to 17.
 The [_Defence Act 1909_](https://www.legislation.govt.nz/act/public/1909/28/en/latest/#LMS1335167) brought in a general training requirement for males 12 to 14 years old (Junior Cadets), 14 to 18 (Senior Cadets), 18 to 21 (General Training Section), and 21 to 30 (the Reserve). There was exemption for religious conscientious objectors but they were still obligated to perform ‘an equivalent to such service and training such non-combatant duties as are prescribed by the Governor’.  
 ##### WWI
-The _Military Service Act 1916_, required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
+The [_Military Service Act 1916_](https://www.legislation.govt.nz/act/public/1916/8/en/latest/#LMS1417173), required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
 
 ##### Loss of rights
 The _Expeditionary Forces Amendment Act 1918_ removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The _War Disabilities Removal Bill 1927 (16-3)_ proposed to end the denial of rights one year early, but this provision was removed before passing the War Disabilities Removal Act.[^25] 
@@ -457,6 +457,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjk4NjgyMSwxNDExOTMwNDcxLDM4Mj
-E5OTI2M119
+eyJoaXN0b3J5IjpbLTEzOTE2NjkyNDMsMTQxMTkzMDQ3MSwzOD
+IxOTkyNjNdfQ==
 -->
