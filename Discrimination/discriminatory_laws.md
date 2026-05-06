@@ -372,15 +372,15 @@ A number of laws had stricter health and safety requirements for women, for exma
 
 The *Machinery Amendment Act 1972* removed discriminatory against men in the *Machinery Act 1950* which provided greater protections for women by prohibiting from cleaning gears while they were moving.
 
-New Zealand was a signatory to the International Labour Organisation *Underground Work (Women) Convention, 1935* which prohibit women worknig underground in mines. As a consequence, several laws enforced this prohibition, such as, the *Mining Act 1971*, and the *Quarries and Tunnels Act 1982*. New Zealand denounced the convention on 23 June 1987.
+New Zealand was a signatory to the International Labour Organisation *Underground Work (Women) Convention, 1935* which prohibit women working underground in mines. As a consequence, several laws enforced this prohibition, such as, the *Mining Act 1971*, and the *Quarries and Tunnels Act 1982*. New Zealand denounced the convention on 23 June 1987.
 
 ## Income tax issues 
 
-The *Land and Income Tax Amendment Act 1966* introduced provisions to the *Land and Income Tax Act 1954* related to the 'normal retiring age' which was 60-years for males and 55-years for females.
+The [*Land and Income Tax Amendment Act 1966*](https://www.legislation.govt.nz/act/public/1966/28/en/latest/highlights/?highlight=retiring#LMS1381837) introduced provisions to the *Land and Income Tax Act 1954* related to the 'normal retiring age' which was 60-years for males and 55-years for females.
 
 The [*Land and Income Tax Act 1954*](https://www.legislation.govt.nz/act/public/1954/67/en/latest/#LMS1095175) provide for special exemptions for widows with dependent children. This was not available to widowers. The [*Land and Income Tax Amendment Act (No 2) 1976*](https://www.legislation.govt.nz/act/public/1976/43/en/latest/#LMS1350452) repealed this special exemptions.
 
-The *Income Tax Act 1976* repealed the *Land and Income Tax Act 1954*, although it retained some special recognition for widows, but not widowers. For example
+The [*Income Tax Act 1976*](https://www.nzlii.org/nz/legis/hist_act/ita19761976n65143/) repealed the *Land and Income Tax Act 1954*, although it retained some special recognition for widows, but not widowers. For example
 
 > "Sick, accident, or death benefit fund" means any fund established for the benefit of the employees of any employer or of the members of any incorporated society or **for the benefit of the widows** and dependants of any deceased employees of any employer or of any deceased members of any incorporated society, and approved for the time being by the Commissioner. *Emphasis added*
 
@@ -459,7 +459,7 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzIwODMwMCwxODAzNTUzOTAyLDE4Mj
-czODYwMDUsLTM2NTkxMDE3MSwtODM1NzYzODU3LDE0MTE5MzA0
-NzEsMzgyMTk5MjYzXX0=
+eyJoaXN0b3J5IjpbLTE5OTczOTI2NDQsMTkwNzIwODMwMCwxOD
+AzNTUzOTAyLDE4MjczODYwMDUsLTM2NTkxMDE3MSwtODM1NzYz
+ODU3LDE0MTE5MzA0NzEsMzgyMTk5MjYzXX0=
 -->
