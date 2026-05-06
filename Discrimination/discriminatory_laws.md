@@ -167,7 +167,7 @@ The [*Rape Law Reform Bill (No. 2) 1984 (3-1)*](https://www.nzlii.org/nz/legis/h
 
 The [*Rape Law Reform Bill (No. 2) (1984) 1985 (3-2)*](https://www.nzlii.org/nz/legis/hist_bill/rlrb21984198532196/) which became the [*Crimes Amendment Bill (No. 4) 1985 (3-3A)*](https://www.nzlii.org/nz/legis/hist_bill/cab4198533piotcab41985618/) reintroduced the  crime of rape as a gender-specific crime by defining sexual violation as either 'a male who rapes a female' or 'a person having  unlawful sexual connection with another person'. These changes were  introduced in the [*Crimes Amendment Act (No 3) 1985 (1985 No 160)*](https://www.nzlii.org/nz/legis/hist_act/caa319851985n160216/).
 
-The explanatory notes from the *Crimes Amendment Bill (No 2) 2003  (104-1)* recognises the right of everyone to be equal in the eyes of  the law, and therefore sex offences should be gender-neutral.  However, the Bill explains that 'rape', in the proposed law, breaks  that principle by being gender-specific. The Bill states that there  may be a "symbolic value in retaining rape as a male on female  offence as a separate category of sexual violation".    
+The explanatory notes from the [*Crimes Amendment Bill (No 2) 2003  (104-1)*](https://www.nzlii.org/nz/legis/hist_bill/cab220031041199/) recognises the right of everyone to be equal in the eyes of  the law, and therefore sex offences should be gender-neutral.  However, the Bill explains that 'rape', in the proposed law, breaks  that principle by being gender-specific. The Bill states that there  may be a "symbolic value in retaining rape as a male on female  offence as a separate category of sexual violation".    
 
 > \[T\]he Bill proposes that all sex offences be expressed and applied in a sex-neutral manner...The expectation is consistent with a key principle of our democratic society-that everyone is equal in the eyes of the law...There is one major exception to the general application of the sex-neutral principle, and that is in  regard to "rape".
 
@@ -209,7 +209,7 @@ The Green Party highlighted several issues with a gendered  definition of rape:
 ## Other discrimination in law
 Some other laws treat men less favourably than women.
 ### Good employer
-The Public Service Act 2020 requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for …recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but these employment requirements are not defined, and there is no equivalent for men.  This reinforces stereotypes. Perhaps it was intended to support parents, but then men should be included.
+The *Public Service Act 2020* requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for …recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but these employment requirements are not defined, and there is no equivalent for men.  This reinforces stereotypes. Perhaps it was intended to support parents, but then men should be included.
 
 There have been many laws that have had the same good employer requirements for women.
 
@@ -450,7 +450,7 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTU2NTE3NiwtMTQyMjQ0OTYzMiwxOT
+eyJoaXN0b3J5IjpbMTczNjA5NDA5MCwtMTQyMjQ0OTYzMiwxOT
 AzNDM0NjkwLDUyNzA2NDQ2OSwxMzkxMTQwOTYxLC0zNDQyNTc0
 NzksOTgzNTU5MTEyXX0=
 -->
