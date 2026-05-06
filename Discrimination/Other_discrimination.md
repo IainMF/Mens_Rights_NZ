@@ -7,6 +7,9 @@ description: New Zealand violates men's right right to be free from discriminati
 
 Nurit Zubery studied men’s experiences of family mediation and found issues with the “mediator’s bias against fathers” and “the devaluation of fatherhood”[^1]
 
+Donald Pettitt did a qualitative study of bias against men in the family court. He found: 
+> One of the most startling aspects of this research is the pervasiveness of the alleged bias. It is perceived as being supported by the actions of all categories of professionals involved with the Family Court and many outside agencies as well. The Family Court is obliged to not consider gender when assigning custody and access, and it has no legal mandate to practice positive discrimination in the hope of addressing some of the disadvantages that women experience in society. Though positive discrimination is not the intent, it is apparently the result.[^8] 
+
 
 ## Violence Prevention
 
@@ -50,4 +53,6 @@ The Government recognises that the Strategy “will contribute women’s rights 
 [^6]:  Ministry of Health – [Women’s Health Strategy](https://archive.ph/VF8Xf)
 
 [^7]: Old version of webpage.  [https://archive.ph/gfWoJ](https://archive.ph/gfWoJ) Quote removed in current version.
+
+[^8]: [Disrupted Fatherhood: A summary of perceptions  of anti-male bias in the areas of custody and  access](https://www.menz.org.nz/News%20archive/pettittreport.pdf) - Donald Pettit - 2000
 
