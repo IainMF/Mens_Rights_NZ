@@ -384,7 +384,7 @@ The *Income Tax Act 1976* repealed the *Land and Income Tax Act 1954*, although 
 
 > "Sick, accident, or death benefit fund" means any fund established for the benefit of the employees of any employer or of the members of any incorporated society or **for the benefit of the widows** and dependants of any deceased employees of any employer or of any deceased members of any incorporated society, and approved for the time being by the Commissioner. *Emphasis added*
 
-The *Income Tax Act 1994* removes the provisions for widows, but does reference the *war widows mothers allowance*.
+The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/en/1994-12-20/#DLM1184505) removes the provisions for widows, but does reference the *war widows mothers allowance*.
 
 
 # In other countries
@@ -459,6 +459,7 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzM4NjAwNSwtMzY1OTEwMTcxLC04Mz
-U3NjM4NTcsMTQxMTkzMDQ3MSwzODIxOTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTgwMzU1MzkwMiwxODI3Mzg2MDA1LC0zNj
+U5MTAxNzEsLTgzNTc2Mzg1NywxNDExOTMwNDcxLDM4MjE5OTI2
+M119
 -->
