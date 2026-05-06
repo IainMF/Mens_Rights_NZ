@@ -281,12 +281,12 @@ The [_Expeditionary Forces Amendment Act 1918_](https://www.legislation.govt.nz/
 
 In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
 ##### WWII
-Conscription was reintroduced in 1940 with the [_Emergency Regulations Amendment Act 1940_](https://www.legislation.govt.nz/act/public/1940/1/en/latest/#LMS1293816). The [_Military Training Act 1949_](https://www.legislation.govt.nz/act/public/1949/23/en/latest/#LMS1081980) reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The _National Military Service Act 1961_ changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
+Conscription was reintroduced in 1940 with the [_Emergency Regulations Amendment Act 1940_](https://www.legislation.govt.nz/act/public/1940/1/en/latest/#LMS1293816). The [_Military Training Act 1949_](https://www.legislation.govt.nz/act/public/1949/23/en/latest/#LMS1081980) reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The [_National Military Service Act 1961_](https://www.legislation.govt.nz/act/public/1961/116/en/latest/#LMS1110223) changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
 ##### Combat
 Previous legislation allowed discrimination in the Armed Forces, Police Force and Corrections. It seems men were expected to carry the burden of combat and dealing with violence.
 
-The *Human Rights Commission Act 1977* and allows preferential treatment based on sex in the Armed Forces for crew members on an aircraft or ship and active combat roles. "For the purpose of dealing with situations involving violence or the threat of violence, nothing in section 15 of this Act shall prevent the recruitment of greater numbers of men than of women as members of the Police, traffic officers, or officers of penal institutions". The *Human Rights Act 1993* allows preferential treatment based on sex for combat roles. 
+The [*Human Rights Commission Act 1977*](https://www.legislation.govt.nz/act/public/1977/49/en/latest/#LMS1156219) and allows preferential treatment based on sex in the Armed Forces for crew members on an aircraft or ship and active combat roles. "For the purpose of dealing with situations involving violence or the threat of violence, nothing in section 15 of this Act shall prevent the recruitment of greater numbers of men than of women as members of the Police, traffic officers, or officers of penal institutions". The *Human Rights Act 1993* allows preferential treatment based on sex for combat roles. 
 
 The *Human Rights (Women in Armed Forces) Amendment Act 2007* repealed the provision that allowed discrimination based on sex. "The purpose of this Part is to amend the Human Rights Act 1993 to remove an exemption allowing discrimination against women that prevents them from serving in combat positions as New Zealand no longer prevents women from serving in an active combat role."
 
@@ -457,6 +457,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4ODk1NTg3LC04MzU3NjM4NTcsMTQxMT
-kzMDQ3MSwzODIxOTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTc4NTc5NTM0MCwtODM1NzYzODU3LDE0MT
+E5MzA0NzEsMzgyMTk5MjYzXX0=
 -->
