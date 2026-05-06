@@ -291,7 +291,7 @@ The [*Human Rights Commission Act 1977*](https://www.legislation.govt.nz/act/pub
 The [*Human Rights (Women in Armed Forces) Amendment Act 2007*](https://www.legislation.govt.nz/act/public/2007/16/en/latest/) repealed the provision that allowed discrimination based on sex. "The purpose of this Part is to amend the Human Rights Act 1993 to remove an exemption allowing discrimination against women that prevents them from serving in combat positions as New Zealand no longer prevents women from serving in an active combat role."
 
 #### Maintenance
-The *Family Proceedings Act 1980* removed discrimination against husbands in the assessment of maintenance. Previously, husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself. The Act gave both husbands and wives equal obligation to provide maintenance when the other could not provide for themselves.
+The [*Family Proceedings Act 1980*](https://www.legislation.govt.nz/act/public/1980/94/en/1981-01-21/#DLM40489) removed discrimination against husbands in the assessment of maintenance. Previously, husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself. The Act gave both husbands and wives equal obligation to provide maintenance when the other could not provide for themselves.
 ## Social Security 
 
 Historically, social security legislation made assumptions about the roles of men and women and benefits were not equal between men and women. For example, a male breadwinner was assumed and that wives were dependant on their husbands, but not the other way around. *The Social Security Act of 1964* discriminated against men and women in different ways and was slowly amended to equalise benefits for men and women. In 1984, New Zealand reported that there were additional benefits available for women. "*There are some areas where women have more rights than men in the present social security legislation*".[^24]
@@ -457,6 +457,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ1MDgwNzYsLTgzNTc2Mzg1NywxND
-ExOTMwNDcxLDM4MjE5OTI2M119
+eyJoaXN0b3J5IjpbLTQwNTU0Nzk0MiwtODM1NzYzODU3LDE0MT
+E5MzA0NzEsMzgyMTk5MjYzXX0=
 -->
