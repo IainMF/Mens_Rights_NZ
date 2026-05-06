@@ -157,7 +157,7 @@ The [_Criminal Code Act 1893_](https://www.legislation.govt.nz/act/public/1893/5
 
 Various Bills have considered a gender-neutral definition rape, or  replacing it with a gender-neutral crime, however, it remains a  gender-specific crime defined as a male penetrating a female.
 
-Following Canada's lead,[^20] the *Rape Law Reform Bill 1983  (116-1)* proposed a gender-neutral definition of rape; sexual  connection without consent.
+Following Canada's lead,[^20] the *[Rape Law Reform Bill 1983  (116-1)*](https://www.nzlii.org/nz/legis/hist_bill/rlrb19831161169/) proposed a gender-neutral definition of rape; sexual  connection without consent.
 
 > *Clause 3* defines the term \"sexual connection\". This is the term used in *clause 4* which reformulates the crime of rape. It should be noted that, in general, the definition is wide enough to apply to male and female offenders and male and female victims.  Under the present law, rape can only be committed by a male on a  female (although females can be charged as parties to rape).[^21]
 
@@ -450,7 +450,7 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI0NDk2MzIsMTkwMzQzNDY5MCw1Mj
-cwNjQ0NjksMTM5MTE0MDk2MSwtMzQ0MjU3NDc5LDk4MzU1OTEx
-Ml19
+eyJoaXN0b3J5IjpbLTE1NjA3MTQ2MDYsLTE0MjI0NDk2MzIsMT
+kwMzQzNDY5MCw1MjcwNjQ0NjksMTM5MTE0MDk2MSwtMzQ0MjU3
+NDc5LDk4MzU1OTExMl19
 -->
