@@ -83,7 +83,7 @@ One of the objectives of the [*Pae Ora (Healthy Futures) Act 2022*](https://www.
  Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^13]
 
 ## Protection from Genital Mutilation
-In 1996 female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^14] This should apply to all children including boys.
+In 1996, female genital mutilation became illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^14] This should apply to all children including boys.
 
 Hammond and Carmack argue that non-therapeutic infant circumcision violates a child’s rights to religious freedom, bodily autonomy and protection from harm.
 
@@ -450,6 +450,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTAwNTc3NSwtMzQ0MjU3NDc5LDk4Mz
-U1OTExMl19
+eyJoaXN0b3J5IjpbNTAxMjgzMTQzLC0zNDQyNTc0NzksOTgzNT
+U5MTEyXX0=
 -->
