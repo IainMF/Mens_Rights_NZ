@@ -42,7 +42,7 @@ Despite the Law Commission's recommendation to repeal *male-assaults-female*, th
 ### Other concerns about male assaults female
 Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault. The [*Bail Act 2000*](https://www.legislation.govt.nz/act/public/2000/38/en/latest/highlights/?highlight=male+female#DLM68902) provides that "A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment" unless the offence is *male-assaults-female* or assault on a family member.
 
-The [*Criminal Investigations (Bodily Samples) Amendment Act 2009*](https://www.legislation.govt.nz/bill/government/2009/14/en/latest/#DLM1829313)  expanded the crimes from which investigators could take bodily samples from accused people.  *Male assaults female* was added to the Act. Investigators may not take bodily samples from people charged with common assault.
+The [*Criminal Investigations (Bodily Samples) Amendment Act 2009*](https://www.legislation.govt.nz/act/public/2009/46/en/latest/highlights/?highlight=male+female#DLM1829313)  expanded the crimes from which investigators could take bodily samples from accused people.  *Male assaults female* was added to the Act. Investigators may not take bodily samples from people charged with common assault.
 
 ### History of male assaults female
 
@@ -448,6 +448,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDY1NjQ2NywtMzQ0MjU3NDc5LDk4Mz
-U1OTExMl19
+eyJoaXN0b3J5IjpbOTg3NjMzNjM5LC0zNDQyNTc0NzksOTgzNT
+U5MTEyXX0=
 -->
