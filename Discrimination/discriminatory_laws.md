@@ -4,7 +4,7 @@ description: New Zealand's laws discriminate against men and boys violating thei
 ---
 > [!tip] This page is a work in progress
 
-
+# Introduction
 Men have the right to be treated equally under the law. Article 7 of the *Universal Declaration of Human Rights* states: 
 > All are equal before the law and are entitled without any discrimination to equal protection of the law".
 
@@ -26,6 +26,7 @@ In 1993, New Zealand mistakenly claimed that:
 > New Zealand law accords to women equality with men before the law. The provisions of the criminal law as laid down in the Crimes Act 1961 are the same in respect of men and women except where necessary in sexual offenses. The range of punishments and sentences provided in the statutes for criminal offenses are the same for men and women.[^2]
 
  As shown below, there are crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
+ 
 
 ## Male Assaults Female
 
@@ -457,6 +458,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTkxMDE3MSwtODM1NzYzODU3LDE0MT
-E5MzA0NzEsMzgyMTk5MjYzXX0=
+eyJoaXN0b3J5IjpbLTIxMzg0OTc4NzgsLTM2NTkxMDE3MSwtOD
+M1NzYzODU3LDE0MTE5MzA0NzEsMzgyMTk5MjYzXX0=
 -->
