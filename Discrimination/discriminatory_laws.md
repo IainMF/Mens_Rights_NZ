@@ -277,7 +277,7 @@ The [_Defence Act 1909_](https://www.legislation.govt.nz/act/public/1909/28/en/l
 The [_Military Service Act 1916_](https://www.legislation.govt.nz/act/public/1916/8/en/latest/#LMS1417173), required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
 
 ##### Loss of rights
-The [_Expeditionary Forces Amendment Act 1918_](https://www.legislation.govt.nz/act/public/1918/9/en/latest/#LMS1420534) removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The [_War Disabilities Removal Bill 1927 (16-3)_](https://www.nzlii.org/nz/legis/hist_bill/wdrb1927163255/) proposed to end the denial of rights one year early, but this provision was removed before passing the War Disabilities Removal Act.[^25] 
+The [_Expeditionary Forces Amendment Act 1918_](https://www.legislation.govt.nz/act/public/1918/9/en/latest/#LMS1420534) removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The [_War Disabilities Removal Bill 1927 (16-3)_](https://www.nzlii.org/nz/legis/hist_bill/wdrb1927163255/) proposed to end the denial of rights one year early, but this provision was removed before passing the [*War Disabilities Removal Act 1927*](https://www.legislation.govt.nz/act/public/1927/24/en/latest/#LMS1059697).[^25] 
 
 In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
 ##### WWII
@@ -457,6 +457,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTM1MTEyMywxNDExOTMwNDcxLDM4Mj
+eyJoaXN0b3J5IjpbLTgzNTc2Mzg1NywxNDExOTMwNDcxLDM4Mj
 E5OTI2M119
 -->
