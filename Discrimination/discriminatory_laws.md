@@ -266,7 +266,7 @@ Historically, only men were required to serve on a jury. Men who refused to serv
 The [_Police Force Act 1913_](https://www.legislation.govt.nz/act/public/1913/61/en/latest/highlights/?highlight=male#LMS1293065), the [_Police Force Act 1947_](https://www.legislation.govt.nz/act/public/1947/13/en/latest/highlights/?highlight=male#LMS1046925), the [_Police Act 1958_](https://www.legislation.govt.nz/act/public/1958/109/en/1958-10-03/highlights/?highlight=male#DLM322242) require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The [_Human Rights Amendment Act 2001_](https://www.legislation.govt.nz/act/public/2001/96/en/latest/#DLM122567) amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the [_Policing Act 2008_](https://www.legislation.govt.nz/act/public/2008/72/en/latest/#DLM1102254) also applies to any person.
 
 #### Assisting in animals disease emergency
-The _Animals Act 1967_ has a provision that "any fit male person over the age of eighteen years" may be required to render assistance to eradicate or limit the spread of an animals disease.
+The [_Animals Act 1967_](https://www.legislation.govt.nz/act/public/1967/50/en/latest/highlights/?highlight=male#LMS1127519) had a provision that "any fit male person over the age of eighteen years" may be required to render assistance to eradicate or limit the spread of an animals disease.
 
 #### Compulsory military training or service.
 Only men were required to train or serve in the military in New Zealand.
@@ -457,5 +457,5 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3MTU2MTA4LDM4MjE5OTI2M119
+eyJoaXN0b3J5IjpbMTQxMTkzMDQ3MSwzODIxOTkyNjNdfQ==
 -->
