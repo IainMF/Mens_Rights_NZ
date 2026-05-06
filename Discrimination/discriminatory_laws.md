@@ -96,7 +96,7 @@ Martin Robbins argues that men should be able to choose whether they are circumc
 ## Rape and Sexual Assault
 Historically, there were significant gaps in legal protection of men and boys from sexual assault. The [_Crimes Act 1908_](https://www.legislation.govt.nz/act/public/1908/32/en/latest/#LMS1374348), and later, the [_Crimes Act 1961_](https://www.legislation.govt.nz/act/public/1961/43/en/1961-11-01/#DLM329048) included crimes protecting women and girls from a wide range of sexual assaults, but men and boys were only protected from sexually assaults by men as a consequence of all sexual activity between men being illegal. In theory this protected males from sexual assault from males, but in practice the fear of being charged themselves and stigma around homosexuality prevented victims from reporting these crimes. There was no legal protection for men from female perpetrated sexual assault.
 
-The *Homosexual Law Reform Act 1986* decriminalised consensual sex acts between men. The *Crimes Amendment Act 1985* introduced the gender-neutral 'unlawful sexual connection' which finally protected men from female perpetrated sexual assaults, and also sexual assault from males. The *Crimes Amendment Act 2005* removed most of the remaining discrimination against men and boys in sexual assault law by equalising men's and boys' legal protection from sexual assault. However, 'rape' is still defined as a male perpetrator and female victim.
+The [*Homosexual Law Reform Act 1986*](https://www.legislation.govt.nz/act/public/1986/33/en/1986-07-11/#DLM93151) decriminalised consensual sex acts between men. The *Crimes Amendment Act 1985* introduced the gender-neutral 'unlawful sexual connection' which finally protected men from female perpetrated sexual assaults, and also sexual assault from males. The *Crimes Amendment Act 2005* removed most of the remaining discrimination against men and boys in sexual assault law by equalising men's and boys' legal protection from sexual assault. However, 'rape' is still defined as a male perpetrator and female victim.
 
 #### Changes made by the Crimes Amendment Act 2005
 
@@ -450,6 +450,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU4ODY5ODgsMTM5MTE0MDk2MSwtMz
-Q0MjU3NDc5LDk4MzU1OTExMl19
+eyJoaXN0b3J5IjpbNTI3MDY0NDY5LDEzOTExNDA5NjEsLTM0ND
+I1NzQ3OSw5ODM1NTkxMTJdfQ==
 -->
