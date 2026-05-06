@@ -52,7 +52,7 @@ The [*Police Offences Amendment Act (No 2) 1952*](https://www.legislation.govt.n
 
 ## Infanticide
 
-Section 178 of the Crimes Act 1961 allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3-year prison sentence where murder has a maximum sentence of life imprisonment. If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter. Infanticide was introduced in the *Crimes Act 1961* and was based on the *United Kingdom Infanticide Act 1938*. 
+[Section 178](https://www.legislation.govt.nz/act/public/1961/43/en/latest/highlights/?highlight=woman%20Infanticide#DLM329329) of the *Crimes Act 1961* allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3-year prison sentence where murder has a maximum sentence of life imprisonment. If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter. Infanticide was introduced in the *Crimes Act 1961* and was based on the *United Kingdom Infanticide Act 1938*. 
 
 Research shows that mental health issues like postnatal depression are a risk for both mothers and fathers. In New Zealand, there is at least one case of a man being charged with murder where a woman he would have been charged with infanticide.
 
@@ -448,6 +448,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzQ4MzM3MSwtMzQ0MjU3NDc5LDk4Mz
+eyJoaXN0b3J5IjpbLTI0NTk4NzY2NCwtMzQ0MjU3NDc5LDk4Mz
 U1OTExMl19
 -->
