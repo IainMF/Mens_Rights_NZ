@@ -209,7 +209,7 @@ The Green Party highlighted several issues with a gendered  definition of rape:
 ## Other discrimination in law
 Some other laws treat men less favourably than women.
 ### Good employer
-The *Public Service Act 2020* requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for …recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but these employment requirements are not defined, and there is no equivalent for men.  This reinforces stereotypes. Perhaps it was intended to support parents, but then men should be included.
+The [*Public Service Act 2020*](https://www.legislation.govt.nz/act/public/2020/40/en/latest/highlights/?highlight=women#LMS219481) requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for …recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but these employment requirements are not defined, and there is no equivalent for men.  This reinforces stereotypes. Perhaps it was intended to support parents, but then men should be included.
 
 There have been many laws that have had the same good employer requirements for women.
 
@@ -256,7 +256,7 @@ Women had extra legal protection from slander. The _Slander of Women Act 1898_ m
 #### Flogging or whipping
 Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
 #### Solitary confinement
-The *Prisons Act 1873* stipulates that male prison escapees can be kept in solitary confinement as punishment. Section 17 of the *Crimes Act 1961* prohibts solitary confinement.
+The *Prisons Act 1873* stipulates that male prison escapees can be kept in solitary confinement as punishment. Section 17 of the *Crimes Act 1961* prohibits solitary confinement.
 
 ### Additional duties & responsibilities
 #### Jury service
@@ -450,7 +450,7 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjA5NDA5MCwtMTQyMjQ0OTYzMiwxOT
-AzNDM0NjkwLDUyNzA2NDQ2OSwxMzkxMTQwOTYxLC0zNDQyNTc0
-NzksOTgzNTU5MTEyXX0=
+eyJoaXN0b3J5IjpbNDUxODQ2MDQ5LC0xNDIyNDQ5NjMyLDE5MD
+M0MzQ2OTAsNTI3MDY0NDY5LDEzOTExNDA5NjEsLTM0NDI1NzQ3
+OSw5ODM1NTkxMTJdfQ==
 -->
