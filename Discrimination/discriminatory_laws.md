@@ -448,9 +448,3 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjI2NDE0NSwtMTAwMzE5NzE2NiwtMT
-QyMjQ0OTYzMiwxOTAzNDM0NjkwLDUyNzA2NDQ2OSwxMzkxMTQw
-OTYxLC0zNDQyNTc0NzksOTgzNTU5MTEyXX0=
--->
