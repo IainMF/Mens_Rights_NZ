@@ -78,7 +78,7 @@ The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as 
 
 
 ## Healthy Futures Act
-One of the objectives of the [*Pae Ora (Healthy Futures) Act 2022*](https://www.legislation.govt.nz/act/public/2022/30/en/latest/#LMS575524) is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^12] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Australia, England, Iran, Ireland, Malaysia, Mongolia,    South Africa, Brazil, and the state of Quebec all have men's health strategies.
+One of the objectives of the [*Pae Ora (Healthy Futures) Act 2022*](https://www.legislation.govt.nz/act/public/2022/30/en/latest/#LMS575524) is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^12] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Australia, Brazil, England, Iran, Ireland, Malaysia, Mongolia, South Africa, and the state of Quebec all have men's health strategies.
 
  Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^13]
 
@@ -448,6 +448,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDEyMjY4NCwtMzQ0MjU3NDc5LDk4Mz
+eyJoaXN0b3J5IjpbMTg1NjM1MzE1MiwtMzQ0MjU3NDc5LDk4Mz
 U1OTExMl19
 -->
