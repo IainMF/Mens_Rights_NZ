@@ -250,11 +250,11 @@ There have been many laws that have had the same good employer requirements for 
 Historically, there are many laws that discriminate against men, by giving them harsher punishments, by requiring them to perform additional duties, or by denying them the same protection or privileges granted to women.
 
 ### Slander of Women
-Women had extra legal protection from slander. The [_Slander of Women Act 1898_](https://www.legislation.govt.nz/act/public/1898/16/en/latest/#LMS1414979) meant that spoken or published words that suggest a woman is sexually immoral were actionable without any evidence of actual damage. This was consolidated into the [_Judicature Act 1908_](https://www.legislation.govt.nz/act/public/1908/89/en/1908-08-04/highlights/?highlight=woman#DLM147639). This provision was repealed in the _Defamation Act 1954_.
+Women had extra legal protection from slander. The [_Slander of Women Act 1898_](https://www.legislation.govt.nz/act/public/1898/16/en/latest/#LMS1414979) meant that spoken or published words that suggest a woman is sexually immoral were actionable without any evidence of actual damage. This was consolidated into the [_Judicature Act 1908_](https://www.legislation.govt.nz/act/public/1908/89/en/1908-08-04/highlights/?highlight=woman#DLM147639). This provision was repealed in the [_Defamation Act 1954_](https://www.legislation.govt.nz/act/public/1954/46/en/latest/highlights/?highlight=101#LMS1094281).
 
 ### Harsher Penalties
 #### Flogging or whipping
-Section 67 of _Offences Against the Person Act 1867_ allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
+Section 67 of [_Offences Against the Person Act 1867_](https://www.legislation.govt.nz/act/public/1867/5/en/latest/highlights/?highlight=male#LMS1273291) allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The _Indictable Offences Summary Jurisdiction Act 1894_ allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The _Crimes Amendment Act 1941_ ended the use of flogging and whipping as a punishment.
 #### Solitary confinement
 The *Prisons Act 1873* stipulates that male prison escapees can be kept in solitary confinement as punishment. Section 17 of the *Crimes Act 1961* prohibits solitary confinement.
 
@@ -450,7 +450,7 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMxOTcxNjYsLTE0MjI0NDk2MzIsMT
-kwMzQzNDY5MCw1MjcwNjQ0NjksMTM5MTE0MDk2MSwtMzQ0MjU3
-NDc5LDk4MzU1OTExMl19
+eyJoaXN0b3J5IjpbLTYxNjI2NDE0NSwtMTAwMzE5NzE2NiwtMT
+QyMjQ0OTYzMiwxOTAzNDM0NjkwLDUyNzA2NDQ2OSwxMzkxMTQw
+OTYxLC0zNDQyNTc0NzksOTgzNTU5MTEyXX0=
 -->
