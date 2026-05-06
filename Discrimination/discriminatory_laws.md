@@ -250,7 +250,7 @@ There have been many laws that have had the same good employer requirements for 
 Historically, there are many laws that discriminate against men, by giving them harsher punishments, by requiring them to perform additional duties, or by denying them the same protection or privileges granted to women.
 
 ### Slander of Women
-Women had extra legal protection from slander. The [_Slander of Women Act 1898_](https://www.legislation.govt.nz/act/public/1898/16/en/latest/#LMS1414979) meant that spoken or published words that suggest a woman is sexually immoral were actionable without any evidence of actual damage. This was consolidated into the _Judicature Act 1908_. This provision was repealed in the _Defamation Act 1954_.
+Women had extra legal protection from slander. The [_Slander of Women Act 1898_](https://www.legislation.govt.nz/act/public/1898/16/en/latest/#LMS1414979) meant that spoken or published words that suggest a woman is sexually immoral were actionable without any evidence of actual damage. This was consolidated into the [_Judicature Act 1908_](https://www.legislation.govt.nz/act/public/1908/89/en/1908-08-04/highlights/?highlight=woman#DLM147639). This provision was repealed in the _Defamation Act 1954_.
 
 ### Harsher Penalties
 #### Flogging or whipping
@@ -450,7 +450,7 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ4ODAwODYsLTE0MjI0NDk2MzIsMT
+eyJoaXN0b3J5IjpbLTEwMDMxOTcxNjYsLTE0MjI0NDk2MzIsMT
 kwMzQzNDY5MCw1MjcwNjQ0NjksMTM5MTE0MDk2MSwtMzQ0MjU3
 NDc5LDk4MzU1OTExMl19
 -->
