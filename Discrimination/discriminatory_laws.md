@@ -46,7 +46,7 @@ The [*Criminal Investigations (Bodily Samples) Amendment Act 2009*](https://www.
 
 ### History of male assaults female
 
-In New Zealand, a specific crime of assaulting a female goes back at least as far as the [*1867 Offences Against the Person Act*](https://www.legislation.govt.nz/act/public/1867/5/en/latest/#LMS1273257). Any person assaulting a male child (under 14) or a female of any age could be punished more harshly if the Justices determined that “it cannot in their opinion be sufficiently punished under the provisions hereinbefore contained as to common assaults”. Common assault had a penalty of prison not exceeding two months, with or without hard labour, and/or a fine of ten pounds. Assaulting a child or a female had a penalty of imprisonment not exceeding six months, with or without hard labour, and/or a fine of twenty pounds. *The Indictable Offences Summary Jurisdiction Act 1894* and *The Justices of the Peace Act 1927* updated the wording but the penalties remained the same.
+In New Zealand, a specific crime of assaulting a female goes back at least as far as the [*1867 Offences Against the Person Act*](https://www.legislation.govt.nz/act/public/1867/5/en/latest/#LMS1273257). Any person assaulting a male child (under 14) or a female of any age could be punished more harshly if the Justices determined that “it cannot in their opinion be sufficiently punished under the provisions hereinbefore contained as to common assaults”. Common assault had a penalty of prison not exceeding two months, with or without hard labour, and/or a fine of ten pounds. Assaulting a child or a female had a penalty of imprisonment not exceeding six months, with or without hard labour, and/or a fine of twenty pounds. The *Indictable Offences Summary Jurisdiction Act 1894* and *The Justices of the Peace Act 1927* updated the wording but the penalties remained the same.
 
 The *Police Offences Amendment Act (No 2) 1952* introduced some changes. Firstly, that the assaulting a child or a female was a crime in its own right, not just a decision of the justices when the punishment common assault was insufficient for the nature of the act. Secondly, only males could be charged with the specific crime of assaulting a female. The *Crimes Act 1961* is the latest implementation of the *male-assaults-female* law.
 
@@ -448,5 +448,5 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjQwOTQ5NSw5ODM1NTkxMTJdfQ==
+eyJoaXN0b3J5IjpbLTcwNzUxODc2Myw5ODM1NTkxMTJdfQ==
 -->
