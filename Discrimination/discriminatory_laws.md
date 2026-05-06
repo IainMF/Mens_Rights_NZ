@@ -27,6 +27,7 @@ In 1993, New Zealand mistakenly claimed that:
 
  As shown below, there are crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
  
+ # Discriminatory laws
 
 ## Male Assaults Female
 
@@ -247,51 +248,51 @@ There have been many laws that have had the same good employer requirements for 
 | 1994 New Zealand Sports Drug Agency Act                   | 2022 Water Services Entities Act                                       |
 | 1995 Radio New Zealand Act                                | 2025 Parliament Act                                                    |
 
-## Historical laws
+# Historical laws
 Historically, there are many laws that discriminate against men, by giving them harsher punishments, by requiring them to perform additional duties, or by denying them the same protection or privileges granted to women.
 
-### Slander of Women
+## Slander of Women
 Women had extra legal protection from slander. The [_Slander of Women Act 1898_](https://www.legislation.govt.nz/act/public/1898/16/en/latest/#LMS1414979) meant that spoken or published words that suggest a woman is sexually immoral were actionable without any evidence of actual damage. This was consolidated into the [_Judicature Act 1908_](https://www.legislation.govt.nz/act/public/1908/89/en/1908-08-04/highlights/?highlight=woman#DLM147639). This provision was repealed in the [_Defamation Act 1954_](https://www.legislation.govt.nz/act/public/1954/46/en/latest/highlights/?highlight=101#LMS1094281).
 
-### Harsher Penalties
-#### Flogging or whipping
+## Harsher Penalties
+### Flogging or whipping
 Section 67 of [_Offences Against the Person Act 1867_](https://www.legislation.govt.nz/act/public/1867/5/en/latest/highlights/?highlight=male#LMS1273291) allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The [_Indictable Offences Summary Jurisdiction Act 1894_](https://www.legislation.govt.nz/act/public/1894/47/en/latest/highlights/?highlight=male#LMS1340062) allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The [_Crimes Amendment Act 1941_](https://www.legislation.govt.nz/act/public/1941/10/en/latest/#LMS1316785) ended the use of flogging and whipping as a punishment.
-#### Solitary confinement
+### Solitary confinement
 The [*Prisons Act 1873*](https://www.legislation.govt.nz/act/public/1873/73/en/latest/#LMS1286509) stipulates that male prison escapees can be kept in solitary confinement as punishment. Section 17 of the [*Crimes Act 1961*](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM328066) prohibits solitary confinement.
 
-### Additional duties & responsibilities
-#### Jury service
+## Additional duties & responsibilities
+### Jury service
 Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (J[uries Act of 1868](https://www.legislation.govt.nz/act/public/1868/49/en/latest/highlights/?highlight=man#LMS1275928),[1908](https://www.legislation.govt.nz/act/public/1908/90/en/latest/#LMS1078743)). The [*Women Jurors Act 1942*](https://www.legislation.govt.nz/act/public/1942/12/en/latest/#LMS1325171) allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The [*Juries Amendment Act 1963*](https://www.legislation.govt.nz/act/public/1963/141/en/latest/highlights/?highlight=woman#LMS1116730) changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The [*Juries Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/48/en/latest/highlights/?highlight=woman#LMS1152225) "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^24]
 
-#### Assisting police officers
+### Assisting police officers
 The [_Police Force Act 1913_](https://www.legislation.govt.nz/act/public/1913/61/en/latest/highlights/?highlight=male#LMS1293065), the [_Police Force Act 1947_](https://www.legislation.govt.nz/act/public/1947/13/en/latest/highlights/?highlight=male#LMS1046925), the [_Police Act 1958_](https://www.legislation.govt.nz/act/public/1958/109/en/1958-10-03/highlights/?highlight=male#DLM322242) require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The [_Human Rights Amendment Act 2001_](https://www.legislation.govt.nz/act/public/2001/96/en/latest/#DLM122567) amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the [_Policing Act 2008_](https://www.legislation.govt.nz/act/public/2008/72/en/latest/#DLM1102254) also applies to any person.
 
-#### Assisting in animals disease emergency
+### Assisting in animals disease emergency
 The [_Animals Act 1967_](https://www.legislation.govt.nz/act/public/1967/50/en/latest/highlights/?highlight=male#LMS1127519) had a provision that "any fit male person over the age of eighteen years" may be required to render assistance to eradicate or limit the spread of an animals disease. The Animals Act has been repealed.
 
-#### Compulsory military training or service.
+### Compulsory military training or service.
 Only men were required to train or serve in the military in New Zealand.
 
 The [_Militia Act 1845_](https://www.nzlii.org/nz/legis/hist_act/ma18458v1845n1207/) allowed the Governor to form a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the [_Militia Act 1865_](https://www.legislation.govt.nz/act/public/1865/52/en/latest/#LMS1263735) which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the [_Militia Act 1870_](https://www.legislation.govt.nz/act/public/1870/87/en/latest/#LMS1280541) which lowered the minimum age to 17.
 The [_Defence Act 1909_](https://www.legislation.govt.nz/act/public/1909/28/en/latest/#LMS1335167) brought in a general training requirement for males 12 to 14 years old (Junior Cadets), 14 to 18 (Senior Cadets), 18 to 21 (General Training Section), and 21 to 30 (the Reserve). There was exemption for religious conscientious objectors but they were still obligated to perform ‘an equivalent to such service and training such non-combatant duties as are prescribed by the Governor’.  
-##### WWI
+#### WWI
 The [_Military Service Act 1916_](https://www.legislation.govt.nz/act/public/1916/8/en/latest/#LMS1417173), required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
 
-##### Loss of rights
+#### Loss of rights
 The [_Expeditionary Forces Amendment Act 1918_](https://www.legislation.govt.nz/act/public/1918/9/en/latest/#LMS1420534) removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The [_War Disabilities Removal Bill 1927 (16-3)_](https://www.nzlii.org/nz/legis/hist_bill/wdrb1927163255/) proposed to end the denial of rights one year early, but this provision was removed before passing the [*War Disabilities Removal Act 1927*](https://www.legislation.govt.nz/act/public/1927/24/en/latest/#LMS1059697).[^25] 
 
 In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
-##### WWII
+#### WWII
 Conscription was reintroduced in 1940 with the [_Emergency Regulations Amendment Act 1940_](https://www.legislation.govt.nz/act/public/1940/1/en/latest/#LMS1293816). The [_Military Training Act 1949_](https://www.legislation.govt.nz/act/public/1949/23/en/latest/#LMS1081980) reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The [_National Military Service Act 1961_](https://www.legislation.govt.nz/act/public/1961/116/en/latest/#LMS1110223) changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
-##### Combat
+#### Combat
 Previous legislation allowed discrimination in the Armed Forces, Police Force and Corrections. It seems men were expected to carry the burden of combat and dealing with violence.
 
 The [*Human Rights Commission Act 1977*](https://www.legislation.govt.nz/act/public/1977/49/en/latest/#LMS1156219) and allows preferential treatment based on sex in the Armed Forces for crew members on an aircraft or ship and active combat roles. "For the purpose of dealing with situations involving violence or the threat of violence, nothing in section 15 of this Act shall prevent the recruitment of greater numbers of men than of women as members of the Police, traffic officers, or officers of penal institutions". The [*Human Rights Act 1993*](https://www.legislation.govt.nz/act/public/1993/82/en/1993-08-10/#DLM304601) allows preferential treatment based on sex for combat roles. 
 
 The [*Human Rights (Women in Armed Forces) Amendment Act 2007*](https://www.legislation.govt.nz/act/public/2007/16/en/latest/) repealed the provision that allowed discrimination based on sex. "The purpose of this Part is to amend the Human Rights Act 1993 to remove an exemption allowing discrimination against women that prevents them from serving in combat positions as New Zealand no longer prevents women from serving in an active combat role."
 
-#### Maintenance
+### Maintenance
 The [*Family Proceedings Act 1980*](https://www.legislation.govt.nz/act/public/1980/94/en/1981-01-21/#DLM40489) removed discrimination against husbands in the assessment of maintenance. Previously, husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself. The Act gave both husbands and wives equal obligation to provide maintenance when the other could not provide for themselves.
 ## Social Security 
 
@@ -386,7 +387,7 @@ The *Income Tax Act 1976* repealed the *Land and Income Tax Act 1954*, although 
 The *Income Tax Act 1994* removes the provisions for widows, but does reference the *war widows mothers allowance*.
 
 
-## In other countries
+# In other countries
 
 [Equi-Law in the UK found that seven instances of gender imbalances that disadvantage men and none that disadvantage women.](https://equi-law.uk/imbalanced-legislation/)
 
@@ -458,6 +459,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg0OTc4NzgsLTM2NTkxMDE3MSwtOD
-M1NzYzODU3LDE0MTE5MzA0NzEsMzgyMTk5MjYzXX0=
+eyJoaXN0b3J5IjpbMTgyNzM4NjAwNSwtMzY1OTEwMTcxLC04Mz
+U3NjM4NTcsMTQxMTkzMDQ3MSwzODIxOTkyNjNdfQ==
 -->
