@@ -281,7 +281,7 @@ The [_Expeditionary Forces Amendment Act 1918_](https://www.legislation.govt.nz/
 
 In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
 ##### WWII
-Conscription was reintroduced in 1940 with the _Emergency Regulations Amendment Act 1940_. The _Military Training Act 1949_ reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The _National Military Service Act 1961_ changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
+Conscription was reintroduced in 1940 with the [_Emergency Regulations Amendment Act 1940_](https://www.legislation.govt.nz/act/public/1940/1/en/latest/#LMS1293816). The [_Military Training Act 1949_](https://www.legislation.govt.nz/act/public/1949/23/en/latest/#LMS1081980) reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The _National Military Service Act 1961_ changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
 ##### Combat
 Previous legislation allowed discrimination in the Armed Forces, Police Force and Corrections. It seems men were expected to carry the burden of combat and dealing with violence.
@@ -457,6 +457,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTc2Mzg1NywxNDExOTMwNDcxLDM4Mj
-E5OTI2M119
+eyJoaXN0b3J5IjpbODM4ODk1NTg3LC04MzU3NjM4NTcsMTQxMT
+kzMDQ3MSwzODIxOTkyNjNdfQ==
 -->
