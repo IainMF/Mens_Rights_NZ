@@ -14,7 +14,7 @@ The Article 26 of the *International Covenant on Civil and Political Rights* sta
 Article 15.1 of the *Convention on the Elimination of All Forms of Discrimination against Women* says:
 > States Parties shall accord to women equality with men before the law.
 
-Section 19 of the *[New Zealand Bill of Rights Act 1990](https://www.legislation.govt.nz/act/public/1990/109/en/latest/#DLM225519)* affirms the right of men and boys to be free from discrimination.
+Section 19 of the *[New Zealand Bill of Rights Act 1990](https://www.legislation.govt.nz/act/public/1990/109/en/latest/#DLM225518)* affirms the right of men and boys to be free from discrimination.
 
 The Human Rights Commission states:
 > In a free and democratic society (such as New Zealand purports to be) laws should be non-discriminatory on their face, unless the discrimination is demonstrably justified.[^1]
@@ -448,6 +448,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTM1NDc5MCwtMzQ0MjU3NDc5LDk4Mz
+eyJoaXN0b3J5IjpbLTgwMzExNjQ0MywtMzQ0MjU3NDc5LDk4Mz
 U1OTExMl19
 -->
