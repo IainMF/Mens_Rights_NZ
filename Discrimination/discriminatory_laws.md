@@ -161,7 +161,7 @@ Following Canada's lead,[^20] the *[Rape Law Reform Bill 1983  (116-1)*](https:/
 
 > *Clause 3* defines the term \"sexual connection\". This is the term used in *clause 4* which reformulates the crime of rape. It should be noted that, in general, the definition is wide enough to apply to male and female offenders and male and female victims.  Under the present law, rape can only be committed by a male on a  female (although females can be charged as parties to rape).[^21]
 
-The *Rape Law Reform Bill (No. 2) 1984 (3-1)* proposed to replace the word 'rape' with 'sexual violation'.
+The [*Rape Law Reform Bill (No. 2) 1984 (3-1)*](https://www.nzlii.org/nz/legis/hist_bill/rlrb2198431196/) proposed to replace the word 'rape' with 'sexual violation'.
 
 > *Clause 3* sets out a composite offence of sexual violation, which will replace the present offence of rape. It also creates a new offence of obtaining sexual connection by coercion...The term "sexual connection" used in the earlier Bill has been retained  to describe the physical elements of the crime, using the new term  "sexual violation" as the legal name of the crime.[^22]
 
@@ -450,7 +450,7 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA3MTQ2MDYsLTE0MjI0NDk2MzIsMT
-kwMzQzNDY5MCw1MjcwNjQ0NjksMTM5MTE0MDk2MSwtMzQ0MjU3
-NDc5LDk4MzU1OTExMl19
+eyJoaXN0b3J5IjpbMTM1NzMyNjIwMiwtMTQyMjQ0OTYzMiwxOT
+AzNDM0NjkwLDUyNzA2NDQ2OSwxMzkxMTQwOTYxLC0zNDQyNTc0
+NzksOTgzNTU5MTEyXX0=
 -->
