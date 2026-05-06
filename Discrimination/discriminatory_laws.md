@@ -17,21 +17,21 @@ Article 15.1 of the *Convention on the Elimination of All Forms of Discriminatio
 Section 19 of the *[New Zealand Bill of Rights Act 1990](https://www.legislation.govt.nz/act/public/1990/109/en/latest/#DLM225518)* affirms the right of men and boys to be free from discrimination.
 
 The Human Rights Commission states:
-> In a free and democratic society (such as New Zealand purports to be) laws should be non-discriminatory on their face, unless the discrimination is demonstrably justified. [^1]
+> In a free and democratic society (such as New Zealand purports to be) laws should be non-discriminatory on their face, unless the discrimination is demonstrably justified.[^1]
 
 Unfortunately, New Zealand has several laws that discriminate against men.
 
 In 1993, New Zealand mistakenly claimed that:
 
-> New Zealand law accords to women equality with men before the law. The provisions of the criminal law as laid down in the Crimes Act 1961 are the same in respect of men and women except where necessary in sexual offenses. The range of punishments and sentences provided in the statutes for criminal offenses are the same for men and women. [^2]
+> New Zealand law accords to women equality with men before the law. The provisions of the criminal law as laid down in the Crimes Act 1961 are the same in respect of men and women except where necessary in sexual offenses. The range of punishments and sentences provided in the statutes for criminal offenses are the same for men and women.[^2]
 
  As shown below, there are crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
 
 ## Male Assaults Female
 
-[Section 194](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM329383) of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law. [^3] 
+[Section 194](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM329383) of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^3] 
 
-In 2009 the Law Commission reviewed part eight of the Crimes Act [^4] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
+In 2009 the Law Commission reviewed part eight of the Crimes Act[^4] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
 
 *Male-assaults-female* was used as a proxy to address family violence. However, family violence includes more than just a male assaulting a female.  The *Family Violence (Amendments) Act 2018* addressed this shortcoming. 
 
@@ -383,7 +383,7 @@ The *Income Tax Act 1976* repealed the *Land and Income Tax Act 1954*, although 
 > "Sick, accident, or death benefit fund" means any fund established for the benefit of the employees of any employer or of the members of any incorporated society or **for the benefit of the widows** and dependants of any deceased employees of any employer or of any deceased members of any incorporated society, and approved for the time being by the Commissioner. *Emphasis added*
 
 The *Income Tax Act 1994* removes the provisions for widows, but does reference the *war widows mothers allowance*.
-%%
+
 
 ## In other countries
 
