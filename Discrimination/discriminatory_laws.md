@@ -165,7 +165,7 @@ The [*Rape Law Reform Bill (No. 2) 1984 (3-1)*](https://www.nzlii.org/nz/legis/h
 
 > *Clause 3* sets out a composite offence of sexual violation, which will replace the present offence of rape. It also creates a new offence of obtaining sexual connection by coercion...The term "sexual connection" used in the earlier Bill has been retained  to describe the physical elements of the crime, using the new term  "sexual violation" as the legal name of the crime.[^22]
 
-The [*Rape Law Reform Bill (No. 2) (1984) 1985 (3-2)*](https://www.nzlii.org/nz/legis/hist_bill/rlrb21984198532196/) which became the *Crimes Amendment Bill (No. 4) 1985 (3-3A)* reintroduced the  crime of rape as a gender-specific crime by defining sexual violation as either 'a male who rapes a female' or 'a person having  unlawful sexual connection with another person'. These changes were  introduced in the *Crimes Amendment Act (No 3) 1985 (1985 No 160)*.
+The [*Rape Law Reform Bill (No. 2) (1984) 1985 (3-2)*](https://www.nzlii.org/nz/legis/hist_bill/rlrb21984198532196/) which became the [*Crimes Amendment Bill (No. 4) 1985 (3-3A)*](https://www.nzlii.org/nz/legis/hist_bill/cab4198533piotcab41985618/) reintroduced the  crime of rape as a gender-specific crime by defining sexual violation as either 'a male who rapes a female' or 'a person having  unlawful sexual connection with another person'. These changes were  introduced in the *Crimes Amendment Act (No 3) 1985 (1985 No 160)*.
 
 The explanatory notes from the *Crimes Amendment Bill (No 2) 2003  (104-1)* recognises the right of everyone to be equal in the eyes of  the law, and therefore sex offences should be gender-neutral.  However, the Bill explains that 'rape', in the proposed law, breaks  that principle by being gender-specific. The Bill states that there  may be a "symbolic value in retaining rape as a male on female  offence as a separate category of sexual violation".    
 
@@ -450,7 +450,7 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^29]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTAyMzI5MiwtMTQyMjQ0OTYzMiwxOT
-AzNDM0NjkwLDUyNzA2NDQ2OSwxMzkxMTQwOTYxLC0zNDQyNTc0
-NzksOTgzNTU5MTEyXX0=
+eyJoaXN0b3J5IjpbLTEzNzM1NjgwODEsLTE0MjI0NDk2MzIsMT
+kwMzQzNDY5MCw1MjcwNjQ0NjksMTM5MTE0MDk2MSwtMzQ0MjU3
+NDc5LDk4MzU1OTExMl19
 -->
