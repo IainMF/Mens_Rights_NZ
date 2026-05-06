@@ -153,7 +153,7 @@ The *Law and Order Committee* has stated:
 > The term "rape" carries powerful and specific connotations, and is commonly used to refer to an abhorrent sexual crime against women deserving of significant punishment.
 
 ### History of rape law
-The [_Criminal Code Act 1893_](https://www.legislation.govt.nz/act/public/1893/56/en/latest/#LMS1338638) defines "Rape is the act of a male person, not under the age of fourteen years, having carnal knowledge of a woman who is not his wife" without her consent.
+The [*Criminal Code Act 1893*](https://www.legislation.govt.nz/act/public/1893/56/en/latest/#LMS1338638) defines "Rape is the act of a male person, not under the age of fourteen years, having carnal knowledge of a woman who is not his wife" without her consent.
 
 Various Bills have considered a gender-neutral definition rape, or  replacing it with a gender-neutral crime, however, it remains a  gender-specific crime defined as a male penetrating a female.
 
