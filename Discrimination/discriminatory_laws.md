@@ -40,7 +40,7 @@ Both Amy Adams,[^5] the Minister of Justice for the introduction of the bill, an
 Despite the Law Commission's recommendation to repeal *male-assaults-female*, the shortcomings of being addressed in other law, and the ineffectiveness of using the law for symbolic purposes, Amy Adams recommended not repealing *male-assaults-female* as a symbolic gesture. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^7] However, retaining *male-assaults-female* also symbolises a willingness to discriminate against men and violate their right to equality under the law.
 
 ### Other concerns about male assaults female
-Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault. The [*Bail Act 2000*](https://www.legislation.govt.nz/act/public/2000/38/en/latest/#DLM68903) provides that "A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment" unless the offence is *male-assaults-female* or assault on a family member.
+Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault. The [*Bail Act 2000*](https://www.legislation.govt.nz/act/public/2000/38/en/latest/highlights/?highlight=male+female#DLM68902) provides that "A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment" unless the offence is *male-assaults-female* or assault on a family member.
 
 The [*Criminal Investigations (Bodily Samples) Amendment Act 2009*](https://www.legislation.govt.nz/bill/government/2009/14/en/latest/#DLM1829313)  expanded the crimes from which investigators could take bodily samples from accused people.  *Male assaults female* was added to the Act. Investigators may not take bodily samples from people charged with common assault.
 
@@ -48,7 +48,7 @@ The [*Criminal Investigations (Bodily Samples) Amendment Act 2009*](https://www.
 
 In New Zealand, a specific crime of assaulting a female goes back at least as far as the [*1867 Offences Against the Person Act*](https://www.legislation.govt.nz/act/public/1867/5/en/latest/#LMS1273257). Any person assaulting a male child (under 14) or a female of any age could be punished more harshly if the Justices determined that “it cannot in their opinion be sufficiently punished under the provisions hereinbefore contained as to common assaults”. Common assault had a penalty of prison not exceeding two months, with or without hard labour, and/or a fine of ten pounds. Assaulting a child or a female had a penalty of imprisonment not exceeding six months, with or without hard labour, and/or a fine of twenty pounds. The [*Indictable Offences Summary Jurisdiction Act 1894*](https://www.legislation.govt.nz/act/public/1894/47/en/latest/highlights/?highlight=female#LMS1340017) and section 203 of the [*Justices of the Peace Act 1927*](https://www.nzlii.org/nz/legis/hist_act/jotpa192718gv1927n37265/) updated the wording but the penalties remained the same.
 
-The *Police Offences Amendment Act (No 2) 1952* introduced some changes. Firstly, that the assaulting a child or a female was a crime in its own right, not just a decision of the justices when the punishment common assault was insufficient for the nature of the act. Secondly, only males could be charged with the specific crime of assaulting a female. The *Crimes Act 1961* is the latest implementation of the *male-assaults-female* law.
+The [*Police Offences Amendment Act (No 2) 1952*](https://www.legislation.govt.nz/act/public/1952/43/en/latest/highlights/?highlight=male%20female#LMS1089254) introduced some changes. Firstly, that the assaulting a child or a female was a crime in its own right, not just a decision of the justices when the punishment common assault was insufficient for the nature of the act. Secondly, only males could be charged with the specific crime of assaulting a female. The *Crimes Act 1961* is the latest implementation of the *male-assaults-female* law.
 
 ## Infanticide
 
@@ -448,6 +448,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NDgyMzk4LC0zNDQyNTc0NzksOTgzNT
-U5MTEyXX0=
+eyJoaXN0b3J5IjpbLTg5NDY1NjQ2NywtMzQ0MjU3NDc5LDk4Mz
+U1OTExMl19
 -->
