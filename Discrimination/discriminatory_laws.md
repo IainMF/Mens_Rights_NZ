@@ -68,7 +68,7 @@ There is some support to replace infanticide with a gender-neutral law.
 > "An adoption order shall not be made in respect of a child who is a female in favour of a sole applicant who is a male unless the court is satisfied that the applicant is the father of the child or that there are special circumstances which justify the making of an adoption order."
 
 
-In 2016, the Human Rights Review Tribunal has declared that Section 4(2) the Adoption Act 1955 to be inconsistent with the right to be free from discrimination. The government has not addressed this inconsistency.
+In 2016, the [Human Rights Review Tribunal](https://adoptionaction.co.nz/wp-content/uploads/2016/04/2016-NZHRRT-9-Adoption-Action-Inc-v-Attorney-General-OPTIMISED.pdf) has declared that Section 4(2) the Adoption Act 1955 to be inconsistent with the right to be free from discrimination. The government has not addressed this inconsistency.
 
 The United Nations Human Rights Committee has recommended:
 
@@ -448,6 +448,6 @@ The *Income Tax Act 1994* removes the provisions for widows, but does reference 
 [^28]: Crimes Amendment Bill (No 2) 2004 (104-2) (SOP 2004-299)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzExNjQ0MywtMzQ0MjU3NDc5LDk4Mz
-U1OTExMl19
+eyJoaXN0b3J5IjpbMzI5MTExMDQzLC0zNDQyNTc0NzksOTgzNT
+U5MTEyXX0=
 -->
