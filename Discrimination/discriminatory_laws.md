@@ -378,7 +378,7 @@ New Zealand was a signatory to the International Labour Organisation *Undergroun
 
 The *Land and Income Tax Amendment Act 1966* introduced provisions to the *Land and Income Tax Act 1954* related to the 'normal retiring age' which was 60-years for males and 55-years for females.
 
-The *Land and Income Tax Act 1954* provide for special exemptions for widows with dependent children. This was not available to widowers. The *Land and Income Tax Amendment Act (No 2) 1976* repealed this special exemptions.
+The [*Land and Income Tax Act 1954*](https://www.legislation.govt.nz/act/public/1954/67/en/latest/#LMS1095175) provide for special exemptions for widows with dependent children. This was not available to widowers. The [*Land and Income Tax Amendment Act (No 2) 1976*](https://www.legislation.govt.nz/act/public/1976/43/en/latest/#LMS1350452) repealed this special exemptions.
 
 The *Income Tax Act 1976* repealed the *Land and Income Tax Act 1954*, although it retained some special recognition for widows, but not widowers. For example
 
@@ -459,7 +459,7 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzU1MzkwMiwxODI3Mzg2MDA1LC0zNj
-U5MTAxNzEsLTgzNTc2Mzg1NywxNDExOTMwNDcxLDM4MjE5OTI2
-M119
+eyJoaXN0b3J5IjpbMTkwNzIwODMwMCwxODAzNTUzOTAyLDE4Mj
+czODYwMDUsLTM2NTkxMDE3MSwtODM1NzYzODU3LDE0MTE5MzA0
+NzEsMzgyMTk5MjYzXX0=
 -->
