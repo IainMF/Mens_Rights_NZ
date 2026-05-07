@@ -2,7 +2,7 @@
 title: "Disrupted Fatherhood: A summary of perceptions of anti-male bias in the areas of custody and access"
 author: Donald Pettitt
 published: December 2000
-description: A qualitative study on perceptions of bias against father in family court in New Zealand.
+description: A qualitative study on perceptions of bias against fathers in family court in New Zealand.
 ---
 
 # Fathers and Anti-male Bias in the Family Court
