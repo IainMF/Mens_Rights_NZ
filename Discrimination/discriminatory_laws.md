@@ -27,7 +27,7 @@ In 1993, New Zealand mistakenly claimed that:
 
  As shown below, there are crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
  
- # Discriminatory laws
+# Discriminatory laws
 
 ## Male Assaults Female
 
