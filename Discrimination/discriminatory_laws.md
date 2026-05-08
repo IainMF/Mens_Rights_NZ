@@ -4,7 +4,7 @@ description: New Zealand's laws discriminate against men and boys violating thei
 ---
 > [!tip] This page is a work in progress
 
-# Introduction
+## Introduction
 Men have the right to be treated equally under the law. Article 7 of the *Universal Declaration of Human Rights* states: 
 > All are equal before the law and are entitled without any discrimination to equal protection of the law".
 
@@ -27,9 +27,9 @@ In 1993, New Zealand mistakenly claimed that:
 
  As shown below, there are crimes that give men unequal punishments compared to women, and the "necessary" differences in sexual offences have been largely removed.
  
-# Discriminatory laws
+## Discriminatory laws
 
-## Male Assaults Female
+### Male Assaults Female
 
 [Section 194](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM329383) of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^3] 
 
@@ -41,18 +41,18 @@ Both Amy Adams, [^5] the Minister of Justice for the introduction of the bill, a
 
 Despite the Law Commission's recommendation to repeal *male-assaults-female*, the shortcomings of being addressed in other law, and the ineffectiveness of using the law for symbolic purposes, Amy Adams recommended not repealing *male-assaults-female* as a symbolic gesture. “Retaining the offence of male assaults female will ensure the law continues to acknowledge the seriousness of gendered violence even outside the context of family violence."[^7] However, retaining *male-assaults-female* also symbolises a willingness to discriminate against men and violate their right to equality under the law.
 
-### Other concerns about male assaults female
+#### Other concerns about male assaults female
 Men charged with *male-assaults-female* do not qualify for the more lenient 'bail of as right' provisions granted to persons charged with common assault. The [*Bail Act 2000*](https://www.legislation.govt.nz/act/public/2000/38/en/latest/highlights/?highlight=male+female#DLM68902) provides that "A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment" unless the offence is *male-assaults-female* or assault on a family member.
 
 The [*Criminal Investigations (Bodily Samples) Amendment Act 2009*](https://www.legislation.govt.nz/act/public/2009/46/en/latest/highlights/?highlight=male+female#DLM1829313)  expanded the crimes from which investigators could take bodily samples from accused people.  *Male assaults female* was added to the Act. Investigators may not take bodily samples from people charged with common assault.
 
-### History of male assaults female
+#### History of male assaults female
 
 In New Zealand, a specific crime of assaulting a female goes back at least as far as the [*1867 Offences Against the Person Act*](https://www.legislation.govt.nz/act/public/1867/5/en/latest/highlights/?highlight=female#LMS1273257). Any person assaulting a male child (under 14) or a female of any age could be punished more harshly if the Justices determined that “it cannot in their opinion be sufficiently punished under the provisions hereinbefore contained as to common assaults”. Common assault had a penalty of prison not exceeding two months, with or without hard labour, and/or a fine of ten pounds. Assaulting a child or a female had a penalty of imprisonment not exceeding six months, with or without hard labour, and/or a fine of twenty pounds. The [*Indictable Offences Summary Jurisdiction Act 1894*](https://www.legislation.govt.nz/act/public/1894/47/en/latest/highlights/?highlight=female#LMS1340017) and section 203 of the [*Justices of the Peace Act 1927*](https://www.nzlii.org/nz/legis/hist_act/jotpa192718gv1927n37265/) updated the wording but the penalties remained the same.
 
 The [*Police Offences Amendment Act (No 2) 1952*](https://www.legislation.govt.nz/act/public/1952/43/en/latest/highlights/?highlight=male%20female#LMS1089254) introduced some changes. Firstly, that the assaulting a child or a female was a crime in its own right, not just a decision of the justices when the punishment common assault was insufficient for the nature of the act. Secondly, only males could be charged with the specific crime of assaulting a female. The *Crimes Act 1961* is the latest implementation of the *male-assaults-female* law.
 
-## Infanticide
+### Infanticide
 
 [Section 178](https://www.legislation.govt.nz/act/public/1961/43/en/latest/highlights/?highlight=woman%20Infanticide#DLM329329) of the *Crimes Act 1961* allows mothers who murder their children when they are experiencing mental illness to be charged with the less severe crime of *infanticide*.  Infanticide has a maximum 3-year prison sentence where murder has a maximum sentence of life imprisonment. If the circumstances permit, a jury may return a verdict of infanticide instead of murder or manslaughter. Infanticide was introduced in the *Crimes Act 1961* and was based on the [*United Kingdom Infanticide Act 1938*](https://www.legislation.gov.uk/ukpga/Geo6/1-2/36/enacted). 
 
@@ -64,7 +64,7 @@ There is some support to replace infanticide with a gender-neutral law.
 
 > Otago University law professor Kevin Dawkins … said he would like to see infanticide replaced with another partial defence of diminished responsibility, to apply to female and male offenders.[^9]
 
-## Adoption
+### Adoption
 [Section 4(2)](https://www.legislation.govt.nz/act/public/1955/93/en/latest/highlights/?highlight=male%20female#DLM293128) the *Adoption Act 1955* places additional restrictions on men wanting to adopt a female child. The law states:
 
 > "An adoption order shall not be made in respect of a child who is a female in favour of a sole applicant who is a male unless the court is satisfied that the applicant is the father of the child or that there are special circumstances which justify the making of an adoption order."
@@ -79,12 +79,12 @@ The United Nations Human Rights Committee has recommended:
 The Human Rights Commission identified Section 4(2) of the Adoption Act 1955 as discriminatory against men.[^11]
 
 
-## Healthy Futures Act
+### Healthy Futures Act
 One of the objectives of the [*Pae Ora (Healthy Futures) Act 2022*](https://www.legislation.govt.nz/act/public/2022/30/en/latest/#LMS575524) is to "achieve equity in health outcomes among New Zealand's population groups, including by striving to eliminate health disparities".[^12] However, the Act requires the Ministry of Health to create a women's health strategy, but not a men's health strategy. Australia, Brazil, England, Iran, Ireland, Malaysia, Mongolia, Philippines, South Africa, and the state of Quebec all have men's health strategies.
 
  Jehan Casinader reports "When I asked the Ministry of Health to tell me about its initiatives focused specifically on men, I heard  \[nothing\]. Although it has a women's health strategy, New Zealand does not have a men's health strategy, and the ministry has no plans to develop one."[^13]
 
-## Protection from Genital Mutilation
+### Protection from Genital Mutilation
 The [*Crimes Amendment Act 1995*](https://www.legislation.govt.nz/act/public/1995/49/en/latest/#LMS1212410) made female genital mutilation illegal in New Zealand. There is no equivalent protection for males. While discussing intersex children, the Committee on the Rights of the Child recommended “that no one is subjected to unnecessary medical or surgical treatment during infancy or childhood, guaranteeing the rights of children to bodily integrity, autonomy and self-determination”[^14] This should apply to all children including boys.
 
 Hammond and Carmack argue that non-therapeutic infant circumcision violates a child’s rights to religious freedom, bodily autonomy and protection from harm.
@@ -95,12 +95,12 @@ Martin Robbins argues that men should be able to choose whether they are circumc
 
 > Men should have the right to choose circumcision, not have the choice forced upon them. Infant circumcision without consent or immediate medical justification is an unjustified violation of basic human rights, that shares more in common with ancient coming-of-age rituals than responsible medical practice. [^16]
 
-## Rape and Sexual Assault
+### Rape and Sexual Assault
 Historically, there were significant gaps in legal protection of men and boys from sexual assault. The [_Crimes Act 1908_](https://www.legislation.govt.nz/act/public/1908/32/en/latest/#LMS1374348), and later, the [_Crimes Act 1961_](https://www.legislation.govt.nz/act/public/1961/43/en/1961-11-01/#DLM329048) included crimes protecting women and girls from a wide range of sexual assaults, but men and boys were only protected from sexually assaults by men as a consequence of all sexual activity between men being illegal. In theory this protected males from sexual assault from males, but in practice the fear of being charged themselves and stigma around homosexuality prevented victims from reporting these crimes. There was no legal protection for men from female perpetrated sexual assault.
 
 The [*Homosexual Law Reform Act 1986*](https://www.legislation.govt.nz/act/public/1986/33/en/1986-07-11/#DLM93151) decriminalised consensual sex acts between men. The [*Crimes Amendment Act 1985*](https://www.nzlii.org/nz/legis/hist_act/caa319851985n160216/) introduced the gender-neutral 'unlawful sexual connection' which finally protected men from female perpetrated sexual assaults, and also sexual assault from males. The [*Crimes Amendment Act 2005*](https://www.legislation.govt.nz/act/public/2005/41/en/2005-04-20/#DLM346175) removed most of the remaining discrimination against men and boys in sexual assault law by equalising men's and boys' legal protection from sexual assault. However, 'rape' is still defined as a male perpetrator and female victim.
 
-#### Changes made by the Crimes Amendment Act 2005
+##### Changes made by the Crimes Amendment Act 2005
 
 | Crimes Act 1961                                                           | 2005 Amendments                                                |
 |---------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -123,17 +123,17 @@ Section 128 continues to define *unlawful sexual connection*:
 > (a) without person B’s consent to the connection; and
 > (b) without believing on reasonable grounds that person B consents to the connection.
 
-### Consequences of a gendered definition  
+#### Consequences of a gendered definition  
 
 Defining rape as something that is only done by men and to women has consequences. Although, both rape and unlawful sexual connection have the same maximum sentence, there are still consequences for having a gendered definition of rape.
 
-#### Respecting victims  
+##### Respecting victims  
 
 As the Green Party mentions, defining rape as something that can only happen to women does not respect how male victims' feel about the reality of what has happened to them. This can cause male victims who were *forced-to-penetrate* undue distress. For example:
 
 > It's deeply saddening that the definition of rape is restricted only to penetrative sex, this ignores the rights of those victims not of being penetrated but forced to penetrate." (Māori/Pākehā, man, takatāpui, heterosexual)[^17]
 
-#### Two-tiered justice 
+##### Two-tiered justice 
 
 Although 'rape' and 'unlawful sexual connection' have the same maximum sentence, the differentiation leads to different sentences for these crimes. Male victims of female perpetrators are denied the same level of justice as female victims of male perpetrators. The Court of Appeal's sentencing guidelines[^18] recommend a sentence of 6-8 years for a man charged with having sex with a woman without her consent. The guidelines recommend a 2-5 year sentence for a woman charged with having sex with a man without his consent.
 
@@ -154,7 +154,7 @@ The *Law and Order Committee* has stated:
 
 > The term "rape" carries powerful and specific connotations, and is commonly used to refer to an abhorrent sexual crime against women deserving of significant punishment.
 
-### History of rape law
+#### History of rape law
 The [*Criminal Code Act 1893*](https://www.legislation.govt.nz/act/public/1893/56/en/latest/#LMS1338638) defines "Rape is the act of a male person, not under the age of fourteen years, having carnal knowledge of a woman who is not his wife" without her consent.
 
 Various Bills have considered a gender-neutral definition rape, or  replacing it with a gender-neutral crime, however, it remains a  gender-specific crime defined as a male penetrating a female.
@@ -208,9 +208,9 @@ The Green Party highlighted several issues with a gendered  definition of rape:
 > - acts which include anal and oral penetration, and penetration with objects (currently rape is only penile penetration of the vagina). In line with other amendments contained in this bill, the Green Party would have preferred Parliament to use this opportunity to update, streamline and render gender-neutral the law of rape. 
 
 
-## Other discrimination in law
+### Other discrimination in law
 Some other laws treat men less favourably than women.
-### Good employer
+#### Good employer
 The [*Public Service Act 2020*](https://www.legislation.govt.nz/act/public/2020/40/en/latest/highlights/?highlight=women#LMS219481) requires the public service to be good employers. A good employer "is an employer who operates an employment policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including for …recognition of the employment requirements of women." The law assumes that women have different employment requirements from men, but these employment requirements are not defined, and there is no equivalent for men.  This reinforces stereotypes. Perhaps it was intended to support parents, but then men should be included.
 
 There have been many laws that have had the same good employer requirements for women.
@@ -248,82 +248,82 @@ There have been many laws that have had the same good employer requirements for 
 | 1994 New Zealand Sports Drug Agency Act                   | 2022 Water Services Entities Act                                       |
 | 1995 Radio New Zealand Act                                | 2025 Parliament Act                                                    |
 
-# Historical laws
+## Historical laws
 Historically, there are many laws that discriminate against men, by giving them harsher punishments, by requiring them to perform additional duties, or by denying them the same protection or privileges granted to women.
 
-## Slander of Women
+### Slander of Women
 Women had extra legal protection from slander. The [_Slander of Women Act 1898_](https://www.legislation.govt.nz/act/public/1898/16/en/latest/#LMS1414979) meant that spoken or published words that suggest a woman is sexually immoral were actionable without any evidence of actual damage. This was consolidated into the [_Judicature Act 1908_](https://www.legislation.govt.nz/act/public/1908/89/en/1908-08-04/highlights/?highlight=woman#DLM147639). This provision was repealed in the [_Defamation Act 1954_](https://www.legislation.govt.nz/act/public/1954/46/en/latest/highlights/?highlight=101#LMS1094281).
 
-## Harsher Penalties
-### Flogging or whipping
+### Harsher Penalties
+#### Flogging or whipping
 Section 67 of [_Offences Against the Person Act 1867_](https://www.legislation.govt.nz/act/public/1867/5/en/latest/highlights/?highlight=male#LMS1273291) allows whipping as a punishment for males only. The _Criminal Code Act of 1893_ prohibits flogging or whipping of females. Flogging is the use of a cat-o’-nine-tails and whipping is done with a rod. The [_Indictable Offences Summary Jurisdiction Act 1894_](https://www.legislation.govt.nz/act/public/1894/47/en/latest/highlights/?highlight=male#LMS1340062) allows young males convicted of crimes to be whipped. 12-16-year-old boys can be whipped 12 times or less, and boys under 12 can be whipped 6 times or less. The [_Crimes Amendment Act 1941_](https://www.legislation.govt.nz/act/public/1941/10/en/latest/#LMS1316785) ended the use of flogging and whipping as a punishment.
-### Solitary confinement
+#### Solitary confinement
 The [*Prisons Act 1873*](https://www.legislation.govt.nz/act/public/1873/73/en/latest/#LMS1286509) stipulates that male prison escapees can be kept in solitary confinement as punishment. Section 17 of the [*Crimes Act 1961*](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM328066) prohibits solitary confinement.
 
-## Additional duties & responsibilities
-### Jury service
+### Additional duties & responsibilities
+#### Jury service
 Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (J[uries Act of 1868](https://www.legislation.govt.nz/act/public/1868/49/en/latest/highlights/?highlight=man#LMS1275928),[1908](https://www.legislation.govt.nz/act/public/1908/90/en/latest/#LMS1078743)). The [*Women Jurors Act 1942*](https://www.legislation.govt.nz/act/public/1942/12/en/latest/#LMS1325171) allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The [*Juries Amendment Act 1963*](https://www.legislation.govt.nz/act/public/1963/141/en/latest/highlights/?highlight=woman#LMS1116730) changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The [*Juries Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/48/en/latest/highlights/?highlight=woman#LMS1152225) "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^24]
 
-### Assisting police officers
+#### Assisting police officers
 The [_Police Force Act 1913_](https://www.legislation.govt.nz/act/public/1913/61/en/latest/highlights/?highlight=male#LMS1293065), the [_Police Force Act 1947_](https://www.legislation.govt.nz/act/public/1947/13/en/latest/highlights/?highlight=male#LMS1046925), the [_Police Act 1958_](https://www.legislation.govt.nz/act/public/1958/109/en/1958-10-03/highlights/?highlight=male#DLM322242) require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The [_Human Rights Amendment Act 2001_](https://www.legislation.govt.nz/act/public/2001/96/en/latest/#DLM122567) amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the [_Policing Act 2008_](https://www.legislation.govt.nz/act/public/2008/72/en/latest/#DLM1102254) also applies to any person.
 
-### Assisting in animals disease emergency
+#### Assisting in animals disease emergency
 The [_Animals Act 1967_](https://www.legislation.govt.nz/act/public/1967/50/en/latest/highlights/?highlight=male#LMS1127519) had a provision that "any fit male person over the age of eighteen years" may be required to render assistance to eradicate or limit the spread of an animals disease. The Animals Act has been repealed.
 
-### Compulsory military training or service.
+#### Compulsory military training or service.
 Only men were required to train or serve in the military in New Zealand.
 
 The [_Militia Act 1845_](https://www.nzlii.org/nz/legis/hist_act/ma18458v1845n1207/) allowed the Governor to form a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the [_Militia Act 1865_](https://www.legislation.govt.nz/act/public/1865/52/en/latest/#LMS1263735) which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the [_Militia Act 1870_](https://www.legislation.govt.nz/act/public/1870/87/en/latest/#LMS1280541) which lowered the minimum age to 17.
 The [_Defence Act 1909_](https://www.legislation.govt.nz/act/public/1909/28/en/latest/#LMS1335167) brought in a general training requirement for males 12 to 14 years old (Junior Cadets), 14 to 18 (Senior Cadets), 18 to 21 (General Training Section), and 21 to 30 (the Reserve). There was exemption for religious conscientious objectors but they were still obligated to perform ‘an equivalent to such service and training such non-combatant duties as are prescribed by the Governor’.  
-#### WWI
+##### WWI
 The [_Military Service Act 1916_](https://www.legislation.govt.nz/act/public/1916/8/en/latest/#LMS1417173), required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
 
-#### Loss of rights
+##### Loss of rights
 The [_Expeditionary Forces Amendment Act 1918_](https://www.legislation.govt.nz/act/public/1918/9/en/latest/#LMS1420534) removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The [_War Disabilities Removal Bill 1927 (16-3)_](https://www.nzlii.org/nz/legis/hist_bill/wdrb1927163255/) proposed to end the denial of rights one year early, but this provision was removed before passing the [*War Disabilities Removal Act 1927*](https://www.legislation.govt.nz/act/public/1927/24/en/latest/#LMS1059697).[^25] 
 
 In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
-#### WWII
+##### WWII
 Conscription was reintroduced in 1940 with the [_Emergency Regulations Amendment Act 1940_](https://www.legislation.govt.nz/act/public/1940/1/en/latest/#LMS1293816). The [_Military Training Act 1949_](https://www.legislation.govt.nz/act/public/1949/23/en/latest/#LMS1081980) reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The [_National Military Service Act 1961_](https://www.legislation.govt.nz/act/public/1961/116/en/latest/#LMS1110223) changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
-#### Combat
+##### Combat
 Previous legislation allowed discrimination in the Armed Forces, Police Force and Corrections. It seems men were expected to carry the burden of combat and dealing with violence.
 
 The [*Human Rights Commission Act 1977*](https://www.legislation.govt.nz/act/public/1977/49/en/latest/#LMS1156219) and allows preferential treatment based on sex in the Armed Forces for crew members on an aircraft or ship and active combat roles. "For the purpose of dealing with situations involving violence or the threat of violence, nothing in section 15 of this Act shall prevent the recruitment of greater numbers of men than of women as members of the Police, traffic officers, or officers of penal institutions". The [*Human Rights Act 1993*](https://www.legislation.govt.nz/act/public/1993/82/en/1993-08-10/#DLM304601) allows preferential treatment based on sex for combat roles. 
 
 The [*Human Rights (Women in Armed Forces) Amendment Act 2007*](https://www.legislation.govt.nz/act/public/2007/16/en/latest/) repealed the provision that allowed discrimination based on sex. "The purpose of this Part is to amend the Human Rights Act 1993 to remove an exemption allowing discrimination against women that prevents them from serving in combat positions as New Zealand no longer prevents women from serving in an active combat role."
 
-### Maintenance
+#### Maintenance
 The [*Family Proceedings Act 1980*](https://www.legislation.govt.nz/act/public/1980/94/en/1981-01-21/#DLM40489) removed discrimination against husbands in the assessment of maintenance. Previously, husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself. The Act gave both husbands and wives equal obligation to provide maintenance when the other could not provide for themselves.
-## Social Security 
+### Social Security 
 
 Historically, social security legislation made assumptions about the roles of men and women and benefits were not equal between men and women. For example, a male breadwinner was assumed and that wives were dependant on their husbands, but not the other way around. [*The Social Security Act of 1964*](https://www.legislation.govt.nz/act/public/1964/136/en/1964-12-04/#DLM359107) discriminated against men and women in different ways and was slowly amended to equalise benefits for men and women. In 1984, New Zealand reported that there were additional benefits available for women. "*There are some areas where women have more rights than men in the present social security legislation*".[^24]
 
-### Age benefit 
+#### Age benefit 
 Unmarried women who were unable to work could qualify for and age benefit at age 55 rather than age 60. Men had to wait until age 60. Age benefits ended in 1976.
 
-### Benefits for wives
+#### Benefits for wives
 Wives of mental patients and deserted wives were entitled to a benefit. Deserted wives could be entitled to a benefit even after divorce. These benefits ended in 1973.
-### Additional Income
+#### Additional Income
 Women could earn a small amount of extra money that was not counted against their benefit if they were providing domestic or nursing service. This provision was not available to men and it was removed in 1969.
-### Medical Subsidies:
+#### Medical Subsidies:
 The Social Security Amendment Act 1975 has provision to subsidise medical care for beneficiaries. The wives, but not the husbands, of beneficiaries were entitled to subsidised care. This discrimination was removed by the *Social Security Amendment Act 1986*.
-### Superannuation:
+#### Superannuation:
 The *Government Superannuation Fund Amendment Act 1976* removed discrimination that required a widower prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit. Widows did not have to prove they were dependent.
-### Unemployment Benefit:
+#### Unemployment Benefit:
 Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the *Social Security Amendment Act, 1979*."[^26]
-### Sickness and invalid's benefits:
+#### Sickness and invalid's benefits:
 Previously, a woman with a dependent husband would not qualify for the full married rate for sickness of invalid's benefits, potentially leaving both husband and wife without adequate support. "Since 10 January 1979, married women have qualified for the full married couple rate (which includes payment for a dependent spouse) if they are in receipt of the sickness or invalid benefit. The income test is the same as that applied to a married man with a dependent wife. This provision was introduced in the *Social Security Amendment Act 1978*." [^27]
-### Benefits on Death:
+#### Benefits on Death:
 "In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. This provision, which discriminated against widowers, was removed in the *1982 Social Security Amendment Act*. The benefit on death is now available to widowers on the same basis as to widows." [^28]
-### Benefits for Widows and 'Women Alone'
+#### Benefits for Widows and 'Women Alone'
 "A 'male breadwinner' assumption remains in the *Social Security Act, 1964*, in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the "woman alone" provisions."
 
 "Under section 27C of the *Social Security Act, 1964*, an income-tested domestic purposes benefit is available to 'women alone', by which is meant a woman who has never married or who has lost the support of her husband. When this benefit was introduced in 1973, 'women alone' could qualify for a benefit under the same age and duration criteria as applied to widows without dependent children." [^29]
-### Benefit for solo parents:
+#### Benefit for solo parents:
 The *Social Security Amendment Act 1973*, introduced a benefit for solo parents. It allows unmarried mother to receive the solo parent's benefit, but a father must have "lost his wife by death, divorce, or some other cause." This discrimination against men was fixed by the *Social Security Amendment Act 1987* by changing the requirement to: "A man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother." The *Social Security (Benefit Categories and Work Focus) Amendment Act 2013* made the law entirely gender neutral, with all requirements applying equally for mother or fathers.
-### War pensions:
+#### War pensions:
 The *War Pensions Act 1954* defined wives or widows of members of the armed forces as dependants. Husbands and widowers were not automatically categorised as dependants. Wives of disabled members, and widows of deceased members were entitled to a pension. Widow's with children could also be entitled to a mother's allowance. The *War Pensions Amendment Act 2001* removed this discrimination against men.
-### Government superannuation 
+#### Government superannuation 
 The *Superannuation Act 1956* allowed female government employees to retire earlier than male employees. Males could retire at 65-years, or 60-years, with 40 years of service. Females could retire at 55, or with 30 years of service. Following the *Government Service Equal Pay Act 1960*, the *Superannuation Amendment Act 1962* equalised retirement ages for all government employees.
 
 Different requirements were applied on the deaths of male and female employees. The wife of the deceased can elect to either, receive a annuity at half the rate that the deceased was entitled, or a lump some of the contributions of the deceased, less any money already paid out. The husband of the deceased was only entitled to a lump some of the contributions of the deceased, less any money already paid out. The *Government Superannuation Fund Amendment Act 1976* added the same options for men. The *Government Superannuation Fund Amendment Act 1985* replace separate sections the deaths of males and females, with a section relating to the death of spouses.
@@ -331,19 +331,19 @@ Different requirements were applied on the deaths of male and female employees. 
 If a male employee died as the result of work-related injuries, his widow may be entitled to an increase in annuity. The *Superannuation Amendment Act 1962* allowed *dependent* widowers the same entitlement to increased annuities as widows. The *Government Superannuation Fund Amendment Act 1976* removed the requirement that a widower prove he was dependant on his wife in order to receive the same entitlement as widows.
 
 The *Superannuation Amendment Act 1963* required people to contribute to the superannuation fund who were under 25-years-old, however, married women under 25 were not required to contribute.
-## Paternity leave 
+### Paternity leave 
 
 New Zealand introduced maternity leave without pay to public service employees in 1948.[^30] This was extended to private business in the *Maternity Leave and Employment Protection Act 1980* allowing for 26 weeks of unpaid leave. The *Parental Leave and Employment Protection Act 1987* introduced paternity leave. The Act mandated 14 weeks of maternity leave and 2 weeks of paternity leave and an additional 52 weeks of unpaid leave was available to be split between the parents. This parental leave was also available for parents adopting a child under 5-years-old. The *Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002* introduced publicly-funded paid parental leave and allows paid leave to be transferred from the mother to her spouse. The *Parental Leave and Employment Protection Amendment Act 2016* introduced more gender-neutral definitions. The law now refers to 'primary-carer' leave and 'partner' leave.
 
-## Compensation for injuries. 
+### Compensation for injuries. 
 
 The *Accident Compensation Corporation* administers the New Zealand's no-fault accidental injury compensation scheme (ACC). The *Accident Rehabilitation and Compensation Insurance Act 1992* covered mental injuries resulting from various crimes in the Crimes Act 1961, predominantly sexual assault. Unfortunately, some sexual assaults against men and boys were not in the Crimes Act so victims of those sexual assaults not covered in the Crimes Act could not get payments from ACC. This discrimination was resolved by the *Crimes Amendment Act 2005*. See above.
 
-## Searching aviation passengers 
+### Searching aviation passengers 
 
 The *Aviation Crimes Act 1972* allowed the Police and Customs officers to search passengers or baggage. The Act specified that only females may search female passengers, unless it is using an electronic device. Male passengers may be searched by female officers. A similar provision was in the *Civil Aviation Act 1990*. The *Civil Aviation Act 2023* removed the discrimination against men by specifying that passengers must be searched by someone of the same sex, or if they reasonably requests, a person of a different sex.
 
-## Additional support for women or wives 
+### Additional support for women or wives 
 
 A number of laws allowed for additional support for women or wives. The *New Zealand Foundation for the Blind Act 1963* allowed the Foundation to provide assistance "to the wife, widow, or dependent children of a blind person". The *Education Standards Act 2001* removed this discrimination against men by omitting the words \"wife, widow\", and substituting the words \"spouse, de facto partner\". The *Industrial Conciliation and Arbitration Amendment Act 1964* allowed unions to set up a welfare fund to benefit member's wives and children. This repealed by *Industrial Relations Act 1973*. The *Royal New Zealand Air Force Amendment Act 1968* refers to a 'wife allowance'. The *Wildlife Amendment Act 1964* allowed wildlife societies to make "grants to or for the benefit of the widow or dependent children of deceased employees of the society." These laws have been repealed.
 
@@ -353,10 +353,10 @@ The *2000 Legal Services Act* "The Agency must ensure that the Public Advisory C
 
 A number of laws refer to women's charities.
 
-## Evidence act 
+### Evidence act 
 
 The *Evidence Amendment Act 1987* removed discrimination against husbands regarding a wife's testimony against him in certain cases. Both spouses are treated equally now.
-## Employment 
+### Employment 
 
 The *Factories Amendment Act 1971* repealed requirements for employers to provide women who were doing overtime, a meal, or an allowance, under certain conditions. The *Factories Amendment Act 1972* repealed provisions limiting the amount overtime for women.
 
@@ -366,7 +366,7 @@ The *Factories and Commercial Premises Act 1981* required employers who want to 
 
 The *Shops and Offices Act 1955* prohibited females and males under 18-years-old from working after 10:30 p.m. The *Shops and Offices Amendment Act 1972* change this so that females could work after 10:30 p.m. and all people under 18-years-old could not.
 
-### Health and Safety 
+#### Health and Safety 
 
 A number of laws had stricter health and safety requirements for women, for exmaple, by prohibiting women for doing dangerous work. This discriminates against women by restricting their employment, and against men by placing the burden of additional risk on them.
 
@@ -374,7 +374,7 @@ The *Machinery Amendment Act 1972* removed discriminatory against men in the *Ma
 
 New Zealand was a signatory to the International Labour Organisation *Underground Work (Women) Convention, 1935* which prohibit women working underground in mines. As a consequence, several laws enforced this prohibition, such as, the *Mining Act 1971*, and the *Quarries and Tunnels Act 1982*. New Zealand denounced the convention on 23 June 1987.
 
-## Income tax issues 
+### Income tax issues 
 
 The [*Land and Income Tax Amendment Act 1966*](https://www.legislation.govt.nz/act/public/1966/28/en/latest/highlights/?highlight=retiring#LMS1381837) introduced provisions to the *Land and Income Tax Act 1954* related to the 'normal retiring age' which was 60-years for males and 55-years for females.
 
@@ -387,7 +387,7 @@ The [*Income Tax Act 1976*](https://www.nzlii.org/nz/legis/hist_act/ita19761976n
 The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/en/1994-12-20/#DLM1184505) removes the provisions for widows, but does reference the *war widows mothers allowance*.
 
 
-# In other countries
+## In other countries
 
 [Equi-Law in the UK found that seven instances of gender imbalances that disadvantage men and none that disadvantage women.](https://equi-law.uk/imbalanced-legislation/)
 
