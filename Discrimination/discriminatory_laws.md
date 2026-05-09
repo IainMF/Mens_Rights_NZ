@@ -363,7 +363,7 @@ The [*Evidence Amendment Act 1987*](https://www.legislation.govt.nz/act/public/1
 
 The [*Factories Amendment Act 1971*](https://www.legislation.govt.nz/act/public/1971/45/en/latest/#LMS1138009) repealed requirements of the [*Factories Act 1946*](https://www.legislation.govt.nz/act/public/1946/43/en/latest/highlights/?highlight=woman#LMS1043801) for employers to provide women who were doing overtime, a meal, or an allowance, under certain conditions. The [*Factories Amendment Act 1972*](https://www.legislation.govt.nz/act/public/1972/40/en/latest/#LMS1141055) repealed provisions limiting the amount overtime for women.
 
-The [*Factories Act 1946*](https://www.legislation.govt.nz/act/public/1946/43/en/latest/highlights/?highlight=female#LMS1043849) and the the *Shops and Offices Act 1955* required employers to provide a rest room for women, and seating facilities during breaks for women who work standing up. The *Factories and Commercial Premises Act 1981* removed this discrimination against men because it does not contain special provisions for rest rooms and it requires employers to provide seating facilities during breaks for all workers who work standing up.
+The [*Factories Act 1946*](https://www.legislation.govt.nz/act/public/1946/43/en/latest/highlights/?highlight=female#LMS1043849) and the the [*Shops and Offices Act 1955*](https://www.legislation.govt.nz/act/public/1955/32/en/latest/highlights/?highlight=female#LMS1097753) required employers to provide a rest room for female employees, and seating facilities during breaks for females who work standing up. The [*Factories and Commercial Premises Act 1981*](https://www.legislation.govt.nz/act/public/1981/25/en/latest/#LMS1168400) removed this discrimination against men because it does not contain special provisions for rest rooms and it requires employers to provide seating facilities during breaks for all workers who work standing up.
 
 The *Factories and Commercial Premises Act 1981* required employers who want to employ women between 6pm and 11am the following day, to ensure they have 11 consecutive hours of rest (of which at least 7 fall between 10 p.m. and 7 a.m.). This effectively means women could not be employed between 1 a.m. and 3 a.m. This discriminates against both men and women because men unfairly bare the burden of overnight work, and women are unfairly prevented from working overnight. The Governor-General repealed Section 13 of the *Factories and Commercial Premises Act 1981* in 2008.
 
@@ -461,9 +461,9 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODAyOTQ3MiwtMTAyMTk4MjMzMywxNz
-U4MTgzMzc2LDcwODM2ODU5MSwxNTQyNTQxMjg2LDEyNjM2NTcx
-NzAsLTY4NDc4MDMxLC0xNDgxOTA0ODcyLDE2NDcyNTIzNzksNj
-Q4OTc2OTI2LDE3NzIxMzc2NzMsLTExODQ4OTEwMzMsMTM0MDIw
-NzcwMl19
+eyJoaXN0b3J5IjpbMTQ1OTMwNjI0NywtMTg4MDI5NDcyLC0xMD
+IxOTgyMzMzLDE3NTgxODMzNzYsNzA4MzY4NTkxLDE1NDI1NDEy
+ODYsMTI2MzY1NzE3MCwtNjg0NzgwMzEsLTE0ODE5MDQ4NzIsMT
+Y0NzI1MjM3OSw2NDg5NzY5MjYsMTc3MjEzNzY3MywtMTE4NDg5
+MTAzMywxMzQwMjA3NzAyXX0=
 -->
