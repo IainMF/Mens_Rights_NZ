@@ -316,9 +316,10 @@ Previously, a woman with a dependent husband would not qualify for the full marr
 #### Benefits on Death:
 "In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. This provision, which discriminated against widowers, was removed in the [*1982 Social Security Amendment Act*](https://www.legislation.govt.nz/act/public/1982/16/en/1982-09-28/highlights/?highlight=spouse#DLM59056). The benefit on death is now available to widowers on the same basis as to widows." [^28]
 #### Benefits for Widows and 'Women Alone'
-"A 'male breadwinner' assumption remains in the [*Social Security Act, 1964*](https://www.legislation.govt.nz/act/public/1964/136/en/1964-12-04/#DLM359107), in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the "woman alone" provisions."
+In 1984, New Zealand reported:[^29] 
+> A 'male breadwinner' assumption remains in the [*Social Security Act, 1964*](https://www.legislation.govt.nz/act/public/1964/136/en/1964-12-04/#DLM359107), in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the "woman alone" provisions.
 
-"Under section 27C of the *Social Security Act, 1964*, an income-tested domestic purposes benefit is available to 'women alone', by which is meant a woman who has never married or who has lost the support of her husband. When this benefit was introduced in 1973, 'women alone' could qualify for a benefit under the same age and duration criteria as applied to widows without dependent children." [^29]
+> Under section 27C of the *Social Security Act, 1964*, an income-tested domestic purposes benefit is available to 'women alone', by which is meant a woman who has never married or who has lost the support of her husband. When this benefit was introduced in 1973, 'women alone' could qualify for a benefit under the same age and duration criteria as applied to widows without dependent children." 
 #### Benefit for solo parents:
 The *Social Security Amendment Act 1973*, introduced a benefit for solo parents. It allows unmarried mother to receive the solo parent's benefit, but a father must have "lost his wife by death, divorce, or some other cause." This discrimination against men was fixed by the *Social Security Amendment Act 1987* by changing the requirement to: "A man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother." The *Social Security (Benefit Categories and Work Focus) Amendment Act 2013* made the law entirely gender neutral, with all requirements applying equally for mother or fathers.
 #### War pensions:
@@ -458,6 +459,6 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDc1NTUxOSwxNzcyMTM3NjczLC0xMT
-g0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
+eyJoaXN0b3J5IjpbNzA4MDI4NjI0LDE3NzIxMzc2NzMsLTExOD
+Q4OTEwMzMsMTM0MDIwNzcwMl19
 -->
