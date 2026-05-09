@@ -373,7 +373,7 @@ The *Shops and Offices Act 1955* prohibited females and males under 18-years-old
 
 A number of laws had stricter health and safety requirements for women, for example, by prohibiting women for doing dangerous work. This discriminates against women by restricting their employment, and against men by placing the burden of additional risk on them.
 
-The *Factories Act 1946* prohibited women to melt, cast or other work with lead.
+The *[Factories Act 1946*](https://www.legislation.govt.nz/act/public/1946/43/en/latest/highlights/?highlight=lead#LMS1043820) prohibited women to melt, cast or other work with lead.
 
 The *Machinery Amendment Act 1972* removed discriminatory against men in the *Machinery Act 1950* which provided greater protections for women by prohibiting from cleaning gears while they were moving.
 
@@ -463,8 +463,8 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Mjc1MzQ4OCwxNzU4MTgzMzc2LDcwOD
-M2ODU5MSwxNTQyNTQxMjg2LDEyNjM2NTcxNzAsLTY4NDc4MDMx
-LC0xNDgxOTA0ODcyLDE2NDcyNTIzNzksNjQ4OTc2OTI2LDE3Nz
-IxMzc2NzMsLTExODQ4OTEwMzMsMTM0MDIwNzcwMl19
+eyJoaXN0b3J5IjpbLTYyMDg3NjQwLDE3NTgxODMzNzYsNzA4Mz
+Y4NTkxLDE1NDI1NDEyODYsMTI2MzY1NzE3MCwtNjg0NzgwMzEs
+LTE0ODE5MDQ4NzIsMTY0NzI1MjM3OSw2NDg5NzY5MjYsMTc3Mj
+EzNzY3MywtMTE4NDg5MTAzMywxMzQwMjA3NzAyXX0=
 -->
