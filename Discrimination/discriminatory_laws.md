@@ -451,7 +451,7 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^29]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 
-[^30]: Public Service Amending Regulations 1948
+[^30]: [Public Service Amending Regulations 1948](https://www.nzlii.org/nz/legis/num_reg/psar1948320/)
 
 [^31]: New Zealand 1987 CEDAW report -- CEDAW/C/5/Add .41
 
@@ -459,7 +459,8 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzY1NzE3MCwtNjg0NzgwMzEsLTE0OD
-E5MDQ4NzIsMTY0NzI1MjM3OSw2NDg5NzY5MjYsMTc3MjEzNzY3
-MywtMTE4NDg5MTAzMywxMzQwMjA3NzAyXX0=
+eyJoaXN0b3J5IjpbMTU0MjU0MTI4NiwxMjYzNjU3MTcwLC02OD
+Q3ODAzMSwtMTQ4MTkwNDg3MiwxNjQ3MjUyMzc5LDY0ODk3Njky
+NiwxNzcyMTM3NjczLC0xMTg0ODkxMDMzLDEzNDAyMDc3MDJdfQ
+==
 -->
