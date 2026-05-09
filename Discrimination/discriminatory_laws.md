@@ -323,7 +323,7 @@ In 1984, New Zealand reported:[^29]
 #### Benefit for solo parents:
 The [*Social Security Amendment Act 1973*](https://www.legislation.govt.nz/act/public/1973/34/en/1973-11-14/#DLM410808), introduced a benefit for solo parents. It allows unmarried mother to receive the solo parent's benefit, but a father must have "lost his wife by death, divorce, or some other cause." This discrimination against men was fixed by the [*Social Security Amendment Act 1987*](https://www.legislation.govt.nz/act/public/1987/106/en/1987-06-23/highlights/?highlight=father#DLM118706) by changing the requirement to: "A man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother." The [*Social Security (Benefit Categories and Work Focus) Amendment Act 2013*](https://www.legislation.govt.nz/act/public/2013/13/en/2013-04-16/highlights/?highlight=solo#DLM4750424) made the law entirely gender neutral, with all requirements applying equally for mother or fathers.
 #### War pensions:
-The [*War Pensions Act 1954*](https://www.legislation.govt.nz/act/public/1954/54/en/1954-09-30/#DLM284375) defined wives or widows of members of the armed forces as dependants. Husbands and widowers were not automatically categorised as dependants. Wives of disabled members, and widows of deceased members were entitled to a pension. Widow's with children could also be entitled to a mother's allowance. The *War Pensions Amendment Act 2001* removed this discrimination against men.
+The [*War Pensions Act 1954*](https://www.legislation.govt.nz/act/public/1954/54/en/1954-09-30/#DLM284375) defined wives or widows of members of the armed forces as dependants. Husbands and widowers were not automatically categorised as dependants. Wives of disabled members, and widows of deceased members were entitled to a pension. Widow's with children could also be entitled to a mother's allowance. The [*War Pensions Amendment Act 2001*](https://www.legislation.govt.nz/act/public/2001/97/en/2001-12-14/#DLM122960) removed this discrimination against men.
 #### Government superannuation 
 The *Superannuation Act 1956* allowed female government employees to retire earlier than male employees. Males could retire at 65-years, or 60-years, with 40 years of service. Females could retire at 55, or with 30 years of service. Following the *Government Service Equal Pay Act 1960*, the *Superannuation Amendment Act 1962* equalised retirement ages for all government employees.
 
@@ -459,6 +459,6 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NTc1MTc4LDY0ODk3NjkyNiwxNzcyMT
-M3NjczLC0xMTg0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
+eyJoaXN0b3J5IjpbMTY0NzI1MjM3OSw2NDg5NzY5MjYsMTc3Mj
+EzNzY3MywtMTE4NDg5MTAzMywxMzQwMjA3NzAyXX0=
 -->
