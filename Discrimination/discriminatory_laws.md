@@ -334,7 +334,7 @@ If a male employee died as the result of work-related injuries, his widow may be
 The *Superannuation Amendment Act 1963* required people to contribute to the superannuation fund who were under 25-years-old, however, married women under 25 were not required to contribute.
 ### Paternity leave 
 
-New Zealand introduced maternity leave without pay to public service employees in 1948.[^30] This was extended to private business in the *Maternity Leave and Employment Protection Act 1980* allowing for 26 weeks of unpaid leave. The *Parental Leave and Employment Protection Act 1987* introduced paternity leave. The Act mandated 14 weeks of maternity leave and 2 weeks of paternity leave and an additional 52 weeks of unpaid leave was available to be split between the parents. This parental leave was also available for parents adopting a child under 5-years-old. The *Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002* introduced publicly-funded paid parental leave and allows paid leave to be transferred from the mother to her spouse. The *Parental Leave and Employment Protection Amendment Act 2016* introduced more gender-neutral definitions. The law now refers to 'primary-carer' leave and 'partner' leave.
+New Zealand introduced maternity leave without pay to public service employees in 1948.[^30] This was extended to private business in the [*Maternity Leave and Employment Protection Act 1980*](https://www.legislation.govt.nz/act/public/1981/162/en/latest/?active_tab=legislation-content#LMS1165191) allowing for 26 weeks of unpaid leave. The [*Parental Leave and Employment Protection Act 1987*](https://www.legislation.govt.nz/act/public/1987/129/en/1987-07-10/#DLM120104) introduced paternity leave. The Act mandated 14 weeks of maternity leave and 2 weeks of paternity leave and an additional 52 weeks of unpaid leave was available to be split between the parents. This parental leave was also available for parents adopting a child under 5-years-old. The *Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002* introduced publicly-funded paid parental leave and allows paid leave to be transferred from the mother to her spouse. The *Parental Leave and Employment Protection Amendment Act 2016* introduced more gender-neutral definitions. The law now refers to 'primary-carer' leave and 'partner' leave.
 
 ### Compensation for injuries. 
 
@@ -459,8 +459,8 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjU0MTI4NiwxMjYzNjU3MTcwLC02OD
-Q3ODAzMSwtMTQ4MTkwNDg3MiwxNjQ3MjUyMzc5LDY0ODk3Njky
-NiwxNzcyMTM3NjczLC0xMTg0ODkxMDMzLDEzNDAyMDc3MDJdfQ
-==
+eyJoaXN0b3J5IjpbOTU4MjgxMjgzLDE1NDI1NDEyODYsMTI2Mz
+Y1NzE3MCwtNjg0NzgwMzEsLTE0ODE5MDQ4NzIsMTY0NzI1MjM3
+OSw2NDg5NzY5MjYsMTc3MjEzNzY3MywtMTE4NDg5MTAzMywxMz
+QwMjA3NzAyXX0=
 -->
