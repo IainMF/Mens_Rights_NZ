@@ -375,7 +375,7 @@ A number of laws had stricter health and safety requirements for women, for exam
 
 The [*Machinery Amendment Act 1972*](https://www.legislation.govt.nz/act/public/1972/39/en/latest/#LMS1141018) removed discriminatory against men in the [*Machinery Act 1950*](https://www.legislation.govt.nz/act/public/1950/52/en/1950-11-23/highlights/?highlight=woman#DLM4084115) which provided greater protections for women by prohibiting from cleaning gears while they were moving.
 
-New Zealand was a signatory to the International Labour Organisation [*Underground Work (Women) Convention, 1935*](https://en.wikipedia.org/wiki/Underground_Work_%28Women%29_Convention,_1935) which prohibit women working underground in mines. As a consequence, several laws enforced this prohibition, such as, the *Mining Act 1971*, and the *Quarries and Tunnels Act 1982*. New Zealand denounced the convention on 23 June 1987.
+New Zealand was a signatory to the International Labour Organisation [*Underground Work (Women) Convention, 1935*](https://en.wikipedia.org/wiki/Underground_Work_%28Women%29_Convention,_1935) which prohibit women working underground in mines. As a consequence, several laws enforced this prohibition, such as, the [*Mining Act 1971*](https://www.legislation.govt.nz/act/public/1971/25/en/latest/highlights/?highlight=woman#LMS1137354), and the [*Quarries and Tunnels Act 1982*](https://www.legislation.govt.nz/act/public/1982/18/en/latest/highlights/?highlight=woman#LMS1171423). New Zealand denounced the convention on 23 June 1987.
 
 ### Income tax issues 
 
@@ -461,9 +461,9 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjIwNTI5LC0xODgwMjk0NzIsLTEwMj
-E5ODIzMzMsMTc1ODE4MzM3Niw3MDgzNjg1OTEsMTU0MjU0MTI4
-NiwxMjYzNjU3MTcwLC02ODQ3ODAzMSwtMTQ4MTkwNDg3MiwxNj
-Q3MjUyMzc5LDY0ODk3NjkyNiwxNzcyMTM3NjczLC0xMTg0ODkx
-MDMzLDEzNDAyMDc3MDJdfQ==
+eyJoaXN0b3J5IjpbMTYxMzU3NDY3OCwtMTg4MDI5NDcyLC0xMD
+IxOTgyMzMzLDE3NTgxODMzNzYsNzA4MzY4NTkxLDE1NDI1NDEy
+ODYsMTI2MzY1NzE3MCwtNjg0NzgwMzEsLTE0ODE5MDQ4NzIsMT
+Y0NzI1MjM3OSw2NDg5NzY5MjYsMTc3MjEzNzY3MywtMTE4NDg5
+MTAzMywxMzQwMjA3NzAyXX0=
 -->
