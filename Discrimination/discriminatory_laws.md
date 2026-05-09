@@ -310,7 +310,7 @@ The [*Social Security Amendment Act 1975*](https://www.legislation.govt.nz/act/p
 #### Superannuation:
 The [*Government Superannuation Fund Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/30/en/1976-11-01/highlights/?highlight=dependent%20widower#DLM439013) removed discrimination that required a widower prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit. Widows did not have to prove they were dependent.
 #### Unemployment Benefit:
-Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the *Social Security Amendment Act, 1979*."[^26]
+Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the [*Social Security Amendment Act, 1979*](https://www.legislation.govt.nz/act/public/1979/14/en/latest/highlights/?highlight=male#LMS1387060)."[^26]
 #### Sickness and invalid's benefits:
 Previously, a woman with a dependent husband would not qualify for the full married rate for sickness of invalid's benefits, potentially leaving both husband and wife without adequate support. "Since 10 January 1979, married women have qualified for the full married couple rate (which includes payment for a dependent spouse) if they are in receipt of the sickness or invalid benefit. The income test is the same as that applied to a married man with a dependent wife. This provision was introduced in the *Social Security Amendment Act 1978*." [^27]
 #### Benefits on Death:
@@ -458,6 +458,6 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjEzNzY3MywtMTE4NDg5MTAzMywxMz
-QwMjA3NzAyXX0=
+eyJoaXN0b3J5IjpbLTgyMzI3OTUxMSwxNzcyMTM3NjczLC0xMT
+g0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
 -->
