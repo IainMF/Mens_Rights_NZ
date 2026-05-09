@@ -306,7 +306,7 @@ Wives of mental patients and deserted wives were entitled to a benefit. Deserted
 #### Additional Income
 Women could earn a small amount of extra money that was not counted against their benefit if they were providing domestic or nursing service. This provision was not available to men and it was removed in 1969.
 #### Medical Subsidies:
-The Social Security Amendment Act 1975 has provision to subsidise medical care for beneficiaries. The wives, but not the husbands, of beneficiaries were entitled to subsidised care. This discrimination was removed by the *Social Security Amendment Act 1986*.
+The *Social Security Amendment Act 1975* has provision to subsidise medical care for beneficiaries. The wives, but not the husbands, of beneficiaries were entitled to subsidised care. This discrimination was removed by the *Social Security Amendment Act 1986*.
 #### Superannuation:
 The *Government Superannuation Fund Amendment Act 1976* removed discrimination that required a widower prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit. Widows did not have to prove they were dependent.
 #### Unemployment Benefit:
@@ -458,5 +458,5 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDIwNzcwMl19
+eyJoaXN0b3J5IjpbMTc5ODkwOTY5NCwxMzQwMjA3NzAyXX0=
 -->
