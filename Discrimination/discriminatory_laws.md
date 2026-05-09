@@ -373,7 +373,7 @@ The [*Shops and Offices Act 1955*](https://www.legislation.govt.nz/act/public/19
 
 A number of laws had stricter health and safety requirements for women, for example, by prohibiting women for doing dangerous work. This discriminates against women by restricting their employment, and against men by placing the burden of additional risk on them. For example, the [*Factories Act 1946*](https://www.legislation.govt.nz/act/public/1946/43/en/latest/highlights/?highlight=lead#LMS1043820) prohibited women to melt, cast or do other work with lead.
 
-The *Machinery Amendment Act 1972* removed discriminatory against men in the *Machinery Act 1950* which provided greater protections for women by prohibiting from cleaning gears while they were moving.
+The [*Machinery Amendment Act 1972*](https://www.legislation.govt.nz/act/public/1972/39/en/latest/#LMS1141018) removed discriminatory against men in the *Machinery Act 1950* which provided greater protections for women by prohibiting from cleaning gears while they were moving.
 
 New Zealand was a signatory to the International Labour Organisation *Underground Work (Women) Convention, 1935* which prohibit women working underground in mines. As a consequence, several laws enforced this prohibition, such as, the *Mining Act 1971*, and the *Quarries and Tunnels Act 1982*. New Zealand denounced the convention on 23 June 1987.
 
@@ -461,9 +461,9 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY2NzM5ODMsLTE4ODAyOTQ3MiwtMT
-AyMTk4MjMzMywxNzU4MTgzMzc2LDcwODM2ODU5MSwxNTQyNTQx
-Mjg2LDEyNjM2NTcxNzAsLTY4NDc4MDMxLC0xNDgxOTA0ODcyLD
-E2NDcyNTIzNzksNjQ4OTc2OTI2LDE3NzIxMzc2NzMsLTExODQ4
-OTEwMzMsMTM0MDIwNzcwMl19
+eyJoaXN0b3J5IjpbLTU5MTYzOTA0MSwtMTg4MDI5NDcyLC0xMD
+IxOTgyMzMzLDE3NTgxODMzNzYsNzA4MzY4NTkxLDE1NDI1NDEy
+ODYsMTI2MzY1NzE3MCwtNjg0NzgwMzEsLTE0ODE5MDQ4NzIsMT
+Y0NzI1MjM3OSw2NDg5NzY5MjYsMTc3MjEzNzY3MywtMTE4NDg5
+MTAzMywxMzQwMjA3NzAyXX0=
 -->
