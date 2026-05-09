@@ -325,7 +325,7 @@ The [*Social Security Amendment Act 1973*](https://www.legislation.govt.nz/act/p
 #### War pensions:
 The [*War Pensions Act 1954*](https://www.legislation.govt.nz/act/public/1954/54/en/1954-09-30/#DLM284375) defined wives or widows of members of the armed forces as dependants. Husbands and widowers were not automatically categorised as dependants. Wives of disabled members, and widows of deceased members were entitled to a pension. Widow's with children could also be entitled to a mother's allowance. The [*War Pensions Amendment Act 2001*](https://www.legislation.govt.nz/act/public/2001/97/en/2001-12-14/#DLM122960) removed this discrimination against men.
 #### Government superannuation 
-The *Superannuation Act 1956* allowed female government employees to retire earlier than male employees. Males could retire at 65-years, or 60-years, with 40 years of service. Females could retire at 55, or with 30 years of service. Following the *Government Service Equal Pay Act 1960*, the *Superannuation Amendment Act 1962* equalised retirement ages for all government employees.
+The [*Superannuation Act 1956*](https://www.nzlii.org/nz/legis/hist_act/sa19561956n47222/) allowed female government employees to retire earlier than male employees. Males could retire at 65-years, or 60-years, with 40 years of service. Females could retire at 55, or with 30 years of service. Following the *Government Service Equal Pay Act 1960*, the *Superannuation Amendment Act 1962* equalised retirement ages for all government employees.
 
 Different requirements were applied on the deaths of male and female employees. The wife of the deceased can elect to either, receive a annuity at half the rate that the deceased was entitled, or a lump some of the contributions of the deceased, less any money already paid out. The husband of the deceased was only entitled to a lump some of the contributions of the deceased, less any money already paid out. The *Government Superannuation Fund Amendment Act 1976* added the same options for men. The *Government Superannuation Fund Amendment Act 1985* replace separate sections the deaths of males and females, with a section relating to the death of spouses.
 
@@ -459,6 +459,7 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzI1MjM3OSw2NDg5NzY5MjYsMTc3Mj
-EzNzY3MywtMTE4NDg5MTAzMywxMzQwMjA3NzAyXX0=
+eyJoaXN0b3J5IjpbMTgzNjY4MTU1MSwxNjQ3MjUyMzc5LDY0OD
+k3NjkyNiwxNzcyMTM3NjczLC0xMTg0ODkxMDMzLDEzNDAyMDc3
+MDJdfQ==
 -->
