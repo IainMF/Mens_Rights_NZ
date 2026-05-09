@@ -308,7 +308,7 @@ Women could earn a small amount of extra money that was not counted against thei
 #### Medical Subsidies:
 The [*Social Security Amendment Act 1975*](https://www.legislation.govt.nz/act/public/1975/123/en/1975-10-10/#DLM437194) has provision to subsidise medical care for beneficiaries. The wives, but not the husbands, of beneficiaries were entitled to subsidised care. This discrimination was removed by the [*Social Security Amendment Act 1986*](https://www.legislation.govt.nz/act/public/1986/39/en/1986-08-06/#DLM93810).
 #### Superannuation:
-The *Government Superannuation Fund Amendment Act 1976* removed discrimination that required a widower prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit. Widows did not have to prove they were dependent.
+The [*Government Superannuation Fund Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/30/en/1976-11-01/highlights/?highlight=dependent%20widower#DLM439013) removed discrimination that required a widower prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit. Widows did not have to prove they were dependent.
 #### Unemployment Benefit:
 Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the *Social Security Amendment Act, 1979*."[^26]
 #### Sickness and invalid's benefits:
@@ -458,5 +458,6 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ4OTEwMzMsMTM0MDIwNzcwMl19
+eyJoaXN0b3J5IjpbMTc3MjEzNzY3MywtMTE4NDg5MTAzMywxMz
+QwMjA3NzAyXX0=
 -->
