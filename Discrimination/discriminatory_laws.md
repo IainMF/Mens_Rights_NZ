@@ -352,13 +352,13 @@ The [*Royal New Zealand Air Force Amendment Act 1968*](https://www.legislation.g
 
 Other laws require special consideration of women. The [*Sport and Recreation New Zealand Act 2002*](https://www.legislation.govt.nz/act/public/2002/38/en/2002-10-17/highlights/?highlight=women#DLM157169) required Sport and Recreation New Zealand to "encourage participation in physical recreation and sport by Pacific peoples, women, older New Zealanders, and people with disabilities". The [*Integrity Sport and Recreation Act 2023*](https://www.legislation.govt.nz/act/public/2023/48/en/latest/highlights/?highlight=women#LMS789215) requires the Integrity Sport and Recreation Commission to "establish effective means of seeking the views of ...women and girls". The [*Modern Apprenticeship Training Act 2000*](https://www.legislation.govt.nz/act/public/2000/94/en/2000-12-14/highlights/?highlight=women#DLM84690) required apprenticeship coordinators to "have particular regard to the needs of ...women".
 
-The *Legal Services Act 2000 * "The Agency must ensure that the Public Advisory Committee includes people who represent the interests of women". The Act is repealed.
+The [*Legal Services Act 2000*](https://www.legislation.govt.nz/act/public/2000/42/en/latest/highlights/?highlight=women#DLM72747) "The Agency must ensure that the Public Advisory Committee includes people who represent the interests of women". The Act is repealed.
 
-A number of laws refer to women's charities.
+A number of laws refer to specific women's charities.
 
 ### Evidence act 
 
-The *Evidence Amendment Act 1987* removed discrimination against husbands regarding a wife's testimony against him in certain cases. Both spouses are treated equally now.
+The [*Evidence Amendment Act 1987*](https://www.legislation.govt.nz/act/public/1987/138/en/latest/#LMS1183141) removed discrimination against husbands regarding a wife's testimony against him in certain cases. Both spouses are treated equally now.
 ### Employment 
 
 The *Factories Amendment Act 1971* repealed requirements for employers to provide women who were doing overtime, a meal, or an allowance, under certain conditions. The *Factories Amendment Act 1972* repealed provisions limiting the amount overtime for women.
@@ -461,8 +461,8 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTI2MzM1MiwxNzU4MTgzMzc2LDcwOD
-M2ODU5MSwxNTQyNTQxMjg2LDEyNjM2NTcxNzAsLTY4NDc4MDMx
-LC0xNDgxOTA0ODcyLDE2NDcyNTIzNzksNjQ4OTc2OTI2LDE3Nz
-IxMzc2NzMsLTExODQ4OTEwMzMsMTM0MDIwNzcwMl19
+eyJoaXN0b3J5IjpbLTIxMDY2MzQyODYsMTc1ODE4MzM3Niw3MD
+gzNjg1OTEsMTU0MjU0MTI4NiwxMjYzNjU3MTcwLC02ODQ3ODAz
+MSwtMTQ4MTkwNDg3MiwxNjQ3MjUyMzc5LDY0ODk3NjkyNiwxNz
+cyMTM3NjczLC0xMTg0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
 -->
