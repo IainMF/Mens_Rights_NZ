@@ -312,7 +312,7 @@ The [*Government Superannuation Fund Amendment Act 1976*](https://www.legislatio
 #### Unemployment Benefit:
 Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the [*Social Security Amendment Act, 1979*](https://www.legislation.govt.nz/act/public/1979/14/en/latest/highlights/?highlight=male#LMS1387060)."[^26]
 #### Sickness and invalid's benefits:
-Previously, a woman with a dependent husband would not qualify for the full married rate for sickness of invalid's benefits, potentially leaving both husband and wife without adequate support. "Since 10 January 1979, married women have qualified for the full married couple rate (which includes payment for a dependent spouse) if they are in receipt of the sickness or invalid benefit. The income test is the same as that applied to a married man with a dependent wife. This provision was introduced in the *Social Security Amendment Act 1978*." [^27]
+Previously, a woman with a dependent husband would not qualify for the full married rate for sickness of invalid's benefits, potentially leaving both husband and wife without adequate support. "Since 10 January 1979, married women have qualified for the full married couple rate (which includes payment for a dependent spouse) if they are in receipt of the sickness or invalid benefit. The income test is the same as that applied to a married man with a dependent wife. This provision was introduced in the [*Social Security Amendment Act 1978*](https://www.legislation.govt.nz/act/public/1978/58/en/1978-10-11/highlights/?highlight=wife#DLM22187)." [^27]
 #### Benefits on Death:
 "In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. This provision, which discriminated against widowers, was removed in the *1982 Social Security Amendment Act*. The benefit on death is now available to widowers on the same basis as to widows." [^28]
 #### Benefits for Widows and 'Women Alone'
@@ -458,6 +458,6 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzI3OTUxMSwxNzcyMTM3NjczLC0xMT
+eyJoaXN0b3J5IjpbMTM0MDUwMjE2NSwxNzcyMTM3NjczLC0xMT
 g0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
 -->
