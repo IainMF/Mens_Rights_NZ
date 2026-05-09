@@ -321,7 +321,7 @@ In 1984, New Zealand reported:[^29]
 
 > Under section 27C of the *Social Security Act, 1964*, an income-tested domestic purposes benefit is available to 'women alone', by which is meant a woman who has never married or who has lost the support of her husband. When this benefit was introduced in 1973, 'women alone' could qualify for a benefit under the same age and duration criteria as applied to widows without dependent children." 
 #### Benefit for solo parents:
-The *Social Security Amendment Act 1973*, introduced a benefit for solo parents. It allows unmarried mother to receive the solo parent's benefit, but a father must have "lost his wife by death, divorce, or some other cause." This discrimination against men was fixed by the *Social Security Amendment Act 1987* by changing the requirement to: "A man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother." The *Social Security (Benefit Categories and Work Focus) Amendment Act 2013* made the law entirely gender neutral, with all requirements applying equally for mother or fathers.
+The [*Social Security Amendment Act 1973*](https://www.legislation.govt.nz/act/public/1973/34/en/1973-11-14/#DLM410808), introduced a benefit for solo parents. It allows unmarried mother to receive the solo parent's benefit, but a father must have "lost his wife by death, divorce, or some other cause." This discrimination against men was fixed by the [*Social Security Amendment Act 1987*](https://www.legislation.govt.nz/act/public/1987/106/en/1987-06-23/highlights/?highlight=father#DLM118706) by changing the requirement to: "A man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother." The *Social Security (Benefit Categories and Work Focus) Amendment Act 2013* made the law entirely gender neutral, with all requirements applying equally for mother or fathers.
 #### War pensions:
 The *War Pensions Act 1954* defined wives or widows of members of the armed forces as dependants. Husbands and widowers were not automatically categorised as dependants. Wives of disabled members, and widows of deceased members were entitled to a pension. Widow's with children could also be entitled to a mother's allowance. The *War Pensions Amendment Act 2001* removed this discrimination against men.
 #### Government superannuation 
@@ -459,6 +459,6 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MDI4NjI0LDE3NzIxMzc2NzMsLTExOD
+eyJoaXN0b3J5IjpbNjQ4OTc2OTI2LDE3NzIxMzc2NzMsLTExOD
 Q4OTEwMzMsMTM0MDIwNzcwMl19
 -->
