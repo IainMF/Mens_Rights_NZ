@@ -361,7 +361,7 @@ A number of laws refer to specific women's charities.
 The [*Evidence Amendment Act 1987*](https://www.legislation.govt.nz/act/public/1987/138/en/latest/#LMS1183141) removed discrimination against husbands regarding a wife's testimony against him in certain cases. Both spouses are treated equally now.
 ### Employment 
 
-The *Factories Amendment Act 1971* repealed requirements for employers to provide women who were doing overtime, a meal, or an allowance, under certain conditions. The *Factories Amendment Act 1972* repealed provisions limiting the amount overtime for women.
+The [*Factories Amendment Act 1971*](https://www.legislation.govt.nz/act/public/1971/45/en/latest/#LMS1138009) repealed requirements for employers to provide women who were doing overtime, a meal, or an allowance, under certain conditions. The [*Factories Amendment Act 1972*](https://www.legislation.govt.nz/act/public/1972/40/en/latest/#LMS1141055) repealed provisions limiting the amount overtime for women.
 
 The *Factories Act 1946* and the the *Shops and Offices Act 1955* required employers to provide a rest room for women, and seating facilities during breaks for women who work standing up. The *Factories and Commercial Premises Act 1981* removed this discrimination against men because it does not contain special provisions for rest rooms and it requires employers to provide seating facilities during breaks for all workers who work standing up.
 
@@ -461,8 +461,8 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY2MzQyODYsMTc1ODE4MzM3Niw3MD
-gzNjg1OTEsMTU0MjU0MTI4NiwxMjYzNjU3MTcwLC02ODQ3ODAz
-MSwtMTQ4MTkwNDg3MiwxNjQ3MjUyMzc5LDY0ODk3NjkyNiwxNz
-cyMTM3NjczLC0xMTg0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
+eyJoaXN0b3J5IjpbLTMxMTQ4ODI4OSwxNzU4MTgzMzc2LDcwOD
+M2ODU5MSwxNTQyNTQxMjg2LDEyNjM2NTcxNzAsLTY4NDc4MDMx
+LC0xNDgxOTA0ODcyLDE2NDcyNTIzNzksNjQ4OTc2OTI2LDE3Nz
+IxMzc2NzMsLTExODQ4OTEwMzMsMTM0MDIwNzcwMl19
 -->
