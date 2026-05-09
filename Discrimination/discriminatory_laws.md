@@ -338,11 +338,11 @@ New Zealand introduced maternity leave without pay to public service employees i
 
 ### Compensation for injuries. 
 
-The *Accident Compensation Corporation* administers the New Zealand's no-fault accidental injury compensation scheme (ACC). The *Accident Rehabilitation and Compensation Insurance Act 1992[enter link description here](https://www.legislation.govt.nz/act/public/1992/13/en/latest/?active_tab=legislation-content#LMS1201613) covered mental injuries resulting from various crimes in the Crimes Act 1961, predominantly sexual assault. Unfortunately, some sexual assaults against men and boys were not in the Crimes Act so victims of those sexual assaults not covered in the Crimes Act could not get payments from ACC. This discrimination was resolved by the *Crimes Amendment Act 2005*. See above.
+The *Accident Compensation Corporation* administers the New Zealand's no-fault accidental injury compensation scheme (ACC). The [*Accident Rehabilitation and Compensation Insurance Act 1992*](https://www.legislation.govt.nz/act/public/1992/13/en/latest/?active_tab=legislation-content#LMS1201613) covered mental injuries resulting from various crimes in the Crimes Act 1961, predominantly sexual assault. Unfortunately, some sexual assaults against men and boys were not in the Crimes Act so victims of those sexual assaults not covered in the Crimes Act could not get payments from ACC. This discrimination was resolved by the [*Crimes Amendment Act 2005*](https://www.legislation.govt.nz/act/public/2005/41/en/2005-04-20/#DLM346175). See above.
 
 ### Searching aviation passengers 
 
-The *Aviation Crimes Act 1972* allowed the Police and Customs officers to search passengers or baggage. The Act specified that only females may search female passengers, unless it is using an electronic device. Male passengers may be searched by female officers. A similar provision was in the *Civil Aviation Act 1990*. The *Civil Aviation Act 2023* removed the discrimination against men by specifying that passengers must be searched by someone of the same sex, or if they reasonably requests, a person of a different sex.
+The [*Aviation Crimes Act 1972*](https://www.legislation.govt.nz/act/public/1972/137/en/1972-10-20/highlights/?highlight=female#DLM409204) allowed the Police and Customs officers to search passengers or baggage. The Act specified that only females may search female passengers, unless it is using an electronic device. Male passengers may be searched by female officers. A similar provision was in the *Civil Aviation Act 1990*. The *Civil Aviation Act 2023* removed the discrimination against men by specifying that passengers must be searched by someone of the same sex, or if they reasonably requests, a person of a different sex.
 
 ### Additional support for women or wives 
 
@@ -459,7 +459,7 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTAxOTUzMCw3MDgzNjg1OTEsMTU0Mj
+eyJoaXN0b3J5IjpbMTc1ODE4MzM3Niw3MDgzNjg1OTEsMTU0Mj
 U0MTI4NiwxMjYzNjU3MTcwLC02ODQ3ODAzMSwtMTQ4MTkwNDg3
 MiwxNjQ3MjUyMzc5LDY0ODk3NjkyNiwxNzcyMTM3NjczLC0xMT
 g0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
