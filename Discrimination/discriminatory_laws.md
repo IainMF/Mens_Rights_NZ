@@ -338,7 +338,7 @@ New Zealand introduced maternity leave without pay to public service employees i
 
 ### Compensation for injuries. 
 
-The *Accident Compensation Corporation* administers the New Zealand's no-fault accidental injury compensation scheme (ACC). The *Accident Rehabilitation and Compensation Insurance Act 1992* covered mental injuries resulting from various crimes in the Crimes Act 1961, predominantly sexual assault. Unfortunately, some sexual assaults against men and boys were not in the Crimes Act so victims of those sexual assaults not covered in the Crimes Act could not get payments from ACC. This discrimination was resolved by the *Crimes Amendment Act 2005*. See above.
+The *Accident Compensation Corporation* administers the New Zealand's no-fault accidental injury compensation scheme (ACC). The *Accident Rehabilitation and Compensation Insurance Act 1992[enter link description here](https://www.legislation.govt.nz/act/public/1992/13/en/latest/?active_tab=legislation-content#LMS1201613) covered mental injuries resulting from various crimes in the Crimes Act 1961, predominantly sexual assault. Unfortunately, some sexual assaults against men and boys were not in the Crimes Act so victims of those sexual assaults not covered in the Crimes Act could not get payments from ACC. This discrimination was resolved by the *Crimes Amendment Act 2005*. See above.
 
 ### Searching aviation passengers 
 
@@ -459,8 +459,8 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MzY4NTkxLDE1NDI1NDEyODYsMTI2Mz
-Y1NzE3MCwtNjg0NzgwMzEsLTE0ODE5MDQ4NzIsMTY0NzI1MjM3
-OSw2NDg5NzY5MjYsMTc3MjEzNzY3MywtMTE4NDg5MTAzMywxMz
-QwMjA3NzAyXX0=
+eyJoaXN0b3J5IjpbLTUzMTAxOTUzMCw3MDgzNjg1OTEsMTU0Mj
+U0MTI4NiwxMjYzNjU3MTcwLC02ODQ3ODAzMSwtMTQ4MTkwNDg3
+MiwxNjQ3MjUyMzc5LDY0ODk3NjkyNiwxNzcyMTM3NjczLC0xMT
+g0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
 -->
