@@ -350,9 +350,9 @@ A number of laws allowed for additional support for women or wives. The [*New Ze
 
 The [*Royal New Zealand Air Force Amendment Act 1968*](https://www.legislation.govt.nz/act/public/1968/58/en/latest/highlights/?highlight=wife#LMS1130786) refers to a 'wife allowance'. The [*Wildlife Amendment Act 1964*](https://www.legislation.govt.nz/act/public/1964/63/en/latest/highlights/?highlight=widow#LMS1120449) allowed wildlife societies to make "grants to or for the benefit of the widow or dependent children of deceased employees of the society." These laws have been repealed.
 
-Other laws require special consideration of women. The [*Sport and Recreation New Zealand Act 2002*](https://www.legislation.govt.nz/act/public/2002/38/en/2002-10-17/highlights/?highlight=women#DLM157169) required Sport and Recreation New Zealand to "encourage participation in physical recreation and sport by Pacific peoples, women, older New Zealanders, and people with disabilities". The *Integrity Sport and Recreation Act 2023* requires the Integrity Sport and Recreation Commission to "establish effective means of seeking the views of ...women and girls". The *Modern Apprenticeship Training Act 2000* required apprenticeship coordinators to "have particular regard to the needs of ...women".
+Other laws require special consideration of women. The [*Sport and Recreation New Zealand Act 2002*](https://www.legislation.govt.nz/act/public/2002/38/en/2002-10-17/highlights/?highlight=women#DLM157169) required Sport and Recreation New Zealand to "encourage participation in physical recreation and sport by Pacific peoples, women, older New Zealanders, and people with disabilities". The [*Integrity Sport and Recreation Act 2023*](https://www.legislation.govt.nz/act/public/2023/48/en/latest/highlights/?highlight=women#LMS789215) requires the Integrity Sport and Recreation Commission to "establish effective means of seeking the views of ...women and girls". The [*Modern Apprenticeship Training Act 2000*](https://www.legislation.govt.nz/act/public/2000/94/en/2000-12-14/highlights/?highlight=women#DLM84690) required apprenticeship coordinators to "have particular regard to the needs of ...women".
 
-The *2000 Legal Services Act* "The Agency must ensure that the Public Advisory Committee includes people who represent the interests of women". The Act is repealed.
+The *Legal Services Act 2000 * "The Agency must ensure that the Public Advisory Committee includes people who represent the interests of women". The Act is repealed.
 
 A number of laws refer to women's charities.
 
@@ -461,8 +461,8 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk2NzQxMDcsMTc1ODE4MzM3Niw3MD
-gzNjg1OTEsMTU0MjU0MTI4NiwxMjYzNjU3MTcwLC02ODQ3ODAz
-MSwtMTQ4MTkwNDg3MiwxNjQ3MjUyMzc5LDY0ODk3NjkyNiwxNz
-cyMTM3NjczLC0xMTg0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
+eyJoaXN0b3J5IjpbMTkzMTI2MzM1MiwxNzU4MTgzMzc2LDcwOD
+M2ODU5MSwxNTQyNTQxMjg2LDEyNjM2NTcxNzAsLTY4NDc4MDMx
+LC0xNDgxOTA0ODcyLDE2NDcyNTIzNzksNjQ4OTc2OTI2LDE3Nz
+IxMzc2NzMsLTExODQ4OTEwMzMsMTM0MDIwNzcwMl19
 -->
