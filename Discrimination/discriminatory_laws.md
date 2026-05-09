@@ -365,7 +365,7 @@ The [*Factories Amendment Act 1971*](https://www.legislation.govt.nz/act/public/
 
 The [*Factories Act 1946*](https://www.legislation.govt.nz/act/public/1946/43/en/latest/highlights/?highlight=female#LMS1043849) and the the [*Shops and Offices Act 1955*](https://www.legislation.govt.nz/act/public/1955/32/en/latest/highlights/?highlight=female#LMS1097753) required employers to provide a rest room for female employees, and seating facilities during breaks for females who work standing up. The [*Factories and Commercial Premises Act 1981*](https://www.legislation.govt.nz/act/public/1981/25/en/latest/#LMS1168400) removed this discrimination against men because it does not contain special provisions for rest rooms and it requires employers to provide seating facilities during breaks for all workers who work standing up.
 
-The *Factories and Commercial Premises Act 1981* required employers who want to employ women between 6pm and 11am the following day, to ensure they have 11 consecutive hours of rest (of which at least 7 fall between 10 p.m. and 7 a.m.). This effectively means women could not be employed between 1 a.m. and 3 a.m. This discriminates against both men and women because men unfairly bare the burden of overnight work, and women are unfairly prevented from working overnight. The Governor-General repealed Section 13 of the *Factories and Commercial Premises Act 1981* in 2008.
+The [*Factories and Commercial Premises Act 1981*](https://www.legislation.govt.nz/act/public/1981/25/en/latest/#LMS1168448) required employers who want to employ women between 6pm and 11am the following day, to ensure they have 11 consecutive hours of rest (of which at least 7 fall between 10 p.m. and 7 a.m.). This effectively means women could not be employed between 1 a.m. and 3 a.m. This discriminates against both men and women because men unfairly bare the burden of overnight work, and women are unfairly prevented from working overnight. The Governor-General repealed Section 13 of the *Factories and Commercial Premises Act 1981* in 2008.
 
 The *Shops and Offices Act 1955* prohibited females and males under 18-years-old from working after 10:30 p.m. The *Shops and Offices Amendment Act 1972* change this so that females could work after 10:30 p.m. and all people under 18-years-old could not.
 
@@ -461,9 +461,9 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTMwNjI0NywtMTg4MDI5NDcyLC0xMD
-IxOTgyMzMzLDE3NTgxODMzNzYsNzA4MzY4NTkxLDE1NDI1NDEy
-ODYsMTI2MzY1NzE3MCwtNjg0NzgwMzEsLTE0ODE5MDQ4NzIsMT
-Y0NzI1MjM3OSw2NDg5NzY5MjYsMTc3MjEzNzY3MywtMTE4NDg5
-MTAzMywxMzQwMjA3NzAyXX0=
+eyJoaXN0b3J5IjpbLTEzNzQxOTkxMDQsLTE4ODAyOTQ3MiwtMT
+AyMTk4MjMzMywxNzU4MTgzMzc2LDcwODM2ODU5MSwxNTQyNTQx
+Mjg2LDEyNjM2NTcxNzAsLTY4NDc4MDMxLC0xNDgxOTA0ODcyLD
+E2NDcyNTIzNzksNjQ4OTc2OTI2LDE3NzIxMzc2NzMsLTExODQ4
+OTEwMzMsMTM0MDIwNzcwMl19
 -->
