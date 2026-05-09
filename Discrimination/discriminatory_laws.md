@@ -346,7 +346,7 @@ The [*Aviation Crimes Act 1972*](https://www.legislation.govt.nz/act/public/1972
 
 ### Additional support for women or wives 
 
-A number of laws allowed for additional support for women or wives. The [*New Zealand Foundation for the Blind Act 1963*](https://www.legislation.govt.nz/act/public/1963/26/en/latest/?active_tab=version#LMS1117083) allowed the Foundation to provide assistance "to the wife, widow, or dependent children of a blind person". The [*Education Standards Act 2001*](https://www.legislation.govt.nz/act/public/2001/88/en/latest/highlights/?highlight=wife#DLM118867) removed this discrimination against men by omitting the words "wife, widow", and substituting the words "spouse, de facto partner". The [*Industrial Conciliation and Arbitration Amendment Act 1964*](https://www.legislation.govt.nz/act/public/1964/131/en/latest/highlights/?highlight=wife#LMS1119175) allowed unions to set up a welfare fund to benefit member's wives and children. This is repealed by [*Industrial Relations Act 1973*](https://www.legislation.govt.nz/act/public/1973/19/en/latest/highlights/?highlight=repeal#LMS1142872). The *Royal New Zealand Air Force Amendment Act 1968* refers to a 'wife allowance'. The *Wildlife Amendment Act 1964* allowed wildlife societies to make "grants to or for the benefit of the widow or dependent children of deceased employees of the society." These laws have been repealed.
+A number of laws allowed for additional support for women or wives. The [*New Zealand Foundation for the Blind Act 1963*](https://www.legislation.govt.nz/act/public/1963/26/en/latest/?active_tab=version#LMS1117083) allowed the Foundation to provide assistance "to the wife, widow, or dependent children of a blind person". The [*Education Standards Act 2001*](https://www.legislation.govt.nz/act/public/2001/88/en/latest/highlights/?highlight=wife#DLM118867) removed this discrimination against men by omitting the words "wife, widow", and substituting the words "spouse, de facto partner". The [*Industrial Conciliation and Arbitration Amendment Act 1964*](https://www.legislation.govt.nz/act/public/1964/131/en/latest/highlights/?highlight=wife#LMS1119175) allowed unions to set up a welfare fund to benefit member's wives and children. This is repealed by [*Industrial Relations Act 1973*](https://www.legislation.govt.nz/act/public/1973/19/en/latest/highlights/?highlight=repeal#LMS1142872). The [*Royal New Zealand Air Force Amendment Act 1968*](https://www.legislation.govt.nz/act/public/1968/58/en/latest/highlights/?highlight=wife#LMS1130786) refers to a 'wife allowance'. The *Wildlife Amendment Act 1964* allowed wildlife societies to make "grants to or for the benefit of the widow or dependent children of deceased employees of the society." These laws have been repealed.
 
 Other laws require special consideration of women. The *Sport and Recreation New Zealand Act 2002* required Sport and Recreation New Zealand to "encourage participation in physical recreation and sport by Pacific peoples, women, older New Zealanders, and people with disabilities". The *Integrity Sport and Recreation Act 2023* requires the Integrity Sport and Recreation Commission to "establish effective means of seeking the views of ...women and girls". The *Modern Apprenticeship Training Act 2000* required apprenticeship coordinators to "have particular regard to the needs of ...women".
 
@@ -459,8 +459,8 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwMDA3NjI3LDE3NTgxODMzNzYsNzA4Mz
-Y4NTkxLDE1NDI1NDEyODYsMTI2MzY1NzE3MCwtNjg0NzgwMzEs
-LTE0ODE5MDQ4NzIsMTY0NzI1MjM3OSw2NDg5NzY5MjYsMTc3Mj
-EzNzY3MywtMTE4NDg5MTAzMywxMzQwMjA3NzAyXX0=
+eyJoaXN0b3J5IjpbLTEwNjQ0Mzg5MCwxNzU4MTgzMzc2LDcwOD
+M2ODU5MSwxNTQyNTQxMjg2LDEyNjM2NTcxNzAsLTY4NDc4MDMx
+LC0xNDgxOTA0ODcyLDE2NDcyNTIzNzksNjQ4OTc2OTI2LDE3Nz
+IxMzc2NzMsLTExODQ4OTEwMzMsMTM0MDIwNzcwMl19
 -->
