@@ -329,7 +329,7 @@ The [*Superannuation Act 1956*](https://www.nzlii.org/nz/legis/hist_act/sa195619
 
 Different requirements were applied on the deaths of male and female employees. The wife of the deceased can elect to either, receive a annuity at half the rate that the deceased was entitled, or a lump some of the contributions of the deceased, less any money already paid out. The husband of the deceased was only entitled to a lump some of the contributions of the deceased, less any money already paid out. The [*Government Superannuation Fund Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/30/en/1976-11-01/#DLM438795) added the same options for men. The [*Government Superannuation Fund Amendment Act 1985*](https://www.legislation.govt.nz/act/public/1985/62/en/1985-03-29/highlights/?highlight=spouse#DLM75683) replace separate sections the deaths of males and females, with a section relating to the death of spouses.
 
-If a male employee died as the result of work-related injuries, his widow may be entitled to an increase in annuity. The *Superannuation Amendment Act 1962* allowed *dependent* widowers the same entitlement to increased annuities as widows. The *Government Superannuation Fund Amendment Act 1976* removed the requirement that a widower prove he was dependant on his wife in order to receive the same entitlement as widows.
+If a male employee died as the result of work-related injuries, his widow may be entitled to an increase in annuity. The [*Superannuation Amendment Act 1962*](https://www.nzlii.org/nz/legis/hist_act/saa19621962n130302/) allowed *dependent* widowers the same entitlement to increased annuities as widows. The [*Government Superannuation Fund Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/30/en/1976-11-01/highlights/?highlight=widow#DLM439007) removed the requirement that a widower prove he was dependant on his wife in order to receive the same entitlement as widows.
 
 The *Superannuation Amendment Act 1963* required people to contribute to the superannuation fund who were under 25-years-old, however, married women under 25 were not required to contribute.
 ### Paternity leave 
@@ -459,7 +459,7 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDc4MDMxLC0xNDgxOTA0ODcyLDE2ND
-cyNTIzNzksNjQ4OTc2OTI2LDE3NzIxMzc2NzMsLTExODQ4OTEw
-MzMsMTM0MDIwNzcwMl19
+eyJoaXN0b3J5IjpbMTI2MzY1NzE3MCwtNjg0NzgwMzEsLTE0OD
+E5MDQ4NzIsMTY0NzI1MjM3OSw2NDg5NzY5MjYsMTc3MjEzNzY3
+MywtMTE4NDg5MTAzMywxMzQwMjA3NzAyXX0=
 -->
