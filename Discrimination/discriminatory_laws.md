@@ -423,9 +423,9 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^14]: Concluding observations on the fifth periodic report of New Zealand - CRC/C/NZL/CO/5 paragraph 25 (b)
 
-[^15]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007↩
+[^15]: Tim Hammond & Adrienne Carmack (2017): [*Long-term adverse outcomes from neonatal circumcision reported in a survey of 1,008 men: an overview of health and human rights implications*](https://doi.org/10.1080/13642987.2016.1260007), The International Journal of Human Rights, DOI: 10.1080/13642987.2016.1260007
 
-[^16]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011↩
+[^16]: Robbins, Martin. *“[Infant Male Circumcision Is Genital Mutilation.](https://archive.ph/qN4qE)”* The Guardian, December 6, 2011
 
 [^17]: [*"In Our Own Words" -- Student experiences of sexual violence  prior to and during tertiary education.*](https://www.thursdaysinblack.org/resources) -- Thursday's in Black
 
