@@ -342,7 +342,7 @@ The *Accident Compensation Corporation* administers the New Zealand's no-fault a
 
 ### Searching aviation passengers 
 
-The [*Aviation Crimes Act 1972*](https://www.legislation.govt.nz/act/public/1972/137/en/1972-10-20/highlights/?highlight=female#DLM409204) allowed the Police and Customs officers to search passengers or baggage. The Act specified that only females may search female passengers, unless it is using an electronic device. Male passengers may be searched by female officers. The [*Civil Aviation Amendment Act 2007*](https://www.legislation.govt.nz/act/public/2007/89/en/latest/highlights/?highlight=female#DLM968831) introduced a similar provision to the *Civil Aviation Act 1990*. The *Civil Aviation Act 2023* removed the discrimination against men by specifying that passengers must be searched by someone of the same sex, or if they reasonably requests, a person of a different sex.
+The [*Aviation Crimes Act 1972*](https://www.legislation.govt.nz/act/public/1972/137/en/1972-10-20/highlights/?highlight=female#DLM409204) allowed the Police and Customs officers to search passengers or baggage. The Act specified that only females may search female passengers, unless it is using an electronic device. Male passengers may be searched by female officers. The [*Civil Aviation Amendment Act 2007*](https://www.legislation.govt.nz/act/public/2007/89/en/latest/highlights/?highlight=female#DLM968831) introduced a similar provision to the [*Civil Aviation Act 1990*](https://www.legislation.govt.nz/act/public/1990/98/en/latest/highlights/?highlight=female#DLM1136020). The [*Civil Aviation Act 2023*](https://www.legislation.govt.nz/act/public/2023/10/en/latest/highlights/?highlight=sex#LMS447038) removed the discrimination against men by specifying that passengers must be searched by someone of the same sex, or if they reasonably requests, a person of a different sex.
 
 ### Additional support for women or wives 
 
@@ -459,7 +459,7 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgzODc5MjQsMTc1ODE4MzM3Niw3MD
+eyJoaXN0b3J5IjpbLTExOTYxNzA4NDYsMTc1ODE4MzM3Niw3MD
 gzNjg1OTEsMTU0MjU0MTI4NiwxMjYzNjU3MTcwLC02ODQ3ODAz
 MSwtMTQ4MTkwNDg3MiwxNjQ3MjUyMzc5LDY0ODk3NjkyNiwxNz
 cyMTM3NjczLC0xMTg0ODkxMDMzLDEzNDAyMDc3MDJdfQ==
