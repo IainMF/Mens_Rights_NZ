@@ -337,7 +337,7 @@ The *Superannuation Amendment Act 1963* required people to contribute to the sup
 New Zealand introduced maternity leave without pay to public service employees in 1948.[^30] This was extended to private business in the [*Maternity Leave and Employment Protection Act 1980*](https://www.legislation.govt.nz/act/public/1981/162/en/latest/?active_tab=legislation-content#LMS1165191) allowing for 26 weeks of unpaid leave. The [*Parental Leave and Employment Protection Act 1987*](https://www.legislation.govt.nz/act/public/1987/129/en/1987-07-10/#DLM120104) introduced paternity leave. The Act mandated 14 weeks of maternity leave and 2 weeks of paternity leave and an additional 52 weeks of unpaid leave was available to be split between the parents. This parental leave was also available for parents adopting a child under 5-years-old. The [*Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002*](https://www.legislation.govt.nz/act/public/2002/7/en/2002-03-30/#DLM134350) introduced publicly-funded paid parental leave and allows paid leave to be transferred from the mother to her spouse. The [*Parental Leave and Employment Protection Amendment Act 2016*](https://www.legislation.govt.nz/act/public/2016/8/en/latest/#DLM6553716) introduced more gender-neutral definitions. The law now refers to 'primary-carer' leave and 'partner' leave.
 
 ### Custody of children
-Historically, there was some concern that family courts were biased in favour of mothers when awarding child custody.^[34] This concern was addressed by the [*Guardianship Amendment Act 1980*](https://www.nzlii.org/nz/legis/hist_act/gaa19801980n95243/) which prohibits the considering the sex of the parent when determining what is in the child's best interest.
+Historically, there was some concern that family courts were biased in favour of mothers when awarding child custody.^[New Zealand's first report under ICCPR - January 1982- CCPR/C/10/Add.6 - paragraph 299] This concern was addressed by the [*Guardianship Amendment Act 1980*](https://www.nzlii.org/nz/legis/hist_act/gaa19801980n95243/) which prohibits the considering the sex of the parent when determining what is in the child's best interest.
 
 
 ### Compensation for injuries. 
@@ -465,7 +465,7 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^33]: Global Action on Men’s Health - [National Men's Health Policies](https://gamh.org/national-policies/)
 
-[^34]:  New Zealand's first report under ICCPR - January 1982- CCPR/C/10/Add.6 - paragraph 299
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDQ1NTkxNSwxNjg1MTE2Nzg5XX0=
+eyJoaXN0b3J5IjpbLTE1MTY0NDExMzksMTY4NTExNjc4OV19
 -->
