@@ -261,8 +261,9 @@ Section 67 of [_Offences Against the Person Act 1867_](https://www.legislation.g
 The [*Prisons Act 1873*](https://www.legislation.govt.nz/act/public/1873/73/en/latest/#LMS1286509) stipulates that male prison escapees can be kept in solitary confinement as punishment. Section 17 of the [*Crimes Act 1961*](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM328066) prohibits solitary confinement.
 
 ### Additional duties & responsibilities
+
 #### Jury service
-Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See (J[uries Act of 1868](https://www.legislation.govt.nz/act/public/1868/49/en/latest/highlights/?highlight=man#LMS1275928),[1908](https://www.legislation.govt.nz/act/public/1908/90/en/latest/#LMS1078743)). The [*Women Jurors Act 1942*](https://www.legislation.govt.nz/act/public/1942/12/en/latest/#LMS1325171) allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The [*Juries Amendment Act 1963*](https://www.legislation.govt.nz/act/public/1963/141/en/latest/highlights/?highlight=woman#LMS1116730) changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The [*Juries Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/48/en/latest/highlights/?highlight=woman#LMS1152225) "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^24]
+Historically, only men were required to serve on a jury. Men who refused to serve when required were fined. See ([*Juries Act of 1868*](https://www.legislation.govt.nz/act/public/1868/49/en/latest/highlights/?highlight=man#LMS1275928),[*1908*](https://www.legislation.govt.nz/act/public/1908/90/en/latest/#LMS1078743)). The [*Women Jurors Act 1942*](https://www.legislation.govt.nz/act/public/1942/12/en/latest/#LMS1325171) allowed women to opt-in to jury service by notifying “the Sheriff in writing that she desires to serve as a juror”. Once a woman had opted-in she was liable for the same fines as a man. The [*Juries Amendment Act 1963*](https://www.legislation.govt.nz/act/public/1963/141/en/latest/highlights/?highlight=woman#LMS1116730) changed jury service for women to be opt-out. Women could excuse themselves from jury duty by writing to the Sheriff and explaining they did not want to serve. The [*Juries Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/48/en/latest/highlights/?highlight=woman#LMS1152225) "provided for equal responsibility for jury service for men and women by the application of the same grounds for exemption from jury service."[^24]
 
 #### Assisting police officers
 The [_Police Force Act 1913_](https://www.legislation.govt.nz/act/public/1913/61/en/latest/highlights/?highlight=male#LMS1293065), the [_Police Force Act 1947_](https://www.legislation.govt.nz/act/public/1947/13/en/latest/highlights/?highlight=male#LMS1046925), the [_Police Act 1958_](https://www.legislation.govt.nz/act/public/1958/109/en/1958-10-03/highlights/?highlight=male#DLM322242) require adult males to assist police officers in securing or conveying a prisoner to a police station, when it is reasonably necessary. Men who fail to assist an officer when called upon could be fined. The [_Human Rights Amendment Act 2001_](https://www.legislation.govt.nz/act/public/2001/96/en/latest/#DLM122567) amended section 53 of the _Police Act 1958_ to make it apply to any person. Currently, section 51 the [_Policing Act 2008_](https://www.legislation.govt.nz/act/public/2008/72/en/latest/#DLM1102254) also applies to any person.
@@ -274,7 +275,9 @@ The [_Animals Act 1967_](https://www.legislation.govt.nz/act/public/1967/50/en/l
 Only men were required to train or serve in the military in New Zealand.
 
 The [_Militia Act 1845_](https://www.nzlii.org/nz/legis/hist_act/ma18458v1845n1207/) allowed the Governor to form a militia of men aged 18-60. Certain men, such as clergy, were exempt. The Act was replaced by the [_Militia Act 1865_](https://www.legislation.govt.nz/act/public/1865/52/en/latest/#LMS1263735) which reduced the maximum age to 55 and added more exemptions. This Act was repealed and replaced by the [_Militia Act 1870_](https://www.legislation.govt.nz/act/public/1870/87/en/latest/#LMS1280541) which lowered the minimum age to 17.
+
 The [_Defence Act 1909_](https://www.legislation.govt.nz/act/public/1909/28/en/latest/#LMS1335167) brought in a general training requirement for males 12 to 14 years old (Junior Cadets), 14 to 18 (Senior Cadets), 18 to 21 (General Training Section), and 21 to 30 (the Reserve). There was exemption for religious conscientious objectors but they were still obligated to perform ‘an equivalent to such service and training such non-combatant duties as are prescribed by the Governor’.  
+
 ##### WWI
 The [_Military Service Act 1916_](https://www.legislation.govt.nz/act/public/1916/8/en/latest/#LMS1417173), required all men ages 20-45 to be entered in a ballot for military call-up. Only Christadelphians, Seventh-day Adventists and Quakers were recognised as conscientious objectors. About 1,200 men, only 20 to 30 of them were exempted military service. There were 32,270 conscripts in WWI, additionally, 26023 men were prosecuted for breaches of the law.
 
@@ -481,6 +484,6 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTMzMTc5MywtMTUxNjQ0MTEzOSwxNj
-g1MTE2Nzg5XX0=
+eyJoaXN0b3J5IjpbMTQ2MjA3ODc3MSwtNjIxMzMxNzkzLC0xNT
+E2NDQxMTM5LDE2ODUxMTY3ODldfQ==
 -->
