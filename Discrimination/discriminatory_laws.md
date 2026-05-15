@@ -282,6 +282,7 @@ The [_Military Service Act 1916_](https://www.legislation.govt.nz/act/public/191
 The [_Expeditionary Forces Amendment Act 1918_](https://www.legislation.govt.nz/act/public/1918/9/en/latest/#LMS1420534) removed certain civil rights from ‘military defaulters’ for ten years. Men who deserted or evaded their compulsory military service lost the right to vote, hold office or be a public servant until 1928. The [_War Disabilities Removal Bill 1927 (16-3)_](https://www.nzlii.org/nz/legis/hist_bill/wdrb1927163255/) proposed to end the denial of rights one year early, but this provision was removed before passing the [*War Disabilities Removal Act 1927*](https://www.legislation.govt.nz/act/public/1927/24/en/latest/#LMS1059697).[^25] 
 
 In 1930 the compulsory military service law was temporarily suspended due to the Great Depression.
+
 ##### WWII
 Conscription was reintroduced in 1940 with the [_Emergency Regulations Amendment Act 1940_](https://www.legislation.govt.nz/act/public/1940/1/en/latest/#LMS1293816). The [_Military Training Act 1949_](https://www.legislation.govt.nz/act/public/1949/23/en/latest/#LMS1081980) reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The [_National Military Service Act 1961_](https://www.legislation.govt.nz/act/public/1961/116/en/latest/#LMS1110223) changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
@@ -294,8 +295,8 @@ The [*Human Rights (Women in Armed Forces) Amendment Act 2007*](https://www.legi
 
 #### Maintenance
 The [*Family Proceedings Act 1980*](https://www.legislation.govt.nz/act/public/1980/94/en/1981-01-21/#DLM40489) removed discrimination against husbands in the assessment of maintenance. Previously, husbands had an obligation to provide 'proper maintenance' for their wives. Wives were only obligated to provide maintenance for their husbands if he was unable to provide for himself. The Act gave both husbands and wives equal obligation to provide maintenance when the other could not provide for themselves.
-### Social Security 
 
+### Social Security 
 Historically, social security legislation made assumptions about the roles of men and women and benefits were not equal between men and women. For example, a male breadwinner was assumed and that wives were dependant on their husbands, but not the other way around. [*The Social Security Act of 1964*](https://www.legislation.govt.nz/act/public/1964/136/en/1964-12-04/#DLM359107) discriminated against men and women in different ways and was slowly amended to equalise benefits for men and women. In 1984, New Zealand reported that there were additional benefits available for women. "*There are some areas where women have more rights than men in the present social security legislation*".[^24]
 
 #### Age benefit 
@@ -303,27 +304,37 @@ Unmarried women who were unable to work could qualify for and age benefit at age
 
 #### Benefits for wives
 Wives of mental patients and deserted wives were entitled to a benefit. Deserted wives could be entitled to a benefit even after divorce. These benefits ended in 1973.
+
 #### Additional Income
 Women could earn a small amount of extra money that was not counted against their benefit if they were providing domestic or nursing service. This provision was not available to men and it was removed in 1969.
+
 #### Medical Subsidies:
 The [*Social Security Amendment Act 1975*](https://www.legislation.govt.nz/act/public/1975/123/en/1975-10-10/#DLM437194) has provision to subsidise medical care for beneficiaries. The wives, but not the husbands, of beneficiaries were entitled to subsidised care. This discrimination was removed by the [*Social Security Amendment Act 1986*](https://www.legislation.govt.nz/act/public/1986/39/en/1986-08-06/#DLM93810).
+
 #### Superannuation:
 The [*Government Superannuation Fund Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/30/en/1976-11-01/highlights/?highlight=dependent%20widower#DLM439013) removed discrimination that required a widower prove that he was financially dependent upon his wife before being entitled to the surviving spouse benefit. Widows did not have to prove they were dependent.
+
 #### Unemployment Benefit:
 Previously, unemployment benefits paid to husbands could be increased if they had a dependent wife. "Equal opportunity to become dependent spouses was granted to men from 1 October 1979 in the [*Social Security Amendment Act, 1979*](https://www.legislation.govt.nz/act/public/1979/14/en/latest/highlights/?highlight=male#LMS1387060)."[^26]
+
 #### Sickness and invalid's benefits:
 Previously, a woman with a dependent husband would not qualify for the full married rate for sickness of invalid's benefits, potentially leaving both husband and wife without adequate support. "Since 10 January 1979, married women have qualified for the full married couple rate (which includes payment for a dependent spouse) if they are in receipt of the sickness or invalid benefit. The income test is the same as that applied to a married man with a dependent wife. This provision was introduced in the [*Social Security Amendment Act 1978*](https://www.legislation.govt.nz/act/public/1978/58/en/1978-10-11/highlights/?highlight=wife#DLM22187)." [^27]
+
 #### Benefits on Death:
 "In 1975, in the provision of death benefits, there was a presumption that where a husband and wife were living together, the wife was totally dependent on the husband, in the absence of proof to the contrary. This provision, which discriminated against widowers, was removed in the [*1982 Social Security Amendment Act*](https://www.legislation.govt.nz/act/public/1982/16/en/1982-09-28/highlights/?highlight=spouse#DLM59056). The benefit on death is now available to widowers on the same basis as to widows." [^28]
+
 #### Benefits for Widows and 'Women Alone'
 In 1984, New Zealand reported:[^29] 
 > A 'male breadwinner' assumption remains in the [*Social Security Act, 1964*](https://www.legislation.govt.nz/act/public/1964/136/en/1964-12-04/#DLM359107), in Sections 21 and 27C. Men who are widowers do not qualify for a widows benefit under Section 21, but may, if they have one or more dependent children, qualify for the domestic purposes benefit under Section 27B. They cannot, however, qualify for a domestic purposes benefit under the "woman alone" provisions.
 
 > Under section 27C of the *Social Security Act, 1964*, an income-tested domestic purposes benefit is available to 'women alone', by which is meant a woman who has never married or who has lost the support of her husband. When this benefit was introduced in 1973, 'women alone' could qualify for a benefit under the same age and duration criteria as applied to widows without dependent children." 
+
 #### Benefit for solo parents:
 The [*Social Security Amendment Act 1973*](https://www.legislation.govt.nz/act/public/1973/34/en/1973-11-14/#DLM410808), introduced a benefit for solo parents. It allows unmarried mother to receive the solo parent's benefit, but a father must have "lost his wife by death, divorce, or some other cause." This discrimination against men was fixed by the [*Social Security Amendment Act 1987*](https://www.legislation.govt.nz/act/public/1987/106/en/1987-06-23/highlights/?highlight=father#DLM118706) by changing the requirement to: "A man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother." The [*Social Security (Benefit Categories and Work Focus) Amendment Act 2013*](https://www.legislation.govt.nz/act/public/2013/13/en/2013-04-16/highlights/?highlight=solo#DLM4750424) made the law entirely gender neutral, with all requirements applying equally for mother or fathers.
+
 #### War pensions:
 The [*War Pensions Act 1954*](https://www.legislation.govt.nz/act/public/1954/54/en/1954-09-30/#DLM284375) defined wives or widows of members of the armed forces as dependants. Husbands and widowers were not automatically categorised as dependants. Wives of disabled members, and widows of deceased members were entitled to a pension. Widow's with children could also be entitled to a mother's allowance. The [*War Pensions Amendment Act 2001*](https://www.legislation.govt.nz/act/public/2001/97/en/2001-12-14/#DLM122960) removed this discrimination against men.
+
 #### Government superannuation 
 The [*Superannuation Act 1956*](https://www.nzlii.org/nz/legis/hist_act/sa19561956n47222/) allowed female government employees to retire earlier than male employees. Males could retire at 65-years, or 60-years, with 40 years of service. Females could retire at 55, or with 30 years of service. Following the [*Government Service Equal Pay Act 1960*](https://www.legislation.govt.nz/act/public/1960/117/en/latest/#DLM325949), the [*Superannuation Amendment Act 1962*](https://www.nzlii.org/nz/legis/hist_act/saa19621962n130302/) equalised retirement ages for all government employees.
 
@@ -332,6 +343,7 @@ Different requirements were applied on the deaths of male and female employees. 
 If a male employee died as the result of work-related injuries, his widow may be entitled to an increase in annuity. The [*Superannuation Amendment Act 1962*](https://www.nzlii.org/nz/legis/hist_act/saa19621962n130302/) allowed *dependent* widowers the same entitlement to increased annuities as widows. The [*Government Superannuation Fund Amendment Act 1976*](https://www.legislation.govt.nz/act/public/1976/30/en/1976-11-01/highlights/?highlight=widow#DLM439007) removed the requirement that a widower prove he was dependant on his wife in order to receive the same entitlement as widows.
 
 The *Superannuation Amendment Act 1963* required people to contribute to the superannuation fund who were under 25-years-old, however, married women under 25 were not required to contribute.
+
 ### Paternity leave 
 
 New Zealand introduced maternity leave without pay to public service employees in 1948.[^30] This was extended to private business in the [*Maternity Leave and Employment Protection Act 1980*](https://www.legislation.govt.nz/act/public/1981/162/en/latest/?active_tab=legislation-content#LMS1165191) allowing for 26 weeks of unpaid leave. The [*Parental Leave and Employment Protection Act 1987*](https://www.legislation.govt.nz/act/public/1987/129/en/1987-07-10/#DLM120104) introduced paternity leave. The Act mandated 14 weeks of maternity leave and 2 weeks of paternity leave and an additional 52 weeks of unpaid leave was available to be split between the parents. This parental leave was also available for parents adopting a child under 5-years-old. The [*Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002*](https://www.legislation.govt.nz/act/public/2002/7/en/2002-03-30/#DLM134350) introduced publicly-funded paid parental leave and allows paid leave to be transferred from the mother to her spouse. The [*Parental Leave and Employment Protection Amendment Act 2016*](https://www.legislation.govt.nz/act/public/2016/8/en/latest/#DLM6553716) introduced more gender-neutral definitions. The law now refers to 'primary-carer' leave and 'partner' leave.
@@ -467,5 +479,6 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY0NDExMzksMTY4NTExNjc4OV19
+eyJoaXN0b3J5IjpbMjQ3MTU4ODYxLC0xNTE2NDQxMTM5LDE2OD
+UxMTY3ODldfQ==
 -->
