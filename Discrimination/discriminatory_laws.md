@@ -286,6 +286,8 @@ In 1930 the compulsory military service law was temporarily suspended due to the
 ##### WWII
 Conscription was reintroduced in 1940 with the [_Emergency Regulations Amendment Act 1940_](https://www.legislation.govt.nz/act/public/1940/1/en/latest/#LMS1293816). The [_Military Training Act 1949_](https://www.legislation.govt.nz/act/public/1949/23/en/latest/#LMS1081980) reintroduced compulsory military training for 18-year-old males. There were some exemptions medical or other reasons. They underwent 14 weeks of intensive full-time training, three years of part-time service and six years in the Reserve. The [_National Military Service Act 1961_](https://www.legislation.govt.nz/act/public/1961/116/en/latest/#LMS1110223) changed compulsory military service to a ballot system for males aged 18-30. In 1972 the newly elected Labour government ended compulsory military service.
 
+> The National Military Service Act 1961 provided for compulsory military service for certain male persons selected by ballot according to their birth dates. Such service included a maximum fourteen weeks full time service followed by a maximum sixty days part time service over a period of three years. Compulsory military service was abolished in 1973 and there is now no such service.^[New Zealand's first report under ICCPR - January 1982- CCPR/C/10/Add.6 - paragraph 99]
+
 ##### Combat
 Previous legislation allowed discrimination in the Armed Forces, Police Force and Corrections. It seems men were expected to carry the burden of combat and dealing with violence.
 
@@ -479,6 +481,6 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MTU4ODYxLC0xNTE2NDQxMTM5LDE2OD
-UxMTY3ODldfQ==
+eyJoaXN0b3J5IjpbLTYyMTMzMTc5MywtMTUxNjQ0MTEzOSwxNj
+g1MTE2Nzg5XX0=
 -->
