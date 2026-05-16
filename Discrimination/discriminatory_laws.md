@@ -466,13 +466,13 @@ The [*Income Tax Act 1994*](https://www.legislation.govt.nz/act/public/1994/164/
 
 [^25]:  [Waihi Daily Telegraph, Volume XXIV, Issue 7565, 10 September 1927, Page 3](https://paperspast.natlib.govt.nz/newspapers/WHDT19270910.2.17)
 
-[^26]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+[^26]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 1st CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 
-[^27]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+[^27]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 1st CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 
-[^28]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+[^28]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 1st CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 
-[^29]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 3rd CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
+[^29]: New Zealand Response to the UN Questionnaire to Governments June 1984, as Annex J of New Zealand's 1st CEDAW report 3 March 1987 -- CEDAW/C/5/Add .41
 
 [^30]: [Public Service Amending Regulations 1948](https://www.nzlii.org/nz/legis/num_reg/psar1948320/)
 
