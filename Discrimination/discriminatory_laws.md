@@ -33,6 +33,8 @@ In 1993, New Zealand mistakenly claimed that:
 
 [Section 194](https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM329383) of the 1961 Crimes Act includes *male-assaults-female*. It covers assaults that are equivalent to 'common assault'; however, *male-assaults-female* has a longer maximum sentence (2 years instead of 1 year). This violates men's right to equal treatment under the law.[^3] 
 
+The Crimes Bill 1989 proposed to removed *male-assaults-female* from the Crimes Act. The Bill was not enacted by parlimant.  
+
 In 2009 the Law Commission reviewed part eight of the Crimes Act[^4] and recommended repealing the *male-assaults-female* offence. They identify some negative aspects to having this charge and note that the main reason to keep the charge was it was symbolic of the seriousness of the crime. However, *male-assaults-female* is only available for minor incidents and more serious assaults will merit a more serious charge, so much of the symbolism is lost.
 
 *Male-assaults-female* was used as a proxy to address family violence. However, family violence includes more than just a male assaulting a female.  The *Family Violence (Amendments) Act 2018* addressed this shortcoming. 
