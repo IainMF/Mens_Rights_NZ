@@ -74,7 +74,7 @@ Women who enter the justice system are filtered out at every natural attrition p
 
 In 1999, the Ministry of Justice released an analysis of sentencing in New Zealand which found that males get harsher treatment than females in the justice system:
 
-> Gender "is not in and of itself a justification for discriminating between offenders" (Hall 1998, page B173-4). Yet, the results of the multivariate modelling show that females are more likely than males to receive community service, community programme or no sentence and less likely to receive a prison sentence, periodic detention or a monetary penalty. Thus, gender differences in sentencing persist even after taking account of differences in the type and seriousness of the offence committed (e.g. the average seriousness of offences committed by women is lower than for men) and in the extent of previous offending (e.g. women have fewer previous convictions on average; section 3.1). Indeed, gender is the amongst the most significant variables influencing the probability of receiving a community service sentence or a monetary penalty.}\footnote{\textit{Sentencing in New Zealand: a statistical analysis.} Sue Triggs. Ministry of Justice. 1999}
+> Gender "is not in and of itself a justification for discriminating between offenders" (Hall 1998, page B173-4). Yet, the results of the multivariate modelling show that females are more likely than males to receive community service, community programme or no sentence and less likely to receive a prison sentence, periodic detention or a monetary penalty. Thus, gender differences in sentencing persist even after taking account of differences in the type and seriousness of the offence committed (e.g. the average seriousness of offences committed by women is lower than for men) and in the extent of previous offending (e.g. women have fewer previous convictions on average; section 3.1). Indeed, gender is the amongst the most significant variables influencing the probability of receiving a community service sentence or a monetary penalty.[^18]
 
 Jeffries found discrimination against men in several areas of the justice system:
 
@@ -82,8 +82,7 @@ Jeffries found discrimination against men in several areas of the justice system
 
 Jeffries explains the differnce:
 
-> What emerged were two gendered ways of viewing, understanding and judging offenders and this explained how men and women came to receive different judicial outcomes. In particular, the family and mental health were identified as key sites of endered variance. Here, female offenders tended to appear as nurturers, dependent, pathological, emotional, traumatised and as victims of circumstance. This neutralised their dangerousness, blameworthiness and responsibility, making punitive sanctions less appropriate. In contrast, male offenders were typically bound by dominant masculinity which presented them as dangerous, responsible for their own actions and thus in need of harsh judicial sanctioning. Men were essentially denied excuses for their offending. Trauma, victimisation, powerlessness and the general right to express emotion and talk about feelings were usually absent for discourses surrounding men. Instead, criminal men were presented as bad, disruptive, powerful and self-determining.\footnote{Gender Judgments: 
-An Investigation of Gender Differentiation in Sentencing and Remand in New Zealand. Samantha Jeffries Thesis. 2001} 
+> What emerged were two gendered ways of viewing, understanding and judging offenders and this explained how men and women came to receive different judicial outcomes. In particular, the family and mental health were identified as key sites of endered variance. Here, female offenders tended to appear as nurturers, dependent, pathological, emotional, traumatised and as victims of circumstance. This neutralised their dangerousness, blameworthiness and responsibility, making punitive sanctions less appropriate. In contrast, male offenders were typically bound by dominant masculinity which presented them as dangerous, responsible for their own actions and thus in need of harsh judicial sanctioning. Men were essentially denied excuses for their offending. Trauma, victimisation, powerlessness and the general right to express emotion and talk about feelings were usually absent for discourses surrounding men. Instead, criminal men were presented as bad, disruptive, powerful and self-determining.[^19]
 
 Patterson found similar discrimination against men for sexual assault cases.
 
@@ -155,4 +154,8 @@ HRC CEDAW Report recommends sending fewer women to prison
 [^16]: https://www.nzlii.org/nz/legis/hist_bill/ccb188381125/
 
 [^17]: CCPR/C/NZL/CO/6 -- paragraph 24
+
+[^18]: _Sentencing in New Zealand: a statistical analysis_. Sue Triggs. Ministry of Justice. 1999
+
+[^19]: _Gender Judgments: An Investigation of Gender Differentiation in Sentencing and Remand in New Zealand_. Samantha Jeffries' Thesis. 2001 
 
